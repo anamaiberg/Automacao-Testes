@@ -1,0 +1,237 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+<OFX>
+
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <DTSERVER>20230705091032[-03:EST]
+           <LANGUAGE>POR
+        </SONRS>
+    </SIGNONMSGSRSV1>
+
+    <BANKMSGSRSV1>
+        <STMTTRNRS>
+
+            <TRNUID>1777003914
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+
+            <STMTRS>
+                <CURDEF>BRL
+                <BANKACCTFROM>
+                    <BANKID>003
+                    <ACCTID>0210724579
+                    <ACCTTYPE>CHECKING
+                </BANKACCTFROM>
+                				<BANKTRANLIST>
+                    <DTSTART>20230602000000[-03:EST]
+                    <DTEND>20230627000000[-03:EST]
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20230602000000[-03:EST]
+                        <TRNAMT>45974.95
+                        <FITID>29780
+                        <CHECKNUM>29780
+                        <MEMO>Credito de transferencia via SPB
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230605000000[-03:EST]
+                        <TRNAMT>-100.00
+                        <FITID>22814
+                        <CHECKNUM>22814
+                        <MEMO>TAR P ESPECI PJ
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230606000000[-03:EST]
+                        <TRNAMT>-1987.50
+                        <FITID>52
+                        <CHECKNUM>52
+                        <MEMO>Debito de Cheque Compensado
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230612000000[-03:EST]
+                        <TRNAMT>-200.00
+                        <FITID>9988
+                        <CHECKNUM>9988
+                        <MEMO>DEB VISA ELETRO VEA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230616000000[-03:EST]
+                        <TRNAMT>-13066.41
+                        <FITID>225089
+                        <CHECKNUM>225089
+                        <MEMO>DEB PARC FOMENT
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230616000000[-03:EST]
+                        <TRNAMT>-25532.40
+                        <FITID>220002
+                        <CHECKNUM>220002
+                        <MEMO>DEB PARC FOMENT
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>120000.00
+                        <FITID>29780
+                        <CHECKNUM>29780
+                        <MEMO>Credito de transferencia via SPB
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>CREDIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>4000.00
+                        <FITID>29780
+                        <CHECKNUM>29780
+                        <MEMO>Credito de transferencia via SPB
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-7580.45
+                        <FITID>355404
+                        <CHECKNUM>355404
+                        <MEMO>LIQUI EMPRESTIM
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230619000000[-03:EST]
+                        <TRNAMT>-528.92
+                        <FITID>21319
+                        <CHECKNUM>21319
+                        <MEMO>Debito de Titulo Capitalizacao
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230627000000[-03:EST]
+                        <TRNAMT>-117.90
+                        <FITID>9988
+                        <CHECKNUM>9988
+                        <MEMO>DEB VISA ELETRO VEA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230627000000[-03:EST]
+                        <TRNAMT>-275.00
+                        <FITID>9988
+                        <CHECKNUM>9988
+                        <MEMO>DEB VISA ELETRO VEA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230627000000[-03:EST]
+                        <TRNAMT>-10.00
+                        <FITID>28877
+                        <CHECKNUM>28877
+                        <MEMO>TAR DEB PIX CC 
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>DEBIT
+                        <DTPOSTED>20230627000000[-03:EST]
+                        <TRNAMT>-39000.00
+                        <FITID>9998
+                        <CHECKNUM>9998
+                        <MEMO>Efetivacao Pagamento PIX CC PF
+                    </STMTTRN>
+                </BANKTRANLIST>
+                                <LEDGERBAL>
+                    <BALAMT>80643.21
+                    <DTASOF>20230705091032[-03:EST]
+                </LEDGERBAL>
+            </STMTRS>
+        </STMTTRNRS>
+    </BANKMSGSRSV1>
+</OFX>
+
+

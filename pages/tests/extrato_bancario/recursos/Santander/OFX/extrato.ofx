@@ -1,0 +1,284 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+<OFX>
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <DTSERVER>20210916090118[-3:GMT]
+            <LANGUAGE>ENG
+            <FI>
+                <ORG>SANTANDER
+                <FID>SANTANDER
+            </FI>
+        </SONRS>
+    </SIGNONMSGSRSV1>
+    <BANKMSGSRSV1>
+        <STMTTRNRS>
+            <TRNUID>1
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <STMTRS>
+                <CURDEF>BRL
+                <BANKACCTFROM>
+                    <BANKID>033
+                    <ACCTID>3159130009087
+                    <ACCTTYPE>CHECKING
+                </BANKACCTFROM>
+                <BANKTRANLIST>
+                    <DTSTART>20210916090118[-3:GMT]
+                    <DTEND>20210916090118[-3:GMT]
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210803000000[-3:GMT]
+                        <TRNAMT>9105,59
+                        <FITID>00079259
+                        <CHECKNUM>00079259
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE TERMINAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210804000000[-3:GMT]
+                        <TRNAMT>-9105,59
+                        <FITID>00031609
+                        <CHECKNUM>00031609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210809000000[-3:GMT]
+                        <TRNAMT>800,00
+                        <FITID>00133956
+                        <CHECKNUM>00133956
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE CAIXA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210809000000[-3:GMT]
+                        <TRNAMT>7185,88
+                        <FITID>00163021
+                        <CHECKNUM>00163021
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE CAIXA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210810000000[-3:GMT]
+                        <TRNAMT>-105,43
+                        <FITID>00061609
+                        <CHECKNUM>00061609
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO              PORTO SEGURO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210810000000[-3:GMT]
+                        <TRNAMT>-353,77
+                        <FITID>00071609
+                        <CHECKNUM>00071609
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO              PORTO SEGURO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210810000000[-3:GMT]
+                        <TRNAMT>-299,80
+                        <FITID>00118243
+                        <CHECKNUM>00118243
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO DE TITULOS - BCE         02.255.187/0001-08
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210810000000[-3:GMT]
+                        <TRNAMT>-7226,88
+                        <FITID>00091609
+                        <CHECKNUM>00091609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>-131,92
+                        <FITID>00101609
+                        <CHECKNUM>00101609
+                        <PAYEEID>0
+                        <MEMO>MENSALIDADE DE SEGURO              PORTO SEGURO
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>-5143,05
+                        <FITID>00109355
+                        <CHECKNUM>00109355
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO CONTA LUZ EM CANAIS      INTERNET CELESC SANTA CAT
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>-81,93
+                        <FITID>00109572
+                        <CHECKNUM>00109572
+                        <PAYEEID>0
+                        <MEMO>PAGAMENTO CONTA LUZ EM CANAIS      INTERNET CELESC SANTA CAT
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>-5220,00
+                        <FITID>00127851
+                        <CHECKNUM>00127851
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   AP COMERCIO DE FRIOS LTDA
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>-5924,73
+                        <FITID>00127377
+                        <CHECKNUM>00127377
+                        <PAYEEID>0
+                        <MEMO>PGTO TITULO OUTRO BCO - INTERNET   ZD ALIMENTOS S.A.
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>1549,30
+                        <FITID>00079237
+                        <CHECKNUM>00079237
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE TERMINAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210811000000[-3:GMT]
+                        <TRNAMT>16501,63
+                        <FITID>00161609
+                        <CHECKNUM>00161609
+                        <PAYEEID>0
+                        <MEMO>RESGATE AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210812000000[-3:GMT]
+                        <TRNAMT>-1549,30
+                        <FITID>00171609
+                        <CHECKNUM>00171609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210816000000[-3:GMT]
+                        <TRNAMT>9097,28
+                        <FITID>00079226
+                        <CHECKNUM>00079226
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE TERMINAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210817000000[-3:GMT]
+                        <TRNAMT>-9097,28
+                        <FITID>00191609
+                        <CHECKNUM>00191609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210820000000[-3:GMT]
+                        <TRNAMT>-109,00
+                        <FITID>00201609
+                        <CHECKNUM>00201609
+                        <PAYEEID>0
+                        <MEMO>TARIFA MENSALIDADE PACOTE SERVICOS  JULHO / 2021
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210820000000[-3:GMT]
+                        <TRNAMT>109,00
+                        <FITID>00211609
+                        <CHECKNUM>00211609
+                        <PAYEEID>0
+                        <MEMO>RESGATE AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210823000000[-3:GMT]
+                        <TRNAMT>7987,94
+                        <FITID>00868043
+                        <CHECKNUM>00868043
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE TERMINAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210824000000[-3:GMT]
+                        <TRNAMT>508,63
+                        <FITID>00868054
+                        <CHECKNUM>00868054
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE TERMINAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210824000000[-3:GMT]
+                        <TRNAMT>-7987,94
+                        <FITID>00241609
+                        <CHECKNUM>00241609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210825000000[-3:GMT]
+                        <TRNAMT>-13,00
+                        <FITID>00251609
+                        <CHECKNUM>00251609
+                        <PAYEEID>0
+                        <MEMO>TARIFA EXTRATO INTELIGENTE         23/08/2021
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210825000000[-3:GMT]
+                        <TRNAMT>-495,63
+                        <FITID>00261609
+                        <CHECKNUM>00261609
+                        <PAYEEID>0
+                        <MEMO>APLICACAO AUT CONTAMAX EMPRESARIAL
+                    </STMTTRN>
+                    <STMTTRN>
+                        <TRNTYPE>OTHER
+                        <DTPOSTED>20210831000000[-3:GMT]
+                        <TRNAMT>5998,12
+                        <FITID>00161207
+                        <CHECKNUM>00161207
+                        <PAYEEID>0
+                        <MEMO>DEP CHEQUE CAIXA
+                    </STMTTRN>
+                </BANKTRANLIST>
+                <LEDGERBAL>
+                    <BALAMT>5998,12
+                    <DTASOF>20210916090118[-3:GMT]
+                </LEDGERBAL>
+            </STMTRS>
+        </STMTTRNRS>
+    </BANKMSGSRSV1>
+</OFX>
