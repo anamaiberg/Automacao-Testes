@@ -1,0 +1,47 @@
+[
+  {
+    "data": "08/09/2020",
+    "documento": null,
+    "complemento": "DEPOSITO BOLETO 24 HORAS 112/00599987353",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": null,
+    "complemento": "TED ENVIADA 001 0137  0000001053264 MARIA DA GRACA LUCHESE",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": null,
+    "complemento": "PAGAMENTO DE TITULO Alteração Contratual BcTur",
+    "credito": true,
+    "debito": false,
+    "valor": 446.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": null,
+    "complemento": "PAGAMENTO DE CONVENIO INSS REF. 08.2020",
+    "credito": true,
+    "debito": false,
+    "valor": 114.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": null,
+    "complemento": "PAGAMENTO DE TITULO Efficiencia Ref. Agosto.2020",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  }
+]

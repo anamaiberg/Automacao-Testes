@@ -1,0 +1,3233 @@
+[
+  {
+    "data": "01/03/2023",
+    "documento": "271.170.939",
+    "complemento": "TED-Crédito em Conta 341 0132 6349916000138 ANDRITZ SEPARA",
+    "credito": false,
+    "debito": true,
+    "valor": 31733.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "110.601.000.005.517",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 97615.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "100.601.000.050.817",
+    "complemento": "BB Consórcio Lance",
+    "credito": true,
+    "debito": false,
+    "valor": 5298.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.101",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 179.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.102",
+    "complemento": "Pagamento de Boleto PAPELARIA CLASSIC",
+    "credito": true,
+    "debito": false,
+    "valor": 603.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.103",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 891.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.104",
+    "complemento": "Pagamento de Boleto FERRAMENTAS GERAIS COM IMP DE FERRAM M",
+    "credito": true,
+    "debito": false,
+    "valor": 969.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.105",
+    "complemento": "Pagamento de Boleto FERSILTEC M E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 989.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.106",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 997.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.107",
+    "complemento": "Pagamento de Boleto ELETRO COMERCIAL REYMASTER LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 1926.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "30.108",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2481.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 01/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 115009.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "110.611.000.004.391",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 5897.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.201",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.202",
+    "complemento": "Pagamento de Boleto AUTO MECANICA SCHUMANN",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.203",
+    "complemento": "Pagamento de Boleto CJS AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 434.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.204",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 569.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.205",
+    "complemento": "Pagamento de Boleto BHS BRASIL ELETRONICA LTDA - E",
+    "credito": true,
+    "debito": false,
+    "valor": 661.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.206",
+    "complemento": "Pagamento de Boleto MEGA INDUSTRIAL EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.207",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 1873.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.208",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2137.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.209",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2473.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "30.210",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2862.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 02/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 24.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 6805.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "110.620.100.003.719",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.301",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 42.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.302",
+    "complemento": "Pagamento de Boleto TRANSLIGUE TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 86.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.303",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1606.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.304",
+    "complemento": "Pagamento de Boleto SM TURISMO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4536.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.305",
+    "complemento": "Pagamento de Boleto EXPERT REST EMPRES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.306",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 895.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.307",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2074.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.308",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2322.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.309",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2430.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.310",
+    "complemento": "Pagamento de Boleto BB ADMINISTRADORA DE CARTOES",
+    "credito": true,
+    "debito": false,
+    "valor": 2688.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.311",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2771.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.312",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4957.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.313",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5203.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.314",
+    "complemento": "Pix Enviado 03/03 17:24 RICARDO BATISTA FRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 3624.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "30.315",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 189.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 33682.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "110.651.000.004.803",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 36011.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "830.006.895.000.004",
+    "complemento": "Cap Giro Digit Liberação",
+    "credito": false,
+    "debito": true,
+    "valor": 60000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "851.838",
+    "complemento": "Cheque Pago Outra Agência 06/03 14:30 PSO TIMBO SC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "11.194",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 74287.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "11.195",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1461.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.601",
+    "complemento": "Pagamento de Boleto ASSOCIACAO EMPRESARIAL DO MEDIO VALE D",
+    "credito": true,
+    "debito": false,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.602",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 95.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.603",
+    "complemento": "Pagamento de Boleto CICAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 147.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.604",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 164.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.605",
+    "complemento": "Pagamento de Boleto NU PAGAMENTOS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.606",
+    "complemento": "Pagamento de Boleto KRAMBECK INSTALADORA E COMERCIO DE MAT",
+    "credito": true,
+    "debito": false,
+    "valor": 837.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.607",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1475.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.608",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1650.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.609",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2365.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.610",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2479.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.611",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2721.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.612",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2849.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "30.613",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4445.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "830.001.498.000.880",
+    "complemento": "Movimento do Dia",
+    "credito": true,
+    "debito": false,
+    "valor": 1102.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "830.002.756.000.638",
+    "complemento": "Movimento do Dia",
+    "credito": true,
+    "debito": false,
+    "valor": 878.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "35.682.657",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 2688.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 06/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "880.651.100.187.404",
+    "complemento": "Tar Pag Salár Créd Conta Cobrança referente 06/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 45.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "880.651.100.187.405",
+    "complemento": "Tar Pag Salár Créd Conta Cobrança referente 06/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 8951.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "110.660.100.007.313",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "110.661.000.004.732",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 83367.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.701",
+    "complemento": "Pagamento de Boleto DIMAROL",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.702",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.703",
+    "complemento": "Pagamento de Boleto FLASH SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 96.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.704",
+    "complemento": "Pagamento de Boleto RYON AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 244.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.705",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 278.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.706",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 578.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.707",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 793.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.708",
+    "complemento": "Pagamento de Boleto KRAMBECK INSTALADORA E COMERCIO DE MAT",
+    "credito": true,
+    "debito": false,
+    "valor": 918.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.709",
+    "complemento": "Pagamento de Boleto ELETROPOLL PAINEIS IND C LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5549.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "30.710",
+    "complemento": "Impostos FGTS ARRECADACAO GRF",
+    "credito": true,
+    "debito": false,
+    "valor": 7850.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 67004.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "12.161",
+    "complemento": "Recebimento Fornecedor ADAMI S A MADEIRAS",
+    "credito": false,
+    "debito": true,
+    "valor": 5634.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "550.629.000.003.768",
+    "complemento": "Transferência enviada 08/03 11:43 METZKER & CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 288.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.801",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.802",
+    "complemento": "Pagamento de Boleto CICAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 88.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.803",
+    "complemento": "Pagamento de Boleto CJS AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 207.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.804",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 331.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.805",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 407.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.806",
+    "complemento": "Pagamento de Boleto PAFER COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 408.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.807",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 428.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.808",
+    "complemento": "Pagamento de Boleto DELTA ELECTRONICS BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 572.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.809",
+    "complemento": "Pagamento de Boleto AUTO MECANICA SCHUMANN",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.810",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 838.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.811",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2852.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.812",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5050.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "30.813",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5171.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "851.839",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 3818.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "851.840",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 3126.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 18716.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "110.680.100.004.229",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "110.681.000.004.374",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 43600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "851.841",
+    "complemento": "Cheque Pago Outra Agência 09/03 13:31 PSO TIMBO SC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.901",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 127.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.902",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 147.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.903",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 217.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.904",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 550.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.905",
+    "complemento": "Pagamento de Boleto CONECFIT IMP E EXP REP LTDA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 725.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.906",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1081.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.907",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 1549.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.908",
+    "complemento": "Pagamento de Boleto MEGA INDUSTRIAL EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.909",
+    "complemento": "Pagamento de Boleto TOPOSUL INDUSTRIA E COMERCIO D",
+    "credito": true,
+    "debito": false,
+    "valor": 2465.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.910",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2488.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.911",
+    "complemento": "Pagamento de Boleto SOU CLOUD SERV GER NUVEM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2512.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "30.912",
+    "complemento": "Impostos DARE SANTA CATARINA",
+    "credito": true,
+    "debito": false,
+    "valor": 378.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 24706.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "553.420.000.003.282",
+    "complemento": "Transferência recebida 10/03 10:33 TERCILIO MARCHETTI IND L",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "272.988.139",
+    "complemento": "TED-Crédito em Conta 237 3178 4565361000136 MUELLER FOGOES",
+    "credito": false,
+    "debito": true,
+    "valor": 745.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.001",
+    "complemento": "Pagamento de Boleto SIND TRAB NAS IND MET MEC E DO MAT ELE",
+    "credito": true,
+    "debito": false,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.002",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 103.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.003",
+    "complemento": "Pagamento de Boleto ELITE ENTREGAS RAPIDAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 186.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.004",
+    "complemento": "Pagamento de Boleto TRANSLIGUE TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 263.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.005",
+    "complemento": "Pagamento de Boleto INKOS RECICLADORA DE CARUCHOS E TONER",
+    "credito": true,
+    "debito": false,
+    "valor": 284.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.006",
+    "complemento": "Pagamento de Boleto CONVERTA MAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.007",
+    "complemento": "Pagamento de Boleto FARMAHAAS DROGARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1090.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.008",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2473.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.009",
+    "complemento": "Pagamento de Boleto TRENTO ADMINISTRADORA DE BENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 12857.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "31.010",
+    "complemento": "Impostos DARE SANTA CATARINA",
+    "credito": true,
+    "debito": false,
+    "valor": 10177.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "23.068",
+    "complemento": "BB Consórcio Prestação BB ADMIN CONSORCIOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "14.033",
+    "complemento": "BB Consórcio Prestação BB ADMIN CONSÓRCIO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1425.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 27346.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "130.700.100.002.223",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "110.721.000.004.709",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 66437.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.301",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 74.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.302",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 74.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.303",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 185.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.304",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 185.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.305",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 185.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.306",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1779.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.307",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2089.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.308",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2089.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.309",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2089.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.310",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6787.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.311",
+    "complemento": "Pagamento de Boleto DNIT-DEPARTAMENTO NACIONAL DE",
+    "credito": true,
+    "debito": false,
+    "valor": 104.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.312",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 551.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.313",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 599.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.314",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 812.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.315",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1622.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.316",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1622.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.317",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1622.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.318",
+    "complemento": "Pagamento de Boleto LAZARINI RECICLADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.319",
+    "complemento": "Impostos DAS - SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 66077.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "31.320",
+    "complemento": "Impostos DAS - SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5281.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 27548.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "110.730.100.004.235",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "273.478.907",
+    "complemento": "TED-Crédito em Conta 237 3178 79846341000132 THOR CONDUTORE",
+    "credito": false,
+    "debito": true,
+    "valor": 54740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "110.731.000.004.418",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 14695.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "851.842",
+    "complemento": "Cheque Pago Outra Agência 14/03 14:13 PSO TIMBO SC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "3.429",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 8825.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "6.733.178",
+    "complemento": "BB Consórcio Prestação",
+    "credito": true,
+    "debito": false,
+    "valor": 926.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "6.733.188",
+    "complemento": "BB Consórcio Prestação",
+    "credito": true,
+    "debito": false,
+    "valor": 926.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "6.733.193",
+    "complemento": "BB Consórcio Prestação",
+    "credito": true,
+    "debito": false,
+    "valor": 926.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.401",
+    "complemento": "Pagamento de Boleto D-SAAS TECN DESENV SOFTWARE LT",
+    "credito": true,
+    "debito": false,
+    "valor": 121.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.402",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 322.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.403",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 509.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.404",
+    "complemento": "Pagamento de Boleto MATELETRICA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 611.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.405",
+    "complemento": "Pagamento de Boleto PROAUTO ELECTRIC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 618.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.406",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 631.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.407",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL ELETR INDL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 942.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.408",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 1012.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "31.409",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1057.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "830.004.966.000.144",
+    "complemento": "BB GIRO PRONAMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2777.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 14/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 30.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "810.731.100.251.411",
+    "complemento": "Tar Pag Salár Créd Conta Cobrança referente 14/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 44192.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "273.847.318",
+    "complemento": "TED-Crédito em Conta 341 0132 6349916000138 ANDRITZ SEPARA",
+    "credito": false,
+    "debito": true,
+    "valor": 32695.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.501",
+    "complemento": "Pagamento de Boleto SINDICATO DAS INDSMETMECE DE MATLELETR",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.502",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 30.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.503",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 50.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.504",
+    "complemento": "Pagamento de Boleto JR SAUDE OCUPACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.505",
+    "complemento": "Pagamento de Boleto BETO AUTO TINTAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 205.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.506",
+    "complemento": "Pagamento de Boleto UNIFIQUE TELECOMUNICACOES S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 373.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.507",
+    "complemento": "Pagamento de Boleto SERRALHERIA RR EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.508",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL ELETR INDL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 540.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.509",
+    "complemento": "Pagamento de Boleto PAPELARIA CLASSIC",
+    "credito": true,
+    "debito": false,
+    "valor": 603.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.510",
+    "complemento": "Pagamento de Boleto UNIODONTO DE SC COOP ADM DE CO",
+    "credito": true,
+    "debito": false,
+    "valor": 619.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.511",
+    "complemento": "Pagamento de Boleto BREAK NATURAL",
+    "credito": true,
+    "debito": false,
+    "valor": 722.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.512",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1701.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.513",
+    "complemento": "Pagamento de Boleto AUTO POSTO NASATO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1744.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.514",
+    "complemento": "Pagamento de Boleto SMARTEE CONSULTORIA E TREINAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2208.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.515",
+    "complemento": "Pagamento de Boleto TAC CONDOMINIOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3906.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "31.516",
+    "complemento": "Impostos MUNICIPIO DE TIMBO",
+    "credito": true,
+    "debito": false,
+    "valor": 3819.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "27.238",
+    "complemento": "Seguro Vida Empresa Flex BB SEG VIDA EMPRESA FLEX",
+    "credito": true,
+    "debito": false,
+    "valor": 856.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "4.154",
+    "complemento": "Brasilprev BRASILPREV SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 171.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 14581.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.601",
+    "complemento": "Pagamento de Boleto EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.602",
+    "complemento": "Pagamento de Boleto FK INFORMATICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.603",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 675.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.604",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 878.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.605",
+    "complemento": "Pagamento de Boleto MATELETRICA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1689.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.606",
+    "complemento": "Pix Enviado 16/03 10:09 HOTEL KINDERMANN LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3434.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.607",
+    "complemento": "Pix Enviado 16/03 10:12 BRIGIDA ELIZABETH KINDERMA",
+    "credito": true,
+    "debito": false,
+    "valor": 444.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.608",
+    "complemento": "Pagto conta telefone TIM S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1452.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.609",
+    "complemento": "Pix Enviado 16/03 11:49 MICHELE APARECIDA BORGERT",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "31.610",
+    "complemento": "Pix Enviado 16/03 11:51 MICHELE APARECIDA BORGERT",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 16/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 63.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 11960.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "110.760.100.003.702",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "274.189.849",
+    "complemento": "TED-Crédito em Conta 341 0019 59106245000140 JOYSON SAFETY",
+    "credito": false,
+    "debito": true,
+    "valor": 2720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "110.761.000.004.351",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 3848.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "554.328.000.008.152",
+    "complemento": "Transferência enviada 17/03 13:59 CONECFIT I E EIRELI EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 176.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.701",
+    "complemento": "Pagamento de Boleto TRANSLIGUE TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 83.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.702",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 405.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.703",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 593.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.704",
+    "complemento": "Pagamento de Boleto ALFA DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 862.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.705",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1606.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.706",
+    "complemento": "Pagamento de Boleto WESTCON",
+    "credito": true,
+    "debito": false,
+    "valor": 49.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.707",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 130.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.708",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 130.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.709",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 471.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.710",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 667.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.711",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1194.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "31.712",
+    "complemento": "Pix Enviado 17/03 14:01 CASA DO ESTOFADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 318.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 121.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "110.791.000.004.931",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 5721.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.001",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.002",
+    "complemento": "Pagamento de Boleto GRAFICA TIMBO",
+    "credito": true,
+    "debito": false,
+    "valor": 254.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.003",
+    "complemento": "Pagamento de Boleto SOFTIN SISTEMAS",
+    "credito": true,
+    "debito": false,
+    "valor": 321.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.004",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 798.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.005",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1032.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.006",
+    "complemento": "Pagamento de Boleto SAFRA CFI S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1459.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.007",
+    "complemento": "Pagamento de Boleto SAFRA CFI S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1459.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.008",
+    "complemento": "Pagamento de Boleto BANCO BRADESCO FINANCIAMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1910.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.009",
+    "complemento": "Pagamento de Boleto SAFRA CFI S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 2286.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.010",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2464.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.011",
+    "complemento": "Impostos RFB- DARF PRETO CALCULADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7677.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.012",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 36859.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "32.013",
+    "complemento": "Impostos DARE SANTA CATARINA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 20/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 22.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "830.791.100.559.831",
+    "complemento": "Tarifa Pacote de Serviços Cobrança referente 20/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 50999.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "110.801.000.004.372",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 69766.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.101",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.102",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 74.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.103",
+    "complemento": "Pagamento de Boleto CJS AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 99.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.104",
+    "complemento": "Pagamento de Boleto MONTARE SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 406.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.105",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 614.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.106",
+    "complemento": "Pagamento de Boleto ELESYS SISTEMAS E EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1248.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.107",
+    "complemento": "Pix Enviado 21/03 09:25 HOTEL KINDERMANN LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 236.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.108",
+    "complemento": "Impostos DAS - SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 152243.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "32.109",
+    "complemento": "Impostos DARE SANTA CATARINA",
+    "credito": true,
+    "debito": false,
+    "valor": 2671.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 87852.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.201",
+    "complemento": "Pagamento de Boleto FLASH SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 242.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.202",
+    "complemento": "Pagamento de Boleto MEGA INDUSTRIAL EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.203",
+    "complemento": "Pagamento de Boleto PAPELARIA CLASSIC",
+    "credito": true,
+    "debito": false,
+    "valor": 333.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.204",
+    "complemento": "Pagamento de Boleto ACITAL",
+    "credito": true,
+    "debito": false,
+    "valor": 684.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.205",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 909.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.206",
+    "complemento": "Pagamento de Boleto FERRAMENTAS GERAIS COM IMP DE FERRAM M",
+    "credito": true,
+    "debito": false,
+    "valor": 965.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.207",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL ELETR INDL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1435.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "32.208",
+    "complemento": "Pix Enviado 22/03 15:58 PROAUTO ELECTRIC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 22/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 8.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "34.243",
+    "complemento": "Seg Créd Proteg Empresa BB SEGURO CRED PROT EMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 348.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 5278.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "274.942.283",
+    "complemento": "TED-Crédito em Conta 237 3178 7442711000165 HERCULES MOTOR",
+    "credito": false,
+    "debito": true,
+    "valor": 1082.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "110.821.000.004.068",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 5526.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "550.629.000.025.631",
+    "complemento": "Transferência enviada 23/03 11:08 JEAN CARLOS FERRARI",
+    "credito": true,
+    "debito": false,
+    "valor": 2769.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.301",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.302",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 29.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.303",
+    "complemento": "Pagamento de Boleto CJS AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 33.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.304",
+    "complemento": "Pagamento de Boleto ADAM DISTRIBUIDORA LTDA. EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 135.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.305",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 761.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.306",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 914.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "32.307",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 16.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 23/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 1941.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.401",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 147.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.402",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 159.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.403",
+    "complemento": "Pagamento de Boleto ALFA DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.404",
+    "complemento": "Pagamento de Boleto TRANSLIGUE TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 478.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.405",
+    "complemento": "Pagamento de Boleto PROAUTO ELECTRIC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 638.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.406",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 999.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.407",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2457.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.408",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 454.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.409",
+    "complemento": "Pagamento de Boleto CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 494.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.410",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 570.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.411",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1032.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.412",
+    "complemento": "Pagamento de Boleto CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 2384.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.413",
+    "complemento": "Pagamento de Boleto WEIDMULLER CONEXEL B C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1890.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.414",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3412.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "32.415",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8269.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "716.515.017.019",
+    "complemento": "Débito Serviço Cobrança Tar. agrupadas - ocorrencia 24/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 5.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 23844.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "110.861.000.004.459",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 13017.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "851.843",
+    "complemento": "Cheque Pago Outra Agência 27/03 10:29 PSO TIMBO SC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.701",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 74.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.702",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 77.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.703",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 132.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.704",
+    "complemento": "Pagamento de Boleto AUTORIZADA",
+    "credito": true,
+    "debito": false,
+    "valor": 260.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.705",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 492.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.706",
+    "complemento": "Pagamento de Boleto ND SERVICOS TIPOGRAFICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1119.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.707",
+    "complemento": "Pagamento de Boleto PROAUTO ELECTRIC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1353.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "32.708",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2803.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "156.124.762",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 178.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "830.002.780.000.208",
+    "complemento": "Cap Giro Dig Amortização",
+    "credito": true,
+    "debito": false,
+    "valor": 14991.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "38.670",
+    "complemento": "Seguro Ouro Empresarial SEG OURO EMPRESARIAL-ALS",
+    "credito": true,
+    "debito": false,
+    "valor": 453.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 13919.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "110.871.000.004.268",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 3995.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.801",
+    "complemento": "Pagamento de Boleto DIMAROL",
+    "credito": true,
+    "debito": false,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.802",
+    "complemento": "Pagamento de Boleto RH AUTOMACAO INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 90.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.803",
+    "complemento": "Pagamento de Boleto DIMAROL",
+    "credito": true,
+    "debito": false,
+    "valor": 109.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.804",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL",
+    "credito": true,
+    "debito": false,
+    "valor": 283.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.805",
+    "complemento": "Pagamento de Boleto WEIDMULLER CONEXEL B C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 420.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.806",
+    "complemento": "Pagamento de Boleto RH AUTOMACAO INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.807",
+    "complemento": "Pagamento de Boleto ELETROMECA METALURGICA CASAGRA",
+    "credito": true,
+    "debito": false,
+    "valor": 593.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.808",
+    "complemento": "Pagamento de Boleto MATELETRICA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 611.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.809",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL ELETR INDL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 788.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "32.810",
+    "complemento": "Pagamento de Boleto BARIGUI VEICULOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1188.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "830.006.895.000.006",
+    "complemento": "Cap Giro Dig Amortização",
+    "credito": true,
+    "debito": false,
+    "valor": 10033.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "830.006.897.000.009",
+    "complemento": "Cap Giro Dig Amortização",
+    "credito": true,
+    "debito": false,
+    "valor": 13741.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 24446.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "275.645.620",
+    "complemento": "TED-Pag Fornecedores 237 0381 83633552000164 INDUSTRIA DE M",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "110.881.000.002.347",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 63706.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.901",
+    "complemento": "Pagamento de Boleto SUL AR E AGUA EQUIPAMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 73.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.902",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 410.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.903",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 997.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.904",
+    "complemento": "Pagamento de Boleto ETIPLASTI COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1003.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.905",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1039.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.906",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1901.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.907",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1901.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.908",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1901.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.909",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1901.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.910",
+    "complemento": "Pix Enviado 29/03 17:33 CORREA MATERIAIS ELETRICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 189.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "32.911",
+    "complemento": "Pix Enviado 29/03 17:34 NR6 SOLUCOES EM EPI ASSESS",
+    "credito": true,
+    "debito": false,
+    "valor": 27.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 66358.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "110.891.000.002.366",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 53249.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.001",
+    "complemento": "Pagamento de Boleto SC COMUNICACAO VISUAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2281.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.002",
+    "complemento": "Pagamento de Boleto ACE SCHMERSAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5322.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.003",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.004",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA EBENEZER EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 52.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.005",
+    "complemento": "Pagamento de Boleto MONTARE SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 92.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.006",
+    "complemento": "Pagamento de Boleto DIMAROL",
+    "credito": true,
+    "debito": false,
+    "valor": 109.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.007",
+    "complemento": "Pagamento de Boleto CASA DOS PARAFUSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 454.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.008",
+    "complemento": "Pagamento de Boleto PRABOX ACESSORIOS I EIRELI EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 726.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.009",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 821.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.010",
+    "complemento": "Pagamento de Boleto MATELETRICA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 943.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.011",
+    "complemento": "Pagamento de Boleto BHS BRASIL ELETRONICA LTDA - E",
+    "credito": true,
+    "debito": false,
+    "valor": 1459.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.012",
+    "complemento": "Pagamento de Boleto MEGA INDUSTRIAL EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "33.013",
+    "complemento": "Pagamento de Boleto SCHNEIDER ELECTRIC",
+    "credito": true,
+    "debito": false,
+    "valor": 1873.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 37444.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "12.161",
+    "complemento": "Recebimento Fornecedor ADAMI S A MADEIRAS",
+    "credito": false,
+    "debito": true,
+    "valor": 52500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "110.901.000.003.102",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 5466.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.101",
+    "complemento": "Pagamento de Boleto TRANSLIGUE TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 118.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.102",
+    "complemento": "Pagamento de Boleto CTNR TREINAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.103",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 732.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.104",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 732.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.105",
+    "complemento": "Pagamento de Boleto SIEMENS INFR E IND LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1606.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.106",
+    "complemento": "Impostos DAS - SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1978.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.107",
+    "complemento": "Impostos DAS - SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2169.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "33.108",
+    "complemento": "Pix Enviado 31/03 15:34 BRIGIDA ELIZABETH KINDERMA",
+    "credito": true,
+    "debito": false,
+    "valor": 216.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 50282.04,
+    "origem": "Extrato"
+  }
+]

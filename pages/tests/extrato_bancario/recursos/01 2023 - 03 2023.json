@@ -1,0 +1,7121 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "0000012011",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 288.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "0000073999",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 98.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "XXX537649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 1089.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "SALDO DEV",
+    "complemento": "Débito IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 82.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "825",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "826",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "807",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "837",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 54.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 542.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 648.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "000000006",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1636.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "000000006",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 727.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "bergamini",
+    "complemento": "Liq. Eletrônica IB - bergamini",
+    "credito": true,
+    "debito": false,
+    "valor": 404.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 85.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 77.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "botox",
+    "complemento": "Liq. Eletrônica IB - botox",
+    "credito": true,
+    "debito": false,
+    "valor": 374.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 387.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 221.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 302.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "neo",
+    "complemento": "Liq. Eletrônica IB - neo",
+    "credito": true,
+    "debito": false,
+    "valor": 301.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "02950226",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "02950226",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 532.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "1340013701",
+    "complemento": "Resgate RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 5027.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "05782840",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 269.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "05782840",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 373.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "1",
+    "complemento": "Cheque Avulso",
+    "credito": true,
+    "debito": false,
+    "valor": 137.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 522.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX449849",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1462.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX449849",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX893379",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1462.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX893379",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "516295",
+    "complemento": "Crédito Transf C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX569059",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1656.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "XXX569059",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 379.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "XXX779079",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "XXX779079",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 291.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 49.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "46616986",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "46616986",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "seguroclin",
+    "complemento": "Liq. Eletrônica IB - seguroclin",
+    "credito": true,
+    "debito": false,
+    "valor": 119.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "730",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "818",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1257.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "841",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "516295",
+    "complemento": "Crédito Transf C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "000000010",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 2441.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "000000010",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 393.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 112.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "XXX989589",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "XXX989589",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "1129",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "20803092",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 4200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC -",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "000000008",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1698.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "000000008",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 156.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "XXX374859",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "botox",
+    "complemento": "Liq. Eletrônica IB - botox",
+    "credito": true,
+    "debito": false,
+    "valor": 353.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "invisalign",
+    "complemento": "Liq. Eletrônica IB - invisalign",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "1120",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "44170664",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "44170664",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1038.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 123.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "rk",
+    "complemento": "Liq. Eletrônica IB - rk",
+    "credito": true,
+    "debito": false,
+    "valor": 90.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1165.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 17.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "XXX953689",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "XXX953689",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "XXX099029",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 1949.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "sanepar",
+    "complemento": "Pagamento Sanepar - sanepar",
+    "credito": true,
+    "debito": false,
+    "valor": 146.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "XXX000319",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "119",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "836",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 426.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "XXX576379",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "119",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "2021340214",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1686.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "cartaoitau",
+    "complemento": "Liq. Eletrônica IB - cartaoitau",
+    "credito": true,
+    "debito": false,
+    "valor": 681.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS - 515331",
+    "credito": true,
+    "debito": false,
+    "valor": 519.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS - 515333",
+    "credito": true,
+    "debito": false,
+    "valor": 466.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "bombeiro",
+    "complemento": "Liq. Documentos - bombeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 103.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "curso",
+    "complemento": "Liq. Eletrônica IB - curso",
+    "credito": true,
+    "debito": false,
+    "valor": 1328.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 290.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 449.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 232.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 255.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 258.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 232.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 215.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 119.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 211.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 214.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 376.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 294.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "393327",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 63.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "794",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 583.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX313609",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX175819",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX175819",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 398.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 147.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX889979",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 866.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "132460",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX360359",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX360359",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX090829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX082569",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX082569",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX879489",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 344.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "XXX879489",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "404209",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 33.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "795",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 583.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 393.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "XXX895068",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "neo",
+    "complemento": "Liq. Eletrônica IB - neo",
+    "credito": true,
+    "debito": false,
+    "valor": 111.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "neo",
+    "complemento": "Liq. Eletrônica IB - neo",
+    "credito": true,
+    "debito": false,
+    "valor": 70.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "i. com tv",
+    "complemento": "Liq. Eletrônica IB - i. com tv",
+    "credito": true,
+    "debito": false,
+    "valor": 259.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "curso mrg",
+    "complemento": "Liq. Eletrônica IB - curso mrg",
+    "credito": true,
+    "debito": false,
+    "valor": 823.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "ever mrg",
+    "complemento": "Liq. Eletrônica IB - ever mrg",
+    "credito": true,
+    "debito": false,
+    "valor": 199.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 629.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "12688130",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "XXX319869",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "808",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "07900742",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 106.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "07900742",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 421.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 285.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 393.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX147349",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 595.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX147349",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX376929",
+    "complemento": "Déb Pix entre ctas",
+    "credito": true,
+    "debito": false,
+    "valor": 3600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX376929",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "516295",
+    "complemento": "Crédito Transf C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "XXX037639",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "670213",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 51.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "447287",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "741502",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1083.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 226.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1724.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "02558157",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 171.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "02558157",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 84.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "TIM",
+    "complemento": "Pagamento TIM - TIM",
+    "credito": true,
+    "debito": false,
+    "valor": 304.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "11679853",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "11679853",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 584.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "02950226",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "02950226",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 32.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "500611",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "325570",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "51118",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "30965",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 25.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 193.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "613944",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 6.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "000827",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "516295",
+    "complemento": "Crédito Transf C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX234619",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX234619",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX443399",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "XXX252038",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "exvelence",
+    "complemento": "Liq. Eletrônica IB - exvelence",
+    "credito": true,
+    "debito": false,
+    "valor": 209.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "842",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "cartoes",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 1689.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "260307",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "XXX770429",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "587238",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "XXX909059",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 116.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "271242",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 32.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "000000004",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1502.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "2022390071",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1610.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 152.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "378740",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 128.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 491.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "cartoes",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 1136.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "742018",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 58.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 604.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 433.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 281.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 224.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "840",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 274.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "1114",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "435813",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 23.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "20803092",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 4300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "1115",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "XXX388219",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "XXX388219",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "XXX419829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "554208",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 27.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "199327",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 39.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "XXX673289",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "1040",
+    "complemento": "Fat cartão Uniprime - 01/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 4245.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "cartoes",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 72.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "846",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 342.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 316.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "XXX782509",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "seguroand",
+    "complemento": "Liq. Eletrônica IB - seguroand",
+    "credito": true,
+    "debito": false,
+    "valor": 95.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "segurofr",
+    "complemento": "Liq. Eletrônica IB - segurofr",
+    "credito": true,
+    "debito": false,
+    "valor": 114.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "850",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 454.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "828",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 157.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "XXX591699",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 3150.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "okrolab",
+    "complemento": "Liq. Eletrônica IB - okrolab",
+    "credito": true,
+    "debito": false,
+    "valor": 195.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "neod",
+    "complemento": "Liq. Eletrônica IB - neod",
+    "credito": true,
+    "debito": false,
+    "valor": 248.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "000809",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "000796",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 583.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "1122",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "01665949",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 74.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "01665949",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "88212113",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 49.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "88212113",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "11517841",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 76.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "11517841",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 237.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 688.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "cartoes",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 323.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "1117",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 520.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "alvara",
+    "complemento": "Liq. Eletrônica IB - alvara",
+    "credito": true,
+    "debito": false,
+    "valor": 197.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "alvara2",
+    "complemento": "Liq. Eletrônica IB - alvara2",
+    "credito": true,
+    "debito": false,
+    "valor": 268.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "bergamini",
+    "complemento": "Liq. Eletrônica IB - bergamini",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "odontoatua",
+    "complemento": "Liq. Eletrônica IB - odontoatua",
+    "credito": true,
+    "debito": false,
+    "valor": 256.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "XXX134259",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "848",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 505.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 169.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1362.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF",
+    "complemento": "Liq. Documentos - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 1050.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "0",
+    "complemento": "Jrs Chq Especial PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 373.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "0",
+    "complemento": "Juros Ad Depositante",
+    "credito": true,
+    "debito": false,
+    "valor": 4.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "0000012011",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 204.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "0000073999",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 33.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "000000004",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "01 custodi",
+    "complemento": "Custódia Chq /Tit PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "XXX621719",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "0000000710",
+    "complemento": "Ted - CONS INTERM SAUDE VA",
+    "credito": false,
+    "debito": true,
+    "valor": 9198.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "20803092",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "XXX559768",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 252.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "sanepar",
+    "complemento": "Pagamento Sanepar - sanepar",
+    "credito": true,
+    "debito": false,
+    "valor": 150.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "8875",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 46.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "SALDO DEV",
+    "complemento": "Débito IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 78.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 945.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 927.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "000000007",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 17.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "29911712",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "29911712",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "darf",
+    "complemento": "Liq. Documentos - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 120.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "41070865",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 97.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "41070865",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1361.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "XXX234619",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "XXX234619",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "26256096",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "26256096",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 30.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX596049",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 707.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 502.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX819449",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX819449",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "alvanii",
+    "complemento": "Liq. Eletrônica IB - alvanii",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "icomtv",
+    "complemento": "Liq. Eletrônica IB - icomtv",
+    "credito": true,
+    "debito": false,
+    "valor": 259.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX449849",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1462.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX449849",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX478699",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1261.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "XXX478699",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "1123",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "819",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 192.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "000000009",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 2664.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "000000009",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 97.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "26831833",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 231.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "26831833",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS - 520830",
+    "credito": true,
+    "debito": false,
+    "valor": 287.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "seguroand",
+    "complemento": "Liq. Eletrônica IB - seguroand",
+    "credito": true,
+    "debito": false,
+    "valor": 119.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 229.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 316.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "XXX989589",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "XXX989589",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "XXX555939",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "1115",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "847",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "000000004",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 812.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 194.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "247855",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "116",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "26128726",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": "26128726",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1091.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1475.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "XXX147349",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "XXX147349",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "XXX037639",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "curso mrg",
+    "complemento": "Liq. Eletrônica IB - curso mrg",
+    "credito": true,
+    "debito": false,
+    "valor": 818.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 413.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 156.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "324908",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 111.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "moliplast",
+    "complemento": "Liq. Eletrônica IB - moliplast",
+    "credito": true,
+    "debito": false,
+    "valor": 313.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "okrolab",
+    "complemento": "Liq. Eletrônica IB - okrolab",
+    "credito": true,
+    "debito": false,
+    "valor": 195.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 209.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "RK",
+    "complemento": "Liq. Eletrônica IB - RK",
+    "credito": true,
+    "debito": false,
+    "valor": 88.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "1040",
+    "complemento": "Fat cartão Uniprime - 01/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3688.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC -",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "XXX919409",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "44170664",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "44170664",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "46327306",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 28.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "46327306",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "000000008",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1772.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "000000008",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 376.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "XXX090829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "Dental",
+    "complemento": "Liq. Eletrônica IB - Dental",
+    "credito": true,
+    "debito": false,
+    "valor": 519.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "859",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "000000006",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1660.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "000000006",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "okrolab",
+    "complemento": "Liq. Eletrônica IB - okrolab",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 210.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 42.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 290.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "46327306",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 38.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "46327306",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "1114",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "2021340214",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1686.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "000829",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "000810",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 146.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "0000000710",
+    "complemento": "Ted - CONS INTERM SAUDE VA",
+    "credito": false,
+    "debito": true,
+    "valor": 2223.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "Dental",
+    "complemento": "Liq. Eletrônica IB - Dental",
+    "credito": true,
+    "debito": false,
+    "valor": 616.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "XXX537649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "XXX782509",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "860",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 78.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 157.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "XXX388219",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "XXX388219",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "XXX202549",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "865",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 146.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "XXX234619",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "XXX234619",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX537649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX673289",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 19.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "35839280",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "35839280",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX510249",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX510249",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX600198",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "61585865",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 36.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "61585865",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 60.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 193.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "2022390071",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1610.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 78.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 78.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 743.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "vivo",
+    "complemento": "Liq. Documentos - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 140.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 710.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "execelence",
+    "complemento": "Liq. Eletrônica IB - execelence",
+    "credito": true,
+    "debito": false,
+    "valor": 209.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 573.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "07458767",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 47.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "07458767",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 1653.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX493739",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX376929",
+    "complemento": "Déb Pix entre ctas",
+    "credito": true,
+    "debito": false,
+    "valor": 3600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX376929",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX059619",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "XXX224039",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 35.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "46327306",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "863",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "XXX388219",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "XXX388219",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "000000012",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 3196.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "000000012",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "13556692",
+    "complemento": "Estorno Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "TIM",
+    "complemento": "Pagamento TIM - TIM",
+    "credito": true,
+    "debito": false,
+    "valor": 310.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 77.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 84.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "XXX301069",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "XXX219599",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "XXX219599",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "820",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 192.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "844",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "000000004",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 545.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 336.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "987964",
+    "complemento": "Ted - IZAQUEU BRUM",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "Unimed",
+    "complemento": "Liq. Eletrônica IB - Unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 1153.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 301.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "11679853",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "11679853",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "XXX360359",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 103.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "XXX360359",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX576379",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX622109",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 317.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX622109",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX596049",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 229.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 78.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 78.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 226.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX022309",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "04275437",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "04275437",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 299.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 383.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 283.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 437.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 226.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 666.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "seguroand",
+    "complemento": "Liq. Eletrônica IB - seguroand",
+    "credito": true,
+    "debito": false,
+    "valor": 95.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "segurofra",
+    "complemento": "Liq. Eletrônica IB - segurofra",
+    "credito": true,
+    "debito": false,
+    "valor": 114.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1540.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "icomtv",
+    "complemento": "Liq. Eletrônica IB - icomtv",
+    "credito": true,
+    "debito": false,
+    "valor": 259.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "XXX591699",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "1040",
+    "complemento": "Fat cartão Uniprime - 02/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2103.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 954.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 520.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "odontoatua",
+    "complemento": "Liq. Eletrônica IB - odontoatua",
+    "credito": true,
+    "debito": false,
+    "valor": 256.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "alvara",
+    "complemento": "Liq. Eletrônica IB - alvara",
+    "credito": true,
+    "debito": false,
+    "valor": 271.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "alvara2",
+    "complemento": "Liq. Eletrônica IB - alvara2",
+    "credito": true,
+    "debito": false,
+    "valor": 268.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "alvara",
+    "complemento": "Liq. Eletrônica IB - alvara",
+    "credito": true,
+    "debito": false,
+    "valor": 199.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "858",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 311.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "811",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "851",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 454.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "0",
+    "complemento": "Jrs Chq Especial PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 21.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "0000012011",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 305.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "0000073999",
+    "complemento": "Pagamento Copel",
+    "credito": true,
+    "debito": false,
+    "valor": 115.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 585.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "000877",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 873.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "XXX340999",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "XXX219599",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "XXX219599",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "861",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "SALDO DEV",
+    "complemento": "Débito IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 16.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 2451.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "XXX559768",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "XXX419829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "10258397",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 12.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "10258397",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "domínio",
+    "complemento": "Liq. Eletrônica IB - domínio",
+    "credito": true,
+    "debito": false,
+    "valor": 155.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 11.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 2437.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "1117",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "1117",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "2021340214",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 4.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "2022390071",
+    "complemento": "Déb. de Prestamista",
+    "credito": true,
+    "debito": false,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "000000003",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 816.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 344.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 163.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 693.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 1475.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "SAQUE",
+    "complemento": "Saque Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 224.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "Alvani",
+    "complemento": "Liq. Eletrônica IB - Alvani",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "sanepar",
+    "complemento": "Pagamento Sanepar - sanepar",
+    "credito": true,
+    "debito": false,
+    "valor": 150.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 253.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "000000009",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1676.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "000000009",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1470.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "223733",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 63.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 581.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "XXX537649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "XXX537649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "XXX370359",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "862",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "853",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 454.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "830",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "881",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "852",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 454.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "866",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 500.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 853.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "15228445",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "15228445",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX555939",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "260449",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "202360",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 55.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "0000000710",
+    "complemento": "Ted - CONS INTERM SAUDE VA",
+    "credito": false,
+    "debito": true,
+    "valor": 1235.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "seguroclin",
+    "complemento": "Liq. Eletrônica IB - seguroclin",
+    "credito": true,
+    "debito": false,
+    "valor": 119.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX449849",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1475.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX449849",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "XXX624419",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 943.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "1112",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "879",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1235.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1145.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "27012243",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1554.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "27012243",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "27012243",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 190.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "27012243",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "XXX328109",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "XXX235629",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "XXX235629",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "Brisas",
+    "complemento": "Liq. Eletrônica IB - Brisas",
+    "credito": true,
+    "debito": false,
+    "valor": 458.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1955.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 344.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1390.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "XXX849439",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "374431",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 147.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 194.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC -",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX745469",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "11679853",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "11679853",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "04275437",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "04275437",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "corolla",
+    "complemento": "Liq. Eletrônica IB - corolla",
+    "credito": true,
+    "debito": false,
+    "valor": 2052.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "000000009",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 1577.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "000000009",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 3626.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 291.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 519.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "XXX791289",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "patrocínio",
+    "complemento": "Liq. Eletrônica IB - patrocínio",
+    "credito": true,
+    "debito": false,
+    "valor": 116.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "000000007",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 2329.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "000000007",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 17.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 2459.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "779777",
+    "complemento": "Ted - IUGU SERVICOS NA INT",
+    "credito": false,
+    "debito": true,
+    "valor": 210.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "XXX090829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "812",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "prisma",
+    "complemento": "Liq. Eletrônica IB - prisma",
+    "credito": true,
+    "debito": false,
+    "valor": 1231.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 110.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "2021340214",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1686.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "XXX147349",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "XXX147349",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "29911712",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "29911712",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "okrolab",
+    "complemento": "Liq. Eletrônica IB - okrolab",
+    "credito": true,
+    "debito": false,
+    "valor": 153.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 75.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 237.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 210.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "864",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 3204.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 118.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1147.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "XXX339089",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "1113",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "XXX725959",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "XXX478699",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "XXX478699",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "XXX478699",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "CARTÕES",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 156.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "XXX175819",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "XXX175819",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "TIM",
+    "complemento": "Pagamento TIM - TIM",
+    "credito": true,
+    "debito": false,
+    "valor": 276.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 721.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "cisvir",
+    "complemento": "Liq. Eletrônica IB - cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 689.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS - 529090",
+    "credito": true,
+    "debito": false,
+    "valor": 124.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "Unimed",
+    "complemento": "Liq. Eletrônica IB - Unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 1048.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "838",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 192.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX624129",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX576379",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX596049",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "1115",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "certfdigit",
+    "complemento": "Liq. Eletrônica IB - certfdigit",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 193.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 998.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "execelence",
+    "complemento": "Liq. Eletrônica IB - execelence",
+    "credito": true,
+    "debito": false,
+    "valor": 209.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 573.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 295.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "neodent",
+    "complemento": "Liq. Eletrônica IB - neodent",
+    "credito": true,
+    "debito": false,
+    "valor": 378.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "XXX989589",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "880",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 92.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "000000009",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 2285.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "000000009",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 4900.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "13556692",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 55.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "13556692",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "copel",
+    "complemento": "Pagamento Copel - copel",
+    "credito": true,
+    "debito": false,
+    "valor": 81.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 97.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "vivo",
+    "complemento": "Liq. Documentos - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 171.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "Cisvir",
+    "complemento": "Liq. Eletrônica IB - Cisvir",
+    "credito": true,
+    "debito": false,
+    "valor": 318.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 631.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "885",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "000000005",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 804.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "000000005",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "2022390071",
+    "complemento": "Liq Parc Price -",
+    "credito": true,
+    "debito": false,
+    "valor": 1610.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1960.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 145.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "1118",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 482.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "XXX838849",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "XXX838849",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "887",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 165.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "78200",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 347.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "000867",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 500.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 3600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "ICOMARKET",
+    "complemento": "Liq. Eletrônica IB - ICOMARKET",
+    "credito": true,
+    "debito": false,
+    "valor": 1545.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "831",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "854",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 454.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "900",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 136.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "000000003",
+    "complemento": "Tar Cbr Tit Baixado",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Baixa Prazo",
+    "credito": true,
+    "debito": false,
+    "valor": 11.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 380.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "1116",
+    "complemento": "Saque Cash Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "XXX235629",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "XXX235629",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "301059",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 177.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "910565",
+    "complemento": "Déb Cartão Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "15294339",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "15294339",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "04275437",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "04275437",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "516295",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 2117.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "dental",
+    "complemento": "Liq. Eletrônica IB - dental",
+    "credito": true,
+    "debito": false,
+    "valor": 666.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "seguroand",
+    "complemento": "Liq. Eletrônica IB - seguroand",
+    "credito": true,
+    "debito": false,
+    "valor": 95.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "segurofran",
+    "complemento": "Liq. Eletrônica IB - segurofran",
+    "credito": true,
+    "debito": false,
+    "valor": 114.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "1040",
+    "complemento": "Fat cartão Uniprime - 03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2517.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "000000002",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "000000002",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "Stone Paga",
+    "complemento": "Venda Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1082.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX045739",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX045099",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX975341",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 743.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX975341",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX838849",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "XXX838849",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "888",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 717.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "832",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 579.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "000000001",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 188.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "000000001",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "Dental",
+    "complemento": "Liq. Eletrônica IB - Dental",
+    "credito": true,
+    "debito": false,
+    "valor": 520.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "Alvara",
+    "complemento": "Liq. Eletrônica IB - Alvara",
+    "credito": true,
+    "debito": false,
+    "valor": 268.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "serasa",
+    "complemento": "Liq. Eletrônica IB - serasa",
+    "credito": true,
+    "debito": false,
+    "valor": 90.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "000000004",
+    "complemento": "Créd Cbr Uniprime",
+    "credito": false,
+    "debito": true,
+    "valor": 971.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "000000004",
+    "complemento": "Tar Cbr Uniprime",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "cartões",
+    "complemento": "Crédito da CC<->CV",
+    "credito": false,
+    "debito": true,
+    "valor": 873.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "XXX510249",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "XXX510249",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1144.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "darf",
+    "complemento": "Liq. Documentos - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 801.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "croclin",
+    "complemento": "Liq. Eletrônica IB - croclin",
+    "credito": true,
+    "debito": false,
+    "valor": 109.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "crofr",
+    "complemento": "Liq. Eletrônica IB - crofr",
+    "credito": true,
+    "debito": false,
+    "valor": 109.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "croand",
+    "complemento": "Liq. Eletrônica IB - croand",
+    "credito": true,
+    "debito": false,
+    "valor": 109.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "0",
+    "complemento": "Jrs Chq Especial PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 53.92,
+    "origem": "Extrato"
+  }
+]

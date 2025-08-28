@@ -1,0 +1,3836 @@
+[
+  {
+    "data": "02/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1166.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2024",
+    "documento": "478898.597",
+    "complemento": "DEBITO PIX - INGRID SCHERNIKAU",
+    "credito": true,
+    "debito": false,
+    "valor": 15226.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2024",
+    "documento": "10007.330",
+    "complemento": "PG.P/INTERNET - ORSEGUPS MONITORAMENTO ELETRON",
+    "credito": true,
+    "debito": false,
+    "valor": 190.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2024",
+    "documento": "10007.337",
+    "complemento": "PG.P/INTERNET - JOTA JORNALISMO LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 318.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.458",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.463",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 8987.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.465",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.466",
+    "complemento": "PG.P/INTERNET - CONSSETRA BLUMENAU MEDICINA E",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.470",
+    "complemento": "PG.P/INTERNET - ADVISE BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 202.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "10008.475",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480330.501",
+    "complemento": "CREDITO PIX - TAIS ALVES RAMOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1210.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480375.036",
+    "complemento": "DEBITO PIX - EDSON PERES GONCALVES JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 3024.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480376.936",
+    "complemento": "DEBITO PIX - Gislaine Pereira Varela",
+    "credito": true,
+    "debito": false,
+    "valor": 1249.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480378.977",
+    "complemento": "DEBITO PIX - Karoline Moser de Mello",
+    "credito": true,
+    "debito": false,
+    "valor": 4850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480377.938",
+    "complemento": "DEBITO PIX - PIETRA CAROLINE VEGINI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480379.480",
+    "complemento": "DEBITO PIX - Cristiano de Oliveira Balbinot",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480380.244",
+    "complemento": "DEBITO PIX - Gabriel Marques Baptista",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480381.701",
+    "complemento": "DEBITO PIX - AMANDA APARECIDA RODRIGUES",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480382.167",
+    "complemento": "DEBITO PIX - BRUNA BITTENCOURT ALCANTARA",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480525.321",
+    "complemento": "DEBITO PIX - JULIANO LASZUK BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480525.838",
+    "complemento": "DEBITO PIX - JULIANO LASZUK BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 17773.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "185.126.8",
+    "complemento": "TR.INTERNET - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480526.647",
+    "complemento": "DEBITO PIX - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "185.126.8",
+    "complemento": "TR.INTERNET - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 16164.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "705.373.8",
+    "complemento": "TR.INTERNET - FELIPE RAFAEL BUERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 62926.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "705.373.8",
+    "complemento": "TR.INTERNET - FELIPE RAFAEL BUERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480531.404",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480531.912",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 29271.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480532.277",
+    "complemento": "DEBITO PIX - THOMAS BONETTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480533.002",
+    "complemento": "DEBITO PIX - EDUARDO FREYGANG JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2024",
+    "documento": "480622.379",
+    "complemento": "CREDITO PIX - POSSE CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2024",
+    "documento": "481264.836",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2024",
+    "documento": "481439.328",
+    "complemento": "DEBITO PIX - WBPO",
+    "credito": true,
+    "debito": false,
+    "valor": 89.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2024",
+    "documento": "481447.632",
+    "complemento": "CREDITO PIX - SP TEXTIL LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.724",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 383.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.729",
+    "complemento": "PG.P/INTERNET - BELA VISTA COUNTRY CLUB",
+    "credito": true,
+    "debito": false,
+    "valor": 1570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.736",
+    "complemento": "PG.P/INTERNET - BLUMEN MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.744",
+    "complemento": "PG.P/INTERNET - BLUMEN MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.754",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.760",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 311.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.766",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.772",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.780",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.787",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 318.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.794",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 311.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.800",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 311.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.809",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.816",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2024",
+    "documento": "10090.821",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 383.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1375.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.690",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.699",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 23.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.703",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 950.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.711",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 105.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.720",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 142.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.730",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 172.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.734",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 146.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.741",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 107.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.745",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 97.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.755",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "10020.760",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "1659.088.0",
+    "complemento": "CR. INTERNET -  INGRID MARIA SCHMITT",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "484172.225",
+    "complemento": "DEBITO PIX - JOANINHA PAPELARIA E PRESENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "484172.248",
+    "complemento": "DEBITO PIX - GOOGLE BRASIL INTERNET LT",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 14495.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 4661.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 23.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "877.709.8",
+    "complemento": "CR. INTERNET -  ANA PAULA SILVA RAMOS VIEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 582.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 4187.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2024",
+    "documento": "485125.842",
+    "complemento": "CREDITO PIX - VALTER FRONZA",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "10006.428",
+    "complemento": "PG.P/INTERNET - PREAMBULO INFORMATICA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1395.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "10006.437",
+    "complemento": "PG.P/INTERNET - AKAD SEGUROS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1690.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 7.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "10038.448",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 46.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "485901.990",
+    "complemento": "CREDITO PIX - PMG FLEXO CLICHERIA BNU LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3140.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "485965.188",
+    "complemento": "CREDITO PIX - Jose Carlos Nisgoski",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486019.258",
+    "complemento": "DEBITO PIX - RIZZO   RODRIGUES ADVOGADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5287.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486033.676",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486033.676",
+    "complemento": "DEBITO PIX - RODRIGO STACHOVIAK PALERMO",
+    "credito": true,
+    "debito": false,
+    "valor": 733.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486034.545",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "185.126.8",
+    "complemento": "TR.INTERNET - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 2498.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486034.545",
+    "complemento": "DEBITO PIX - JULIANO LASZUK BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1611.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "705.373.8",
+    "complemento": "TR.INTERNET - FELIPE RAFAEL BUERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 3781.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486040.384",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486040.384",
+    "complemento": "DEBITO PIX - ANDRAMA CONFECCOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486041.075",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486040.826",
+    "complemento": "CREDITO PIX - RES MAISON SAINT LAURENT",
+    "credito": false,
+    "debito": true,
+    "valor": 23404.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "486041.075",
+    "complemento": "DEBITO PIX - BENY MODA E CONFECCAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2885.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "20",
+    "complemento": "PG. PARC. EMP 008/038",
+    "credito": true,
+    "debito": false,
+    "valor": 2955.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.251",
+    "complemento": "PG.P/INTERNET - 41151154 LEONARDO KLETTENBERG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.258",
+    "complemento": "PG.P/INTERNET - RICARDO FARACO",
+    "credito": true,
+    "debito": false,
+    "valor": 127.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.263",
+    "complemento": "PG.P/INTERNET - CAMARA DE DIRIGENTES LOJISTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 65.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.270",
+    "complemento": "PG.P/INTERNET - UNIAO CONTABILIDADE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.278",
+    "complemento": "PG.P/INTERNET - AT2 SOLUCOES EM TI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.284",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 325.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.291",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 300.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10056.295",
+    "complemento": "PG.P/INTERNET - FIX IT SOLUCOES EM TECNOLOGIA",
+    "credito": true,
+    "debito": false,
+    "valor": 496.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10137.273",
+    "complemento": "PG.P/INTERNET - AT2 SOLUCOES EM TI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 502.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2024",
+    "documento": "10137.274",
+    "complemento": "PG.P/INTERNET - ARRECADACAO FRJ",
+    "credito": true,
+    "debito": false,
+    "valor": 792.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 8608.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 12414.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 15.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "487712.470",
+    "complemento": "CREDITO PIX - Bioleader Controle De Pragas Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 728.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2024",
+    "documento": "33745.153",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 366.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2024",
+    "documento": "10005.161",
+    "complemento": "PG.P/INTERNET - SME RHENIUS COMERCIO DE PRODUT",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2024",
+    "documento": "488450.430",
+    "complemento": "CREDITO PIX - Supernova Editora Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "10006.076",
+    "complemento": "PG.P/INTERNET - PAGAR.ME PAGAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 108.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "10006.082",
+    "complemento": "PG.P/INTERNET - BANCO COOPERATIVO SICOOB S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 6338.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "488774.287",
+    "complemento": "CREDITO PIX - G5 PRINT LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1544.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "488793.595",
+    "complemento": "CREDITO PIX - PRIMEL COMERCIO DE MAQUINAS E",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1512.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "489268.945",
+    "complemento": "DEBITO PIX COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 511.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "486.669",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "10008.411",
+    "complemento": "PG.P/INTERNET - ASAP TELECOM BRASIL  BLUMENAU",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "10022.771",
+    "complemento": "PG.P/INTERNET - DAS SIMPLES 08 2024",
+    "credito": true,
+    "debito": false,
+    "valor": 47960.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "10022.774",
+    "complemento": "PG.P/INTERNET - INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 4728.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "10035.549",
+    "complemento": "PG.P/INTERNET - VIVO FIXO",
+    "credito": true,
+    "debito": false,
+    "valor": 233.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "34100.360",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 14018.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "489535.495",
+    "complemento": "CREDITO PIX - BLUEFIN EXPORT DE PESCADOS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 5100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "489622.694",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "489622.694",
+    "complemento": "DEBITO PIX - UDS INSTALACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 12457.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 4476.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "10034.245",
+    "complemento": "PG.P/INTERNET - DLOCAL BRASIL I DE PAGAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "0824",
+    "complemento": "TAR PCT SERV PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 23.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "4.167",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 863.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "490743.615",
+    "complemento": "CREDITO PIX - Jonas Correia",
+    "credito": false,
+    "debito": true,
+    "valor": 1150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "490841.478",
+    "complemento": "CREDITO PIX - MARKDOWN COMERCIO DE ROUPAS E",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "490842.162",
+    "complemento": "CREDITO PIX - MARKDOWN COMERCIO DE ROUPAS E",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "10104.756",
+    "complemento": "PG.P/INTERNET - ELETRO AR INSTALACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 8403.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "10004.780",
+    "complemento": "PG.P/INTERNET - PAPELARIA RABISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 189.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "491345.516",
+    "complemento": "DEBITO PIX - EDAM ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 243.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "491417.923",
+    "complemento": "DEBITO PIX - PAULO RENATO BARBIERI",
+    "credito": true,
+    "debito": false,
+    "valor": 3570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2024",
+    "documento": "491417.923",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3103.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.223",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 112.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.227",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 63.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.230",
+    "complemento": "PG.P/INTERNET - INFODIGI INFORMACOES DIGITAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 1195.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.234",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 296.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.238",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 122.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "10006.241",
+    "complemento": "PG.P/INTERNET - AT2 SOLUCOES EM TI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "491686.404",
+    "complemento": "CREDITO PIX - HUMBERTO DO NASCIMENTO PIVATO",
+    "credito": false,
+    "debito": true,
+    "valor": 2598.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "33710.491",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 47539.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1570.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 21921.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 5753.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 5.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 35.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "6.172",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 9.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "33650.122",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 2049.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492336.278",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492336.278",
+    "complemento": "DEBITO PIX - TATIANA MENDES RAMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9522.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492337.302",
+    "complemento": "DEBITO PIX - Luiza Irene Dutra",
+    "credito": true,
+    "debito": false,
+    "valor": 4237.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492339.335",
+    "complemento": "DEBITO PIX - ANTONIO MATHEUSSI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492337.302",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492339.335",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492382.301",
+    "complemento": "CREDITO PIX - ARMANDO FILIPPI JUNIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492470.595",
+    "complemento": "DEBITO PIX COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492508.627",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492508.627",
+    "complemento": "DEBITO PIX - BENY MODA E CONFECCAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492508.010",
+    "complemento": "DEBITO PIX - ANDRAMA CONFECCOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492508.010",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492513.106",
+    "complemento": "DEBITO PIX - BELLA TOP",
+    "credito": true,
+    "debito": false,
+    "valor": 1208.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492513.106",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492574.275",
+    "complemento": "CREDITO PIX - DISTRIBUIDORA PLAMAX LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2024",
+    "documento": "492575.988",
+    "complemento": "CREDITO PIX - DISTRIBUIDORA PLAMAX LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1003.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "492701.148",
+    "complemento": "CREDITO PIX - MARISTELA RODRIGUES",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "492722.390",
+    "complemento": "CREDITO PIX - RICARDO HENRICO PASQUALINI",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "3.882",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 2619.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "492768.791",
+    "complemento": "CREDITO PIX - LARISSA DE OLIVEIRA SCHMITT",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "492907.458",
+    "complemento": "CREDITO PIX - Allan Reiser",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "51.254",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2024",
+    "documento": "493029.190",
+    "complemento": "CREDITO PIX - SP TEXTIL LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 6269.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 9633.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 4.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494057.857",
+    "complemento": "CREDITO PIX - POSSE CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494247.724",
+    "complemento": "CREDITO PIX - CICERO JONATAS ANDREAZZA",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "10106.200",
+    "complemento": "PG.P/INTERNET - SANTA CATARINA TRIBUNAL DE JUS",
+    "credito": true,
+    "debito": false,
+    "valor": 372.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494266.844",
+    "complemento": "DEBITO PIX - ADRIANE SOUZA PITA DE ARAUJO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494266.844",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494308.508",
+    "complemento": "DEBITO PIX - Felipe Barbieri",
+    "credito": true,
+    "debito": false,
+    "valor": 2049.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "494308.508",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 457.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "494764.642",
+    "complemento": "CREDITO PIX - SP TEXTIL LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "494798.128",
+    "complemento": "DEBITO PIX - Pietra Caroline Vegini",
+    "credito": true,
+    "debito": false,
+    "valor": 239.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "495005.202",
+    "complemento": "CREDITO PIX - SCHRAMM A T LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495208.693",
+    "complemento": "CREDITO PIX - Attrius Sul Transportes Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495330.758",
+    "complemento": "CREDITO PIX - Jonas Correia",
+    "credito": false,
+    "debito": true,
+    "valor": 1150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495498.845",
+    "complemento": "DEBITO PIX - Alessandra Pasa Buerger",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "705.373.8",
+    "complemento": "TR.INTERNET - FELIPE RAFAEL BUERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "185.126.8",
+    "complemento": "TR.INTERNET - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 9547.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "705.373.8",
+    "complemento": "TR.INTERNET - FELIPE RAFAEL BUERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 46104.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "185.126.8",
+    "complemento": "TR.INTERNET - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495537.776",
+    "complemento": "DEBITO PIX - MARCOS ALEXANDRE CLAUDINO",
+    "credito": true,
+    "debito": false,
+    "valor": 11800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495539.976",
+    "complemento": "DEBITO PIX - THOMAS BONETTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495538.409",
+    "complemento": "DEBITO PIX - JULIANO LASZUK BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495539.094",
+    "complemento": "DEBITO PIX - JULIANO LASZUK BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 12362.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495540.580",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495542.059",
+    "complemento": "DEBITO PIX - EDUARDO FREYGANG JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495542.641",
+    "complemento": "DEBITO PIX - THOMAS BONETTO",
+    "credito": true,
+    "debito": false,
+    "valor": 22893.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495543.433",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 22660.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "495544.565",
+    "complemento": "DEBITO PIX - EDUARDO FREYGANG JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 16503.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "10006.756",
+    "complemento": "PG.P/INTERNET - JOTA JORNALISMO LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 318.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "10006.764",
+    "complemento": "PG.P/INTERNET - ORSEGUPS MONITORAMENTO ELETRON",
+    "credito": true,
+    "debito": false,
+    "valor": 190.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495870.762",
+    "complemento": "DEBITO PIX - Karoline Moser de Mello",
+    "credito": true,
+    "debito": false,
+    "valor": 4850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495871.360",
+    "complemento": "DEBITO PIX - BRUNA BITTENCOURT ALCANTARA",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495872.425",
+    "complemento": "DEBITO PIX - AMANDA APARECIDA RODRIGUES",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495870.022",
+    "complemento": "DEBITO PIX - PIETRA CAROLINE VEGINI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495871.828",
+    "complemento": "DEBITO PIX - EDSON PERES GONCALVES JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495872.978",
+    "complemento": "DEBITO PIX - Cristiano de Oliveira Balbinot",
+    "credito": true,
+    "debito": false,
+    "valor": 4200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495873.466",
+    "complemento": "DEBITO PIX - Gabriel Marques Baptista",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "495891.212",
+    "complemento": "DEBITO PIX - WBPO",
+    "credito": true,
+    "debito": false,
+    "valor": 549.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "496074.701",
+    "complemento": "DEBITO PIX - BRUNA BITTENCOURT ALCANTARA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "10016.330",
+    "complemento": "PG.P/INTERNET - MATELETRICA COMERCIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 173.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "10016.335",
+    "complemento": "PG.P/INTERNET - ARRECADACAO FRJ",
+    "credito": true,
+    "debito": false,
+    "valor": 65.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "496955.395",
+    "complemento": "CREDITO PIX - NEUSA SATOMI DE MORAES",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "498367.300",
+    "complemento": "CREDITO PIX - Rosiane Flor",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.540",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.546",
+    "complemento": "PG.P/INTERNET - BELA VISTA COUNTRY CLUB",
+    "credito": true,
+    "debito": false,
+    "valor": 1570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.552",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 289.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.556",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.560",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.567",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 289.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.571",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.576",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 289.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.582",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.586",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.589",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 296.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.595",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 356.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.600",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.611",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.620",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 10500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.625",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.632",
+    "complemento": "PG.P/INTERNET - ADVISE BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 202.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.638",
+    "complemento": "PG.P/INTERNET - NOVA ERA IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "10088.644",
+    "complemento": "PG.P/INTERNET - COND DO EDIF CENTRO EMPRES GEO",
+    "credito": true,
+    "debito": false,
+    "valor": 356.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "498818.324",
+    "complemento": "CREDITO PIX - CICERO JONATAS ANDREAZZA",
+    "credito": false,
+    "debito": true,
+    "valor": 19.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1375.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "499165.396",
+    "complemento": "DEBITO PIX - GOOGLE BRASIL INTERNET LT",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "1659.088.0",
+    "complemento": "CR. INTERNET -  INGRID MARIA SCHMITT",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 2841.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "10006.784",
+    "complemento": "PG.P/INTERNET - BLUMEN MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "10006.788",
+    "complemento": "PG.P/INTERNET - BLUMEN MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "500212.761",
+    "complemento": "CREDITO PIX - CICERO JONATAS ANDREAZZA",
+    "credito": false,
+    "debito": true,
+    "valor": 20.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "877.709.8",
+    "complemento": "CR. INTERNET -  ANA PAULA SILVA RAMOS VIEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 582.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.723",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 172.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.727",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 564.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.737",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 147.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.743",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.747",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.751",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 97.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.754",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.758",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 86.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.762",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.767",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 146.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10015.773",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 142.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "500836.606",
+    "complemento": "CREDITO PIX - TAIS ALVES RAMOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1210.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "500881.924",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "500881.924",
+    "complemento": "DEBITO PIX - SAMBOU MARKETING INTELIGENTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10142.910",
+    "complemento": "PG.P/INTERNET - MUNICIPIO DE BLUMENAU - ARRECA",
+    "credito": true,
+    "debito": false,
+    "valor": 11.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "10142.916",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 107.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "501013.142",
+    "complemento": "DEBITO PIX - UNIFORMES BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 158.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "501013.142",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "501066.939",
+    "complemento": "CREDITO PIX - ODAIR JOSE REITER",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "501143.042",
+    "complemento": "CREDITO PIX - ODAIR JOSE REITER",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 10475.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 15.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 7219.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "10044.294",
+    "complemento": "PG.P/INTERNET - AKAD SEGUROS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1690.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "10044.301",
+    "complemento": "PG.P/INTERNET - PREAMBULO INFORMATICA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1395.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "10044.307",
+    "complemento": "PG.P/INTERNET - FACEBOOK PROCESSADO POR ADYEN",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "502712.428",
+    "complemento": "CREDITO PIX - B2B CHOPP DELIVERY LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "502755.971",
+    "complemento": "CREDITO PIX - PMG FLEXO CLICHERIA BNU LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3140.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "502924.887",
+    "complemento": "CREDITO PIX - BLUEFIN EXPORT DE PESCADOS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 5100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "502990.278",
+    "complemento": "DEBITO PIX - PAULO RENATO BARBIERI",
+    "credito": true,
+    "debito": false,
+    "valor": 3570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "502990.278",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 4263.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.880",
+    "complemento": "PG.P/INTERNET - 41151154 LEONARDO KLETTENBERG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.886",
+    "complemento": "PG.P/INTERNET - RICARDO FARACO",
+    "credito": true,
+    "debito": false,
+    "valor": 126.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.895",
+    "complemento": "PG.P/INTERNET - UNIAO CONTABILIDADE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.898",
+    "complemento": "PG.P/INTERNET - FIX IT SOLUCOES EM TECNOLOGIA",
+    "credito": true,
+    "debito": false,
+    "valor": 496.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.903",
+    "complemento": "PG.P/INTERNET - AT2 SOLUCOES EM TI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.909",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 325.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.915",
+    "complemento": "PG.P/INTERNET - CAMARA DE DIRIGENTES LOJISTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 65.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.922",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 300.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "10027.925",
+    "complemento": "PG.P/INTERNET - AT2 SOLUCOES EM TI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 502.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 11.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 12015.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 9704.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "2",
+    "complemento": "PG. PARC. EMP 009/038",
+    "credito": true,
+    "debito": false,
+    "valor": 2955.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 5.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 27.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "33738.463",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 50750.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "504118.018",
+    "complemento": "CREDITO PIX - Jose Carlos Nisgoski",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "504516.176",
+    "complemento": "CREDITO PIX - Bioleader Controle De Pragas Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 728.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "504913.481",
+    "complemento": "CREDITO PIX - IVONEI GEHRKE",
+    "credito": false,
+    "debito": true,
+    "valor": 1412.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1512.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "505003.415",
+    "complemento": "CREDITO PIX - FABIO ESNAL GARCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "505019.635",
+    "complemento": "DEBITO PIX COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 292.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "10005.668",
+    "complemento": "PG.P/INTERNET - BANCO COOPERATIVO SICOOB S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5597.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "10012.102",
+    "complemento": "PG.P/INTERNET - INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 3815.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "10028.801",
+    "complemento": "PG.P/INTERNET - SUPERIOR TRIBUNAL DE JUSTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 247.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "10028.802",
+    "complemento": "PG.P/INTERNET - ARRECADACAO FRJ",
+    "credito": true,
+    "debito": false,
+    "valor": 237.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "505348.474",
+    "complemento": "CREDITO PIX - Jefferson do Nascimento",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "505445.960",
+    "complemento": "CREDITO PIX - Supernova Editora Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 4032.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "486.669",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "10041.621",
+    "complemento": "PG.P/INTERNET - PAGAR.ME PAGAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 108.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "10041.631",
+    "complemento": "PG.P/INTERNET - ASAP TELECOM BRASIL  BLUMENAU",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "10057.101",
+    "complemento": "PG.P/INTERNET - DAS SIMPLES 09 2024",
+    "credito": true,
+    "debito": false,
+    "valor": 41061.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506478.942",
+    "complemento": "CREDITO PIX - Jonas Correia",
+    "credito": false,
+    "debito": true,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "6.564",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 406.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506528.823",
+    "complemento": "DEBITO PIX - LIVRARIA DO TARCILIO EIRELI EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506528.823",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506579.836",
+    "complemento": "CREDITO PIX - NEUSA SATOMI DE MORAES",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506716.792",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506716.792",
+    "complemento": "DEBITO PIX - ALDO BEHLING",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506748.386",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "506748.386",
+    "complemento": "DEBITO PIX - ANTONIO MATHEUSSI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 8307.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 7240.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 11.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 5.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "0924",
+    "complemento": "TAR PCT SERV PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "3.344",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 456.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "507094.370",
+    "complemento": "DEBITO PIX - PARQUE AQUATICO CASCATA CAROLINA",
+    "credito": true,
+    "debito": false,
+    "valor": 33044.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "507094.370",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "10033.330",
+    "complemento": "PG.P/INTERNET - VIVO TELEFONE",
+    "credito": true,
+    "debito": false,
+    "valor": 241.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "507124.268",
+    "complemento": "CREDITO PIX - PRIMEL COMERCIO DE MAQUINAS E",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "507191.972",
+    "complemento": "CREDITO PIX - VEST LINGERIE LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1872.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "507223.385",
+    "complemento": "CREDITO PIX - LARISSA DE OLIVEIRA SCHMITT",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "33858.678",
+    "complemento": "CREDITO TED - TRT 12 REGIAO   SANTA CA",
+    "credito": false,
+    "debito": true,
+    "valor": 2702.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1516.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "10004.343",
+    "complemento": "PG.P/INTERNET - PAPELARIA RABISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 273.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "33648.850",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 12132.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 907.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508022.707",
+    "complemento": "CREDITO PIX - MARISTELA RODRIGUES",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508235.786",
+    "complemento": "DEBITO PIX - CG RESTAURANTE E ESTACION",
+    "credito": true,
+    "debito": false,
+    "valor": 146.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508237.350",
+    "complemento": "DEBITO PIX - CG RESTAURANTE E ESTACION",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508247.469",
+    "complemento": "CREDITO PIX - HUMBERTO DO NASCIMENTO PIVATO",
+    "credito": false,
+    "debito": true,
+    "valor": 2598.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508361.818",
+    "complemento": "CREDITO PIX - Nicole Agatha Pellin",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "508432.315",
+    "complemento": "CREDITO PIX - M7 SUPERMERCADO LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2516.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10005.906",
+    "complemento": "PG.P/INTERNET - INFODIGI INFORMACOES DIGITAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 580.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10005.911",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 296.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10005.915",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 69.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10005.918",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10005.922",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 106.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "33824.976",
+    "complemento": "CREDITO TED - TRIBUNAL JUSTICA SANTA CATARINA",
+    "credito": false,
+    "debito": true,
+    "valor": 158455.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "508831.147",
+    "complemento": "CREDITO PIX - 41151154 LEONARDO KLETTENBERG",
+    "credito": false,
+    "debito": true,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10061.545",
+    "complemento": "PG.P/INTERNET - ORDEM DOS ADVOGADOS DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 89.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "10061.547",
+    "complemento": "PG.P/INTERNET - SANTA CATARINA TRIBUNAL DE JUS",
+    "credito": true,
+    "debito": false,
+    "valor": 372.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "508873.802",
+    "complemento": "CREDITO PIX - CONSTANCIO TRANS ESPECIAIS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "509101.683",
+    "complemento": "CREDITO PIX - RICARDO HENRICO PASQUALINI",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 7296.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 12805.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 6853.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 21.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "7.769",
+    "complemento": "VENDA CARTAO (CRED)",
+    "credito": false,
+    "debito": true,
+    "valor": 2629.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "509902.398",
+    "complemento": "CREDITO PIX - Jonas Correia",
+    "credito": false,
+    "debito": true,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3769.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 6257.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "510555.831",
+    "complemento": "CREDITO PIX - SETH777 EVENTOS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "510699.922",
+    "complemento": "CREDITO PIX - Rosiane Flor",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "10.120",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 1590.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2194.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 7.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "511040.095",
+    "complemento": "DEBITO PIX - IMPRESSUL INDUSTRIA GRAFICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "57.280",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 2800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "57.342",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "511670.932",
+    "complemento": "CREDITO PIX - Nicole Agatha Pellin",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "511737.861",
+    "complemento": "DEBITO PIX - EDUARDO SOARES CRUZ DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 13671.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "511737.254",
+    "complemento": "DEBITO PIX - EDUARDO FREYGANG JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 13671.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "511738.533",
+    "complemento": "DEBITO PIX - THOMAS BONETTO",
+    "credito": true,
+    "debito": false,
+    "valor": 14526.12,
+    "origem": "Extrato"
+  }
+]

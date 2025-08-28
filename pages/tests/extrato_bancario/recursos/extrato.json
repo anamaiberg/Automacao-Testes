@@ -1,0 +1,803 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": "0",
+    "complemento": "CESTA PJ Econômica",
+    "credito": true,
+    "debito": false,
+    "valor": 41.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 3677.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(IG Jabour)",
+    "credito": true,
+    "debito": false,
+    "valor": 858.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(CIEE)",
+    "credito": true,
+    "debito": false,
+    "valor": 10367.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(Flash)",
+    "credito": true,
+    "debito": false,
+    "valor": 5574.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "200387",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(Copel)",
+    "credito": true,
+    "debito": false,
+    "valor": 1514.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "130005648",
+    "complemento": "RECEB TED D STR(UNIMED CURITIBA - SO)",
+    "credito": false,
+    "debito": true,
+    "valor": 18762.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "200387",
+    "complemento": "TRANSF TEF PIX(THIAGO MAYCON SANCHES SANTOS)",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(RODRIGO BENITEZCANTERO)",
+    "credito": false,
+    "debito": true,
+    "valor": 7800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(DAHIANI FERREIRAGEREMIAS)",
+    "credito": false,
+    "debito": true,
+    "valor": 5700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "Convênio LIQ.ELETR.IB - CONV.(fgts iguassu)",
+    "credito": true,
+    "debito": false,
+    "valor": 4732.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(yniatos)",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(aluguel)",
+    "credito": true,
+    "debito": false,
+    "valor": 22533.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PGTO PIX DEBITO PAGAMENTO PIX(VIACAO SANTA CLARA LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 207.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(PAULO H CARVALHOVESTUARIOS ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "DEB PIX DEBITO TRANSF PIX(SOMARE IGUASSU TERAPIALTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(LAGUNA SOLUCOES LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 5400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "264",
+    "complemento": "RECEB TED D(UNIMED RIO BRANCO CO)",
+    "credito": false,
+    "debito": true,
+    "valor": 7800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(VANESSA SKULNY)",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 3810.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 6761.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "DEB PIX DEBITO TRANSF PIX(SOMARE IGUASSU TERAPIALTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(PEDRO HENRIQUEERDMANN STOPA)",
+    "credito": false,
+    "debito": true,
+    "valor": 4248.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(SILVINO DA FONSECA BJUNIOR)",
+    "credito": false,
+    "debito": true,
+    "valor": 6272.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(PAULO H CARVALHOVESTUARIOS ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "200387",
+    "complemento": "TRANSF TEF PIX(THIAGO MAYCON SANCHES SANTOS)",
+    "credito": true,
+    "debito": false,
+    "valor": 2248.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(LOHANA SMAHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 7200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PGTO PIX DEBITO PAGAMENTO PIX(CIA DE SANEAMENTO DOPARANA SANEPAR)",
+    "credito": true,
+    "debito": false,
+    "valor": 1103.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(Registro)",
+    "credito": true,
+    "debito": false,
+    "valor": 363.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(sindicato)",
+    "credito": true,
+    "debito": false,
+    "valor": 132.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(uniao)",
+    "credito": true,
+    "debito": false,
+    "valor": 1602.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(SHADYA MARCELO ABBAS)",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "DAUT FAT CARTAO CRED(FAT. CARTAO UNICRED)",
+    "credito": true,
+    "debito": false,
+    "valor": 11986.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(ADRIANA DOMINGAS DOSSANTOS)",
+    "credito": false,
+    "debito": true,
+    "valor": 3255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(custas 1)",
+    "credito": true,
+    "debito": false,
+    "valor": 32.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(custas 2)",
+    "credito": true,
+    "debito": false,
+    "valor": 43.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "DomDeb CRED DOM - DEBITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 2963.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 6309.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(Germana Santos Lima)",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 1116.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(Consorcio)",
+    "credito": true,
+    "debito": false,
+    "valor": 802.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(cartao caixa)",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(jhs)",
+    "credito": true,
+    "debito": false,
+    "valor": 169.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(itamed)",
+    "credito": true,
+    "debito": false,
+    "valor": 12608.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(acifi)",
+    "credito": true,
+    "debito": false,
+    "valor": 73.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "DEB PIX DEBITO TRANSF PIX(Maria De Fatima Souza Dos Santos)",
+    "credito": true,
+    "debito": false,
+    "valor": 794.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "DEB PIX DEBITO TRANSF PIX(SHOCK COMERCIO EINSTALACAO DE ALARMES L)",
+    "credito": true,
+    "debito": false,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(01)",
+    "credito": true,
+    "debito": false,
+    "valor": 198.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(04)",
+    "credito": true,
+    "debito": false,
+    "valor": 298.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(02)",
+    "credito": true,
+    "debito": false,
+    "valor": 264.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(DIOGO ARAUJO RIBEIRO)",
+    "credito": false,
+    "debito": true,
+    "valor": 11880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(SANTOS & FUCKS LTDA - ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(JOAO PAULO FABRI)",
+    "credito": false,
+    "debito": true,
+    "valor": 4050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(MARCELO DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 4375.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(inss irrf)",
+    "credito": true,
+    "debito": false,
+    "valor": 2542.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(Simples)",
+    "credito": true,
+    "debito": false,
+    "valor": 32014.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "DEB PIX DEBITO TRANSF PIX(Thiago Wendler Martinez)",
+    "credito": true,
+    "debito": false,
+    "valor": 8154.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(copyvic)",
+    "credito": true,
+    "debito": false,
+    "valor": 2239.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(Edson Da Silva Mendes Vilaca)",
+    "credito": false,
+    "debito": true,
+    "valor": 5280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "15658",
+    "complemento": "RECEB TED D(UNIMED DE FOZ DO IGU)",
+    "credito": false,
+    "debito": true,
+    "valor": 4680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "15658",
+    "complemento": "RECEB TED D(UNIMED DE FOZ DO IGU)",
+    "credito": false,
+    "debito": true,
+    "valor": 4680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "15658",
+    "complemento": "RECEB TED D(UNIMED DE FOZ DO IGU)",
+    "credito": false,
+    "debito": true,
+    "valor": 5400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "200387",
+    "complemento": "TRANSF TEF PIX(THIAGO MAYCON SANCHES SANTOS)",
+    "credito": true,
+    "debito": false,
+    "valor": 1656.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "264",
+    "complemento": "RECEB TED D(UNIMED RIO BRANCO CO)",
+    "credito": false,
+    "debito": true,
+    "valor": 7800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 536.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(TJ)",
+    "credito": true,
+    "debito": false,
+    "valor": 16.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "DomCred CRED DOM - CREDITO(C1CIELO SA)",
+    "credito": false,
+    "debito": true,
+    "valor": 4185.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PGTO PIX DEBITO PAGAMENTO PIX(LE JARDIN AROMATIZANTESE MARKETING OLFA)",
+    "credito": true,
+    "debito": false,
+    "valor": 445.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "2022130239",
+    "complemento": "LIQ PARCELA EMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 19594.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PGTO PIX DEBITO PAGAMENTO PIX(ELEVADORES ORIENTE)",
+    "credito": true,
+    "debito": false,
+    "valor": 820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(dental igua)",
+    "credito": true,
+    "debito": false,
+    "valor": 699.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(yniatos)",
+    "credito": true,
+    "debito": false,
+    "valor": 266.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "MAESTRO COMPRA DEBITO(CASTELO LIBANES FOZ DO IGUACUBRA)",
+    "credito": true,
+    "debito": false,
+    "valor": 745.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(workserv)",
+    "credito": true,
+    "debito": false,
+    "valor": 159.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(tim)",
+    "credito": true,
+    "debito": false,
+    "valor": 340.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "MAESTRO COMPRA DEBITO(AGROSHOPPING CASA DO C FOZ DOIGUACU BRA)",
+    "credito": true,
+    "debito": false,
+    "valor": 25.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(simples)",
+    "credito": true,
+    "debito": false,
+    "valor": 1638.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVÊNIOS(prefeitura)",
+    "credito": true,
+    "debito": false,
+    "valor": 693.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "Convênio ARREC CONVENIO(simples)",
+    "credito": true,
+    "debito": false,
+    "valor": 1467.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(crefono)",
+    "credito": true,
+    "debito": false,
+    "valor": 37.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(igjabour)",
+    "credito": true,
+    "debito": false,
+    "valor": 858.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(greencard)",
+    "credito": true,
+    "debito": false,
+    "valor": 8470.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PGTO PIX DEBITO PAGAMENTO PIX(VIACAO SANTA CLARA LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(M K LANCHES LTDA - ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 5600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "200387",
+    "complemento": "TRANSF TEF PIX(THIAGO MAYCON SANCHES SANTOS)",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "CRED PIX CRED RECEBIMENTO PIX(Incorporadora Vivaz Ltda)",
+    "credito": false,
+    "debito": true,
+    "valor": 5850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "MAESTRO COMPRA DEBITO(GRAOS & GENTE FOZ DO IGUACUBRA)",
+    "credito": true,
+    "debito": false,
+    "valor": 184.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "2859923400",
+    "complemento": "LIQ TIT - IB(greencard)",
+    "credito": true,
+    "debito": false,
+    "valor": 347.0,
+    "origem": "Extrato"
+  }
+]

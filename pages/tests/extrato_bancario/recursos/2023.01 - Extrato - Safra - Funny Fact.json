@@ -1,0 +1,47 @@
+[
+  {
+    "data": "11/01/2023",
+    "documento": null,
+    "complemento": "CEMEX SA REG S DUE 07/11/2031 3.875 REG INT ON 250000 BND RECORD 12/27/22 PAY 01/11/23 SECURITY NUMBER: P2253TJR1",
+    "credito": false,
+    "debito": true,
+    "valor": 4843.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": null,
+    "complemento": "CUSTODY FEE AS OF 12/31/22",
+    "credito": true,
+    "debito": false,
+    "valor": 704.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": null,
+    "complemento": "SAFRA NATIONAL B CR CD PMT",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": null,
+    "complemento": "EDF SUBORDINATED REG S DUE 12/31/2149 5.250 REG INT ON 100000 BND RECORD 01/13/23 PAY 01/29/23 SECURITY NUMBER: F2893TAF3",
+    "credito": false,
+    "debito": true,
+    "valor": 2625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": null,
+    "complemento": "FULL CALL ***EDF",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  }
+]

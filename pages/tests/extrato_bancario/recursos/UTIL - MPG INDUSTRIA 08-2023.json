@@ -1,0 +1,38 @@
+[
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "10.530.765/0001-97 MPG INDUSTRIA E COMERCIO DE PECAS AGRICOLAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "10.530.765/0001-97 MPG INDUSTRIA E COMERCIO DE PECAS AGRICOLAS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 782.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "10.530.765/0001-97 MPG INDUSTRIA E COMERCIO DE PECAS AGRICOLAS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 5700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "10.530.765/0001-97 MPG INDUSTRIA E COMERCIO DE PECAS AGRICOLAS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  }
+]

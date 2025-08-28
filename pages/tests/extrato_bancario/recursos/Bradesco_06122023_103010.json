@@ -1,0 +1,542 @@
+[
+  {
+    "data": "01/11/2023",
+    "documento": "3394816",
+    "complemento": "TED-TRANSF ELET DISPON REMET.CLINICA DA PLASTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1006575",
+    "complemento": "TRANSFERENCIA PIX REM: SEBASTIAO PEIXOTO FIL 01/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1109117",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1514299",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 17501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "943192",
+    "complemento": "TRANSFERENCIA PIX REM: Bruna Cordeiro Duarte 04/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1351141",
+    "complemento": "TRANSFERENCIA PIX REM: PAULA ISABELLY VITURI 06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3309.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "3685051",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 8309.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1005216",
+    "complemento": "TRANSFERENCIA PIX REM: GICILENE FERREIRA DE 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5218.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1749395",
+    "complemento": "TRANSFERENCIA PIX REM: Gabriel Eduardo Chite 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "4811167",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 18868.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "8281535",
+    "complemento": "TED-TRANSF ELET DISPON REMET.LAURA MARTENDAL",
+    "credito": false,
+    "debito": true,
+    "valor": 42570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "937461",
+    "complemento": "TRANSFERENCIA PIX REM: GABRIEL LUIZ DE ARAUJ 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1036571",
+    "complemento": "TRANSFERENCIA PIX REM: GABRIEL LUIZ DE ARAUJ 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1155323",
+    "complemento": "TRANSFERENCIA PIX REM: Ernandes Marinho de S 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4605.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1109388",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "5934335",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 43375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1314283",
+    "complemento": "TRANSFERENCIA PIX REM: Rafaela Goncalves Da 09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3559.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "6789334",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 3559.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "6496779",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 35283.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "7487009",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 7736.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1154035",
+    "complemento": "TRANSFERENCIA PIX REM: Rayane Almeida dos Sa 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1545276",
+    "complemento": "TRANSFERENCIA PIX REM: SARAH BAFFIONI DOS SA 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1109213",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 70000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "7487009",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 14459.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "653345",
+    "complemento": "TRANSFERENCIA PIX REM: Pietra Azalim do Vall 13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6521.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1109509",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1459305",
+    "complemento": "DEVOLUCAO PIX DES: SARAH BAFFIONI DOS SA 13/11",
+    "credito": true,
+    "debito": false,
+    "valor": 980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "3401617",
+    "complemento": "TED-TRANSF ELET DISPON REMET.FERNANDO FONSECA COS",
+    "credito": false,
+    "debito": true,
+    "valor": 19290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "11123",
+    "complemento": "TARIFA BANCARIA CESTA PJ 3",
+    "credito": true,
+    "debito": false,
+    "valor": 126.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "9030809",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 19163.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1616451",
+    "complemento": "TRANSFERENCIA PIX REM: Bianca de Mello Seile 15/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2614.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1748366",
+    "complemento": "TRANSFERENCIA PIX REM: Felipe Augusto de Oli 15/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "9829404",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 8129.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "2044614",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 5685.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "2819371",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2129.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "3499763",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4727.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "7487009",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 15701.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "8636287",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 13533.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "9791004",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 16221.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1803413",
+    "complemento": "TRANSFERENCIA PIX REM: ALYSSA OLIVEIRA CARDO 19/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1109585",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 70000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "3499763",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 575.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "4672055",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4606.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "6043504",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 90.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "958429",
+    "complemento": "TRANSFERENCIA PIX REM: FERNANDO FONSECA COST 21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6728.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "930380",
+    "complemento": "DEVOLUCAO PIX DES: ALYSSA OLIVEIRA CARDO 21/11",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9500658",
+    "complemento": "TED-TRANSF ELET DISPON REMET.GUILHERME SOUZA JERO",
+    "credito": false,
+    "debito": true,
+    "valor": 27290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "3649048",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 27290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "6043504",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6930.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "727481",
+    "complemento": "TRANSFERENCIA PIX REM: Rayane Almeida dos Sa 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "927442",
+    "complemento": "TRANSFERENCIA PIX REM: Luísa Oliveira Correa 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13070.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1109200",
+    "complemento": "TRANSF CC PARA CC PJ PRISCILA HELENA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "1713053",
+    "complemento": "TRANSFERENCIA PIX REM: Ana Luiza Lopes do Ca 28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "5166401",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 5260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "842349",
+    "complemento": "TRANSFERENCIA PIX REM: Thiciane Barros Ribei 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "846067",
+    "complemento": "TRANSFERENCIA PIX REM: Thiciane Barros Ribei 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1332.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "850003",
+    "complemento": "TRANSFERENCIA PIX REM: Thiciane Barros Ribei 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "1647442",
+    "complemento": "TRANSFERENCIA PIX REM: RR ORTOPEDIA E TRAUMA 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "7045996",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 5914.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "9569485",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 4605.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 878.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag TED        D OUTR",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag TED        D OUTR",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Sispag  0000000162",
+    "credito": false,
+    "debito": true,
+    "valor": 34897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 22419.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2022",
+    "documento": "",
+    "complemento": "Sispag  CONCESSIONARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 122.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2022",
+    "documento": "",
+    "complemento": "Tar Conta Certa    12/21",
+    "credito": true,
+    "debito": false,
+    "valor": 274.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 397.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLET OUTR BCO",
+    "credito": true,
+    "debito": false,
+    "valor": 74.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 74.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 3142.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Sispag  DOC OUTRA TITUL",
+    "credito": true,
+    "debito": false,
+    "valor": 3142.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Est SispAMAURI VI",
+    "credito": false,
+    "debito": true,
+    "valor": 3142.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 4141.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 749.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2022",
+    "documento": "",
+    "complemento": "Déb Autor UOL",
+    "credito": true,
+    "debito": false,
+    "valor": 70.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 5070.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 759.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "",
+    "complemento": "Sispag  TRIB COD BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2743.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLET OUTR BCO",
+    "credito": true,
+    "debito": false,
+    "valor": 1851.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 5354.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLETO BANCO 341",
+    "credito": true,
+    "debito": false,
+    "valor": 1361.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "Sispag  GFIP",
+    "credito": true,
+    "debito": false,
+    "valor": 307.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "Sispag  GFIP",
+    "credito": true,
+    "debito": false,
+    "valor": 307.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "Sispag  TRIB COD BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 178.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF  ONCABO 12/01",
+    "credito": false,
+    "debito": true,
+    "valor": 11200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 9046.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2022",
+    "documento": "",
+    "complemento": "Sispag  TRIB COD BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 910.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 910.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 1644.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 4361.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 2013.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLET OUTR BCO",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 7399.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "Sispag  CONCESSIONARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 123.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLET OUTR BCO",
+    "credito": true,
+    "debito": false,
+    "valor": 608.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "TED 237.3395ARCADIS LOGO",
+    "credito": false,
+    "debito": true,
+    "valor": 7087.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 4355.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 549.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Sispag  PIX TRANSFERENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Int PRE-PAGOXXXXX  6762",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Sispag  BOLET OUTR BCO",
+    "credito": true,
+    "debito": false,
+    "valor": 313.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 4333.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2022",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.19,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "data": "22/06/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA - R V B EMBALAGENS AMP; MADEIR",
+    "credito": false,
+    "debito": true,
+    "valor": 450000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "",
+    "complemento": "APLIC. CETIP - Debenture REAM PARTICIPACOES S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 450000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "RESG.CETIP - Debenture REAM PARTICIPACOES S.A -",
+    "credito": false,
+    "debito": true,
+    "valor": 450972.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "IRRF - Debenture REAM PARTICIPACOES S.A - Venc:",
+    "credito": true,
+    "debito": false,
+    "valor": 218.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "DÉBITO EM C/C VIA CIP",
+    "credito": true,
+    "debito": false,
+    "valor": 450753.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA - R V B EMBALAGENS AMP; MADEIR",
+    "credito": false,
+    "debito": true,
+    "valor": 550000.0,
+    "origem": "Extrato"
+  }
+]

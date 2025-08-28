@@ -1,0 +1,56 @@
+[
+  {
+    "data": "06/04/2023",
+    "documento": "1097573",
+    "complemento": "PGTO.SINISTRO AP/CERTIF.",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "1097574",
+    "complemento": "PGTO.SINISTRO AP/CERTIF.",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "1724873",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "4087324",
+    "complemento": "RECEB POR FORNECIMENTO MEDISERVICE OPERADORA PLANOS SAU",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "1684569",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "3727360",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  }
+]

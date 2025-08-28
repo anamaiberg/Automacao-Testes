@@ -1,0 +1,857 @@
+[
+  {
+    "data": "04/01/2021",
+    "documento": "409964",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 3006.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2021",
+    "documento": "991669",
+    "complemento": "TED 26365252000108 MINIMERCADO RUBI LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 3134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2021",
+    "documento": "477780",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 3331.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2021",
+    "documento": "SI14207",
+    "complemento": "TRANSF ENTRE CONTAS 49603175900 RUBENS SPERNAU",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 5528.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2021",
+    "documento": "376858",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 4557.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2021",
+    "documento": "SI04448",
+    "complemento": "TRANSF ENTRE CONTAS 00180982079 MICHELE CASSARO",
+    "credito": false,
+    "debito": true,
+    "valor": 7518.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 7075.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2021",
+    "documento": "468738",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 3201.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3201.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2021",
+    "documento": "334322",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 5554.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 5554.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "563223",
+    "complemento": "TED 85690538949 REGINA C DO CANTO SOUZA",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 200.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 177.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1386.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1235.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 164.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 94.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 41.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 94.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1503.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 534.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 622.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1334.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 184.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 41.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 41.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 94.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 41.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 94.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 801.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 366.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 38.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 22.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 150.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2211.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 22.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 38.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 22.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 38.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 5643.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 151.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 169.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "770682",
+    "complemento": "TED 36391827000110 GESTAO CONSULTORIA IMOBILIARI",
+    "credito": false,
+    "debito": true,
+    "valor": 5400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1771.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 572.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 573.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1153.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 7791.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6747.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 369.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 232.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1058.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1168.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 16359.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6235.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 283.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 566.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 7085.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2021",
+    "documento": "898101496",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2021",
+    "documento": "328713",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 3061.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2021",
+    "documento": "NCX000252",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 262.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2021",
+    "documento": "3335013",
+    "complemento": "DEP CHEQUE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2021",
+    "documento": "321993",
+    "complemento": "TED 31712536000163 USEND TECNOLOGIA E SERVICOS F",
+    "credito": false,
+    "debito": true,
+    "valor": 2982.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 11292.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2021",
+    "documento": "cota",
+    "complemento": "INTEGR.CAPITAL SUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2021",
+    "documento": "433449284",
+    "complemento": "DEP CHEQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 3827.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3777.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2788.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 55.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 874.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2021",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2021",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2021",
+    "documento": "366796160",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 644.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3498.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 162.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 238.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 382.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2021",
+    "documento": "SI00297",
+    "complemento": "TRANSF ENTRE CONTAS 78522729000115 IMOBILIARIA D",
+    "credito": false,
+    "debito": true,
+    "valor": 5449.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1870.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1979.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 179.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2021",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 178.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2021",
+    "documento": "824277",
+    "complemento": "TED 99375842053 VINICIUS HEINSKE",
+    "credito": false,
+    "debito": true,
+    "valor": 3056.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2021",
+    "documento": "DARFC0064",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5268.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2021",
+    "documento": "DARFC0064",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 8205.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 6239.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 2510.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 1047.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2021",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 3433.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2021",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 743.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2021",
+    "documento": "CAPTACAO",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 4177.76,
+    "origem": "Extrato"
+  }
+]

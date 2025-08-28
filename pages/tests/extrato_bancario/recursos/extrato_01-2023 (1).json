@@ -1,0 +1,596 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "",
+    "complemento": "129 DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 25.086.034 0001-71 VENC 02.01.2023 R",
+    "credito": true,
+    "debito": false,
+    "valor": 142.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "3833 DEB.PARCELAS SUBSC./INTEGR.",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "403386 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "",
+    "complemento": "41 - 18 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "MASTERCARD DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 199.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 31.872.784 0001-71",
+    "credito": true,
+    "debito": false,
+    "valor": 262.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "404736 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703707 DÉB.TIT.COMPE EFETIVADO COND 901",
+    "credito": true,
+    "debito": false,
+    "valor": 423.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703710 DÉB.TIT.COMPE EFETIVADO COND 902",
+    "credito": true,
+    "debito": false,
+    "valor": 426.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703713 DÉB.TIT.COMPE EFETIVADO COND 903",
+    "credito": true,
+    "debito": false,
+    "valor": 369.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703716 DÉB.TIT.COMPE EFETIVADO COND 904",
+    "credito": true,
+    "debito": false,
+    "valor": 370.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703718 DÉB.TIT.COMPE EFETIVADO COND 905",
+    "credito": true,
+    "debito": false,
+    "valor": 1374.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703720 DÉB.TIT.COMPE EFETIVADO COND 906",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703721 DÉB.TIT.COMPE EFETIVADO COND 907",
+    "credito": true,
+    "debito": false,
+    "valor": 426.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703723 DÉB.TIT.COMPE EFETIVADO COND 908",
+    "credito": true,
+    "debito": false,
+    "valor": 369.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703725 DÉB.TIT.COMPE EFETIVADO COND 909",
+    "credito": true,
+    "debito": false,
+    "valor": 370.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703727 DÉB.TIT.COMPE EFETIVADO COND VAGAS",
+    "credito": true,
+    "debito": false,
+    "valor": 792.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "3703745 DÉB.TIT.COMPE EFETIVADO CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 10.573.521 0001-91",
+    "credito": true,
+    "debito": false,
+    "valor": 107.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "405144 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 8370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "405499 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "405878 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1360.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "406173 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.349.023-** PORTAO E CERCA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715274 DÉB.TIT.COMPE EFETIVADO COND AP 703",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715276 DÉB.TIT.COMPE EFETIVADO COND AP 903",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715281 DÉB.TIT.COMPE EFETIVADO COND AP 1402",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715287 DÉB.TIT.COMPE EFETIVADO CHAMADA CAPITAL 703",
+    "credito": true,
+    "debito": false,
+    "valor": 113.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715288 DÉB.TIT.COMPE EFETIVADO CHAMADA CAPITAL 903",
+    "credito": true,
+    "debito": false,
+    "valor": 113.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715290 DÉB.TIT.COMPE EFETIVADO CHAMADA CAPITAL 1402",
+    "credito": true,
+    "debito": false,
+    "valor": 113.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715305 DÉB.TIT.COMPE EFETIVADO VISAN",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "3715505 DÉB.CONV.TELECOMUNICAÇÕES SAQUE INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 184.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.407.851-** FAXINA ANTONIA",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUCIANO GOMES NOLETO ***.684.141-**",
+    "credito": false,
+    "debito": true,
+    "valor": 980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MUNDO GOSPEL COM PROD EVANGÉLICO LTDA 09.345.624 0001-15",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "407726 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1383.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "408075 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "",
+    "complemento": "408465 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "",
+    "complemento": "408756 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 38.154.506 0001-28",
+    "credito": true,
+    "debito": false,
+    "valor": 277.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "",
+    "complemento": "3727722 DÉB.TIT.COMPE EFETIVADO ENERGIA 104 SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 97.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "3731452 DÉB.TIT.COMPE EFETIVADO VISAN",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "410260 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1303.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "410561 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "",
+    "complemento": "3734352 DÉB.CONV.SANEAMENTO ÁGUA AP 903",
+    "credito": true,
+    "debito": false,
+    "valor": 75.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "",
+    "complemento": "411224 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "3739824 CRÉD.TRANSF.CONTAS REM.: VISAN PARTICIPACOES A PAGAR IMPOSTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "3740242 DÉB.CONV.TRIBUTOS FEDERAIS - RFB IMPOSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 3919.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "3740244 DÉB.CONV.TRIBUTOS FEDERAIS - RFB IMPOSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 18089.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.453.496-**",
+    "credito": true,
+    "debito": false,
+    "valor": 195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "412174 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "412428 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "3742282 DÉB.TIT.COMPE EFETIVADO ENERGIA ESCRITÓRIO",
+    "credito": true,
+    "debito": false,
+    "valor": 255.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.405.991-** SAQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.405.991-** MATERIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 256.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "3746714 DÉB.TIT.COMPE EFETIVADO COLLECTION",
+    "credito": true,
+    "debito": false,
+    "valor": 399.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "",
+    "complemento": "551234 COMPRA MASTERCARD MAESTRO AUTO POSTO ANDRADE PARAISO DO TO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "",
+    "complemento": "382477 COMPRA MASTERCARD MAESTRO AUTO POSTO ANDRADE PARAISO DO TO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 128.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "3754291 DÉB.CONV.TRIBUTOS FEDERAIS - RFB IMPOSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 8565.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "3754294 DÉB.CONV.TRIBUTOS FEDERAIS - RFB IMPOSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 12178.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "3754295 CRÉD.TRANSF.CONTAS REM.: VISAN PARTICIPACOES A",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "3754305 DÉB.CONV.PREFEITURA VISAN",
+    "credito": true,
+    "debito": false,
+    "valor": 2163.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 25.086.034 0001-71",
+    "credito": true,
+    "debito": false,
+    "valor": 140.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "414511 CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1124.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "",
+    "complemento": "414800 TARIFA COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  }
+]

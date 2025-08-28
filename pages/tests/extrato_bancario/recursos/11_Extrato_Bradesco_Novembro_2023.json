@@ -1,0 +1,740 @@
+[
+  {
+    "data": "01/11/2023",
+    "documento": "9284064",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 1202.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "2357989",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Silvadenir de Castro",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "6852527",
+    "complemento": "Encargos Limite de Cred Encargo - 15,84%",
+    "credito": true,
+    "debito": false,
+    "valor": 310.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "2357989",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "9284064",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 2425.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "6852527",
+    "complemento": "Iof S/ Utilizacao Limite",
+    "credito": true,
+    "debito": false,
+    "valor": 53.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "0921276",
+    "complemento": "Transferencia Pix Des: Shelton Hotel 03/11",
+    "credito": true,
+    "debito": false,
+    "valor": 2372.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "9284064",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 1542.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5176413",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Camargo & Grigoletto",
+    "credito": true,
+    "debito": false,
+    "valor": 744.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5903684",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 1892.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5912291",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 1892.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5667662",
+    "complemento": "Pagto Eletronico Tributo Internet --fgts/grf S/tomador",
+    "credito": true,
+    "debito": false,
+    "valor": 398.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5176413",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5903684",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5912291",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "6671235",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Silvadenir de Castro",
+    "credito": true,
+    "debito": false,
+    "valor": 3374.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0031123",
+    "complemento": "Tarifa Bancaria Transf Pgto Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "6671235",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0802436",
+    "complemento": "Transferencia Pix Des: Shelton Hotel 07/11",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "0071123",
+    "complemento": "Tarifa Bancaria Transf Pgto Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1775489",
+    "complemento": "Transf Cc Para Cc Pj Filtros Planeta Agua Industria e",
+    "credito": false,
+    "debito": true,
+    "valor": 819.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0809124",
+    "complemento": "Transferencia Pix Rem: Megapress Automacao I 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9573.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0000540",
+    "complemento": "Pagto Eletron Cobranca Gol Unimed Nov",
+    "credito": true,
+    "debito": false,
+    "valor": 3404.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0814090",
+    "complemento": "Transferencia Pix Des: Carvalho Branco Agrop 10/11",
+    "credito": true,
+    "debito": false,
+    "valor": 640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0953277",
+    "complemento": "Transferencia Pix Des: Lob Hotelaria Ibis PA 13/11",
+    "credito": true,
+    "debito": false,
+    "valor": 654.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "1441745",
+    "complemento": "Transf Cc Para Cc Pj Cardal Eletro Metalurgica Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 574.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "1400214",
+    "complemento": "Recebimento Fornecedor Blukit Industria de Plasticos Lt",
+    "credito": false,
+    "debito": true,
+    "valor": 3165.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "1400214",
+    "complemento": "Recebimento Fornecedor Blukit Metalurgica Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 3902.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0011123",
+    "complemento": "Tarifa Bancaria Cesta Flex Pj",
+    "credito": true,
+    "debito": false,
+    "valor": 126.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0101123",
+    "complemento": "Tarifa Bancaria Transf Pgto Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 8.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "8791978",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 6130.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1129284",
+    "complemento": "Transferencia Pix Rem: Rinnai Brasil Tecnolo 16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 87904.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "0000539",
+    "complemento": "Pagto Eletron Cobranca Bradesco Vida e Previdencia",
+    "credito": true,
+    "debito": false,
+    "valor": 194.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "4597605",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "4606799",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "5952223",
+    "complemento": "Pagto Eletronico Tributo Internet --p.m Valinhos/sp",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "4597605",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "4606799",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "9632325",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 24884.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "8791978",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 6130.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "9632325",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 14300.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980317",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 1530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980401",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 6590.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980403",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 6106.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980405",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 1341.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980408",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 1341.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "0131123",
+    "complemento": "Tarifa Bancaria Transf Pgto Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "5304920",
+    "complemento": "Pagto Eletronico Tributo Internet --receita Federal/sp",
+    "credito": true,
+    "debito": false,
+    "valor": 3453.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980317",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980401",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980403",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980405",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "4980408",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "7328381",
+    "complemento": "Ted-transf Elet Dispon Remet.paranapanema S.a",
+    "credito": false,
+    "debito": true,
+    "valor": 15652.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "6092461",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Silvadenir de Castro",
+    "credito": true,
+    "debito": false,
+    "valor": 778.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "6092461",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1521805",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 14861.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "1459117",
+    "complemento": "Transferencia Pix Rem: Italy - Valvulas e Me 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 493.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "2245932",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 493.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "1441072",
+    "complemento": "Dep Dinh Corresp Banc",
+    "credito": false,
+    "debito": true,
+    "valor": 65.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "2851084",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 65.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "1521805",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 8501.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9632325",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 10584.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9124860",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 7827.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9126989",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 7827.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "6042172",
+    "complemento": "Bradesco Net Empresa Net Empresa Darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "6048109",
+    "complemento": "Bradesco Net Empresa Net Empresa Darf",
+    "credito": true,
+    "debito": false,
+    "valor": 606.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9124860",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "9126989",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "1521805",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 6360.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "2245932",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 493.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "2851084",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 65.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4044019",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 768.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4045602",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Jeferson Fernando Fo",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4046902",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Ricardo Luis da Silv",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4050883",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Camargo & Grigoletto",
+    "credito": true,
+    "debito": false,
+    "valor": 744.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4193956",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Silvadenir de Castro",
+    "credito": true,
+    "debito": false,
+    "valor": 2137.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4044019",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4045602",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4046902",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4050883",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "4193956",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  }
+]

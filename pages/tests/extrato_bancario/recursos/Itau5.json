@@ -1,0 +1,578 @@
+[
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "INT PAG TIT 109000007538 4175",
+    "credito": true,
+    "debito": false,
+    "valor": 2883.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "INT PAG TIT 109000030642 4175",
+    "credito": true,
+    "debito": false,
+    "valor": 491.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "INT PAG TIT BANCO 001 4175",
+    "credito": true,
+    "debito": false,
+    "valor": 387.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "INT PAG TIT BANCO 033 4175",
+    "credito": true,
+    "debito": false,
+    "valor": 904.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "SISPAG GUT SAPAT EIRELI 1414",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "APL APLIC AUT MAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 30110.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 918.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "TAR CONTA CERTA 08/20 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 1088.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 143.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 134.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 277.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 64.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 3458.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 3523.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2241.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 3750.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "LIS/JUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 129.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 6121.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 1505.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 1505.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2458.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2863.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 5321.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 11886.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 11886.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 6087.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 152.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 386.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 878.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "TED 104.0412MAFFEZZOLI B",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "APL APLIC AUT MAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 3268.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 341.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 341.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2480.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 2480.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 1907.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 8433.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "TED 104.0412MAFFEZZOLI B",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "APL APLIC AUT MAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 69658.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2734.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 249.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITUL TED 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 1366.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 7350.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 3349.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 5927.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 509.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 14687.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 24474.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 679.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 2916.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 3595.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 1707.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 5.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 529.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 1414",
+    "credito": true,
+    "debito": false,
+    "valor": 5780.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "RES APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 8022.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  }
+]

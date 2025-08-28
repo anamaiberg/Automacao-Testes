@@ -1,0 +1,3440 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 15726.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "5311",
+    "complemento": "TRANSF C/C DIF TIT INTERNMBM BENEFICIAMENTOS DE MINERAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 513.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 12803.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 14390.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 4399.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 83.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203601",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 45.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203602",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 71.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 324.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203601",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 878.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203602",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3515.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 147.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 29.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 16.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 102.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 14.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4248.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 8508.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1622.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 7863.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2183.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2378.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2408.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 27661.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 157.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 770.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2606.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 436.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2007.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 9463.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6106.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 422.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 376.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 738.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 439.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 413.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3252.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1063.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 28450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 245.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 33449.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 893.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 346.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 474.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 5986.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2022.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 134.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 5644.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1646.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 826.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "136076",
+    "complemento": "TRANSF C/C DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 2800.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2949.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1192.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 582.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3907.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 228.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 922.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4201.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3725.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6792.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 630.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 725.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "5311",
+    "complemento": "TRANSF C/C DIF TIT INTERNMBM BENEFICIAMENTOS DE MINERAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 577.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 370.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 255.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 649.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 119.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 912.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1999.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 732.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9426.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 78.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203601",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 34.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203602",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 75.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 425.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203601",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 878.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203602",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3515.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 15277.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9623.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 590.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 8443.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4481.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1799.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 7639.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 239.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 5023.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "5311",
+    "complemento": "TRANSF C/C DIF TIT INTERNMBM BENEFICIAMENTOS DE MINERAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 574.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4201.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 13477.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 63.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4714.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 732.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 436.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 21083.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 70.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203601",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 20.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203602",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 42.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 358.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203601",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 878.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203602",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3515.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 7835.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1155.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 525.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 19139.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6650.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 14896.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 8533.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 898.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 738.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 87.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 215.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9630.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 14431.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3516.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 853.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1163.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1646.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 197.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 826.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 10202.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 91.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3116.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 18199.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 3413.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 68.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203601",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203602",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 506.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203601",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 879.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203602",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3515.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 11809.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 14830.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 918.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 395.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 356.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 690.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 422.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 770.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 413.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 376.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6795.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 227.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 11555.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 746.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 192.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6440.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2878.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4714.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 7988.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2965.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 776.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2196.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1763.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2840.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 419.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 62.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2005.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9614.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 19962.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 7659.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2699.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 711.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 7672.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1505.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2394.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1892.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2270.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 22950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6795.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 216.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3247.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 18358.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2704.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2967.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2975.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3984.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2586.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 795.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "7904",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3684.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 955.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 18179.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 57.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 12230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 366.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2765.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 20110.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 544.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 934.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 362.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1898.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1412.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 134.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6419.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 295.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 540.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2368.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2807.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 546.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 223.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 531.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 216.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 8879.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2799.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 737.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2571.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 479.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 17874.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3907.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4201.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1161.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6792.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 5233.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1461.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 115.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 427.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4714.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 415.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 20056.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6234.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 52.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1031.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1266.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 7075.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2853.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 188.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2232.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 31594.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 666.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 770.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 413.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 422.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 295.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1399.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 12102.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3252.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 738.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 376.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 10472.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 948.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "11971",
+    "complemento": "RECEBIMENTO VIA PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 882.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "209202",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 44.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 204.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "209202",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 837.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 17130.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 541.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 4800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "7904",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 174.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "7904",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4277.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1763.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1265.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9005.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 54.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 9683.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 25453.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2808.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 15090.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 6490.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "6761",
+    "complemento": "TAR REG CONS E BAIXA SNG",
+    "credito": true,
+    "debito": false,
+    "valor": 115.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 204.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 11487.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 7032.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 29761.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 133.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "4347",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 5325.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3252.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 948.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 13410.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1259.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 14905.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 198.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4624.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4870.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 16531.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "8227",
+    "complemento": "TARIFA PACOTE DE TARIFAS",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 439.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1763.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 715.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 381.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 237.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "5618",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 4739.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 3907.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4201.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "7904",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 174.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "7904",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 4302.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "5600",
+    "complemento": "TED VIA INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 544.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1847.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 5715.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 1287.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 25676.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 5041.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 715.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 10694.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "203702",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 167.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "203702",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "11974",
+    "complemento": "PAGAMENTO VIA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 12402.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 10472.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "210302",
+    "complemento": "PAGAMENTO ENCARGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 187.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "210302",
+    "complemento": "DEBITO PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 920.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "5620",
+    "complemento": "TRANSF RECURSOS VIA TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9662.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "7221",
+    "complemento": "PGTO TRIBUTOS INTERNBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 375.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 439.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 422.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "5301",
+    "complemento": "PGTO TITULO INTERNET BANK",
+    "credito": true,
+    "debito": false,
+    "valor": 134.2,
+    "origem": "Extrato"
+  }
+]

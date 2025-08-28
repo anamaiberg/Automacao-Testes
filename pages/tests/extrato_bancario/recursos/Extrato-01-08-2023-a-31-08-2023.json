@@ -1,0 +1,83 @@
+[
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "RESGATE - CDB POS DI LIQ. BANCO INTER SA",
+    "credito": false,
+    "debito": true,
+    "valor": 929.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "RESGATE - CDB CREDITO BANCO INTER SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2546.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "PAGAMENTO DE TITULO - Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 388.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "PAGAMENTO DE CONVENIO - Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 109.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "PIX ENVIADO - Cp :01181521-Miguel Joao Moreira",
+    "credito": true,
+    "debito": false,
+    "valor": 1175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "PIX ENVIADO - Cp :01181521-Miguel Joao Moreira",
+    "credito": true,
+    "debito": false,
+    "valor": 1325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "PAGAMENTO DE TITULO - Honorários",
+    "credito": true,
+    "debito": false,
+    "valor": 266.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "PAGAMENTO DE CONVENIO - Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 145.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "PAGAMENTO DE CONVENIO - VIVO MOVEL",
+    "credito": true,
+    "debito": false,
+    "valor": 74.99,
+    "origem": "Extrato"
+  }
+]

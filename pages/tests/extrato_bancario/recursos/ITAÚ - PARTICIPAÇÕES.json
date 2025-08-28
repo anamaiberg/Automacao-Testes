@@ -1,0 +1,605 @@
+[
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 52796.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 1313.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE A03/04 9120",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 45.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 219.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 22305.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 325.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE C04/04 9953",
+    "credito": false,
+    "debito": true,
+    "valor": 17000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "TAR ADAPT 3 EXCED 03/23 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 299.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "TAR PLANO ADAPT 3 03/23 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 17267.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE C05/04 9130",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "JUROS LIMITE DA CONTA",
+    "credito": true,
+    "debito": false,
+    "valor": 546.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 10636.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 12294.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 15789.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "SISPAG SALARIOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 2878.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 255.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 8050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4218.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 23000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 20960.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 12131.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 3930.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 7511.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 342.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 38666.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF MARCELO13/04 9953",
+    "credito": false,
+    "debito": true,
+    "valor": 13600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 26000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4586.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 14971.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 31771.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1740.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 226.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 20.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 738.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 39210.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 1784.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE C20/04 9028",
+    "credito": false,
+    "debito": true,
+    "valor": 27500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 175439.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 11791.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1362.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 9073.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 90000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 30033.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 522.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 869.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 7197",
+    "credito": true,
+    "debito": false,
+    "valor": 2743.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE C27/04 9953",
+    "credito": false,
+    "debito": true,
+    "valor": 56000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "SISPAG",
+    "credito": false,
+    "debito": true,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 185453.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF UNIKE C28/04 9126",
+    "credito": false,
+    "debito": true,
+    "valor": 20200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.09,
+    "origem": "Extrato"
+  }
+]

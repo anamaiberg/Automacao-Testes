@@ -1,0 +1,164 @@
+[
+  {
+    "data": "03/11/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 258.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2020",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2020",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 03/11S 3115",
+    "credito": false,
+    "debito": true,
+    "valor": 12633.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 704.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 461.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 04/11S 3115",
+    "credito": false,
+    "debito": true,
+    "valor": 32632.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "TAR CONTA CERTA 10/20 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 86.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2020",
+    "documento": "",
+    "complemento": "TAR CTA CERTA EXCED10/20 3115",
+    "credito": true,
+    "debito": false,
+    "valor": 10.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2020",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 05/11S 3115",
+    "credito": false,
+    "debito": true,
+    "valor": 1620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2020",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 06/11S 3115",
+    "credito": false,
+    "debito": true,
+    "valor": 3102.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2020",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 09/11S",
+    "credito": false,
+    "debito": true,
+    "valor": 9261.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2020",
+    "documento": "",
+    "complemento": "TED 033.4444ASSOCIACAO 4320",
+    "credito": false,
+    "debito": true,
+    "valor": 1890.0,
+    "origem": "Extrato"
+  }
+]

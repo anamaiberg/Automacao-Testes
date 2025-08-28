@@ -1,0 +1,443 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "056552",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "061500",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 4322.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "061501",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 406.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "000000",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 3.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "000000",
+    "complemento": "IOF ADICIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 9.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "062458",
+    "complemento": "CREDITO TRANSFERENCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "008000",
+    "complemento": "MENSALIDADE PACOTE",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "824663",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 5456.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "830583",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "001004",
+    "complemento": "PAGTO FINANCIAMENTO DE LONGO PRAZO",
+    "credito": true,
+    "debito": false,
+    "valor": 3352.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "606414",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "001030",
+    "complemento": "PAGTO FINANCIAMENTO DE LONGO PRAZO",
+    "credito": true,
+    "debito": false,
+    "valor": 2714.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "000825",
+    "complemento": "CHEQUE COMPENSADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "689366",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "000002",
+    "complemento": "EMPRESTIMO BBH",
+    "credito": true,
+    "debito": false,
+    "valor": 125.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "731809",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 98000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "065480",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 9980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "065481",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 3296.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "065483",
+    "complemento": "DEBITO TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 8400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "775492",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 12800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "772002",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 25500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "773477",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 2385.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "230620",
+    "complemento": "EMPRESTIMO BBH",
+    "credito": true,
+    "debito": false,
+    "valor": 5173.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "230620",
+    "complemento": "EMPRESTIMO BBH",
+    "credito": true,
+    "debito": false,
+    "valor": 11237.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "001022",
+    "complemento": "PAGTO FINANCIAMENTO DE LONGO PRAZO",
+    "credito": true,
+    "debito": false,
+    "valor": 3725.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "000001",
+    "complemento": "OPERACAO CREDITO BBH",
+    "credito": false,
+    "debito": true,
+    "valor": 14620.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 2385.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065798",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065776",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 617.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065777",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 617.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "483948",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 15700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "526293",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065791",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 556.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065792",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 46.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065793",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 46.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065794",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 1781.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065795",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 556.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065796",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 461.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065797",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 461.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065783",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 575.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065784",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 575.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065789",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 1165.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065790",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 1165.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065785",
+    "complemento": "PAGAMENTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 190.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065786",
+    "complemento": "PAGAMENTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 190.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065787",
+    "complemento": "PAGAMENTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 190.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "065788",
+    "complemento": "PAGAMENTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 190.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "000000",
+    "complemento": "JUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 1772.02,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "data": "01/10/2021",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS SETEMBRO / 2021",
+    "credito": true,
+    "debito": false,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2021",
+    "documento": "522246",
+    "complemento": "COMPRA CARTAO DEB MC STOP GO",
+    "credito": true,
+    "debito": false,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2021",
+    "documento": "093446",
+    "complemento": "COMPRA CARTAO DEB MC 04/10 POSTO OSCAR PORTO",
+    "credito": true,
+    "debito": false,
+    "valor": 65.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 65.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "260246",
+    "complemento": "COMPRA CARTAO DEB MC 05/10 COPIADORA SODRE E M",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "513333",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 19449334846",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "084446",
+    "complemento": "COMPRA CARTAO DEB MC 05/10 ADEGA DO TIO",
+    "credito": true,
+    "debito": false,
+    "valor": 274.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "292946",
+    "complemento": "COMPRA CARTAO DEB MC 05/10 PBKIDS BRINQUEDOS L",
+    "credito": true,
+    "debito": false,
+    "valor": 23.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "043146",
+    "complemento": "COMPRA CARTAO DEB MC 05/10 MANIA DE CHURRASCO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 20346.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2021",
+    "documento": "393846",
+    "complemento": "COMPRA CARTAO DEB MC 06/10 KOPENHAGEN",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2021",
+    "documento": "211146",
+    "complemento": "COMPRA CARTAO DEB MC 06/10 ESTAPAR MOGI SHOPPI",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "343046",
+    "complemento": "COMPRA CARTAO DEB MC 07/10 PAG.Rogeriopeduto",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "120146",
+    "complemento": "COMPRA CARTAO DEB MC 07/10 REAB CLIN",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "480746",
+    "complemento": "COMPRA CARTAO DEB MC STOP GO",
+    "credito": true,
+    "debito": false,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "384546",
+    "complemento": "COMPRA CARTAO DEB MC 07/10 NONO CARTORIO",
+    "credito": true,
+    "debito": false,
+    "valor": 2258.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "092746",
+    "complemento": "COMPRA CARTAO DEB MC 07/10 REI DO MATE",
+    "credito": true,
+    "debito": false,
+    "valor": 50.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 3904.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "354905",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 14058363000192",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "463958",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 14058363000192",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "654784",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "654784",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "363946",
+    "complemento": "COMPRA CARTAO DEB MC 08/10 LANCHONETE E RESTAU",
+    "credito": true,
+    "debito": false,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 33589967000100",
+    "credito": false,
+    "debito": true,
+    "valor": 45048.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "353246",
+    "complemento": "COMPRA CARTAO DEB MC STOP GO",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "315046",
+    "complemento": "COMPRA CARTAO DEB MC 08/10 POSTO DE SER COTE D",
+    "credito": true,
+    "debito": false,
+    "valor": 236.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "450446",
+    "complemento": "COMPRA CARTAO DEB MC 08/10 MMJ COMERCIO DE ALI",
+    "credito": true,
+    "debito": false,
+    "valor": 83.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "581846",
+    "complemento": "COMPRA CARTAO DEB MC 08/10 ESFIHA IMIGRANTES",
+    "credito": true,
+    "debito": false,
+    "valor": 125.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 40640.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2021",
+    "documento": "291042",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 07730923823",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2021",
+    "documento": "585200",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 19449334846",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 23000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2021",
+    "documento": "473079",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 353.167.318-16",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2021",
+    "documento": "473008",
+    "complemento": "TED DIFERENTE TITULARIDADE STR 172.822.288-50",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2021",
+    "documento": "472644",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 346.290.408-62",
+    "credito": true,
+    "debito": false,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 12200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "",
+    "complemento": "TARIFA TED BCE 13/10/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "743632",
+    "complemento": "SAQUE CAIXA INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 5033.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2021",
+    "documento": "743632",
+    "complemento": "SAQUE CAIXA INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT VANDO MOREIRA BASTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 13500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 21/10/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "071246",
+    "complemento": "COMPRA CARTAO DEB MC 22/10 PONTO CHIC",
+    "credito": true,
+    "debito": false,
+    "valor": 48.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "340546",
+    "complemento": "COMPRA CARTAO DEB MC 22/10 CAFE DEL PLATA COM",
+    "credito": true,
+    "debito": false,
+    "valor": 7.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "503746",
+    "complemento": "COMPRA CARTAO DEB MC 22/10 LINDT . SPRUNGLI .B",
+    "credito": true,
+    "debito": false,
+    "valor": 131.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "000034",
+    "complemento": "PAGAMENTO DE TRIBUTO PMSP INTERNET PM SAO PAULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2221.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT ALAN M BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "133246",
+    "complemento": "COMPRA CARTAO DEB MC 22/10 PANIFICADORA BELGA",
+    "credito": true,
+    "debito": false,
+    "valor": 39.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT C V RANDOW LOCADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 16488.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "223530",
+    "complemento": "EMISSAO DE DOC E VIA BCE 20765248000150",
+    "credito": true,
+    "debito": false,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "555046",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 VER MEISTER BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 240.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "061346",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 ENIVALDO DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "545046",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 CENTRAL DO BELEM",
+    "credito": true,
+    "debito": false,
+    "valor": 28.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "520846",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 FAMILIA CHICO RESTA",
+    "credito": true,
+    "debito": false,
+    "valor": 291.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "651645",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "651645",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "651645",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "513146",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 FANTASTIC COTTON CA",
+    "credito": true,
+    "debito": false,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "310746",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 CENTAURO CE180",
+    "credito": true,
+    "debito": false,
+    "valor": 109.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "485146",
+    "complemento": "COMPRA CARTAO DEB MC 23/10 REDE OBA . MOOCA",
+    "credito": true,
+    "debito": false,
+    "valor": 141.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "113846",
+    "complemento": "COMPRA CARTAO DEB MC 24/10 ROSEMEIRE DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "195746",
+    "complemento": "COMPRA CARTAO DEB MC 24/10 PADARIA LISBOA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "344746",
+    "complemento": "COMPRA CARTAO DEB MC 24/10 PAG.AutoPostoBoxter",
+    "credito": true,
+    "debito": false,
+    "valor": 365.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "",
+    "complemento": "PAGAMENTO DE TITULOS - BCE 03.112.879/0001-51",
+    "credito": true,
+    "debito": false,
+    "valor": 511.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "425248",
+    "complemento": "PIX ENVIADO DIF TIT 02460516983",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 35541757000177",
+    "credito": false,
+    "debito": true,
+    "valor": 22993.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8395.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "310446",
+    "complemento": "COMPRA CARTAO DEB MC 26/10 TIO MARIO EXCELENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 221.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "491146",
+    "complemento": "COMPRA CARTAO DEB MC 26/10 ALEXANDRE GOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "441414",
+    "complemento": "PIX ENVIADO DIF TIT 02460516983",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 8731.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "",
+    "complemento": "TARIFA EXTRATO INTELIGENTE 25/10/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "",
+    "complemento": "TARIFA EMISSAO DOC VIA CANAIS 25/10/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "743632",
+    "complemento": "SAQUE CAIXA INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "653632",
+    "complemento": "SAQUE TERMINAL INTER AG",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 8524.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "000016",
+    "complemento": "PAGAMENTO CONTA GAS EM CANAIS INTERNET COMGAS CIA DE GA",
+    "credito": true,
+    "debito": false,
+    "valor": 77.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "365046",
+    "complemento": "COMPRA CARTAO DEB MC 28/10 EXTRA PETRO",
+    "credito": true,
+    "debito": false,
+    "valor": 71.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "175346",
+    "complemento": "COMPRA CARTAO DEB MC 28/10 MAM RESTAURANTE DOS",
+    "credito": true,
+    "debito": false,
+    "valor": 250.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "140046",
+    "complemento": "COMPRA CARTAO DEB MC 28/10 BANCA FUNCHAL",
+    "credito": true,
+    "debito": false,
+    "valor": 31.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 431.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT DTV DECORACOES E ARTIGOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST DIF TIT JOAO MANUEL LOPES MATOS J",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2021",
+    "documento": "594446",
+    "complemento": "COMPRA CARTAO DEB MC 29/10 PAG.AutoPostoPetala",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 20769481000101",
+    "credito": true,
+    "debito": false,
+    "valor": 1499.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 4714.36,
+    "origem": "Extrato"
+  }
+]

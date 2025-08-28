@@ -1,0 +1,182 @@
+[
+  {
+    "data": "05/10/2022",
+    "documento": "850006",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1 APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2022",
+    "documento": "3",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2022",
+    "documento": "3",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO 06/10/2022 CH DEP.CHEQUE BLOQ.1D 1.000,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 1550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2022",
+    "documento": "850006",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 22-DIVERGÊNCIA OU INSUFICIÊNCIA ASSINATU",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2022",
+    "documento": "CH",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2022",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2712.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 325.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 443.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 23.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 1789.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "PORTO",
+    "complemento": "SEGU DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 329.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 46.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2022",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX ORAL UNIC IMPLANTES CAXIAS O. LTDA 30.246.457 0001-41 TRANSF ENTRE CONTAS 14/10/2022 12309 DEP CH.CANAL ATEND.1D 1.130,00* SICOOB - CELULAR",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2022",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2022",
+    "documento": "12309",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO 17/10/2022 000.085 CHEQUE COMPE NACIONAL 7.100,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 1130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 382.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2022",
+    "documento": "67",
+    "complemento": "TARIFA PRÉ-DEPÓSITO 21/10/2022 12363 DEP CH.CANAL ATEND.1D 561,63* SICOOB - CELULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 10.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2022",
+    "documento": "12363",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 561.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "CLARO",
+    "complemento": "SA - DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 327.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "00937657",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 29735.72,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,1919 @@
+[
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 911.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "193962",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 53.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Debito aut. titulo capitalizacao",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 487.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "17570",
+    "complemento": "Prest. de emprest. financiamento",
+    "credito": true,
+    "debito": false,
+    "valor": 203.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "17570",
+    "complemento": "Prest. de emprest. financiamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 870.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "92846",
+    "complemento": "Pix recebido - dif tit",
+    "credito": false,
+    "debito": true,
+    "valor": 337.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 288.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "17570",
+    "complemento": "Prest. de emprest. financiamento",
+    "credito": true,
+    "debito": false,
+    "valor": 611.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 1061.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1242",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "198481",
+    "complemento": "Tar reg tit cob rapida simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 2.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 207.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Iof adicional - automatico",
+    "credito": true,
+    "debito": false,
+    "valor": 0.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Iof imposto operacoes financeiras",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "81562",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "150462",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 849.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Tarifa mensalidade pacote servicos",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 857.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Comissao recurso nao disp. dia",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 796.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1268",
+    "complemento": "Compensacao interna de cheque",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1270",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1463.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1236",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 822.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 31.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 831.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 35.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "198481",
+    "complemento": "Tar baixa cob simples-eletronica",
+    "credito": true,
+    "debito": false,
+    "valor": 3.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 31.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 144.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "198481",
+    "complemento": "Tar reg tit cob rapida simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 21.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "198481",
+    "complemento": "Tar prorrog vcto cob simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 14.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 3.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 189.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 189.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 119.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 943.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1226",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 328.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 1040.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 312.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1261",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1243.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "562214",
+    "complemento": "Pix recebido - dif tit",
+    "credito": false,
+    "debito": true,
+    "valor": 204.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Cr cob dinheiro conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 257.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 217.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 267.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 39.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 307.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 409.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 797.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "198481",
+    "complemento": "Tar reg tit cob rapida simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 18.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "198481",
+    "complemento": "Tar baixa cob simples-eletronica",
+    "credito": true,
+    "debito": false,
+    "valor": 6.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1243",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 1694.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "198481",
+    "complemento": "Tar baixa cob simples-eletronica",
+    "credito": true,
+    "debito": false,
+    "valor": 52.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 263.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 724.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1254",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 925.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 212.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 481.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1257",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1115.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 134.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 270.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 430.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 500.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 3.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 73.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1233",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 970.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 430.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 23.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Debito aut. titulo capitalizacao",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "17570",
+    "complemento": "Prest. de emprest. financiamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1175.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 1658.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "17570",
+    "complemento": "Prest. de emprest. financiamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1339.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 142.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 73.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 1165.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "922660",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "86944",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 1360.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "1244",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "86548",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "Tarifa mensalidade pacote servicos",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 792.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "1258",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1115.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "33262",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 2342.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "198481",
+    "complemento": "Tar baixa cob simples-eletronica",
+    "credito": true,
+    "debito": false,
+    "valor": 3.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 39.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "1275",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 578.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "1271",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1463.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "1251",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 921.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "83919",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 263.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 189.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 181.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 321.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 2323.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 3.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "20762",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 47.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "85360",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 542.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 3.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "1262",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1243.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "1227",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 328.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 103.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "101405",
+    "complemento": "Pix recebido - dif tit",
+    "credito": false,
+    "debito": true,
+    "valor": 766.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 163.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 1950.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "198481",
+    "complemento": "Tar reg tit cob rapida simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 10.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "1265",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 2339.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "61562",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 55.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "",
+    "complemento": "Cr cob dinheiro conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 257.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 217.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 325.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 3.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "133712",
+    "complemento": "Pix recebido - dif tit",
+    "credito": false,
+    "debito": true,
+    "valor": 344.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "543362",
+    "complemento": "Compra cartao deb mc",
+    "credito": true,
+    "debito": false,
+    "valor": 14.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 729.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "1245",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "685491",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 53.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 5.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2023",
+    "documento": "1278",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 581.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 288.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 958.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 23.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 223.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 459.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 169.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 542.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "1259",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1115.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 196.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 164.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "681146",
+    "complemento": "Dep dinheiro terminal",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 232.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "",
+    "complemento": "Cr cob dinheiro conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 105.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2023",
+    "documento": "",
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 29.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2023",
+    "documento": "198481",
+    "complemento": "Tar reg tit cob rapida simp-eletr",
+    "credito": true,
+    "debito": false,
+    "valor": 13.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2023",
+    "documento": "",
+    "complemento": "Cr cob bloq comp conf recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 793.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 805.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "198481",
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "1283",
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 584.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 73.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 169.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 229.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "Pix recebido",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2023",
+    "documento": "",
+    "complemento": "Ted recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 3100.0,
+    "origem": "Extrato"
+  }
+]

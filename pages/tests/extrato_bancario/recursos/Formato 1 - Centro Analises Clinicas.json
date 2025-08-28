@@ -1,0 +1,7715 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CLEIA BALDO DA LUZ 64.536.069 41",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JESSICA WANESSA VOIGT 109.965.629 07",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 481.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 126.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 24.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "310723",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "310723",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "310723",
+    "complemento": "TAR PAGSAFRA COB QUANT. EVENTOS: 3",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ANNYE YERENY REQUENA FIGUERA 709.062.292 43",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LEONARDO NEGHERBON 88.433.669 71",
+    "credito": false,
+    "debito": true,
+    "valor": 485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY KELVIN DE PONTES VAZ 75.252.109 85",
+    "credito": false,
+    "debito": true,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY EDUARDA FISCHER MEYER 12.111.909 27",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DJONATHAN JOSE RICARDO 83.855.979 48",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 29.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 735.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "0",
+    "complemento": "PAGAMENTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "477472561",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "477473125",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 652.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "477762847",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "477763175",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "10823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JULIA ATANASIO DOS SANTOS 104.209.309 14",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CRISTIANE DA SILVA 66.360.289 04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 568.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "0",
+    "complemento": "PAGAMENTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "478416461",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 583.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "20823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 7.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "20823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 16.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "479593479",
+    "complemento": "PIX RECEBIDO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "479595519",
+    "complemento": "PIX RECEBIDO TRANSF CENTRO ANALISES CLINICAS LTDA 1221234/0006 36",
+    "credito": false,
+    "debito": true,
+    "valor": 53.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARIA MIRIAM DA SILVA 354.626.998 59",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ELINEI APARECIDA ESPERANCA 67.908.979 92",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY VALERIA DE CASSIA DE OLIVEIRA 40.001.789 03",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LAVINIA VITORIA ROHWER BUSAREL 156.014.419 01",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 58.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 48.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 589.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "1213342",
+    "complemento": "ANTECIPACAO RV SAFRAPAY VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 28.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "479236050",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2393.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "479596777",
+    "complemento": "PIX QR DINAMICO PAGO Zoop Tecnologia E Meios De Pag 19468242/0001 32",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "30823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "30823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ALTAIR DOS SANTOS 56.685.949 12",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JULIA RAFAELA DALFOVO 100.638.729 35",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY QUEIDE DANIELI FRONZA 915.298.679 91",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 280.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "481225020",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1157.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "40823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 11.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "40823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 116.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 277.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "482329438",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 531.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "70823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 5.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "70823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LUCAS DOS SANTOS MATOS 45.230.533 08",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MORGANA VALCANAIA 67.056.899 60",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARIA ALICE ROZZA ROSA 79.937.279 01",
+    "credito": false,
+    "debito": true,
+    "valor": 245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Theilor Junior Cardoso 83.253.479 02",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 715.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 184.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 121.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "483167880",
+    "complemento": "PIX ENVIADO ALDACIR CLEBER SCHMITT 11820999/0001 31",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "483168378",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "80823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GISELE BATISTA DOS SANTOS 98.274.649 06",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Ernandes Jose Machado Filho 15.149.429 09",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MAIK WILLIAN CONSTANTE 98.573.219 92",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 345.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 331.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 492.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 895.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "90823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "90823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Wendys Betania Mosqueda Ovalle 709.386.412 04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CARLOS EDUARDO LEMONIE 65.660.399 29",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 102.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 63.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 116.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 48.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 603.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "485005693",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 3612.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "100823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Alessandra Reiter 48.952.659 43",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARLENE COSTA COSTODIO 311.603.019 72",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY YARA ANTUNES AZEVEDO NASCIMENT 87.200.899 10",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PAULA CRISTINA DE MORAIS 102.751.079 57",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 223.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 57.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1217.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "486623437",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1956.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "110823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "110823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Gabriel Manarim 72.719.409 79",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY VANESSA FULUVARNI ROZA 46.366.929 00",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 57.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 394.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 78.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "487959397",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 842.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "140823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "140823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CRISTINA MARIA FRANCA BORGES 71.517.589 01",
+    "credito": false,
+    "debito": true,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Fabiana Jennerich 52.713.259 46",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BIANCA FERRARI PACHER 72.352.419 00",
+    "credito": false,
+    "debito": true,
+    "valor": 198.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY VIVIANE GADOTTI 68.848.119 19",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1452.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "488564162",
+    "complemento": "PIX ENVIADO DEJAIME FRANCISCO BECKER 64.943.119 70",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "488875394",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1966.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "150823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "150823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Kelly Pereira Sais 96.433.069 50",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 530.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 267.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 457.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "489604860",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1244.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "160823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "160823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 5.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARLISE BAMBINETTI DOROW 522.212.459 20",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GABRIEL ZANDONAI MULLER ANACLE 96.719.879 82",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LAIANA THAIS POLITELO 113.067.259 09",
+    "credito": false,
+    "debito": true,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 656.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 34.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 345.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "490474697",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1514.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "170823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "170823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Debora Vergutz 101.280.499 28",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY VALDIRNEI ELEUTERIO 4.591.239 47",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 496.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 111.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 173.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 627.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 346.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "492096189",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "180823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "180823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 5.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JANAINA ALVES SILVA 450.137.188 99",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BIANCA NAZARE COELHO 984.929.002 10",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 14.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 520.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 420.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 340.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "210823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "210823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ELIANE KIENEN MONERETTO 629.650.859 04",
+    "credito": false,
+    "debito": true,
+    "valor": 610.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 589.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 92.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "493987903",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2899.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "220823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CRISTINA DOS SANTOS MABA NEGRI 41.082.319 88",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JACQUELINE CONSTANTE CAVACO 65.130.789 97",
+    "credito": false,
+    "debito": true,
+    "valor": 225.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1032.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 62.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 136.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "495049364",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1446.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "230823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "230823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 195.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "495841681",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 223.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "240823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "240823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY HERON KAUE TAFNER DA SILVA 74.470.419 71",
+    "credito": false,
+    "debito": true,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Ana Claudia Fernandes de Lima 89.706.549 25",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 301.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 34.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 442.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 141.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "497517146",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1133.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "250823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DIEGO ANDRE FIDENCIO MAIA 46.103.309 70",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ENERCI SEBOLD CARDOSO 03732378 44137758/0001 41",
+    "credito": false,
+    "debito": true,
+    "valor": 355.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Nicoly Peyerl Alves 76.964.459 79",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 58.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 267.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "498361853",
+    "complemento": "PIX ENVIADO ALDACIR CLEBER SCHMITT 11820999/0001 31",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "498372739",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 341.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "280823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "280823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARCIA ANDRIELI NUNES 77.754.299 41",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ANA LUIZA DOS SANTOS CLEN 101.827.039 67",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 150.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1148.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "499095592",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1807.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "499459859",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "290823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "290823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LUCIA VANDERLINDE KUHNEN 674.887.909 44",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CAROLINE MARIA QUINTINO DOS SA 8.072.079 00",
+    "credito": false,
+    "debito": true,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MAIKON CESAR GEISSLER 40.034.449 14",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 520.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "300823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "300823",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Talita Goncalves Lagatta 68.412.859 48",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JULIA DANAY MONTEIRO COSTA 969.382.772 49",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Luan Iuri Hasckel Cunha 133.265.409 65",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LUIZ GUILHERME HERMANN 96.190.179 94",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ELIANE KIENEN MONERETTO 629.650.859 04",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 97.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 76.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 148.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1213342",
+    "complemento": "ANTECIPACAO RV SAFRAPAY VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 40.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "401042314",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1542.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "310823",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "310823",
+    "complemento": "TAR PAGSAFRA COB QUANT. EVENTOS: 6",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Hellen Baesso Medeiros 100.467.419 84",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY IRIA AVANCINI 551.066.689 72",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GRAZIELA STUPP 56.630.369 89",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 243.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 106.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1351.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 783.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 111.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 29.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "402831862",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2812.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "10923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "10923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 520.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 243.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "403743152",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 906.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "40923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "40923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CLARICE BUSS 15.588.499 98",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY TACIANI COIMBRA LOPES 13.640.550 90",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ELENIR KOPROVSKI PLASTER 586.333.089 91",
+    "credito": false,
+    "debito": true,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 749.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 1387.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "405085177",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2706.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "50923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JOSE CARLOS RAMOS 707.821.682 21",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ROSELI CHAVES 49.480.629 01",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 34.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 189.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 33.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 983.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "406208536",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1271.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "60923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "60923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 68.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1316.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "408131485",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1618.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "80923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "80923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GREICI DA SILVA DEBARBA 120.345.019 26",
+    "credito": false,
+    "debito": true,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DINARA TAMBANI 45.863.489 17",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MONISE LANGONI POMBAL DE OLIVE 311.409.498 88",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 170.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "409355246",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 524.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "110923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ELISANGELA G NARDELLI 990.979.159 53",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1202.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 280.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "410139596",
+    "complemento": "PIX ENVIADO ALDACIR CLEBER SCHMITT 11820999/0001 31",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "410171464",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1626.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "120923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "120923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GISELI BURATTO 27.576.369 28",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Guilherme Fernando Stuani Colo 114.753.649 03",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CHAIANE DELLAGIUSTINA 99.789.019 30",
+    "credito": false,
+    "debito": true,
+    "valor": 248.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Cirlene Vitoria Cardoso de Sou 71.018.232 54",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Emerson Deys Costa Guimaraes 5.598.989 67",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 700.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "410944948",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1763.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "130923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "130923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY 51005444 MARIA CLEUSA DE OLIVE 51005444/0001 50",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY RAFAEL TILLMANN 74.874.899 73",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JOSINEIRE FERREIRA ALVES 134.716.064 75",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 96.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 131.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1213342",
+    "complemento": "ANTECIPACAO RV SAFRAPAY VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 151.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "411846068",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 924.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "140923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 8.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "140923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "ANTECIPACAO RV SAFRAPAY VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 37.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 238.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 840.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 357.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 627.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 296.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 194.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "413523620",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2588.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "150923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "150923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CHARLENE LOPES 64.920.749 12",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Vanessa Gabriela Fortunato Tei 124.405.619 75",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ALEXANDRE TRAVAGLIA 902.412.409 30",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 313.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 350.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 24.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "414517614",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 901.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "180923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GUILHERME BITELLO 107.723.709 07",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 408.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 199.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 154.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "415484664",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1343.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "190923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "190923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Lucas Frare 79.594.179 03",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1740.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "416469064",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2103.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "200923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "200923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Graziele Cintia Debroski 81.706.479 67",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 48.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 58.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 559.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "417278994",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 714.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "210923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "210923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Luan Carlos Voigt 117.266.899 05",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY KETLIN RIBEIRO 11074954904 34790241/0001 01",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 355.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 399.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "419136426",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 817.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "220923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "220923",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Lucas Eduardo Witthoft 106.747.939 27",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARCIA OGLIARI BRANDL 47.222.169 83",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY IVONE JOANA DE LIMA 55.769.099 41",
+    "credito": false,
+    "debito": true,
+    "valor": 510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 272.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 87.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 175.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "420225666",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "420386786",
+    "complemento": "PIX ENVIADO AGENCIA FIVE STAR LTDA 49962968/0001 98",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 5.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "250923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Larissa Nicoletti 90.338.289 01",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BEATRIZ SANTOS ROCHA 860.734.035 26",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARCIO JOEL BIZ 948.465.969 15",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 82.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 73.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 520.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "421191447",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "260923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CARLA TAIS FACHINI 104.520.679 28",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 9.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 275.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1236.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 73.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "422006265",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "422006455",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 149.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "270923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Thais Thailacker Motta 66.568.239 55",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 365.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 384.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 842.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "422933623",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "280923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY EDRIELE APARECIDA VIZZOTTO 94.449.359 90",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 140.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 796.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 442.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "424865788",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "290923",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MURIEL BERNARDO 70.920.079 09",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 308.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 77.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "425981344",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 528.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "21023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ANA LUIZA DOS SANTOS CLEN 101.827.039 67",
+    "credito": false,
+    "debito": true,
+    "valor": 355.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY joelma aparecida bueno 18.296.549 00",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Edson Juan Borges 82.829.109 88",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Brenda Nayra Souza De Almeida 429.037.648 75",
+    "credito": false,
+    "debito": true,
+    "valor": 195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 233.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 447.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 149.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "426904799",
+    "complemento": "PIX ENVIADO ELIDA CRISTINA HELMANN FORTES 12.162.709 88",
+    "credito": true,
+    "debito": false,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "426905023",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1235.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "31023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CIELITO DO PRADO 7602237/0001 91",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY KAROLAINE DA ROCHA PAES 110.747.869 39",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 58.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 579.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 82.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 481.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "427925744",
+    "complemento": "PIX ENVIADO GRAFICA E EDITORA GANDREI EIRE 82972159/0001 32",
+    "credito": true,
+    "debito": false,
+    "valor": 1048.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "428477901",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "41023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "429199388",
+    "complemento": "PIX RECEBIDO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": false,
+    "debito": true,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LUCIANA LASTA 41.108.219 16",
+    "credito": false,
+    "debito": true,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1080.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "429021936",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1546.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "429203758",
+    "complemento": "PIX QR DINAMICO PAGO Zoop Tecnologia E Meios De Pag 19468242/0001 32",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "51023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JEAN CARLOS DE ANDRADE 104.413.519 05",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BRUNELA PINHEIRO 90.781.339 96",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY KETLIN SILMARA ARNOLD 85.437.289 08",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY EDEMAR DE NOVAIS 660.892.479 87",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 189.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 822.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 92.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "431118967",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1289.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "61023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GEAN JACIEL DE SOUZA 817.849.299 72",
+    "credito": false,
+    "debito": true,
+    "valor": 760.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JONAS MISAEL CHAVES 89.116.339 50",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LARISSA DOS PASSOS SIPRIANO 83.554.119 35",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MOISES SANABRIA CARVALHO 37.002.920 82",
+    "credito": false,
+    "debito": true,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Marcos Andre Justino 94.780.829 90",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 808.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "432089338",
+    "complemento": "PIX ENVIADO ALDACIR CLEBER SCHMITT 11820999/0001 31",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "432170874",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2291.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 7.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "91023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PAULO FELIPE BRANDL 81.567.759 61",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY edson da silva 895.736.419 68",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY IVONE JOANA DE LIMA 55.769.099 41",
+    "credito": false,
+    "debito": true,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Maristela Adriano Westphal 690.346.999 00",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 744.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "PAGAMENTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "433065459",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 980.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "433478434",
+    "complemento": "PIX QR ESTATICO PAGO EDUZZ TECNOLOGIA LTDA 9573540/0001 39",
+    "credito": true,
+    "debito": false,
+    "valor": 87.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "101023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GLAUCIA CRISTINA BARBOSA ALBER 982.801.800 44",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BRUNELA PINHEIRO 90.781.339 96",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Douglas Rafael Koch 80.006.519 04",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 579.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 91.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 452.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "434490031",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1227.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "111023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Apiuna Atacarejo 38338567/0001 45",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY EVA SANTOS TAVERNY 695.597.322 34",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Evair Ramon Coelho dos Santos 90.020.259 98",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Alfredo Odeli Neto 52.981.229 06",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Morgana Martendal Luiz 95.331.029 93",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 369.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 194.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 82.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 301.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 204.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "436295770",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1388.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "436821970",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "436822902",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 766.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "131023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Augusto Kevenly Santos Brito 10.710.432 69",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY TAMIRIS PIRES DE MATTIA 32.689.090 43",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY HENRIQUE FRIGGI IVANOVICH 126.663.729 01",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 360.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 72.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 68.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "161023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DIVA DALLAGNOLO GADOTTI 576.878.039 49",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MAURY HUGO SCHEIBE 383.140.299 04",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CLAYTON JOSE FELICIANO MARTINS 123.079.949 47",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BEATRIZ NUNES DIAS 74.541.199 13",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CASA IN LTDA 40950334/0001 40",
+    "credito": false,
+    "debito": true,
+    "valor": 495.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GABRIELLA DA SILVA 108.639.579 43",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY SANDRA CATARINA DA SILVA 528.989.709 72",
+    "credito": false,
+    "debito": true,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CARLA TAIS FACHINI 104.520.679 28",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Jordana Alves de Souza 101.756.429 90",
+    "credito": false,
+    "debito": true,
+    "valor": 162.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 481.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 214.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 357.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "438396830",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2793.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JAIRO ALBERTO NURINBERG 634.845.959 49",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Fernando Ladevig 117.788.089 05",
+    "credito": false,
+    "debito": true,
+    "valor": 555.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Bianca Dias Justino 112.669.689 70",
+    "credito": false,
+    "debito": true,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DINARA TAMBANI 45.863.489 17",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 197.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 400.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1659.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 146.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "439578486",
+    "complemento": "PIX ENVIADO TRANSF centro analises clinicas ltda 1221234/0006 36",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "439567978",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "439569288",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "439577470",
+    "complemento": "PIX ENVIADO CAMILA ANDRIANI 87.591.539 62",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 5.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "181023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARILANE BONA 64.808.609 77",
+    "credito": false,
+    "debito": true,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 204.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "440321002",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 431.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "191023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DJONI AUGUSTO KLIMASCHEWSKI 62.577.699 22",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 262.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 33.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1178.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 696.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "442406972",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "442407484",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1325.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "201023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 219.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 647.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 467.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "443605825",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1322.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "231023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 11.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DENER FANTON DA SILVA 96.465.009 60",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JAIME DA VEIGA 383.715.109 34",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MONICA TASSI 55.953.829 45",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ROSANA PRADA ULLER 87.612.909 20",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 452.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "444302925",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 735.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "241023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LETICIA MARIA STREY 117.035.219 78",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PAMELA LOREDO FERNANDES 55.873.739 08",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GEOVANA ZANANDREA 970.584.919 68",
+    "credito": false,
+    "debito": true,
+    "valor": 155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1080.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 871.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "445115860",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2302.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "445262614",
+    "complemento": "PIX ENVIADO Amanda Mendes da Luz 128.316.649 69",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "251023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MAICON DRAEGER 54.552.569 12",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 228.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 350.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "446292852",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 601.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "261023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ESTER SERPA 139.503.919 40",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY GIOVANI HUGEN 66.343.069 07",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DIANDRA MARIA POLETTO DA SILVA 63.835.249 50",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 253.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 272.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 34.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 150.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "448472411",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "448472729",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 817.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "271023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MONICA PETERS 103.266.919 52",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LARJAO TRANSPORTES E TERRAPLAN 52174938/0001 21",
+    "credito": false,
+    "debito": true,
+    "valor": 335.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 345.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 34.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "448928981",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 906.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY FABIO SCHMIDT 64.693.979 30",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JANAINA ARANTES DE JESUS 09349 27027975/0001 60",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 102.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 111.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 462.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "449956409",
+    "complemento": "PIX ENVIADO ANDRE LUIZ MEDEIROS 9481335399 39598599/0001 42",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "449957095",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 695.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "450493407",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 158.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "311023",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "311023",
+    "complemento": "TAR PAGSAFRA COB",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY S D Comercio De Produtos Terap 18931552/0001 89",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Camila Petry Caitano 122.372.529 47",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 199.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 311.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "451702371",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 702.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "11123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MICHELE HEIDEMANN FILOMENO 51.380.809 46",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Debora Machado 106.895.559 70",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 876.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 442.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "453124302",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "31123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "454651826",
+    "complemento": "PIX RECEBIDO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": false,
+    "debito": true,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LUANA HEIDERSCHEIDT 88.192.959 03",
+    "credito": false,
+    "debito": true,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Alessandra Raquel Polleto 88.359.709 89",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Andreia Medeiros 54.241.099 00",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MONICA ENGEL 920.124.779 68",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 184.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 936.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 580.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "454276502",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2181.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "454612360",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 504.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "454652608",
+    "complemento": "PIX QR DINAMICO PAGO Zoop Tecnologia E Meios De Pag 19468242/0001 32",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "61123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ROBSON LUAN RODRIGUES 21588426/0001 88",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DANIELA MOLINARI MEURER ME 7347442/0001 58",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 545.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 395.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 170.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "455431645",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1155.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "71123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY SOELI PESSOA CONSTANTE SILVEIR 807.614.459 00",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY SELMA GORETE RODRIGUES FRANCO 492.018.679 72",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 1046.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 277.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 304.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1217.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "456425676",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 3324.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "81123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CAMILA FRANCIELLE GALLI 76.989.749 52",
+    "credito": false,
+    "debito": true,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY TCHAYLA YARITZA SILVA PINHEIRO 123.969.029 03",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JOCEMAR DO PILAR 47.294.059 78",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LARISSA SIMAO 130.913.059 02",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 452.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 241.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 107.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 53.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "457538014",
+    "complemento": "PIX ENVIADO ALDACIR CLEBER SCHMITT 11820999/0001 31",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "457538674",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1703.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "91123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY M H CONFECCAO 47800976/0001 02",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY VICENTE EDUARDO BIASIBETTI 106 36441676/0001 68",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MYRELLA WALTRICK MEDEIROS 93.863.029 69",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Rafael Adami 3.872.759 59",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 223.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 38.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 895.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 559.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 180.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "1213342",
+    "complemento": "ANTECIPACAO RV SAFRAPAY VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 153.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "459920388",
+    "complemento": "PIX ENVIADO LABORAL MEDICINA DO TRABALHO L 5567189/0001 12",
+    "credito": true,
+    "debito": false,
+    "valor": 246.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "459937564",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2030.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "101123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARIA ANA MOSER 558.916.089 87",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Diana Antunes 56.279.279 17",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY FABIANO VANELLI 60.967.159 66",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 82.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 399.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "131123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PATRICIA RAQUEL PRUST 57.842.769 99",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY RAQUEL F A LTDA.ME 10817722/0001 97",
+    "credito": false,
+    "debito": true,
+    "valor": 463.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 173.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 111.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "462367917",
+    "complemento": "PIX ENVIADO Augusto Ferrari Hering 90.095.889 80",
+    "credito": true,
+    "debito": false,
+    "valor": 1525.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY IRAN CARLOS SIQUELA 3.772.009 05",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1337.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 73.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 154.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "463167133",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1559.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "161123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY BRUNO SCHNEIDER VIEIRA 30785736/0001 83",
+    "credito": false,
+    "debito": true,
+    "valor": 370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Adilson Camargo 10.303.120 01",
+    "credito": false,
+    "debito": true,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY EDUARDO DAMBROSIO 108.392.579 29",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY RAQUEL JAQUELINE ALVES FINK 52.630.789 78",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 355.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 68.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 183.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 92.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 228.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "464890975",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1236.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "465165405",
+    "complemento": "PIX QR DINAMICO PAGO SERVICOS ONLINE BR 20110153/0001 07",
+    "credito": true,
+    "debito": false,
+    "valor": 125.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 3.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "171123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PEDRO MOSER 58.586.909 04",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MARIO NICOLETTI 464.562.879 87",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Adriane Cristina Goulart 99.197.539 12",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 238.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 42.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 154.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 856.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "465993697",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2027.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "201123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY HELMUTH LORIVAL COELHO DA ROCH 44.565.049 43",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 77.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 399.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "466968895",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 510.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "211123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Maykon Alan Prada 98.690.139 37",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 127.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 622.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 82.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 418.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "467869115",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 1309.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "221123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY PATRICIA CORREA SEVEGNANI 57.885.639 50",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY LAURO S FARIAS RIBEIRO 48.987.650 17",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Guilherme Gustavo Schwartz Nar 44.561.009 31",
+    "credito": false,
+    "debito": true,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ADELIR DA VEIGA 453.749.539 15",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY CHARLES EDWARD FRANKE 710.638.119 53",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 530.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 82.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "468761024",
+    "complemento": "PIX ENVIADO ERMINIO MILIOLI 586.390.479 87",
+    "credito": true,
+    "debito": false,
+    "valor": 515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "468763446",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 891.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "231123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY TRANSPORTES FUSINATO LTDA 46514005/0001 33",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Carlos Eduardo Rodrigues Franc 821.029.961 15",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DIOGO FELIPE MARCHI 78.084.189 19",
+    "credito": false,
+    "debito": true,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY MOISES DE OLIVEIRA 34.251.549 74",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Nathielle Thuanni da Rosa e Si 91.596.299 32",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 360.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 77.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 111.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 554.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 530.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "470630094",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2401.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "241123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ROSANA MARLI SIQUELA BAGATTOLI 3.796.579 45",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY JAILSON ARAUJO DE SOUZA 978.231.122 72",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY DJONATHAN JOSE RICARDO 83.855.979 48",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 260.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 68.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 739.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "471768452",
+    "complemento": "PIX ENVIADO DAIANE ZONTA 67.612.219 19",
+    "credito": true,
+    "debito": false,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "271123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ISONETE APARECIDA DOS SANTOS 15.880.199 77",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO",
+    "credito": false,
+    "debito": true,
+    "valor": 189.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 280.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "281123",
+    "complemento": "TARIFA PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY ISADORA FINARDI DE SOUZA E SIL 81.188.059 13",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "0",
+    "complemento": "PIX RECEBIDO SAFRAPAY Julia Garcia Roeder 98.688.979 20",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 584.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO (REDESHOP)",
+    "credito": false,
+    "debito": true,
+    "valor": 1338.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "1213342",
+    "complemento": "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 155.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "0",
+    "complemento": "PAGAMENTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 510.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "473890790",
+    "complemento": "PIX ENVIADO CENTRO ANALISES CLINICAS LTDA 1221234/0001 21",
+    "credito": true,
+    "debito": false,
+    "valor": 2768.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "0",
+    "complemento": "TARIFA PIX QR CODE VENDA SAFRAPAY",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  }
+]

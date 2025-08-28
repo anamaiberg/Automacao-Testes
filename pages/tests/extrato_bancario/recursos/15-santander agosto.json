@@ -1,0 +1,227 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Transf valor p/ conta dif titular Para: 3243.13.004419-0",
+    "credito": true,
+    "debito": false,
+    "valor": 67.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 422.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 77.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Tar extrato conciliacao bancaria",
+    "credito": true,
+    "debito": false,
+    "valor": 29.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 311.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Mensalidade de seguro Parc 010/012 vida grupo",
+    "credito": true,
+    "debito": false,
+    "valor": 28.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Mensalidade de seguro Parc 010/012 vida grupo",
+    "credito": true,
+    "debito": false,
+    "valor": 63.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 323.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 485.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 482.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 529.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 293.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 420.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 227.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Transferencia judicial 20230012657386",
+    "credito": true,
+    "debito": false,
+    "valor": 2859.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Tarifa extrato consolidado 23/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 479.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Tarifa mensalidade pacote servicos Julho / 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 297.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Tarifa manutencao tit vencido",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Transf valor p/ conta dif titular Para: 3243.13.004419-0",
+    "credito": true,
+    "debito": false,
+    "valor": 23.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Prestacao consorcio Pgto eventuais",
+    "credito": true,
+    "debito": false,
+    "valor": 1236.01,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,7859 @@
+[
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 34056.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1715539",
+    "complemento": "TRANSFERENCIA PIX REM: PETRIN IMPORTADORA E 01/07",
+    "credito": false,
+    "debito": true,
+    "valor": 300000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 3.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1798",
+    "complemento": "PAGTO ELETRON COBRANCA ROYAL CARGO",
+    "credito": true,
+    "debito": false,
+    "valor": 30599.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1799",
+    "complemento": "PAGTO ELETRON COBRANCA ROYAL CARGO",
+    "credito": true,
+    "debito": false,
+    "valor": 30115.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1800",
+    "complemento": "PAGTO ELETRON COBRANCA SK LOCACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1801",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 652.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1802",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 5790.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1803",
+    "complemento": "PAGTO ELETRON COBRANCA MI EVENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1804",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1805",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1806",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI",
+    "credito": true,
+    "debito": false,
+    "valor": 7104.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1807",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1808",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI",
+    "credito": true,
+    "debito": false,
+    "valor": 3317.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1809",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI",
+    "credito": true,
+    "debito": false,
+    "valor": 356.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1810",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI",
+    "credito": true,
+    "debito": false,
+    "valor": 712.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250253601",
+    "credito": true,
+    "debito": false,
+    "valor": 10956.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250247474",
+    "credito": true,
+    "debito": false,
+    "valor": 11951.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250253601",
+    "credito": true,
+    "debito": false,
+    "valor": 4273.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250247474",
+    "credito": true,
+    "debito": false,
+    "valor": 4661.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250253601",
+    "credito": true,
+    "debito": false,
+    "valor": 1150.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250247474",
+    "credito": true,
+    "debito": false,
+    "valor": 1254.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250253601",
+    "credito": true,
+    "debito": false,
+    "valor": 5286.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250247474",
+    "credito": true,
+    "debito": false,
+    "valor": 5766.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250247474",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250253601",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "270624",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "270624",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2056.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2150.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2231.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3187.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5922942",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 24.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5927101",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5928449",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 18.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "5929980",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 40.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1888325",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 24760.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1320466",
+    "complemento": "TRANSFERENCIA PIX DES: OPEN TRADE EXPORTACAO 01/07",
+    "credito": true,
+    "debito": false,
+    "valor": 41648.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1357125",
+    "complemento": "TRANSFERENCIA PIX DES: TRANSIT BR LOGISTICA 01/07",
+    "credito": true,
+    "debito": false,
+    "valor": 124021.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1223590",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 29/06",
+    "credito": true,
+    "debito": false,
+    "valor": 1291.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "1224507",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 29/06",
+    "credito": true,
+    "debito": false,
+    "valor": 828.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 88672.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1121857",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 48277.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "2061292",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 59219.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "2092245",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 15967.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "3255109",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 9400.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "5504505",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 55504.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 315971.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1510143",
+    "complemento": "TRANSFERENCIA PIX REM: PETRIN IMPORTADORA E 02/07",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000265",
+    "credito": true,
+    "debito": false,
+    "valor": 484.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TIT.BX.DECURSO PRAZO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1811",
+    "complemento": "PAGTO ELETRON COBRANCA OCIANI",
+    "credito": true,
+    "debito": false,
+    "valor": 9646.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1812",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1813",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1814",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1815",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1816",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1817",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 442.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1825",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO 39299",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1826",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO 39380",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1827",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO 39286",
+    "credito": true,
+    "debito": false,
+    "valor": 1303.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1828",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO 39386",
+    "credito": true,
+    "debito": false,
+    "valor": 1615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1829",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO 39511",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250550100",
+    "credito": true,
+    "debito": false,
+    "valor": 12283.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250555829",
+    "credito": true,
+    "debito": false,
+    "valor": 18133.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250550100",
+    "credito": true,
+    "debito": false,
+    "valor": 4790.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250555829",
+    "credito": true,
+    "debito": false,
+    "valor": 7071.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250550100",
+    "credito": true,
+    "debito": false,
+    "valor": 1289.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250555829",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250550100",
+    "credito": true,
+    "debito": false,
+    "valor": 5927.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250555829",
+    "credito": true,
+    "debito": false,
+    "valor": 8749.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250555829",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3250550100",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2075.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2262.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1321458",
+    "complemento": "TRANSFERENCIA PIX DES: CHEN YONG WEI 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1629222",
+    "complemento": "TRANSFERENCIA PIX DES: ROYAL CARGO DO BRASIL 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 748088.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1631509",
+    "complemento": "TRANSFERENCIA PIX DES: OPEN TRADE EXPORTACAO 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 33285.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1519281",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2546.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1520319",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2546.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1918199",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1651.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1921422",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1922424",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1923411",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1924403",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1929334",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1946294",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2604.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1955269",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "1956416",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1756.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "2004357",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 684.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "2006338",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "2008019",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 02/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1648.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 31416.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 34416.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 56815.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000007",
+    "credito": true,
+    "debito": false,
+    "valor": 12.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 36.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "1830",
+    "complemento": "PAGTO ELETRON COBRANCA REGISTRO BR",
+    "credito": true,
+    "debito": false,
+    "valor": 980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251097301",
+    "credito": true,
+    "debito": false,
+    "valor": 11588.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251522800",
+    "credito": true,
+    "debito": false,
+    "valor": 12142.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251218532",
+    "credito": true,
+    "debito": false,
+    "valor": 12337.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251165064",
+    "credito": true,
+    "debito": false,
+    "valor": 15066.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251097301",
+    "credito": true,
+    "debito": false,
+    "valor": 4519.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251522800",
+    "credito": true,
+    "debito": false,
+    "valor": 4735.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251218532",
+    "credito": true,
+    "debito": false,
+    "valor": 4811.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251165064",
+    "credito": true,
+    "debito": false,
+    "valor": 5875.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251097301",
+    "credito": true,
+    "debito": false,
+    "valor": 1216.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251522800",
+    "credito": true,
+    "debito": false,
+    "valor": 1275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251218532",
+    "credito": true,
+    "debito": false,
+    "valor": 1295.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251165064",
+    "credito": true,
+    "debito": false,
+    "valor": 1581.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251097301",
+    "credito": true,
+    "debito": false,
+    "valor": 5591.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251522800",
+    "credito": true,
+    "debito": false,
+    "valor": 5858.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251218532",
+    "credito": true,
+    "debito": false,
+    "valor": 5952.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251165064",
+    "credito": true,
+    "debito": false,
+    "valor": 7269.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251097301",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251165064",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251522800",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3251218532",
+    "credito": true,
+    "debito": false,
+    "valor": 308.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "1435464",
+    "complemento": "TRANSFERENCIA PIX DES: CNJ TRANSPORTES 03/07",
+    "credito": true,
+    "debito": false,
+    "valor": 470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "1440295",
+    "complemento": "TRANSFERENCIA PIX DES: QUALITY TRANSPORTES 03/07",
+    "credito": true,
+    "debito": false,
+    "valor": 13675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "729221",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 03/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2782.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "729554",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 03/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2546.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 35284.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 12504.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 1.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "1818",
+    "complemento": "PAGTO ELETRON COBRANCA AB FABRICACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 32327.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "10724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "10724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "20724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "20724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "20724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2195.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2302.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2327.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2339.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2853.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3432.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 31334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 32537.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 22029.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9431856",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000012",
+    "credito": true,
+    "debito": false,
+    "valor": 21.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1778",
+    "complemento": "PAGTO ELETRON COBRANCA VERISURE BRASIL MONITORAMENTO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 254.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1819",
+    "complemento": "PAGTO ELETRON COBRANCA ARACO",
+    "credito": true,
+    "debito": false,
+    "valor": 2592.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1820",
+    "complemento": "PAGTO ELETRON COBRANCA RS EVENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1821",
+    "complemento": "PAGTO ELETRON COBRANCA RS EVENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4075.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1822",
+    "complemento": "PAGTO ELETRON COBRANCA RS EVENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2830.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1823",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1824",
+    "complemento": "PAGTO ELETRON COBRANCA CONDOMINIO SALA DUTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1673.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1831",
+    "complemento": "PAGTO ELETRON COBRANCA SIERRE",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1832",
+    "complemento": "PAGTO ELETRON COBRANCA ESCOLTA LED",
+    "credito": true,
+    "debito": false,
+    "valor": 969.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3252364540",
+    "credito": true,
+    "debito": false,
+    "valor": 19127.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3252364540",
+    "credito": true,
+    "debito": false,
+    "valor": 7459.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3252364540",
+    "credito": true,
+    "debito": false,
+    "valor": 2008.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3252364540",
+    "credito": true,
+    "debito": false,
+    "valor": 9228.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3252364540",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "30724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "30724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1501394",
+    "complemento": "TRANSFERENCIA PIX DES: PETOKIN E KUTTY LTDA 05/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1549330",
+    "complemento": "TRANSFERENCIA PIX DES: Thiago Evangelista do 05/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2944.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1817301",
+    "complemento": "TRANSFERENCIA PIX DES: ILMAR BYLAARDT 05/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "1822014",
+    "complemento": "TRANSFERENCIA PIX DES: CNJ TRANSPORTES 05/07",
+    "credito": true,
+    "debito": false,
+    "valor": 15795.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "2016384",
+    "complemento": "TRANSFERENCIA PIX DES: RAPHAEL JURADO CASANO 05/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "5965220",
+    "complemento": "CONTA DE TELEFONE INTERNET --CLARO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 286.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 13976.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 29035.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1147493",
+    "complemento": "DESCONTO ESCRITURAL 2024001147493",
+    "credito": false,
+    "debito": true,
+    "valor": 204395.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1833",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 9742.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1834",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 5955.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1835",
+    "complemento": "PAGTO ELETRON COBRANCA MARCAS E PATENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253536817",
+    "credito": true,
+    "debito": false,
+    "valor": 11853.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253529551",
+    "credito": true,
+    "debito": false,
+    "valor": 12052.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253494464",
+    "credito": true,
+    "debito": false,
+    "valor": 14195.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253536817",
+    "credito": true,
+    "debito": false,
+    "valor": 4622.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253529551",
+    "credito": true,
+    "debito": false,
+    "valor": 4700.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253494464",
+    "credito": true,
+    "debito": false,
+    "valor": 5536.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253536817",
+    "credito": true,
+    "debito": false,
+    "valor": 1244.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253529551",
+    "credito": true,
+    "debito": false,
+    "valor": 1265.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253494464",
+    "credito": true,
+    "debito": false,
+    "valor": 1490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253536817",
+    "credito": true,
+    "debito": false,
+    "valor": 5719.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253529551",
+    "credito": true,
+    "debito": false,
+    "valor": 5815.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253494464",
+    "credito": true,
+    "debito": false,
+    "valor": 6849.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253494464",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253536817",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253529551",
+    "credito": true,
+    "debito": false,
+    "valor": 254.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "9885208",
+    "complemento": "TED DIF.TITUL.CC H.BANK DEST. TRANSIT BR LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 34242.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "5047569",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RS-SEFAZ/GNRE ONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 105.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "5925904",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 373.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "330865",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 50247.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "7443640",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 48764.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "921496",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 06/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3696.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1052065",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 08/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4465.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1454472",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 08/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4418.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1455289",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 08/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4185.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "1456510",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 08/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4418.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 84844.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 17174.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "9431856",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1836",
+    "complemento": "PAGTO ELETRON COBRANCA MODULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 947.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1837",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1838",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1839",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1840",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747184",
+    "credito": true,
+    "debito": false,
+    "valor": 12397.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253749330",
+    "credito": true,
+    "debito": false,
+    "valor": 12397.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747567",
+    "credito": true,
+    "debito": false,
+    "valor": 13633.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747184",
+    "credito": true,
+    "debito": false,
+    "valor": 4834.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253749330",
+    "credito": true,
+    "debito": false,
+    "valor": 4835.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747567",
+    "credito": true,
+    "debito": false,
+    "valor": 5317.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747184",
+    "credito": true,
+    "debito": false,
+    "valor": 1301.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253749330",
+    "credito": true,
+    "debito": false,
+    "valor": 1301.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747567",
+    "credito": true,
+    "debito": false,
+    "valor": 1431.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747184",
+    "credito": true,
+    "debito": false,
+    "valor": 5981.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253749330",
+    "credito": true,
+    "debito": false,
+    "valor": 5981.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747567",
+    "credito": true,
+    "debito": false,
+    "valor": 6578.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253749330",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747184",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3253747567",
+    "credito": true,
+    "debito": false,
+    "valor": 308.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "50724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "50724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "50724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "50724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "50724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2245.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2284.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2687.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3619.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1531250",
+    "complemento": "TRANSFERENCIA PIX DES: CNJ TRANSPORTES 09/07",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1833051",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 09/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1834085",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 09/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "1834543",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 09/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4764.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 19032.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 250954.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000025",
+    "credito": true,
+    "debito": false,
+    "valor": 45.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1841",
+    "complemento": "PAGTO ELETRON COBRANCA LIDER FILIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 764.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1842",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 6587.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254778750",
+    "credito": true,
+    "debito": false,
+    "valor": 12110.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254780894",
+    "credito": true,
+    "debito": false,
+    "valor": 12131.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254774630",
+    "credito": true,
+    "debito": false,
+    "valor": 14002.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254778750",
+    "credito": true,
+    "debito": false,
+    "valor": 4666.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254780894",
+    "credito": true,
+    "debito": false,
+    "valor": 4731.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254774630",
+    "credito": true,
+    "debito": false,
+    "valor": 5461.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254780894",
+    "credito": true,
+    "debito": false,
+    "valor": 1273.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254778750",
+    "credito": true,
+    "debito": false,
+    "valor": 1275.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254774630",
+    "credito": true,
+    "debito": false,
+    "valor": 1470.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254780894",
+    "credito": true,
+    "debito": false,
+    "valor": 5853.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254778750",
+    "credito": true,
+    "debito": false,
+    "valor": 5859.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254774630",
+    "credito": true,
+    "debito": false,
+    "valor": 6756.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254780894",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254774630",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3254778750",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2348.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2348.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2584.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "4740192",
+    "complemento": "CARTAO CREDITO ANUIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 38.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "330855",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 50239.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "8755592",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 105291.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1756103",
+    "complemento": "TRANSFERENCIA PIX DES: ALEXANDRE ROCHA REPRE 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 498.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1757596",
+    "complemento": "TRANSFERENCIA PIX DES: ALVES REPRESENTACOES 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 193.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1759571",
+    "complemento": "TRANSFERENCIA PIX DES: GEOVA REIS SANTOS REP 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1009.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1800516",
+    "complemento": "TRANSFERENCIA PIX DES: COMERCIO ABERTO 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 7361.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1802041",
+    "complemento": "TRANSFERENCIA PIX DES: A P OLIVEIRA COMERCIO 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1476.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1802449",
+    "complemento": "TRANSFERENCIA PIX DES: FERREIRA KURPIEL REPR 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1060.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1805261",
+    "complemento": "TRANSFERENCIA PIX DES: FEMAR COMERCIO E REPR 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 268.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1806088",
+    "complemento": "TRANSFERENCIA PIX DES: LUCIO REPRESENTACOE 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1193.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1812303",
+    "complemento": "TRANSFERENCIA PIX DES: MAICON SILVA 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1472.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1813470",
+    "complemento": "TRANSFERENCIA PIX DES: MOREIRA E ALVES REPRE 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 79.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1814480",
+    "complemento": "TRANSFERENCIA PIX DES: NUNES REPRESENTACOES 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 157.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1815305",
+    "complemento": "TRANSFERENCIA PIX DES: PRG7 REPRESENTACOES C 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5050.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1817136",
+    "complemento": "TRANSFERENCIA PIX DES: FERNANDO ROSSI E ROSS 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 190.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1818351",
+    "complemento": "TRANSFERENCIA PIX DES: UNITY REPRESENTACOES 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 600.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1819082",
+    "complemento": "TRANSFERENCIA PIX DES: SERTAO REPRESENTACOES 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 718.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "1820508",
+    "complemento": "TRANSFERENCIA PIX DES: TSAI KUO TING 10/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2010.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "5988077",
+    "complemento": "CONTA DE AGUA E ESGOTO INTERNET --AGUAS GUARAMIRIM/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 56.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 20344.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 215464.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3061.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9431856",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA CONCES/ALTER. ABATIMENTO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000005",
+    "credito": true,
+    "debito": false,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1843",
+    "complemento": "PAGTO ELETRON COBRANCA ROYAL FRETE",
+    "credito": true,
+    "debito": false,
+    "valor": 32311.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1844",
+    "complemento": "PAGTO ELETRON COBRANCA OCIANI",
+    "credito": true,
+    "debito": false,
+    "valor": 3393.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255063924",
+    "credito": true,
+    "debito": false,
+    "valor": 10682.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255066818",
+    "credito": true,
+    "debito": false,
+    "valor": 11783.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255069981",
+    "credito": true,
+    "debito": false,
+    "valor": 12539.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255491446",
+    "credito": true,
+    "debito": false,
+    "valor": 16010.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255508233",
+    "credito": true,
+    "debito": false,
+    "valor": 16548.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255063924",
+    "credito": true,
+    "debito": false,
+    "valor": 4166.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255066818",
+    "credito": true,
+    "debito": false,
+    "valor": 4595.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255069981",
+    "credito": true,
+    "debito": false,
+    "valor": 4890.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255508233",
+    "credito": true,
+    "debito": false,
+    "valor": 5604.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255491446",
+    "credito": true,
+    "debito": false,
+    "valor": 6244.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255063924",
+    "credito": true,
+    "debito": false,
+    "valor": 1121.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255066818",
+    "credito": true,
+    "debito": false,
+    "valor": 1237.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255069981",
+    "credito": true,
+    "debito": false,
+    "valor": 1316.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255491446",
+    "credito": true,
+    "debito": false,
+    "valor": 1681.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255508233",
+    "credito": true,
+    "debito": false,
+    "valor": 1791.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255063924",
+    "credito": true,
+    "debito": false,
+    "valor": 5154.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255066818",
+    "credito": true,
+    "debito": false,
+    "valor": 5685.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255069981",
+    "credito": true,
+    "debito": false,
+    "valor": 6050.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255491446",
+    "credito": true,
+    "debito": false,
+    "valor": 7725.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255508233",
+    "credito": true,
+    "debito": false,
+    "valor": 8231.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255491446",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255063924",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255066818",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255508233",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255069981",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "90724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2022.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2232.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2297.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2299.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2377.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2652.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "330908",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 51231.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1409036",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 11/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3380.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1410454",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 11/07",
+    "credito": true,
+    "debito": false,
+    "valor": 388.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1752077",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 11/07",
+    "credito": true,
+    "debito": false,
+    "valor": 166.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 23476.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1888325",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 24760.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "7443640",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 32994.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "9431856",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 136122.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1888325",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 1.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "7443640",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "9431856",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000005",
+    "credito": true,
+    "debito": false,
+    "valor": 9.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1845",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1846",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1847",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1848",
+    "complemento": "PAGTO ELETRON COBRANCA ALUGUEL PLATAFORMA",
+    "credito": true,
+    "debito": false,
+    "valor": 2568.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1849",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1850",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1851",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1852",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1853",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1854",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1855",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1856",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1857",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1858",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1859",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1860",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1861",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1862",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1863",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255741558",
+    "credito": true,
+    "debito": false,
+    "valor": 10653.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255732605",
+    "credito": true,
+    "debito": false,
+    "valor": 11663.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256023470",
+    "credito": true,
+    "debito": false,
+    "valor": 11988.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256028952",
+    "credito": true,
+    "debito": false,
+    "valor": 20615.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255741558",
+    "credito": true,
+    "debito": false,
+    "valor": 4155.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255732605",
+    "credito": true,
+    "debito": false,
+    "valor": 4505.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256023470",
+    "credito": true,
+    "debito": false,
+    "valor": 4833.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256028952",
+    "credito": true,
+    "debito": false,
+    "valor": 7474.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255741558",
+    "credito": true,
+    "debito": false,
+    "valor": 1118.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255732605",
+    "credito": true,
+    "debito": false,
+    "valor": 1239.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256023470",
+    "credito": true,
+    "debito": false,
+    "valor": 1309.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256028952",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255741558",
+    "credito": true,
+    "debito": false,
+    "valor": 5140.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255732605",
+    "credito": true,
+    "debito": false,
+    "valor": 5695.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256023470",
+    "credito": true,
+    "debito": false,
+    "valor": 6018.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256028952",
+    "credito": true,
+    "debito": false,
+    "valor": 10111.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255741558",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256028952",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256023470",
+    "credito": true,
+    "debito": false,
+    "valor": 331.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3255732605",
+    "credito": true,
+    "debito": false,
+    "valor": 377.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "100724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3029.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3187.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1339574",
+    "complemento": "TRANSFERENCIA PIX DES: ROYAL CARGO DO BRASIL 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 13628.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1315222",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1316115",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1318300",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1319041",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1319414",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1320157",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1320377",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1321363",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1321596",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "1322285",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 12/07",
+    "credito": true,
+    "debito": false,
+    "valor": 5456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 17083.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1106060",
+    "complemento": "TRANSFERENCIA PIX REM: PETRIN IMPORTADORA E 15/07",
+    "credito": false,
+    "debito": true,
+    "valor": 600000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000010",
+    "credito": true,
+    "debito": false,
+    "valor": 18.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 20.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1865",
+    "complemento": "PAGTO ELETRON COBRANCA EXAME SP",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1866",
+    "complemento": "PAGTO ELETRON COBRANCA LANDRICO",
+    "credito": true,
+    "debito": false,
+    "valor": 1423.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1867",
+    "complemento": "PAGTO ELETRON COBRANCA SOLUTEC",
+    "credito": true,
+    "debito": false,
+    "valor": 5375.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1868",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 6907.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1869",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 3879.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1870",
+    "complemento": "PAGTO ELETRON COBRANCA FEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3183.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1871",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 3183.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256880772",
+    "credito": true,
+    "debito": false,
+    "valor": 10727.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256892916",
+    "credito": true,
+    "debito": false,
+    "valor": 12596.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256887360",
+    "credito": true,
+    "debito": false,
+    "valor": 14910.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256880772",
+    "credito": true,
+    "debito": false,
+    "valor": 4183.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256892916",
+    "credito": true,
+    "debito": false,
+    "valor": 4912.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256887360",
+    "credito": true,
+    "debito": false,
+    "valor": 5815.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256880772",
+    "credito": true,
+    "debito": false,
+    "valor": 1126.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256892916",
+    "credito": true,
+    "debito": false,
+    "valor": 1322.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256887360",
+    "credito": true,
+    "debito": false,
+    "valor": 1565.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256880772",
+    "credito": true,
+    "debito": false,
+    "valor": 5176.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256892916",
+    "credito": true,
+    "debito": false,
+    "valor": 6077.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256887360",
+    "credito": true,
+    "debito": false,
+    "valor": 7194.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256892916",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256880772",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3256887360",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "4856498",
+    "complemento": "TED DIF.TITUL.CC H.BANK DEST. TRANSIT BR LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 316643.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "10724",
+    "complemento": "TARIFA BANCARIA Max Empresarial 1",
+    "credito": true,
+    "debito": false,
+    "valor": 156.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2018.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2234.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2352.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3938.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "330218",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 52695.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "4856498",
+    "complemento": "DOC/TED INTERNET TED INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 12.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "962244",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 123126.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "939172",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 15/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6887.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "1715026",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 15/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6747.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "5970456",
+    "complemento": "CONTA DE LUZ INTERNET --CELESC DISTR./SC",
+    "credito": true,
+    "debito": false,
+    "valor": 88.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 55323.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 89487.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "7443640",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 15770.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8755592",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 43451.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "7443640",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8755592",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000127",
+    "credito": true,
+    "debito": false,
+    "valor": 232.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 55.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TIT.BX.DECURSO PRAZO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 13.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1872",
+    "complemento": "PAGTO ELETRON COBRANCA PORTO ITAPOA",
+    "credito": true,
+    "debito": false,
+    "valor": 118.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1873",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1874",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1875",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1876",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1877",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1878",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1879",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257556847",
+    "credito": true,
+    "debito": false,
+    "valor": 11897.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257205572",
+    "credito": true,
+    "debito": false,
+    "valor": 14095.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257207923",
+    "credito": true,
+    "debito": false,
+    "valor": 14484.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257203472",
+    "credito": true,
+    "debito": false,
+    "valor": 16638.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257556847",
+    "credito": true,
+    "debito": false,
+    "valor": 4639.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257205572",
+    "credito": true,
+    "debito": false,
+    "valor": 5497.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257203472",
+    "credito": true,
+    "debito": false,
+    "valor": 6488.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257207923",
+    "credito": true,
+    "debito": false,
+    "valor": 6569.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257556847",
+    "credito": true,
+    "debito": false,
+    "valor": 1249.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257205572",
+    "credito": true,
+    "debito": false,
+    "valor": 1480.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257203472",
+    "credito": true,
+    "debito": false,
+    "valor": 1747.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257207923",
+    "credito": true,
+    "debito": false,
+    "valor": 1818.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257556847",
+    "credito": true,
+    "debito": false,
+    "valor": 5740.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257205572",
+    "credito": true,
+    "debito": false,
+    "valor": 6801.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257203472",
+    "credito": true,
+    "debito": false,
+    "valor": 8028.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257207923",
+    "credito": true,
+    "debito": false,
+    "valor": 8355.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257556847",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257203472",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257205572",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3257207923",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "120724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "5040238",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RS-SEFAZ/GNRE ONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 25.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 122.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2031.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2384.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2821.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "330401",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 17415.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1431259",
+    "complemento": "TRANSFERENCIA PIX DES: BARRA DO RIO TERMINAL 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 7458.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1448510",
+    "complemento": "TRANSFERENCIA PIX DES: AR REPRESENTACOES 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 7909.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1252131",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6494.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1252534",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6494.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1253275",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6494.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1254085",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6840.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1424542",
+    "complemento": "PIX QR CODE DINAMICO DES: COORD ADM FINANCEIRA 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 104.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1501362",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2404.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "1940241",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 16/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2976.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 28468.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "962244",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 41918.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8755592",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 61839.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "962244",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8755592",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 1.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000153",
+    "credito": true,
+    "debito": false,
+    "valor": 279.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1880",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1881",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1882",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1883",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1884",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1885",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258232689",
+    "credito": true,
+    "debito": false,
+    "valor": 16494.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258264920",
+    "credito": true,
+    "debito": false,
+    "valor": 16871.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258232689",
+    "credito": true,
+    "debito": false,
+    "valor": 4680.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258264920",
+    "credito": true,
+    "debito": false,
+    "valor": 6579.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258264920",
+    "credito": true,
+    "debito": false,
+    "valor": 1771.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258232689",
+    "credito": true,
+    "debito": false,
+    "valor": 1842.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258264920",
+    "credito": true,
+    "debito": false,
+    "valor": 8140.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258232689",
+    "credito": true,
+    "debito": false,
+    "valor": 8467.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258264920",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3258232689",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2252.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2669.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3149.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3196.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "330395",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 18596.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "330535",
+    "complemento": "TRANSF CC PARA CC PJ ROYAL AGENCIAMENTOS DE CAR",
+    "credito": true,
+    "debito": false,
+    "valor": 9660.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "905111",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 17/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2539.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "906164",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 17/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2539.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1316059",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 17/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6840.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "1502070",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 17/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1957.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 33416.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "962244",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 80392.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "962244",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000012",
+    "credito": true,
+    "debito": false,
+    "valor": 21.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000005",
+    "credito": true,
+    "debito": false,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000006",
+    "credito": true,
+    "debito": false,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1886",
+    "complemento": "PAGTO ELETRON COBRANCA AB",
+    "credito": true,
+    "debito": false,
+    "valor": 32327.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "6827358",
+    "complemento": "TED DIF.TITUL.CC H.BANK DEST. TREVO WRS REPRESENTA",
+    "credito": true,
+    "debito": false,
+    "valor": 389.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "160724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "160724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "5044731",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RS-SEFAZ/GNRE ONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 68.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3196.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 3236.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "5921471",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SP/SEFAZ-DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 753.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "6827358",
+    "complemento": "DOC/TED INTERNET TED INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 12.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1134449",
+    "complemento": "TRANSFERENCIA PIX DES: BASTOS REPRESENTACOES 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1652.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1135449",
+    "complemento": "TRANSFERENCIA PIX DES: BOVOLIN E SUSSUMU COM 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 683.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1140375",
+    "complemento": "TRANSFERENCIA PIX DES: MARCOS ANTONIO BRAINE 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1388.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1145247",
+    "complemento": "TRANSFERENCIA PIX DES: BRASIL VENDAS 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 147.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1146065",
+    "complemento": "TRANSFERENCIA PIX DES: P&R REPRESENTACOES 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 31.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1147002",
+    "complemento": "TRANSFERENCIA PIX DES: J. V. POHREN SERVICO 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2702.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1149446",
+    "complemento": "TRANSFERENCIA PIX DES: L.L.C PRESTACAO DE SE 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1608.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1150489",
+    "complemento": "TRANSFERENCIA PIX DES: WOLF HUNTER REPRESENT 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1009.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1749042",
+    "complemento": "TRANSFERENCIA PIX DES: TRANSIT BR LOGISTICS 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 52998.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "951077",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1793.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1002484",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2178.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "1750046",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 18/07",
+    "credito": true,
+    "debito": false,
+    "valor": 7532.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 120727.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1887",
+    "complemento": "PAGTO ELETRON COBRANCA LAVACAO CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1888",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1889",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1890",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1891",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1892",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1893",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1894",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1895",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1896",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1897",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1898",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1899",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1900",
+    "complemento": "PAGTO ELETRON COBRANCA LOCACAO ANDAIME",
+    "credito": true,
+    "debito": false,
+    "valor": 1498.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1901",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CONTAINER",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1902",
+    "complemento": "PAGTO ELETRON COBRANCA AGENDAMENTO ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1903",
+    "complemento": "PAGTO ELETRON COBRANCA AGENDAMENTO ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1904",
+    "complemento": "PAGTO ELETRON COBRANCA AGENDAMENTO ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "1905",
+    "complemento": "PAGTO ELETRON COBRANCA AGENDAMENTO ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "5306807",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 376.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "5307010",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 1868.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "5309145",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 602.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "330976",
+    "complemento": "TRANSF CC PARA CC PJ ROYAL AGENCIAMENTOS DE CAR",
+    "credito": true,
+    "debito": false,
+    "valor": 11139.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "3646715",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 77077.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 21682.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "962244",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 814.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "3646715",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 47473.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "962244",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "3646715",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000040",
+    "credito": true,
+    "debito": false,
+    "valor": 73.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000005",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1906",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1907",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1908",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1909",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1910",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1911",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1912",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1913",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1914",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1915",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1916",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1917",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1918",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1919",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1920",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1921",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1922",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1923",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1924",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1925",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1926",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1927",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1928",
+    "complemento": "PAGTO ELETRON COBRANCA SDA",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1929",
+    "complemento": "PAGTO ELETRON COBRANCA IOB SISTEMA NCM",
+    "credito": true,
+    "debito": false,
+    "valor": 299.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1930",
+    "complemento": "PAGTO ELETRON COBRANCA EMPILHADEIRA 2/10",
+    "credito": true,
+    "debito": false,
+    "valor": 11003.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1931",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 4476.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1932",
+    "complemento": "PAGTO ELETRON COBRANCA ESCOLTA RJ",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1933",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 2410.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1934",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "180724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 5518.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1645419",
+    "complemento": "TRANSFERENCIA PIX DES: TRANSPORTADORA OCIANI 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1946.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1647346",
+    "complemento": "TRANSFERENCIA PIX DES: ATLANTIS TERMINAIS 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1649236",
+    "complemento": "TRANSFERENCIA PIX DES: META CARGO 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 10112.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1650209",
+    "complemento": "TRANSFERENCIA PIX DES: TW TRANSPORTES 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 6925.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1014343",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 703.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1015124",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 703.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "1708287",
+    "complemento": "PIX QR CODE DINAMICO DES: VR Mobilidade 22/07",
+    "credito": true,
+    "debito": false,
+    "valor": 388.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "5966293",
+    "complemento": "CONTA DE TELEFONE INTERNET --TELEFONICA BRASIL S/",
+    "credito": true,
+    "debito": false,
+    "valor": 145.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 353731.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "3646715",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 11018.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "3646715",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000027",
+    "credito": true,
+    "debito": false,
+    "valor": 49.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1935",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1936",
+    "complemento": "PAGTO ELETRON COBRANCA MODULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 484.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1937",
+    "complemento": "PAGTO ELETRON COBRANCA QUALILOG",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1938",
+    "complemento": "PAGTO ELETRON COBRANCA AGENDAMENTO ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3260995252",
+    "credito": true,
+    "debito": false,
+    "valor": 12118.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3261034299",
+    "credito": true,
+    "debito": false,
+    "valor": 15216.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3260995252",
+    "credito": true,
+    "debito": false,
+    "valor": 4726.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3261034299",
+    "credito": true,
+    "debito": false,
+    "valor": 5132.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3260995252",
+    "credito": true,
+    "debito": false,
+    "valor": 1272.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3261034299",
+    "credito": true,
+    "debito": false,
+    "valor": 1396.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3260995252",
+    "credito": true,
+    "debito": false,
+    "valor": 5847.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3261034299",
+    "credito": true,
+    "debito": false,
+    "valor": 6417.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3260995252",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3261034299",
+    "credito": true,
+    "debito": false,
+    "valor": 308.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "125731",
+    "complemento": "TRANSF CC PARA CC PJ J. B. & FILHOS COMERCIAL L",
+    "credito": true,
+    "debito": false,
+    "valor": 121.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "330184",
+    "complemento": "TRANSF CC PARA CC PJ OPEN TRADE EXPORTACAO E IM",
+    "credito": true,
+    "debito": false,
+    "valor": 55677.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1031265",
+    "complemento": "TRANSFERENCIA PIX DES: MARIA DA CONCEICAO DO 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 454.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1037322",
+    "complemento": "TRANSFERENCIA PIX DES: FEMAR COMERCIO E REPR 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 528.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1042292",
+    "complemento": "TRANSFERENCIA PIX DES: JL VALERIO REPRESENTA 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 76.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1044571",
+    "complemento": "TRANSFERENCIA PIX DES: MOREIRA REPRESENTACOE 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 210.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1046198",
+    "complemento": "TRANSFERENCIA PIX DES: NUNES REPRESENTACOES 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 223.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1048252",
+    "complemento": "TRANSFERENCIA PIX DES: RM CURY REPRESENTACOE 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 148.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1049354",
+    "complemento": "TRANSFERENCIA PIX DES: GILSON BARROSO DA SIL 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 246.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1118171",
+    "complemento": "TRANSFERENCIA PIX DES: PEDRO CARLOS RESENDE 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 38.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1541333",
+    "complemento": "TRANSFERENCIA PIX DES: TRANSIT BR LOGISTICS 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 248849.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "1659403",
+    "complemento": "PIX QR CODE DINAMICO DES: RECEITA FEDERAL 23/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1688.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 14486.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000098",
+    "credito": true,
+    "debito": false,
+    "valor": 179.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 18.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426284",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300017",
+    "credito": true,
+    "debito": false,
+    "valor": 1.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426289",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300022",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426291",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300024",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426292",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300025",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426301",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300034",
+    "credito": true,
+    "debito": false,
+    "valor": 0.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426314",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300047",
+    "credito": true,
+    "debito": false,
+    "valor": 5.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "8426323",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300056",
+    "credito": true,
+    "debito": false,
+    "valor": 0.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2296.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2937.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "5662293",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 3602.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "1506354",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 24/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "1507450",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 24/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "1527313",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 24/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "1528241",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 24/07",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "1648572",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 24/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 75361.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000138",
+    "credito": true,
+    "debito": false,
+    "valor": 252.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TR TIT PAGO CARTORIO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "1939",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 828.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "1940",
+    "complemento": "PAGTO ELETRON COBRANCA LAVACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "1941",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ",
+    "credito": true,
+    "debito": false,
+    "valor": 2185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "1942",
+    "complemento": "PAGTO ELETRON COBRANCA CNJ ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "220724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "220724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "220724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "220724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "230724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "8426324",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300057",
+    "credito": true,
+    "debito": false,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "8426362",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300095",
+    "credito": true,
+    "debito": false,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "8426364",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300097",
+    "credito": true,
+    "debito": false,
+    "valor": 0.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "6289777",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 69758.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "852406",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 25/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1838.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 74375.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "3646715",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 13678.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "3646715",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 5.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262944213",
+    "credito": true,
+    "debito": false,
+    "valor": 10584.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262940250",
+    "credito": true,
+    "debito": false,
+    "valor": 11088.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262939503",
+    "credito": true,
+    "debito": false,
+    "valor": 22068.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262944213",
+    "credito": true,
+    "debito": false,
+    "valor": 4127.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262940250",
+    "credito": true,
+    "debito": false,
+    "valor": 4324.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262939503",
+    "credito": true,
+    "debito": false,
+    "valor": 8606.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262944213",
+    "credito": true,
+    "debito": false,
+    "valor": 1111.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262940250",
+    "credito": true,
+    "debito": false,
+    "valor": 1164.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262939503",
+    "credito": true,
+    "debito": false,
+    "valor": 2317.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262944213",
+    "credito": true,
+    "debito": false,
+    "valor": 5106.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262940250",
+    "credito": true,
+    "debito": false,
+    "valor": 5350.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262939503",
+    "credito": true,
+    "debito": false,
+    "valor": 10648.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262940250",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262939503",
+    "credito": true,
+    "debito": false,
+    "valor": 192.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3262944213",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426268",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300001",
+    "credito": true,
+    "debito": false,
+    "valor": 295.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426273",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300006",
+    "credito": true,
+    "debito": false,
+    "valor": 638.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426322",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300055",
+    "credito": true,
+    "debito": false,
+    "valor": 0.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426346",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300079",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426349",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300082",
+    "credito": true,
+    "debito": false,
+    "valor": 0.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "8426388",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300121",
+    "credito": true,
+    "debito": false,
+    "valor": 0.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 7919.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "3646715",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4907.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "5662293",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3602.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "6289777",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 56646.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "3646715",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "5662293",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "6289777",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1943",
+    "complemento": "PAGTO ELETRON COBRANCA ESCOLTA CARRETA",
+    "credito": true,
+    "debito": false,
+    "valor": 955.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1944",
+    "complemento": "PAGTO ELETRON COBRANCA FRETE CARRETA",
+    "credito": true,
+    "debito": false,
+    "valor": 12146.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1945",
+    "complemento": "PAGTO ELETRON COBRANCA PROCESSO 39286",
+    "credito": true,
+    "debito": false,
+    "valor": 1930.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1946",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 2846.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1947",
+    "complemento": "PAGTO ELETRON COBRANCA TW",
+    "credito": true,
+    "debito": false,
+    "valor": 1731.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3263841167",
+    "credito": true,
+    "debito": false,
+    "valor": 14247.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3263841167",
+    "credito": true,
+    "debito": false,
+    "valor": 5556.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3263841167",
+    "credito": true,
+    "debito": false,
+    "valor": 1496.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3263841167",
+    "credito": true,
+    "debito": false,
+    "valor": 6874.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3263841167",
+    "credito": true,
+    "debito": false,
+    "valor": 285.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426290",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300023",
+    "credito": true,
+    "debito": false,
+    "valor": 357.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426297",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300030",
+    "credito": true,
+    "debito": false,
+    "valor": 419.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426298",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300031",
+    "credito": true,
+    "debito": false,
+    "valor": 0.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426305",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300038",
+    "credito": true,
+    "debito": false,
+    "valor": 920.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426325",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300058",
+    "credito": true,
+    "debito": false,
+    "valor": 535.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426339",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300072",
+    "credito": true,
+    "debito": false,
+    "valor": 1884.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426348",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300081",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426359",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300092",
+    "credito": true,
+    "debito": false,
+    "valor": 737.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "8426361",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300094",
+    "credito": true,
+    "debito": false,
+    "valor": 813.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1042115",
+    "complemento": "TRANSFERENCIA PIX DES: QUALILOG TRANSPORTES 29/07",
+    "credito": true,
+    "debito": false,
+    "valor": 14210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "1825535",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 29/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3018.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 162767.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000049",
+    "credito": true,
+    "debito": false,
+    "valor": 89.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1948",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI SISTEMAS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7104.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1949",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI SISTEMAS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3464.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1950",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1951",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1952",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1953",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1954",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1955",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1956",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1957",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1958",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1959",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1960",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1961",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1962",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1963",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1964",
+    "complemento": "SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1965",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1966",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1967",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1968",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1969",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1970",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1971",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1972",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1973",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1974",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1975",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1976",
+    "complemento": "PAGTO ELETRON COBRANCA SINDICATO DOS DESPACHANTES ADUAN",
+    "credito": true,
+    "debito": false,
+    "valor": 945.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1977",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI SISTEMAS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 712.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1978",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI SISTEMAS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1979",
+    "complemento": "PAGTO ELETRON COBRANCA GUARANI SISTEMAS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 356.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1980",
+    "complemento": "PAGTO ELETRON COBRANCA VR - DUTE",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426377",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300110",
+    "credito": true,
+    "debito": false,
+    "valor": 1.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426387",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300120",
+    "credito": true,
+    "debito": false,
+    "valor": 988.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426393",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300126",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426398",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300131",
+    "credito": true,
+    "debito": false,
+    "valor": 1619.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426399",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300132",
+    "credito": true,
+    "debito": false,
+    "valor": 1865.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426404",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300137",
+    "credito": true,
+    "debito": false,
+    "valor": 11527.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426406",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300139",
+    "credito": true,
+    "debito": false,
+    "valor": 0.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8426423",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300156",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "5303972",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 71.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "5307488",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 15.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 2700.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8622611",
+    "complemento": "PAGTO ELETRON COBRANCA APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 93575.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "818397",
+    "complemento": "PIX QR CODE DINAMICO DES: SECRETARIA DE ESTADO 30/07",
+    "credito": true,
+    "debito": false,
+    "valor": 4175.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "819370",
+    "complemento": "PIX QR CODE DINAMICO DES: SECRETARIA DE ESTADO 30/07",
+    "credito": true,
+    "debito": false,
+    "valor": 2006.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1026273",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 30/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1322.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "1247445",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 30/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3254.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "8622611",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 93575.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 2425.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "310724",
+    "complemento": "RESG.AUTOM.INVEST FACIL*",
+    "credito": false,
+    "debito": true,
+    "valor": 81429.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO 00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 3.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "DESPESAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 27.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "TARIFA AUTORIZ COBRANCA TARIFA EXTRATO PROTESTO 00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA BX TIT PELO BENEFICIARIO00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "9059178",
+    "complemento": "TAR COMANDADA COBRANCA ALTERACAO VENCIMENTO TIT00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 13.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1981",
+    "complemento": "PAGTO ELETRON COBRANCA SISTEMA WHATSAPP",
+    "credito": true,
+    "debito": false,
+    "valor": 379.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265202323",
+    "credito": true,
+    "debito": false,
+    "valor": 14735.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8040086",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265188568",
+    "credito": true,
+    "debito": false,
+    "valor": 17251.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265202323",
+    "credito": true,
+    "debito": false,
+    "valor": 5746.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8041038",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265188568",
+    "credito": true,
+    "debito": false,
+    "valor": 6728.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265202323",
+    "credito": true,
+    "debito": false,
+    "valor": 1547.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8045602",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265188568",
+    "credito": true,
+    "debito": false,
+    "valor": 1811.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265202323",
+    "credito": true,
+    "debito": false,
+    "valor": 7110.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8045629",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265188568",
+    "credito": true,
+    "debito": false,
+    "valor": 8323.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265202323",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8047811",
+    "complemento": "PGTO ELETRONICO TRIBUTO SISCOMEX-PROT. 3265188568",
+    "credito": true,
+    "debito": false,
+    "valor": 223.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "290724",
+    "complemento": "TARIFA BANCARIA TRANSF PGTO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8426410",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300143",
+    "credito": true,
+    "debito": false,
+    "valor": 638.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8426411",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300144",
+    "credito": true,
+    "debito": false,
+    "valor": 1.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8426416",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300149",
+    "credito": true,
+    "debito": false,
+    "valor": 950.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "8426418",
+    "complemento": "DEB DESCONTO DUPLICATAS 202400114749300151",
+    "credito": true,
+    "debito": false,
+    "valor": 1326.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "5770000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 4049.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "125418",
+    "complemento": "TRANSF CC PARA CC PJ J. B. & FILHOS COMERCIAL L",
+    "credito": true,
+    "debito": false,
+    "valor": 77.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1500289",
+    "complemento": "TRANSFERENCIA PIX DES: ONE COMERCIO 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1625.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1501424",
+    "complemento": "TRANSFERENCIA PIX DES: ANA CRISTINA DA SILVA 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 922.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1502514",
+    "complemento": "TRANSFERENCIA PIX DES: GILSON BARROSO DA SIL 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 268.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1506074",
+    "complemento": "TRANSFERENCIA PIX DES: Carvalho representaç 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 295.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1508129",
+    "complemento": "TRANSFERENCIA PIX DES: JL VALERIO REPRESENTA 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 52.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1512500",
+    "complemento": "TRANSFERENCIA PIX DES: RIOSANTOS PROMOCAO DE 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 55.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1702465",
+    "complemento": "TRANSFERENCIA PIX DES: CAMILA OLIVEIRA DOS 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 647.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1720080",
+    "complemento": "TRANSFERENCIA PIX DES: LIDER SOLUCOES CONTAB 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1336519",
+    "complemento": "PIX QR CODE DINAMICO DES: PORTONAVE S/A - TERMI 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 3490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "1338001",
+    "complemento": "PIX QR CODE DINAMICO DES: ITAPOA TERMINAIS PORT 31/07",
+    "credito": true,
+    "debito": false,
+    "valor": 1784.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "9059178",
+    "complemento": "LIQUIDACAO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 18081.7,
+    "origem": "Extrato"
+  }
+]

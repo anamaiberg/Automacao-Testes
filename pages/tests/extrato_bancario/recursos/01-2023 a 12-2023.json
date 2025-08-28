@@ -1,0 +1,1910 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "430448",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2555.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "251675",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 3994.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "251922",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 45.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 139.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "251139",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Carlos Roberto Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 36000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "251215",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Eudaldo Ferreira Aniceto",
+    "credito": true,
+    "debito": false,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "3965561",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "251024",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "6454209",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 12080.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "6454209",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 12080.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "3990010",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 12300.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "20123",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 86.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "1066330",
+    "complemento": "TRANSF.AUTORIZ.ENTRE C/C Ingria Correia da Costa Morais",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "3480019",
+    "complemento": "PARCELA CREDITO PESSOAL CONTR 456399971 PARC 005/006",
+    "credito": true,
+    "debito": false,
+    "valor": 101817.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "976042",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Gilmar Pereira Peres",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "6550063",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "3718329",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 575.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "9180796",
+    "complemento": "OPERACAO CREDITO RURAL",
+    "credito": false,
+    "debito": true,
+    "valor": 1268000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "9180796",
+    "complemento": "IOF S/OPERACAO CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 4818.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "388",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO VIDA E PREVIDENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 65785.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "4278796",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1197395.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "3718329",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 575.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "RESGATE INVEST FACIL 4278796",
+    "credito": false,
+    "debito": true,
+    "valor": 1197396.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "1399191",
+    "complemento": "APLICACAO EM FUNDOS FICFIRF S BRILHANTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1197973.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 4243.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "251768",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 4242.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": "251072",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 2469.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 707.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 1762.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "6438716",
+    "complemento": "TED DEVOLVIDA* 02-AG.OU CTA DEST. INVALIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "6438716",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "6439774",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "8565380",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 302536.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "2204905",
+    "complemento": "TED DIF.TITUL.CC H.BANK DEST. Santos Antonio Logis",
+    "credito": true,
+    "debito": false,
+    "valor": 289614.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": "3990041",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 12922.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": "4422611",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 109521.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "251126",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Lojas Agromaquinas LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "10223",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 86.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "737445",
+    "complemento": "TRANSFERENCIA PIX DES: SIMPLICIO COSTA LOPES 15/02",
+    "credito": true,
+    "debito": false,
+    "valor": 84435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 474383.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "389",
+    "complemento": "PAGTO ELETRON  COBRANCA SW4 INGRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2565.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "9556824",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 370000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "3480053",
+    "complemento": "PARCELA CREDITO PESSOAL LIQUID. CONTRATO 456399971",
+    "credito": true,
+    "debito": false,
+    "valor": 101817.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 4242.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "251068",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 4242.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "1399191",
+    "complemento": "BAIXA AUTOMATICA FUNDOS",
+    "credito": false,
+    "debito": true,
+    "valor": 4010.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "5617995",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 90000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "3990069",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 10686.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "6933572",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "976217",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Telvina Dias dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "8574305",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 2824.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "8574305",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2824.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "251960",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Eudaldo Ferreira Aniceto",
+    "credito": true,
+    "debito": false,
+    "valor": 27500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "10323",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 86.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "251577",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Carlos Roberto Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "390",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO SEGUROS - SEGURO AUTOMO",
+    "credito": true,
+    "debito": false,
+    "valor": 2565.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "3486276",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "251275",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 4242.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "8446333",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 65229.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "8446333",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2046.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 546.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "8446333",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 10256.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "3990100",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 10256.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "8446333",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 52931.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "391",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO VIDA E PREVIDENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 19635.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "976842",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Francisco Jorge Rios",
+    "credito": true,
+    "debito": false,
+    "valor": 2070.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "6061947",
+    "complemento": "PARCELA OPERACAO CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 41666.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "6061948",
+    "complemento": "PARCELA OPERACAO CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 4322.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "6794553",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "6512524",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 5237.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "6512524",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "251345",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "6512524",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "590326",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Maria da Paz de Paula",
+    "credito": true,
+    "debito": false,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "6512524",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 110.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 47.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 62.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6512524",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2987.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "251190",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Manoel Goncalves de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "251589",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 4242.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "251933",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 5324.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "501066",
+    "complemento": "RESG.TIT.CAPITALIZACAO",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "",
+    "complemento": "RESG.TIT.CAPITALIZACAO 501066",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "",
+    "complemento": "RESG.TIT.CAPITALIZACAO 501066",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "",
+    "complemento": "RESG.TIT.CAPITALIZACAO 501066",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "",
+    "complemento": "RESG.TIT.CAPITALIZACAO 501066",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "",
+    "complemento": "RESG.TIT.CAPITALIZACAO 501066",
+    "credito": false,
+    "debito": true,
+    "valor": 5097.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "5466628",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 23906.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 11981.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "392",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO SEGUROS - SEGURO AUTOMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1303.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "3990130",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 10678.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 313.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "251010",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Jose Roberto Tavares da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 313.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "976666",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Lazaro Jose de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "20523",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "251182",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Manoel Goncalves de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 48.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 22.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 25.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "976348",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS Egrimon Wagner Rodrigues dos Rei",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6575.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251067",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 6275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251074",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS MANOEL GONCALVES DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "5466628",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 304.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "393",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO SEGUROS - SEGURO AUTOMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1303.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "3990163",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 6055.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "2401691",
+    "complemento": "TED-TRANSF ELET DISPON REMET.JOAO P M BORGES",
+    "credito": false,
+    "debito": true,
+    "valor": 930000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "2848783",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 338000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "5407458",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1260945.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "5407458",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1188092.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10623",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "451015",
+    "complemento": "RESG CPR EVENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1188003.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "5407458",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 738.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "397",
+    "complemento": "PAGTO ELETRON  COBRANCA SEGURO SW4 DIAMOND",
+    "credito": true,
+    "debito": false,
+    "valor": 738.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "5407458",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 72120.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "7200916",
+    "complemento": "TED D CC HBANK* DEST. JOAO PAULO MODESTO B",
+    "credito": true,
+    "debito": false,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "3831875",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "251538",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 387.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 2018.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "5009342",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "394",
+    "complemento": "PAGTO ELETRON  COBRANCA BRADESCO SEGUROS - SEGURO AUTOMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1303.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "3990191",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 8783.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "976692",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS LIANA PINHEIRO DE CASTRO",
+    "credito": true,
+    "debito": false,
+    "valor": 1962.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "30723",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "5588739",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "7792275",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 3273.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "7792275",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3273.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "251545",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 73.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 975.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "976589",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS DALTON DE PAULA CAMPOS",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "3990222",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 11772.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "1904013",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "8979861",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 5448.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "8979861",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 5448.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "10823",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 44.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "6073581",
+    "complemento": "PARCELA OPERACAO CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 27048.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "140916",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS ALDOARDO ALVES PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "4886781",
+    "complemento": "TED-TRANSF ELET DISPON REMET.JOAO P M BORGES",
+    "credito": false,
+    "debito": true,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "251023",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS A. M. MADEIRAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "7501415",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 6256.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "7205245",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 230000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "251231",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "976343",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS DALTON DE PAULA CAMPOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 183.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 1065.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "9643813",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 223397.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "7501415",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6256.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "RESGATE INVEST FACIL 9643813",
+    "credito": false,
+    "debito": true,
+    "valor": 223401.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "3990254",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 11902.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "440254",
+    "complemento": "PARCELA CREDITO RURAL",
+    "credito": true,
+    "debito": false,
+    "valor": 230028.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "5600165",
+    "complemento": "TED-TRANSF ELET DISPON REMET.JOAO P M BORGES",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "5174911",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 2726.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "5174911",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "10923",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "5174911",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "976036",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS DALTON DE PAULA CAMPOS",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "8971489",
+    "complemento": "TED-TRANSF ELET DISPON REMET.JOAO P M BORGES",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "251771",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "4552679",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 5696.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "5174911",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 129.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 48.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 81.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "4552679",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4479.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "RESGATE INVEST FACIL 5174911",
+    "credito": false,
+    "debito": true,
+    "valor": 1908.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "3990283",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 6388.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "4552679",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "21023",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "4552679",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1128.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "251892",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "976123",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS DALTON DE PAULA CAMPOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 13.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 30.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "5736989",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "3676438",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 15281.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "3676438",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 8195.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "3990314",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 8195.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "3676438",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "11123",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "3676438",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6997.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "6053549",
+    "complemento": "PARCELA OPERACAO CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 10251.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "251098",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JUAREZ ALVES PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "251136",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 2724.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "251423",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "251847",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4303.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "976377",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS DALTON DE PAULA CAMPOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA IOF     CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 68.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "4835110",
+    "complemento": "ENCARGOS C GARANTIDA ENCARGO CONTR 4835110",
+    "credito": true,
+    "debito": false,
+    "valor": 198.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2023",
+    "documento": "251986",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JOSE ROBERTO TAVARES DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 10464.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "3990345",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 7505.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "7928588",
+    "complemento": "RECEBIMENTO TED D REMET.JOAO PAULO MODESTO B",
+    "credito": false,
+    "debito": true,
+    "valor": 35000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "6906157",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 178.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "6906157",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "11223",
+    "complemento": "TARIFA BANCARIA CESTA PRIME EXCLUSIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "6906157",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 89.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2023",
+    "documento": "251866",
+    "complemento": "TRANSF AUTORIZ ENTRE AGS JUAREZ ALVES PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3970.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "398",
+    "complemento": "PAGTO ELETRON  COBRANCA PGTO PLANALTO",
+    "credito": true,
+    "debito": false,
+    "valor": 438.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "399",
+    "complemento": "PAGTO ELETRON  COBRANCA MULTI TRATORES",
+    "credito": true,
+    "debito": false,
+    "valor": 193.85,
+    "origem": "Extrato"
+  }
+]

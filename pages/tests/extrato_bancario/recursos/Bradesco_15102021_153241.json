@@ -1,0 +1,3809 @@
+[
+  {
+    "data": "01/09/2021",
+    "documento": "2723472",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 461.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "3010019",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 867.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "4046326",
+    "complemento": "TRANSF.MMA.TITULARIDADE*",
+    "credito": false,
+    "debito": true,
+    "valor": 13938.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "100330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 935.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 463.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5938.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "164228",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 8820.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "9021",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26499.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "3990244",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 4824.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "5993925",
+    "complemento": "CONTA DE GAS INTERNET --CIA. ULTRAGAZ/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 46.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2021",
+    "documento": "5980104",
+    "complemento": "CONTA DE AGUA E ESGOTO INTERNET --AGUAS DE BOMBINHAS S",
+    "credito": true,
+    "debito": false,
+    "valor": 55.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "4046326",
+    "complemento": "TRANSF.MMA.TITULARIDADE*",
+    "credito": false,
+    "debito": true,
+    "valor": 16850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "330556",
+    "complemento": "TRANSF CC PARA CC PJ RD INVESTIMENTOS P. A. B. LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 63.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "330927",
+    "complemento": "TRANSF CC PARA CC PJ TOP SELLER REPRESENTACOES LTDA M",
+    "credito": false,
+    "debito": true,
+    "valor": 1255.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "200330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 1037.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "200330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 7610.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 660.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5233.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "2732044",
+    "complemento": "REDE HIPER CRED REDECARD S A",
+    "credito": false,
+    "debito": true,
+    "valor": 53.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 97.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "242030",
+    "complemento": "HIPERCARD ANTECIPACAO STELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "1138130",
+    "complemento": "TRANSFERENCIA PIX REMT: EDGAR JOSE VARGAS COMERCIO",
+    "credito": false,
+    "debito": true,
+    "valor": 2377.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "9060582",
+    "complemento": "TARIFA REGISTRO COBRANCA QUANDO DO REGISTRO      00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 5.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "9022",
+    "complemento": "PAGTO ELETRON  COBRANCA DISTRIBUIDORA MULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 1049.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "9023",
+    "complemento": "PAGTO ELETRON  COBRANCA MACIEL PECAS",
+    "credito": true,
+    "debito": false,
+    "valor": 381.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "9024",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 217.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "9025",
+    "complemento": "PAGTO ELETRON  COBRANCA IPTU ALTA VISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 393.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2021",
+    "documento": "2916076",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 33191.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "5811254",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 762.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "6022846",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 307.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4046326",
+    "complemento": "TRANSF.MMA.TITULARIDADE*",
+    "credito": false,
+    "debito": true,
+    "valor": 3034.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 12919.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "300330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 848.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "300330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 6510.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 18905.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 305.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4654.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "164228",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4376.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 48.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "1658028",
+    "complemento": "TRANSFERENCIA PIX REMT: ANDERSON SILVERIO ME",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "9026",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "9027",
+    "complemento": "PAGTO ELETRON  COBRANCA CRBS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1217.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "9028",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 580.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2021",
+    "documento": "9029",
+    "complemento": "PAGTO ELETRON  COBRANCA CATARINENSE DISTRIBUIDORA DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 479.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 7428.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 33687.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "330990",
+    "complemento": "TRANSF CC PARA CC PJ FN CORRETORA DE SEGUROS LTDA   E",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "600330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 2298.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "600330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 12649.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 34808.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 13265.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1761.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 13038.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 285.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 214.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "1614351",
+    "complemento": "TRANSFERENCIA PIX REMT: ONIX CENTRO AUTOMOTIVO LTD",
+    "credito": false,
+    "debito": true,
+    "valor": 1380.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9030",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9031",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9032",
+    "complemento": "PAGTO ELETRON  COBRANCA ADRIANO BENASSI EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3354.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9033",
+    "complemento": "PAGTO ELETRON  COBRANCA TEFWAY TECNOLOGIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9034",
+    "complemento": "PAGTO ELETRON  COBRANCA LIBERTY SEGUROS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 213.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9035",
+    "complemento": "PAGTO ELETRON  COBRANCA JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 457.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9036",
+    "complemento": "PAGTO ELETRON  COBRANCA NATALIA FEIJO FERREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9037",
+    "complemento": "PAGTO ELETRON  COBRANCA SPAL INDUSTRIA BRASILEIRA BEBIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 315.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9038",
+    "complemento": "PAGTO ELETRON  COBRANCA MUNICIPIO DE BALNEARIO CAMBORIU",
+    "credito": true,
+    "debito": false,
+    "valor": 104.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9039",
+    "complemento": "PAGTO ELETRON  COBRANCA FIORELO PEGORARO C D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 98.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "9040",
+    "complemento": "PAGTO ELETRON  COBRANCA SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 93.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "5660912",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --FGTS/GRF S/TOMADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1585.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2021",
+    "documento": "4795092",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 10447.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9060582",
+    "complemento": "LIQUIDACAO DE COBRANCA Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 2591.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 3351.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "451063",
+    "complemento": "DOC CREDITO AUTOMATICO* DISTRIBUIDORA AUTO P M I LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 714.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "1591066",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 4126.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "2059315",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 1204.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "2844246",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ADACO OFEARTE SECR E",
+    "credito": false,
+    "debito": true,
+    "valor": 434.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 18148.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "800330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 712.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "800330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 12676.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 23887.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7883.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 778.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5922.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "164228",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 20485.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "2916076",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 26325.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "1316322",
+    "complemento": "TRANSFERENCIA PIX REMT: ADRIANO BENASSI EIRELI",
+    "credito": false,
+    "debito": true,
+    "valor": 327.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9041",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9042",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9043",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 21347.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9044",
+    "complemento": "PAGTO ELETRON  COBRANCA DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 879.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9045",
+    "complemento": "PAGTO ELETRON  COBRANCA HELPER COMERCIO DE LUBRIFICANTES",
+    "credito": true,
+    "debito": false,
+    "valor": 644.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9046",
+    "complemento": "PAGTO ELETRON  COBRANCA AGRICOPEL COMERCIO DE DERIVADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 811.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9047",
+    "complemento": "PAGTO ELETRON  COBRANCA HNK BR LOGISTICA E DIST LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 615.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9048",
+    "complemento": "PAGTO ELETRON  COBRANCA MITSUI SUMITOMO SEGUROS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 256.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2021",
+    "documento": "9049",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 224.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 2419.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "3943079",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ANGEL INDUSTRIA DA M",
+    "credito": false,
+    "debito": true,
+    "valor": 2122.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4062303",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ASS DEFIC VISUAIS IT",
+    "credito": false,
+    "debito": true,
+    "valor": 266.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 21640.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "900330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 518.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 33671.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3932.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 487.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8055.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 48.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 97.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "1032567",
+    "complemento": "TRANSFERENCIA PIX REMT: IGREJA EVANGELICA ASSEMBLE",
+    "credito": false,
+    "debito": true,
+    "valor": 16335.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "1046336",
+    "complemento": "TRANSFERENCIA PIX REMT: Olivio Porto",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "9050",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "9051",
+    "complemento": "PAGTO ELETRON  COBRANCA CENCI UNIF PROF LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 507.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "9052",
+    "complemento": "PAGTO ELETRON  COBRANCA DISTRIBUIDORA DE ALIMENTOS DEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 431.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "9053",
+    "complemento": "PAGTO ELETRON  COBRANCA ROBERTO ANTONIO BALLAN",
+    "credito": true,
+    "debito": false,
+    "valor": 78.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2021",
+    "documento": "6671056",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 40183.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 2520.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4436915",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ZANELLA AGUIAR CONTA",
+    "credito": false,
+    "debito": true,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4602562",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 1638.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4696491",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 209.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8609.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "1000330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 406.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "1000330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 15997.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 15634.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5095.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 472.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3035.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "2916076",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6866.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4795092",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 10447.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "6671056",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 18585.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 58.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "1809425",
+    "complemento": "TRANSFERENCIA PIX REMT: GMAES TELECOM LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 2317.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8979",
+    "complemento": "PAGTO ELETRON  COBRANCA 070031791100356401BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1086.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8980",
+    "complemento": "PAGTO ELETRON  COBRANCA 070031790300356401BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1086.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8981",
+    "complemento": "PAGTO ELETRON  COBRANCA 017035753400973700BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1066.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8982",
+    "complemento": "PAGTO ELETRON  COBRANCA 070031785600356401BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1086.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8983",
+    "complemento": "PAGTO ELETRON  COBRANCA 070031788300356401BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1086.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8985",
+    "complemento": "PAGTO ELETRON  COBRANCA 070002966200336000BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1068.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8986",
+    "complemento": "PAGTO ELETRON  COBRANCA 017035724100954800BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 858.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8987",
+    "complemento": "PAGTO ELETRON  COBRANCA 070002963200336000BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1068.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8988",
+    "complemento": "PAGTO ELETRON  COBRANCA 070002947000336000BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1068.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "8989",
+    "complemento": "PAGTO ELETRON  COBRANCA 070002957800336000BRADESCO CONSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1068.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9054",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52626.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9055",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26313.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9056",
+    "complemento": "PAGTO ELETRON  COBRANCA CASA DAS CHAVES ZULIAN LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9057",
+    "complemento": "PAGTO ELETRON  COBRANCA COND RESID ALTA VISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 958.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9058",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 582.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9059",
+    "complemento": "PAGTO ELETRON  COBRANCA TIMONEIRO DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 417.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9060",
+    "complemento": "PAGTO ELETRON  COBRANCA CATARINENSE DISTRIBUIDORA DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 248.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9061",
+    "complemento": "PAGTO ELETRON  COBRANCA SINCOMBUSTIVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 216.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9062",
+    "complemento": "PAGTO ELETRON  COBRANCA CS COML",
+    "credito": true,
+    "debito": false,
+    "valor": 219.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9063",
+    "complemento": "PAGTO ELETRON  COBRANCA SUL AMERICA SEGUROS EVELLYN",
+    "credito": true,
+    "debito": false,
+    "valor": 282.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9064",
+    "complemento": "PAGTO ELETRON  COBRANCA COND ATMOS HOME",
+    "credito": true,
+    "debito": false,
+    "valor": 339.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2021",
+    "documento": "9346",
+    "complemento": "CONTA DE AGUA SEMASA DE ITAJAI/SC-00093467",
+    "credito": true,
+    "debito": false,
+    "valor": 146.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "9060582",
+    "complemento": "LIQUIDACAO DE COBRANCA Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 1455.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 11215.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "7564679",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ASS DEFIC VISUAIS IT",
+    "credito": false,
+    "debito": true,
+    "valor": 217.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8211.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "1300330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 801.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 11942.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 15692.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1750.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3772.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 499.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "4282965",
+    "complemento": "SOROCRED CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 70.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "1150475",
+    "complemento": "TRANSFERENCIA PIX REMT: RX EMPREITEIRA DE MAO DE O",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "9065",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52626.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "9066",
+    "complemento": "PAGTO ELETRON  COBRANCA MARICK DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 276.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "9067",
+    "complemento": "PAGTO ELETRON  COBRANCA L. A. V. DRESSLER CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1817.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "9068",
+    "complemento": "PAGTO ELETRON  COBRANCA MARINA NUCCI BASILIO FERREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 329.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2021",
+    "documento": "7961416",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1281.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 294.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "50852",
+    "complemento": "DOC CREDITO AUTOMATICO* DISTRIBUIDORA AUTO P M I LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 876.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4204.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "1400330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 12.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "1400330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 23685.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4064.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2294.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 128.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1060.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "1609162",
+    "complemento": "TRANSFERENCIA PIX REMT: SILVERIO COMERCIO DE MOLDU",
+    "credito": false,
+    "debito": true,
+    "valor": 1987.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "9069",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26801.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "9070",
+    "complemento": "PAGTO ELETRON  COBRANCA SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5543.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "9071",
+    "complemento": "PAGTO ELETRON  COBRANCA MACIEL PECAS",
+    "credito": true,
+    "debito": false,
+    "valor": 222.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "9072",
+    "complemento": "PAGTO ELETRON  COBRANCA SUL AMERICA SEGUROS MARCO",
+    "credito": true,
+    "debito": false,
+    "valor": 564.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2021",
+    "documento": "8642066",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 4598.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 2127.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "1146820",
+    "complemento": "TED-TRANSF ELET DISPON REMET.PERSONAL NET TECNOLO",
+    "credito": false,
+    "debito": true,
+    "valor": 412.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "1226793",
+    "complemento": "TED-TRANSF ELET DISPON REMET.PERSONAL NET TECNOLO",
+    "credito": false,
+    "debito": true,
+    "valor": 3104.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9274998",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 863.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9487354",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 222.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3421.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "1500330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 820.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "2100001",
+    "complemento": "RECEBIMENTO FORNECEDOR POOL EMPRESARIAL S/A",
+    "credito": false,
+    "debito": true,
+    "valor": 427.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 6681.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4659.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 291.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1598.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "6671056",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1723.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 121.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9073",
+    "complemento": "PAGTO ELETRON  COBRANCA SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5543.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9074",
+    "complemento": "PAGTO ELETRON  COBRANCA RHUAN RODRIGO MORAES SOCIEDADE I",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9075",
+    "complemento": "PAGTO ELETRON  COBRANCA DEISE DE CASSIA SOARES 055414619",
+    "credito": true,
+    "debito": false,
+    "valor": 354.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9076",
+    "complemento": "PAGTO ELETRON  COBRANCA XPERT",
+    "credito": true,
+    "debito": false,
+    "valor": 309.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9077",
+    "complemento": "PAGTO ELETRON  COBRANCA AMBIENTAL TRANSPORTES RODOVIARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9078",
+    "complemento": "PAGTO ELETRON  COBRANCA ASSOCIACAO DE PROMITENTES COMPRA",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9079",
+    "complemento": "PAGTO ELETRON  COBRANCA SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "9080",
+    "complemento": "PAGTO ELETRON  COBRANCA COND AUTENTHIC",
+    "credito": true,
+    "debito": false,
+    "valor": 4915.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "1190307",
+    "complemento": "TED DIF.TITUL.CC H.BANK DEST. Altamiro Cristani",
+    "credito": true,
+    "debito": false,
+    "valor": 7420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "10921",
+    "complemento": "TARIFA BANCARIA Max Empresarial 2",
+    "credito": true,
+    "debito": false,
+    "valor": 189.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "330532",
+    "complemento": "TRANSF CC PARA CC PJ SUSANA MARINA BAYERL",
+    "credito": true,
+    "debito": false,
+    "valor": 6800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "5967836",
+    "complemento": "CONTA DE TELEFONE INTERNET --TELEFONICA BRASIL S/",
+    "credito": true,
+    "debito": false,
+    "valor": 450.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2021",
+    "documento": "5969863",
+    "complemento": "CONTA DE TELEFONE INTERNET --TELEFONICA BRASIL S/",
+    "credito": true,
+    "debito": false,
+    "valor": 150.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1435.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5125.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "1600330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 134.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "1600330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 9354.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4254.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2496.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 38.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1882.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 319.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "1130135",
+    "complemento": "TRANSFERENCIA PIX REMT: Olivio porto",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "9081",
+    "complemento": "PAGTO ELETRON  COBRANCA CRBS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 716.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "9082",
+    "complemento": "PAGTO ELETRON  COBRANCA MACIEL PECAS",
+    "credito": true,
+    "debito": false,
+    "valor": 381.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "9083",
+    "complemento": "PAGTO ELETRON  COBRANCA DISTRIBUIDORA MULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 371.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "9084",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 148.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "9918466",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 23743.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2021",
+    "documento": "5989484",
+    "complemento": "CONTA DE AGUA E ESGOTO INTERNET --SEMASA-ITAJAI/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 29.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1245.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "2753220",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 298.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 4181.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "1700330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 272.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7015.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3155.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 49.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1468.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "6671056",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 19875.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "7961416",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1281.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "8642066",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4598.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "9918466",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 10176.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "958085",
+    "complemento": "TRANSFERENCIA PIX REMT: JANAINA CAPELLARI",
+    "credito": false,
+    "debito": true,
+    "valor": 1066.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "9085",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52726.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "9086",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "9087",
+    "complemento": "PAGTO ELETRON  COBRANCA TIMONEIRO DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 417.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2021",
+    "documento": "9088",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 59.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 6109.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "100369",
+    "complemento": "DOC CREDITO AUTOMATICO* DISTRIBUIDORA AUTO P M I LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 936.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 15762.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "2000330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 1061.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 20635.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 6623.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 762.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5067.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 48.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 97.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "9094",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26363.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "9095",
+    "complemento": "PAGTO ELETRON  COBRANCA JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 228.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "9096",
+    "complemento": "PAGTO ELETRON  COBRANCA MARICK DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 276.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "9097",
+    "complemento": "PAGTO ELETRON  COBRANCA NATALIA FEIJO FERREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "5300401",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 9156.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "6040561",
+    "complemento": "BRADESCO NET EMPRESA NET EMPRESA DARF 0561",
+    "credito": true,
+    "debito": false,
+    "valor": 1083.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "1069327",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 13608.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2021",
+    "documento": "5320263",
+    "complemento": "PRESTACAO DE CRED IMOB PRESTACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 4302.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "9060582",
+    "complemento": "LIQUIDACAO DE COBRANCA Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 2591.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 576.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 6387.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "2100330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 296.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7292.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1302.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 53.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1585.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 146.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "9103",
+    "complemento": "PAGTO ELETRON  COBRANCA DEYCON",
+    "credito": true,
+    "debito": false,
+    "valor": 1526.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "9104",
+    "complemento": "PAGTO ELETRON  COBRANCA FIORELO PEGORARO",
+    "credito": true,
+    "debito": false,
+    "valor": 507.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "9105",
+    "complemento": "PAGTO ELETRON  COBRANCA FIORELO PEGORARO",
+    "credito": true,
+    "debito": false,
+    "valor": 131.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "1737512",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 18948.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2021",
+    "documento": "5976803",
+    "complemento": "CONTA DE LUZ INTERNET --CELESC DISTR./SC",
+    "credito": true,
+    "debito": false,
+    "valor": 54.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1242.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "6927666",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 2170.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "7084742",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 254.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "7620559",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ADACO OFEARTE SECR E",
+    "credito": false,
+    "debito": true,
+    "valor": 315.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5052.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "2200330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 318.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "2200330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 16084.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7832.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3566.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 288.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2625.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "9106",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 21347.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "9107",
+    "complemento": "PAGTO ELETRON  COBRANCA HNK BR",
+    "credito": true,
+    "debito": false,
+    "valor": 477.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "9108",
+    "complemento": "PAGTO ELETRON  COBRANCA COND COSTA VERDE",
+    "credito": true,
+    "debito": false,
+    "valor": 1064.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2021",
+    "documento": "2299049",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 16861.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1454.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "8524974",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ASS DEFIC VISUAIS IT",
+    "credito": false,
+    "debito": true,
+    "valor": 298.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7892.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "2300330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 92.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8133.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2033.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 167.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3373.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "1069327",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 13608.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "1737512",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 18948.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "2299049",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 8406.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "9918466",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 13567.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 146.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "1226524",
+    "complemento": "TRANSFERENCIA PIX REMT: JC CAPELLARI E STOPASSOLI",
+    "credito": false,
+    "debito": true,
+    "valor": 1402.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "9109",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 79363.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2021",
+    "documento": "9110",
+    "complemento": "PAGTO ELETRON  COBRANCA WMS SUPERMERCADOS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 161.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1491.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "8812221",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 816.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 6681.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "2400330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 211.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "2400330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 6967.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 10655.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1892.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 494.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3027.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "9111",
+    "complemento": "PAGTO ELETRON  COBRANCA BRUM COM DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "9112",
+    "complemento": "PAGTO ELETRON  COBRANCA TIMONEIRO",
+    "credito": true,
+    "debito": false,
+    "valor": 417.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "6045856",
+    "complemento": "BRADESCO NET EMPRESA NET EMPRESA DARF 5856",
+    "credito": true,
+    "debito": false,
+    "valor": 181.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "6046912",
+    "complemento": "BRADESCO NET EMPRESA NET EMPRESA DARF 6912",
+    "credito": true,
+    "debito": false,
+    "valor": 39.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2021",
+    "documento": "3312336",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 31369.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 4442.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 17461.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "2700330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 2984.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "2700330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 5775.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 26558.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8474.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 200.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8611.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "2299049",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 8454.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "3312336",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO HIPER CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 51.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 424.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "1752023",
+    "complemento": "TRANSFERENCIA PIX REMT: MIAMI IMPORTS COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 1723.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9113",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9114",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 26454.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9115",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 228.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9116",
+    "complemento": "PAGTO ELETRON  COBRANCA L. A. V. DRESSLER CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1817.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9117",
+    "complemento": "PAGTO ELETRON  COBRANCA JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 320.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "9118",
+    "complemento": "PAGTO ELETRON  COBRANCA MITSUI SUMITOMO SEGUROS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 264.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "451888",
+    "complemento": "CONTA DE LUZ CELESC DISTRIB./SC-004518888",
+    "credito": true,
+    "debito": false,
+    "valor": 2259.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "452179",
+    "complemento": "CONTA DE LUZ CELESC DISTRIB./SC-004521790",
+    "credito": true,
+    "debito": false,
+    "valor": 264.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "919752",
+    "complemento": "CONTA DE LUZ CELESC DISTRIB./SC-009197524",
+    "credito": true,
+    "debito": false,
+    "valor": 35.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "5961296",
+    "complemento": "CONTA DE TELEFONE INTERNET --TELEFONICA BRASIL S/",
+    "credito": true,
+    "debito": false,
+    "valor": 153.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2021",
+    "documento": "5965833",
+    "complemento": "CONTA DE TELEFONE INTERNET --VIVO PR/SC",
+    "credito": true,
+    "debito": false,
+    "valor": 544.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 355.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "400803",
+    "complemento": "DOC CREDITO AUTOMATICO* DISTRIBUIDORA AUTO P M I LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 918.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 7442.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "2800330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 256.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 10837.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 970.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 17.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3495.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "3312336",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 28614.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2021",
+    "documento": "9119",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 52909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1704.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "3431033",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 345.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "3704981",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO PASS DO BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 206.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 6668.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "2900330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 1401.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "2900330",
+    "complemento": "RECEBIMENTO FORNECEDOR FASTCASH DINHEIRO DIGITAL S. U.",
+    "credito": false,
+    "debito": true,
+    "valor": 10958.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8828.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2825.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 250.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2835.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO AMEX CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 229.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "1407219",
+    "complemento": "TRANSFERENCIA PIX REMT: Lorena Borges",
+    "credito": false,
+    "debito": true,
+    "valor": 399.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "9120",
+    "complemento": "PAGTO ELETRON  COBRANCA HNK BR LOGISTICA E DIST LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 838.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2021",
+    "documento": "5194166",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 35815.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 1136.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 5608.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "3000330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 758.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "6804363",
+    "complemento": "DEP DINH C/C S/CART BDN AG00370MAQ016804SEQ01363",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 9892.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2475.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 87.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2348.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "3312336",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2665.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "5194166",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 31743.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9121",
+    "complemento": "PAGTO ELETRON  COBRANCA PARCELA 1 CARRO MARCO",
+    "credito": true,
+    "debito": false,
+    "valor": 2752.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9122",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 53124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9123",
+    "complemento": "PAGTO ELETRON  COBRANCA CRBS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 691.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9124",
+    "complemento": "PAGTO ELETRON  COBRANCA MACIEL PECAS",
+    "credito": true,
+    "debito": false,
+    "valor": 381.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9125",
+    "complemento": "PAGTO ELETRON  COBRANCA DISTRIBUIDORA MULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 271.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9126",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 171.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2021",
+    "documento": "9127",
+    "complemento": "PAGTO ELETRON  COBRANCA ITAMIRIM",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2021",
+    "documento": "2975798",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 4978.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 2539.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "141021",
+    "complemento": "RESG AUTOMATICO INVESTIM",
+    "credito": false,
+    "debito": true,
+    "valor": 20752.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 10211.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "1400330",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 427.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 10287.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3080.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 610.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "4282965",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2735.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "1109309",
+    "complemento": "TRANSFERENCIA PIX REMT: PORTOFLEX COMERCIO DE MATE",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "9165",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 27373.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "9166",
+    "complemento": "PAGTO ELETRON  COBRANCA PETROBRAS DISTRIBUIDORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 27373.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "9167",
+    "complemento": "PAGTO ELETRON  COBRANCA SINCOMBUSTIVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "9168",
+    "complemento": "PAGTO ELETRON  COBRANCA NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 132.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2021",
+    "documento": "9169",
+    "complemento": "PAGTO ELETRON  COBRANCA SUL AMERICA SEGUROS MARCO",
+    "credito": true,
+    "debito": false,
+    "valor": 564.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "11021",
+    "complemento": "TARIFA BANCARIA Max Empresarial 2",
+    "credito": true,
+    "debito": false,
+    "valor": 189.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "RECEBIMENTO FORNECEDOR ALELO S.A",
+    "credito": false,
+    "debito": true,
+    "valor": 565.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 3120.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 160.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "VENDA CARTAO DE CREDITO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2249.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "CARTAO VISA ELECTRON CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 10770.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "CIELO VDA DEBITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 2829.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "237415",
+    "complemento": "CIELO VDA DEBITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 8866.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "4128129",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ASTROGILDO GOMES VAL",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "4173667",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO P. B. S. G.D",
+    "credito": false,
+    "debito": true,
+    "valor": 689.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "4240348",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SODEXO P. B. S. G.D",
+    "credito": false,
+    "debito": true,
+    "valor": 121.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "829287",
+    "complemento": "TRANSFERENCIA PIX REMT: JC CAPELLARI E STOPASSOLI",
+    "credito": false,
+    "debito": true,
+    "valor": 1619.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "5095893",
+    "complemento": "TED-TRANSF ELET DISPON REMET.PERSONAL NET T. INF",
+    "credito": false,
+    "debito": true,
+    "valor": 336.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9170",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9171",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 664.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9172",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 354.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9173",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 319.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9174",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 309.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9175",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "5133865",
+    "complemento": "TED-TRANSF ELET DISPON REMET.STEIL C. V. L. ME",
+    "credito": false,
+    "debito": true,
+    "valor": 43750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "5969863",
+    "complemento": "CONTA DE TELEFONE",
+    "credito": true,
+    "debito": false,
+    "valor": 150.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "5967836",
+    "complemento": "CONTA DE TELEFONE",
+    "credito": true,
+    "debito": false,
+    "valor": 456.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "9176",
+    "complemento": "PAGTO ELETRON  COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 4960.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2021",
+    "documento": "5150948",
+    "complemento": "TED-TRANSF ELET DISPON REMET.PERSONAL NET T. INF",
+    "credito": false,
+    "debito": true,
+    "valor": 3040.43,
+    "origem": "Extrato"
+  }
+]

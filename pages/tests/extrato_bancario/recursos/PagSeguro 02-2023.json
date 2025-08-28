@@ -1,0 +1,875 @@
+[
+  {
+    "data": "01/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Multieletrica Reparacoes Automotivas Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Katlen C W Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 572.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 231.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1212.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 19.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 131.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 624.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 39.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 253.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 24.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Multieletrica Reparacoes Automotivas Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Aure´lio Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Katlen C W Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 1370.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 150.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 375.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1866.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 192.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": null,
+    "complemento": "Pix recebido - Maikon Rodrigo Will",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 307.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 448.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 300.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 212.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Aurélio Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1464.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Katlen Caroline Weege Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 523.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 165.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 319.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 412.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1767.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 3076.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 48.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Katlen C W Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 397.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 115.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 583.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 46.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 78.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 481.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Multieletrica Reparacoes Automotivas Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 8.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 153.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1092.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 870.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Katlen C W Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": null,
+    "complemento": "Transferência Enviada - Aure´lio Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 830.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 39.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 976.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 7.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 326.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 3588.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 4435.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Aurélio Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 2230.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": null,
+    "complemento": "Pix recebido - Ebressan Representacoes Comerciais Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 68.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Katlen C W Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 311.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 11.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 48.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 128.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 39.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 796.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1811.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 6.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 396.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1010.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 698.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 14.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 2032.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta - Nu Pagamentos Sa",
+    "credito": true,
+    "debito": false,
+    "valor": 1343.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Supermercados Koch",
+    "credito": true,
+    "debito": false,
+    "valor": 380.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 195.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 567.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 68.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 3616.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 897.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 23.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 55.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Aurélio Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 2451.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 9.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Mocam Supermercados Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 152.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 128.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 6.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 54.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 929.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Pix enviado - Katlen Caroline Weege Millnitz",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 878.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 87.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 2049.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta - Nu Pagamentos Sa",
+    "credito": true,
+    "debito": false,
+    "valor": 4039.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1869.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 1476.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Vendas - Plano de Recebimento",
+    "credito": false,
+    "debito": true,
+    "valor": 8.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": null,
+    "complemento": "Rendimento da conta - Rendimento líquido sobre dinheiro em conta",
+    "credito": false,
+    "debito": true,
+    "valor": 0.71,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "data": "13/07/2020",
+    "documento": null,
+    "complemento": "Credito Conforme Aviso Lancamento Avisado A Credito",
+    "credito": false,
+    "debito": true,
+    "valor": 299.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": null,
+    "complemento": "Transf Entre Contas BS2 Bco BS2 SA - Banco BS2 SA",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": null,
+    "complemento": "Pgto Concess/Tributo Pagamento de Título",
+    "credito": true,
+    "debito": false,
+    "valor": 167.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": null,
+    "complemento": "Transf Entre Contas BS2 Bco BS2 SA - Banco BS2 SA",
+    "credito": true,
+    "debito": false,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": null,
+    "complemento": "Credito Conforme Aviso Lancamento Avisado A Credito",
+    "credito": false,
+    "debito": true,
+    "valor": 2802.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": null,
+    "complemento": "Ted Enviada Itaú Unibanco SA - Leonardo Felipe Rebelo",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": null,
+    "complemento": "Tarifa Doc/Ted Tarifa Doc/Ted",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": null,
+    "complemento": "Pagamento Boleto Pagamento de Título",
+    "credito": true,
+    "debito": false,
+    "valor": 73.8,
+    "origem": "Extrato"
+  }
+]

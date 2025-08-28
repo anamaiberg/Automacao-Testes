@@ -1,0 +1,821 @@
+[
+  {
+    "data": "02/10/2023",
+    "documento": "8649160",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP ESP.SANTO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 9925.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "9200959",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDIFICIO PORTO REAL",
+    "credito": false,
+    "debito": true,
+    "valor": 294.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "6342135",
+    "complemento": "TRANSF CC PARA CC PJ SETTA SERVICOS E LOCADORA E GERA",
+    "credito": false,
+    "debito": true,
+    "valor": 1253.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "2995044",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4318.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "9549168",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 148.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1659016",
+    "complemento": "TRANSFERENCIA PIX REM: BAHIA SEG 02/10",
+    "credito": false,
+    "debito": true,
+    "valor": 1660.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "225534",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 17600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "2995044",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 9820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "1350119",
+    "complemento": "TRANSFERENCIA PIX REM: HOPI HARI S A 03/10",
+    "credito": false,
+    "debito": true,
+    "valor": 5180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "225554",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "2071824",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP SAO PAULO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "6202587",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "663361",
+    "complemento": "TRANSF CC PARA CC PJ RIMACO MATERIAIS DE SEGURANCA E",
+    "credito": false,
+    "debito": true,
+    "valor": 397.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "500125",
+    "complemento": "RECEBIMENTO FORNECEDOR CILASI ALIMENTOS S/A",
+    "credito": false,
+    "debito": true,
+    "valor": 1720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "2995044",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 24882.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "225950",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 27000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "5791364",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP ESP.SANTO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1483.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "2995044",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 16517.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "225774",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 18000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "6903457",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "7074992",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP ESP.SANTO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "7119783",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ANDRITZ CONSTRUCOES",
+    "credito": false,
+    "debito": true,
+    "valor": 7425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "2224344",
+    "complemento": "TRANSF CC PARA CC PJ CCTEC MANUTENCAO E INSTALACAO EL",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1000125",
+    "complemento": "RECEBIMENTO FORNECEDOR ENERGISA SUL-SUDESTE DIST DE ENE",
+    "credito": false,
+    "debito": true,
+    "valor": 32656.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "174",
+    "complemento": "PAGTO ELETRON COBRANCA 017046841800227001BRADESCO ADMIN",
+    "credito": false,
+    "debito": true,
+    "valor": 1876.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "22047",
+    "complemento": "TRANSF CC PARA CC PJ CARLOS HENRIQUE VIEIRA COELHO",
+    "credito": false,
+    "debito": true,
+    "valor": 60.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "225556",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 64354.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "383614",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 25140.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1100125",
+    "complemento": "RECEBIMENTO FORNECEDOR ENERGISA SUL-SUDESTE DIST DE ENE",
+    "credito": false,
+    "debito": true,
+    "valor": 54582.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "225957",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 14800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1035861",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 39782.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746298",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 204.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746388",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746482",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 7480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "225546",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "1785480",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3074.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "383614",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 25140.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1035861",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 32019.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "2995044",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 11964.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "6202587",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 875.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1339096",
+    "complemento": "TED D CC HBANK* DEST. MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 70000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "2004233",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1035861",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 4413.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "225910",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 14413.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "2736617",
+    "complemento": "TED-TRANSF ELET DISPON REMET.YOKOGAWA AMERICA DO",
+    "credito": false,
+    "debito": true,
+    "valor": 1056.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "3257379",
+    "complemento": "TRANSF CC PARA CC PJ MATERQUIP INFORMATICA LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "3910278",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 746.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3225695",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP SAO PAULO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 5584.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3551828",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "125735",
+    "complemento": "TRANSF CC PARA CC PJ MUNDO ENERGIA EQUIPAMENTOS DE SE",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1900125",
+    "complemento": "RECEBIMENTO FORNECEDOR ENERGISA SUL-SUDESTE DIST DE ENE",
+    "credito": false,
+    "debito": true,
+    "valor": 8164.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3484867",
+    "complemento": "TED D CC HBANK* DEST. MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1217360",
+    "complemento": "PAGTO ELETRONICO TRIBUTO NET EMPR LIC ELET GEH2H02",
+    "credito": false,
+    "debito": true,
+    "valor": 394.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5042023",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ MS",
+    "credito": false,
+    "debito": true,
+    "valor": 30.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5042023",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SEFAZ MS",
+    "credito": false,
+    "debito": true,
+    "valor": 105.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5194061",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --MS-DETRAN/TAXAS",
+    "credito": false,
+    "debito": true,
+    "valor": 1173.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "4488761",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 12454.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "4430335",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1035861",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3350.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1785480",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 3074.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "3910278",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 746.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "4488761",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 12399.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1213635",
+    "complemento": "PAGTO ELETRONICO TRIBUTO NET EMPR LIC ELET GHH5E94",
+    "credito": false,
+    "debito": true,
+    "valor": 136.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1213635",
+    "complemento": "PAGTO ELETRONICO TRIBUTO NET EMPR LIC ELET GHH5E94",
+    "credito": false,
+    "debito": true,
+    "valor": 833.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "225431",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 23600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5218659",
+    "complemento": "TED-TRANSF ELET DISPON REMET.EDP SAO PAULO DISTRI",
+    "credito": false,
+    "debito": true,
+    "valor": 9627.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5271324",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "225544",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 27363.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5830190",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 10263.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "4488761",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 54.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "5830190",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2434.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "225642",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 1619.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1907129",
+    "complemento": "TRANSF CC PARA CC PJ W BERTOLO INDUSTRIA E COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 870.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "6632254",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "5830190",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1454.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "225695",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 51454.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7496538",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7560747",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7595931",
+    "complemento": "TED-TRANSF ELET DISPON REMET.RIP SERVICOS INDUSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 17577.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "5780000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --DAR TRIB DIV SEFAZ",
+    "credito": false,
+    "debito": true,
+    "valor": 6470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7712205",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 21807.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "2224649",
+    "complemento": "TRANSF CC PARA CC PJ CCTEC MANUTENCAO E INSTALACAO EL",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "5830190",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "225829",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9327725",
+    "complemento": "TED-TRANSF ELET DISPON REMET.ENERGISA SUL-SUDESTE",
+    "credito": false,
+    "debito": true,
+    "valor": 86964.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9454212",
+    "complemento": "TED-TRANSF ELET DISPON REMET.MUNDO LINHA VIVA E E",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "225030",
+    "complemento": "TRANSF CC PARA CC PJ LIGHTBURY E COMERCIO DE AR",
+    "credito": false,
+    "debito": true,
+    "valor": 35300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9248102",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 81664.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1456436",
+    "complemento": "TRANSF CC PARA CC PJ ELETRO E METALURGICA ROVARIS LTD",
+    "credito": false,
+    "debito": true,
+    "valor": 10058.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1213226",
+    "complemento": "PAGTO ELETRONICO TRIBUTO NET EMPR LIC ELET GET8G15",
+    "credito": false,
+    "debito": true,
+    "valor": 7199.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "182727",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2858.54,
+    "origem": "Extrato"
+  }
+]

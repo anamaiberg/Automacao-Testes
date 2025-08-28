@@ -1,0 +1,83 @@
+[
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 431.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Pagamento de boleto outros bancos Uniodonto espirito santo",
+    "credito": true,
+    "debito": false,
+    "valor": 431.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Cheque emitido/debitado",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 50507.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Ted recebida 32440968000125",
+    "credito": false,
+    "debito": true,
+    "valor": 50507.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 15598.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Pagamento darf em canais Internet simples nacional",
+    "credito": true,
+    "debito": false,
+    "valor": 508.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Pagamento darf em canais Internet simples nacional",
+    "credito": true,
+    "debito": false,
+    "valor": 15090.42,
+    "origem": "Extrato"
+  }
+]

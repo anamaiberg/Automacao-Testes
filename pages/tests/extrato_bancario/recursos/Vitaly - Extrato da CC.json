@@ -1,0 +1,3476 @@
+[
+  {
+    "data": "03/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BRUNO BRITO DOS SANT",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - THAUMY AYME GONCALVE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Cássia Pottemayer Br",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ANDERSON ISEPPI DE M",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Weslley Zulato",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "Convênio",
+    "complemento": "CONVENIO INTERNET - fgts",
+    "credito": true,
+    "debito": false,
+    "valor": 456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 707",
+    "credito": true,
+    "debito": false,
+    "valor": 269.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 706",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 705",
+    "credito": true,
+    "debito": false,
+    "valor": 348.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 704",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - GIOVANNA ANTONIA BEC",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - RANA ALESSANDRA MELO",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDUARDA CRISTINE GRA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BELLA JANELA COM IMP",
+    "credito": false,
+    "debito": true,
+    "valor": 1316.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Camilla Custódio Vel",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Douglas Gelsleichter",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "261750",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 1009.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - BRUNA VITORINO MARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1626.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - computador",
+    "credito": true,
+    "debito": false,
+    "valor": 495.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - gerar",
+    "credito": true,
+    "debito": false,
+    "valor": 79.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 552.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - papelaria",
+    "credito": true,
+    "debito": false,
+    "valor": 324.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - iel",
+    "credito": true,
+    "debito": false,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - aluguel",
+    "credito": true,
+    "debito": false,
+    "valor": 5530.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Marina Barreto Stodi",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - EDSEIA MIRTES PEIXE",
+    "credito": true,
+    "debito": false,
+    "valor": 3426.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MICHELE KWITSCHAL SO",
+    "credito": true,
+    "debito": false,
+    "valor": 1350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANDERSON ISEPPI DE M",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LOGHAUS COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 398.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ALEXANDRE FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - sesmed",
+    "credito": true,
+    "debito": false,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 700.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - cofins",
+    "credito": true,
+    "debito": false,
+    "valor": 104.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - pis",
+    "credito": true,
+    "debito": false,
+    "valor": 22.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - csll",
+    "credito": true,
+    "debito": false,
+    "valor": 4651.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Camilla Fonseca Setu",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FELIPE MANARIN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TATIANA BESEL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - DANIELA KREMP NARCIS",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - AMANDA MARINA AGUSTI",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARIA ELENA DIAZ ALM",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CAMILA LIDIANE SAGAV",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANNA CAROLINA YUMI V",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ANDRE LUIS DALRI AND",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUAN FERNANDO  VICEN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Sabrina Alice Schmit",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - EDUARDO DESCHAMPS",
+    "credito": false,
+    "debito": true,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - SUL AMERICA SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 510.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA COMPANHI",
+    "credito": false,
+    "debito": true,
+    "valor": 7534.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUANA ELIAS BALBINOT",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BIANCA ADRIELY BIZAR",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - MURILO CESAR ROSA JU",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TAMARA LUIZA ZEPLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Suzana Werner",
+    "credito": true,
+    "debito": false,
+    "valor": 5275.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - GILGLECIA CAMPOS DA",
+    "credito": true,
+    "debito": false,
+    "valor": 3940.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARIA FERNANDA STOLF",
+    "credito": true,
+    "debito": false,
+    "valor": 2256.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LIDIA ALVES FRITZKE",
+    "credito": true,
+    "debito": false,
+    "valor": 3723.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JULLIA CATERINE ANDR",
+    "credito": true,
+    "debito": false,
+    "valor": 5713.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JAMILI CARLA CORDEIR",
+    "credito": true,
+    "debito": false,
+    "valor": 4854.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - DEBORA DONINI TIEDT",
+    "credito": true,
+    "debito": false,
+    "valor": 2239.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA FONSECA",
+    "credito": true,
+    "debito": false,
+    "valor": 6723.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 6335.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Barbara Elisa Hinkel",
+    "credito": true,
+    "debito": false,
+    "valor": 4003.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Alice Nicoletti",
+    "credito": true,
+    "debito": false,
+    "valor": 2028.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 72342.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TIAGO HENRIQUE ZIBER",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - imposto",
+    "credito": true,
+    "debito": false,
+    "valor": 2133.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "10048",
+    "complemento": "INTEGR CAPITAL",
+    "credito": false,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "2110000479",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BRUNA LUIZA DAHLKE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDUARDA CRISTINE GRA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Weslley Zulato",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - ir",
+    "credito": true,
+    "debito": false,
+    "valor": 187.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - irpj",
+    "credito": true,
+    "debito": false,
+    "valor": 2362.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Débora Davis Simas",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - HANELY LOUIZE ZIEGLE",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Matheus Guilherme Sa",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ANA PAULA RAMBO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Cássia Pottemayer Br",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "DAUT",
+    "complemento": "FAT CARTAO CRED - FAT. CARTAO UNICRED",
+    "credito": false,
+    "debito": true,
+    "valor": 452.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Gabriel Da Cunha Don",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - celesc 707",
+    "credito": true,
+    "debito": false,
+    "valor": 371.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - irpj tri",
+    "credito": true,
+    "debito": false,
+    "valor": 9933.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUCAS LIMA DA CUNHA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANNA CAROLINA YUMI V",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Christian Deschamps",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Philippe Nau Rosa",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDUARDA CRISTINE GRA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - DANIELA KREMP NARCIS",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUANA ELIAS BALBINOT",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Leonardo Pereira",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Ewerton Natan de Sou",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - DANIELA TORRES DE SO",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - DEBORA FAUSTINO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - SERVICO DE APOIO AS",
+    "credito": true,
+    "debito": false,
+    "valor": 2347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA COMPANHI",
+    "credito": false,
+    "debito": true,
+    "valor": 4406.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - SUZANA WERNER",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Bárbara Elisa Hinkel",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - PREMIERSOFT SOLUCOES",
+    "credito": false,
+    "debito": true,
+    "valor": 492.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUAN DE SOUZA",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - JOAO LEAL DE FRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 14369.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - RANA ALESSANDRA MELO",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - GIOVANNA ANTONIA BEC",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - THAUMY AYME GONCALVE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - flasch",
+    "credito": true,
+    "debito": false,
+    "valor": 2459.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - LUANE DORIGATTI PUTK",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Carolina Lima",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TAMARA LUIZA ZEPLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ELAINE KREUTCFELD DE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUANA ELIAS BALBINOT",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "PGTO",
+    "complemento": "PIX DEBITO PAGAMENTO P - Facebook Servicos On",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BELLA JANELA COM IMP",
+    "credito": false,
+    "debito": true,
+    "valor": 1515.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Maria Alice Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "261750",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - gerar",
+    "credito": true,
+    "debito": false,
+    "valor": 179.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - gerar",
+    "credito": true,
+    "debito": false,
+    "valor": 79.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 995.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - iel",
+    "credito": true,
+    "debito": false,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 539.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 666.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - aluguel",
+    "credito": true,
+    "debito": false,
+    "valor": 5193.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 704",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 705",
+    "credito": true,
+    "debito": false,
+    "valor": 348.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 706",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 707",
+    "credito": true,
+    "debito": false,
+    "valor": 269.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Marina Barreto Stodi",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - EDSEIA MIRTES PEIXE",
+    "credito": true,
+    "debito": false,
+    "valor": 3426.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MICHELE KWITSCHAL SO",
+    "credito": true,
+    "debito": false,
+    "valor": 1350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - BRUNA VITORINO MARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1626.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Convênio",
+    "complemento": "CONVENIO INTERNET - fgts",
+    "credito": false,
+    "debito": false,
+    "valor": 456.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "2110000515",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "2110000515",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - AMANDA MARINA AGUSTI",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Sophia Morás",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - inss",
+    "credito": true,
+    "debito": false,
+    "valor": 2362.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - irrf",
+    "credito": true,
+    "debito": false,
+    "valor": 187.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - iss",
+    "credito": true,
+    "debito": false,
+    "valor": 1954.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - papelaria",
+    "credito": true,
+    "debito": false,
+    "valor": 397.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FELIPE MANARIN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MOACIR ZIMMERMANN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SABRINA A SCHMITZ",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Marina Barreto Stodi",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - RAUL DAS NEVES JUNIO",
+    "credito": false,
+    "debito": true,
+    "valor": 544.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - KAROLINE KROPP",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TATIANA BESEL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Willian Ricardo Bort",
+    "credito": false,
+    "debito": true,
+    "valor": 42.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Christian Deschamps",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ASSOCIACAO BENEFICEN",
+    "credito": false,
+    "debito": true,
+    "valor": 126.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LOGHAUS COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Leonardo Pereira",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Marcius Ribeiro Vian",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 255.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA COMPANHI",
+    "credito": false,
+    "debito": true,
+    "valor": 5172.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Jessica Caroline Fis",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDUARDA CRISTINE GRA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TAMARA LUIZA ZEPLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "2110000526",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANA PAULA RAMBO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARION VIEIRA NEJEDL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - 50419246 JUCIMARA SE",
+    "credito": true,
+    "debito": false,
+    "valor": 108.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Suzana Werner",
+    "credito": true,
+    "debito": false,
+    "valor": 5131.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARIA FERNANDA STOLF",
+    "credito": true,
+    "debito": false,
+    "valor": 1601.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LIDIA ALVES FRITZKE",
+    "credito": true,
+    "debito": false,
+    "valor": 3738.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JULLIA CATERINE ANDR",
+    "credito": true,
+    "debito": false,
+    "valor": 5972.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JAMILI CARLA CORDEIR",
+    "credito": true,
+    "debito": false,
+    "valor": 3687.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - GILGLECIA CAMPOS DA",
+    "credito": true,
+    "debito": false,
+    "valor": 2014.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - DEBORA DONINI TIEDT",
+    "credito": true,
+    "debito": false,
+    "valor": 1713.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Barbara Elisa Hinkel",
+    "credito": true,
+    "debito": false,
+    "valor": 3209.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 5492.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA FONSECA",
+    "credito": true,
+    "debito": false,
+    "valor": 5935.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Alice Nicoletti",
+    "credito": true,
+    "debito": false,
+    "valor": 2222.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Weslley Zulato",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TIAGO HENRIQUE ZIBER",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - JESSICA DE OLIVEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "10049",
+    "complemento": "INTEGR CAPITAL",
+    "credito": false,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 62214.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CARINA FERREIRA DE A",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Matheus Guilherme Sa",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Maria Alice Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - NIVALDO SCHMITZ",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUANA LIMA ZEFERINO",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUMARA ALESSIO BARBO",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - VANESSA SALVADOR",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Matheus Guilherme Sa",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CASSIA POTTEMAYER BR",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ANDRE LUIS DALRI AND",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - PRISCILA EVELIN",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "DAUT",
+    "complemento": "FAT CARTAO CRED - FAT. CARTAO UNICRED",
+    "credito": false,
+    "debito": true,
+    "valor": 452.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MOACIR ZIMMERMANN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CARINA FERREIRA DE A",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Débora Faustino",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - pis",
+    "credito": true,
+    "debito": false,
+    "valor": 22.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - cofins",
+    "credito": true,
+    "debito": false,
+    "valor": 105.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - informática",
+    "credito": true,
+    "debito": false,
+    "valor": 82.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - junta comercial",
+    "credito": true,
+    "debito": false,
+    "valor": 54.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVÊNIOS - junta comercial",
+    "credito": true,
+    "debito": false,
+    "valor": 168.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "2110000546",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUMARA ALESSIO BARBO",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Weslley Zulato",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - DANIELA KREMP NARCIS",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Maria Alice Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ALINE CARL DE MIRAND",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARIA FERNANDA STOLF",
+    "credito": true,
+    "debito": false,
+    "valor": 503.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Matheus Reis Carpes",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Jessica Caroline Fis",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Gabriela Vandresen",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANNA CAROLINA YUMI V",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - VANESSA FLORENCIO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - TAMARA LUIZA ZEPLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - MOACIR ZIMMERMANN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - THAUMY AYME GONCALVE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARION VIEIRA NEJEDL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - JANETE HANG DE CASTR",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - PREMIERSOFT SOLUCOES",
+    "credito": false,
+    "debito": true,
+    "valor": 464.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 12478.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - ANA PAULA RAMBO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Maria Alice Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - EDSON VENICIUS JUNG",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - GIOVANNA CORREA IZOL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - pplast",
+    "credito": true,
+    "debito": false,
+    "valor": 305.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Convênio",
+    "complemento": "CONVENIO INTERNET - fgts",
+    "credito": true,
+    "debito": false,
+    "valor": 488.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 704",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 705",
+    "credito": true,
+    "debito": false,
+    "valor": 348.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 706",
+    "credito": true,
+    "debito": false,
+    "valor": 367.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - cond 707",
+    "credito": true,
+    "debito": false,
+    "valor": 269.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - flash",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - GIOVANNA ANTONIA BEC",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TATIANA BESEL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JULIE ALINE VINOTTI",
+    "credito": true,
+    "debito": false,
+    "valor": 344.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - psicomanager",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARIA JESSICA PEREIR",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BELLA & CO. LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1515.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CECILIA LUIZA SORGET",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDNA APARECIDA DO PR",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - energia 704",
+    "credito": true,
+    "debito": false,
+    "valor": 406.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - gerar",
+    "credito": true,
+    "debito": false,
+    "valor": 79.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 995.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - 704 energia",
+    "credito": true,
+    "debito": false,
+    "valor": 335.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - iel",
+    "credito": true,
+    "debito": false,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - aluguel",
+    "credito": true,
+    "debito": false,
+    "valor": 5418.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MICHELE KWITSCHAL SO",
+    "credito": true,
+    "debito": false,
+    "valor": 1350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Marina Barreto Stodi",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - EDSEIA MIRTES PEIXE",
+    "credito": true,
+    "debito": false,
+    "valor": 3604.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - BRUNA VITORINO MARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 2392.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - AMANDA MARINA AGUSTI",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - AMANDA ESTEVES DA SI",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - BRUNO APETZ",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FELIPE MANARIN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2110000569",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2110000569",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": false,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - DEBORA FAUSTINO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Maria Alice Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - cofins",
+    "credito": true,
+    "debito": false,
+    "valor": 155.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - pis",
+    "credito": true,
+    "debito": false,
+    "valor": 33.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - iss",
+    "credito": true,
+    "debito": false,
+    "valor": 2215.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Internet",
+    "complemento": "LIQ TIT - IB - papelaria",
+    "credito": true,
+    "debito": false,
+    "valor": 102.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - JONATHAN ANTONIO WIL",
+    "credito": false,
+    "debito": true,
+    "valor": 42.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Débora Davis Simas",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TAMARA LUIZA ZEPLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "261750",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - VANESSA FLORENCIO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ASSOCIACAO BENEFICEN",
+    "credito": false,
+    "debito": true,
+    "valor": 126.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - KAROLINE KROPP",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Franciele Cândido de",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - RANA ALESSANDRA MELO",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Jeferson Job Ribeiro",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ALESSANDRO JOSE ZOTT",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO P - Facebook Servicos On",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GABRIELA UMBELINO JA",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - NIVALDO SCHMITZ",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "691305",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Suzana Werner",
+    "credito": true,
+    "debito": false,
+    "valor": 6392.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LIDIA ALVES FRITZKE",
+    "credito": true,
+    "debito": false,
+    "valor": 4075.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JULLIA CATERINE ANDR",
+    "credito": true,
+    "debito": false,
+    "valor": 5889.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - 50419246 JUCIMARA SE",
+    "credito": true,
+    "debito": false,
+    "valor": 2653.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JAMILI CARLA CORDEIR",
+    "credito": true,
+    "debito": false,
+    "valor": 5103.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Gilglecia Campos da",
+    "credito": true,
+    "debito": false,
+    "valor": 2641.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - DEBORA DONINI TIEDT",
+    "credito": true,
+    "debito": false,
+    "valor": 2246.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Barbara Elisa Hinkel",
+    "credito": true,
+    "debito": false,
+    "valor": 4510.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 5701.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ANA CLAUDIA FONSECA",
+    "credito": true,
+    "debito": false,
+    "valor": 6881.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Alice Nicoletti",
+    "credito": true,
+    "debito": false,
+    "valor": 2603.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10050",
+    "complemento": "INTEGR CAPITAL",
+    "credito": false,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 76717.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Bárbara Elisa Hinkel",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARILEUSA WOLTER STR",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TASSIA BACHMANN PABS",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Jessica Caroline Fis",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO P - BLUETEC FABRICACAO D",
+    "credito": true,
+    "debito": false,
+    "valor": 192.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "191",
+    "complemento": "SAQUE CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARIA FERNANDA STOLF",
+    "credito": true,
+    "debito": false,
+    "valor": 810.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - THAUMY AYME GONCALVE",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - MH TAPETES CAPACHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 149.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - SHEILA ADRIANA DE SO",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MOACIR ZIMMERMANN",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CRISTIANE APARECIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - inss",
+    "credito": true,
+    "debito": false,
+    "valor": 2766.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "DAUT",
+    "complemento": "FAT CARTAO CRED - FAT. CARTAO UNICRED",
+    "credito": false,
+    "debito": true,
+    "valor": 452.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANA PAULA RAMBO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ALINE FRANCIANE GOME",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Jaqueline Nasgueweit",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Sophia Morás",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CRISTIANE APARECIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GLAUCE REGINA MAGALH",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - BIANCA ADRIELY BIZAR",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARILEIDE CAPISTRANO",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GLAUCE REGINA MAGALH",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FABIO BAPTISTA DE OL",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - EDSON VENICIUS JUNG",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - GIONEI WILLIAM CORRE",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GISELE SBORZ PERING",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDUARDA CRISTINE GRA",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "1720422",
+    "complemento": "TRANSF ENT CTAS SIM",
+    "credito": false,
+    "debito": true,
+    "valor": 120.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Gabriela Eloisa De J",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - DEBORA FAUSTINO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - PRISCILA RAMOS",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Anderson Iseppi",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CASSIA SIMETTE RODRI",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CRISTIANE APARECIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - VANESSA FLORENCIO",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 766.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SUL AMERICA COMPANHI",
+    "credito": false,
+    "debito": true,
+    "valor": 15837.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Sabrina Alice Schmit",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CLAIR HANOFF",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CECILIA LUIZA SORGET",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Jessica Caroline Fis",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "2110000616",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "2110000616",
+    "complemento": "APLIC FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Cássia Pottemayer Br",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Nathalia Zarpelon Co",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - HANELY LOUIZE ZIEGLE",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARIA LUCIA CORREA",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANDRE LUIS DALRI AND",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Gustavo Bogo Volpato",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - VANESSA MLYNASCSZYK",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "08561701",
+    "complemento": "RECEB TED D STR - Vitaly - Centro Inte",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - PREMIERSOFT SOLUCOES",
+    "credito": false,
+    "debito": true,
+    "valor": 164.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - EDSON VENICIUS JUNG",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Celso Garcia Junior",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Nivaldo Schmitz",
+    "credito": false,
+    "debito": true,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "130028134",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU COOP",
+    "credito": false,
+    "debito": true,
+    "valor": 15300.81,
+    "origem": "Extrato"
+  }
+]

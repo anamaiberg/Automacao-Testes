@@ -1,0 +1,38 @@
+[
+  {
+    "data": "02/05/2024",
+    "documento": "",
+    "complemento": "Transferência TED recebida BMP MONEY PLUS SCD - 34.337.707/0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 1790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "",
+    "complemento": "Transferência Pix enviada CLINICA AMOR SAUDE - 28.778.101/0001-07",
+    "credito": true,
+    "debito": false,
+    "valor": 1790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "",
+    "complemento": "Transferência Pix recebida ZOOP TECNOLOGIA INSTITUICAO DE PAGAMENTO S A - 19.468.242/0001-32",
+    "credito": false,
+    "debito": true,
+    "valor": 6149.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "",
+    "complemento": "Transferência Pix recebida ZOOP TECNOLOGIA INSTITUICAO DE PAGAMENTO S A - 19.468.242/0001-32",
+    "credito": false,
+    "debito": true,
+    "valor": 3086.59,
+    "origem": "Extrato"
+  }
+]

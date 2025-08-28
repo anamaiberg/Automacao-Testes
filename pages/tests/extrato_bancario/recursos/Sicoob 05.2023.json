@@ -1,0 +1,1118 @@
+[
+  {
+    "data": "02/05/2023",
+    "documento": "844500212",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 248.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "53124944",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PGT BOL NF 9826001 RAIZES FUNDO PALMILHA",
+    "credito": true,
+    "debito": false,
+    "valor": 7953.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.332.286-** THIAGO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX IDELMA R D A OLIVEIRA ***.428.901-**",
+    "credito": false,
+    "debito": true,
+    "valor": 355.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX WALLACE FABIANO ALVES ME 00.836.909 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 42164.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "80",
+    "complemento": "- 15 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 36000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 132.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "217762",
+    "complemento": "DEB.PARCELAS SUBSC./INTEGR. 02/05/2023 000.054 CHEQUE COMPE INTEGRADA 3.850,35D",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "2495947",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 14339.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "2499958",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "845820292",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 6.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "845820291",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 73.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "845066711",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA 03/05/2023 000.055 CHEQUE COMPE INTEGRADA 3.509,33D",
+    "credito": false,
+    "debito": true,
+    "valor": 33.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "2500896",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 333.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "2504098",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "846470420",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 118.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "846470421",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 24.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "845912373",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 4.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "80",
+    "complemento": "- 16 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "846716820",
+    "complemento": "CR ANTECIPAÇÃO VISA YAPAY PAGAMENT_ANT._VISA 04/05/2023 000.056 CHEQUE COMPE INTEGRADA 3.160,07D",
+    "credito": false,
+    "debito": true,
+    "valor": 239.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "2506041",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 3462.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "2507820",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "847139374",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 52.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "847139375",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 98.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "847148395",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 132.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "846592782",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 78.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "41 - 10",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 4943.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 41.896.069 0001-22 PGTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 14049.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "41 - 14",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 12715.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LOGMA ENGENHARIA INDUSTRIAL LTDA 35.071.253 0001-30 BOTINA TONHO 05/05/2023 000.057 CHEQUE COMPE INTEGRADA 2.092,18D 05/05/2023 000.058 CHEQUE COMPE INTEGRADA 2.893,61D",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PAULO HENRIQUE LOPES COIMBRA ***.267.688-**",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "847981564",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "847974130",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "847981563",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 93.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "847287204",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 321.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "848286638",
+    "complemento": "CR ANTECIPAÇÃO MASTERCARD YAPAY PAGAMENT_ANT._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 53.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEFERSON MATHEUS QUEIROZ ***.099.856-**",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX UNIMONT LTDA - EPP 09.242.664 0001-31",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "2513920",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1171.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "2516335",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "848721491",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 134.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "848721489",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 120.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "848721490",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 92.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YURE HENRIQUE MONTE PALMA ***.908.733-**",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "849003297",
+    "complemento": "CR ANTECIPAÇÃO MASTERCARD YAPAY PAGAMENT_ANT._MASTERCARD 09/05/2023 000.059 CHEQUE COMPE INTEGRADA 1.798,90D",
+    "credito": false,
+    "debito": true,
+    "valor": 129.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "849381387",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "849381388",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 243.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "848870062",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 15.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC 10/05/2023 000.060 CHEQUE COMPE INTEGRADA 3.482,57D 10/05/2023 000.061 CHEQUE COMPE INTEGRADA 1.435,50D",
+    "credito": false,
+    "debito": true,
+    "valor": 3920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "850070823",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 152.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "850076181",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 4.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "53517780",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGTO BOLETO NF 146763 DELTA PLUS",
+    "credito": true,
+    "debito": false,
+    "valor": 3015.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "53517941",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGTO BOLETO NF 146697 DELTA PLUS",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "850769374",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 11.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "850241468",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 63.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 4780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SISOLAR ENGENHARIA LTDA 41.338.425 0001-92 NFE 6209",
+    "credito": false,
+    "debito": true,
+    "valor": 2313.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 167.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 132.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "2530862",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 225.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "2532662",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "851553344",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "851560612",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 167.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "851560613",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 24.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "850899228",
+    "complemento": "CR COMPRAS CRE OUTRASBANDEIRAS SIPAG_CRED._ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 48.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "850899227",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 182.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "850910218",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 197.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 1840.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 132.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "2532782",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 747.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "2537086",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "53533155",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PGT BOL NF 9826002 RAIZES PALMILHADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7953.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "852285353",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 110.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "852285354",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 51.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "852285352",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 187.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMBARCACOES MEGA FISH LTDA 31.314.425 0001-07 COMPRA MASCARA PROTECAO MAFRE LUVAS",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC 16/05/2023 000.066 CHEQUE COMPE INTEGRADA 1.000,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 8400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "2537226",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "2541093",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "852507136",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 117.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "853142953",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 567.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "853142954",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "853142955",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 28.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX KAIQUE HENRIQUE MEDEIROS VIEIRA ***.186.826-** 17/05/2023 000.062 CHEQUE COMPE INTEGRADA 3.135,88D 17/05/2023 000.063 CHEQUE COMPE INTEGRADA 1.958,57D 17/05/2023 000.064 CHEQUE COMPE INTEGRADA 3.169,54D 17/05/2023 000.065 CHEQUE COMPE INTEGRADA 2.754,38D",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "853748739",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 19.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "853748738",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDSON DA SILVA ***.354.751-**",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "53715687",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB PAGTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 15179.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "53718880",
+    "complemento": "DÉB.CONV.ORGÃOS GOV.",
+    "credito": true,
+    "debito": false,
+    "valor": 5920.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "854327907",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 112.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "854327905",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 88.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "854327906",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 96.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "853919443",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 118.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX WALLACE FABIANO ALVES ME 00.836.909 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 61148.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "80",
+    "complemento": "- 17 APLICAÇÃO RDC 19/05/2023 000.067 CHEQUE COMPE INTEGRADA 4.080,91D",
+    "credito": true,
+    "debito": false,
+    "valor": 37000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "855139281",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 10.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "855139282",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 7.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "854500859",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 105.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "854510650",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD 22/05/2023 5052 DEP.CH.BLOQ.1D - INTERCREDIS 2.017,50*",
+    "credito": false,
+    "debito": true,
+    "valor": 380.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "855996491",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 99.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "855991972",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 71.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "855996490",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 113.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "5052",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 2017.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "856485300",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 150.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "80",
+    "complemento": "- 18 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "857293864",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 162.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "856717245",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 38.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 138.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "80 - 15",
+    "complemento": "RESGATE RDC 25/05/2023 000.069 CHEQUE COMPE INTEGRADA 3.338,17D 26/05/2023 000.068 CHEQUE COMPE INTEGRADA 2.129,16D",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "53955665",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PGT BOL NF 149019 DELT PLUZ",
+    "credito": true,
+    "debito": false,
+    "valor": 6089.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GEAN SILVA OLIVEIRA ***.958.836-**",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "858197924",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 750.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "858664771",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 164.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "858664772",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 48.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARLLON HENRIQUE SILVA ARANTES ***.744.326-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "41 - 14",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 9500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 341.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "2571438",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1860.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "2573501",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "53955745",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PVGT BOL NF 98263 RAIZES PALMILHADO",
+    "credito": true,
+    "debito": false,
+    "valor": 7953.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "859405646",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 58.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "859405645",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 134.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "54051749",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: PANTANALTICA INDUSTRIA E COMERCIO ATENÇÃO: A Central de Atendimento do Sicoob e a Credicitrus não entram em contato para comunicar movimentações  suspeitas nas contas e nem solicitam dados pessoais e instalação de aplicativos.  Cooperado (a) CREDICITRUS, o  Comprou, Zerou!  é um programa de desconto que te permite zerar a anuidade  do cartão de crédito. Procure seu gerente e saiba mais.  Você sabia que é possível utilizar os pontos COOPERA para aumentar o seu capital na CREDICITRUS? Não  deixe seus pontos expirarem. Acesso o site ou o app COOPERA e aproveite! Fale com seu gerente.  Consulte os saldos de suas aplicações no App Sicoob - opção \"Investimentos\", de forma rápida.Esses dados",
+    "credito": false,
+    "debito": true,
+    "valor": 171.7,
+    "origem": "Extrato"
+  }
+]

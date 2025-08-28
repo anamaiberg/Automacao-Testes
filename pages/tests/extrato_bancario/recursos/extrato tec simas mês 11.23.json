@@ -1,0 +1,4187 @@
+[
+  {
+    "data": "09/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 239.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 422.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 763.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 115.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 667.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 78.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1308.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(italiano)",
+    "credito": true,
+    "debito": false,
+    "valor": 2348.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Thiago Adriano Dietrich)",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ROSANA DE FATIMA BETTONI)",
+    "credito": false,
+    "debito": true,
+    "valor": 89.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JANINE HARDER DE CARVALHO)",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "6006515",
+    "complemento": "TRANSF TEF PIX(FABIANA DUTRA PFITZER SCHAEFER ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Larissa Lima da Silva Oliveira)",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(IRINES GIUSTI)",
+    "credito": false,
+    "debito": true,
+    "valor": 56.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(52173239 RONALDO FRANCISCO JUNIOR)",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(LAERTE SANTOS A SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 47.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ALEXSANDRA MELAINE V S ALVAREZ)",
+    "credito": false,
+    "debito": true,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Cassia Regina da Silva)",
+    "credito": false,
+    "debito": true,
+    "valor": 52.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(círculo)",
+    "credito": true,
+    "debito": false,
+    "valor": 306.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(círculo)",
+    "credito": true,
+    "debito": false,
+    "valor": 310.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(império)",
+    "credito": true,
+    "debito": false,
+    "valor": 1211.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Johanna Trinidad Gómez Schirmer)",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 439.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 544.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 36.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 111.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(AMANDA GONZALEZ SANTOS PASSOS COSTA)",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JULIANA NASCIMENTO MARTINS)",
+    "credito": false,
+    "debito": true,
+    "valor": 44.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Berenice Andrade da Silva)",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GEORGINA LEITE DAS NEVES)",
+    "credito": false,
+    "debito": true,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(Santa fé feltros)",
+    "credito": true,
+    "debito": false,
+    "valor": 1659.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GILMARA CARLA PEREIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 175.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 523.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 952.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1068.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 25.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 226.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Luciana Terna Gomes Ferreira da Silva)",
+    "credito": false,
+    "debito": true,
+    "valor": 59.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Cleberson Andre Macedo De Castro)",
+    "credito": false,
+    "debito": true,
+    "valor": 114.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ROSEMERI WEBSTER)",
+    "credito": false,
+    "debito": true,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "82759",
+    "complemento": "TRANSF TEF PIX(82759 QUEST CLINICS CLINICA MEDICA LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO PIX(SOLUCAO CERTIFICACAO DIGITAL LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(feltros Santa fé)",
+    "credito": true,
+    "debito": false,
+    "valor": 1659.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(DARF TEC simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 505.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Pescador Distribuidora De Artigos Esport)",
+    "credito": false,
+    "debito": true,
+    "valor": 113.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO PIX(CLARO)",
+    "credito": true,
+    "debito": false,
+    "valor": 203.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 585.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 123.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 157.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 53.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 150.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 963.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 487.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(BIANCA CAROLINE TEIXEIRA FAVRETO)",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(isaque simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 4200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(52.241.770 LUCELIA SILVESTRI)",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Joseliz Michaloski Funini)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GENY MARIA DALLAGO PEREIRA ALVES)",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ROSANA MARIA F ANDRADE)",
+    "credito": false,
+    "debito": true,
+    "valor": 97.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARIA JOSE MIRANDA DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Melodine Felicio)",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(TATIANE BUENO CORNACILE)",
+    "credito": false,
+    "debito": true,
+    "valor": 266.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1117.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 289.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1068.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1603.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 333.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1861.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JOCELENE D ANTUNES SOUZA)",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Dianês Carla Provenzi)",
+    "credito": false,
+    "debito": true,
+    "valor": 176.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ALEXIS NAUD ROSA)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(taynara cristine schemes)",
+    "credito": false,
+    "debito": true,
+    "valor": 43.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(italiano)",
+    "credito": true,
+    "debito": false,
+    "valor": 2348.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 87.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 148.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 116.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 390.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Criangel Rodrigues Dias)",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(RAPHAEL SCHEFFER VIEIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Solange Gonçalves da Rocha)",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Jade Letícia Toscano de Castro)",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GILBERTO CATALAN)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Paula Zappelini)",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1269577",
+    "complemento": "TRANSF TEF PIX(GABRIELA JOHANN SCHEFEL SANDRI)",
+    "credito": false,
+    "debito": true,
+    "valor": 192.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 194.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 635.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 464.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 202.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 535.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(IOHANA NOTARI DIETRICH)",
+    "credito": false,
+    "debito": true,
+    "valor": 336.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(NADIA TENORIO COLARES TOMIO)",
+    "credito": false,
+    "debito": true,
+    "valor": 64.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 183.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 9.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 338.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 190.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 34.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 611.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(FUXICOS FRICOTES C T LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 2059.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 154.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 258.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 391.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 610.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(plano saúde)",
+    "credito": true,
+    "debito": false,
+    "valor": 2178.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVÊNIOS(icms-DeSTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 62.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(simples tec. Simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 4589.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Janice Cristina Kretzer)",
+    "credito": false,
+    "debito": true,
+    "valor": 15.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1640089",
+    "complemento": "TRANSF PIX-SIM(LC DI LISE CRIPPA LT)",
+    "credito": false,
+    "debito": true,
+    "valor": 58.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(taynara cristine schemes)",
+    "credito": false,
+    "debito": true,
+    "valor": 80.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ZELIA ROSA RIBEIRO DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 23.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(seguro carro)",
+    "credito": true,
+    "debito": false,
+    "valor": 1074.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANDRESA  CRISTINA MELLO)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 993.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 696.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 522.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1575.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1632.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 362.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 93.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(plastico rotta)",
+    "credito": true,
+    "debito": false,
+    "valor": 388.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELIZETE WULFF)",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KAIROS LAVACAO LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 183.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "1640089",
+    "complemento": "TRANSF PIX-SIM(LC DI LISE CRIPPA LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(taynara cristine schemes)",
+    "credito": false,
+    "debito": true,
+    "valor": 45.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DONYZETE FATIMA COLLA)",
+    "credito": false,
+    "debito": true,
+    "valor": 245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Bárbara Delai Farias Nunes)",
+    "credito": false,
+    "debito": true,
+    "valor": 40.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Tamires da Silva Rodrigues)",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 804.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 388.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 254.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 408.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(Rotta aviamentos)",
+    "credito": true,
+    "debito": false,
+    "valor": 1265.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(luz tecidos simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 317.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JESSICA C N 09421547977)",
+    "credito": false,
+    "debito": true,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(FUXICOS FRICOTES C T LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 895.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(aceville trasportado)",
+    "credito": true,
+    "debito": false,
+    "valor": 103.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(TECIPAM COMERCIO TEXTIL NACIONAIS IMPORT)",
+    "credito": true,
+    "debito": false,
+    "valor": 5700.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELOI DE FATIMA GOMES HOFFMEISTER)",
+    "credito": false,
+    "debito": true,
+    "valor": 108.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JERLANE PEREIRA PINTO)",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(NILTON NARDONI JUNIOR)",
+    "credito": false,
+    "debito": true,
+    "valor": 77.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 894.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 289.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 231.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 260.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 752.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 393.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 166.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 823.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 85.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 322.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 533.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 24.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 825.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 252.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 838.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Francisco Fabio Melo Cezar)",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DIA DE BOLO LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Cristiane Corrales Mendonca Da Silva)",
+    "credito": false,
+    "debito": true,
+    "valor": 29.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELIANI SOARES DE AZEVEDO PONTES)",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CONSTRUTORA COSTA ALLAN LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA CAROLINA MAISTROVICZ)",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(SANDRA M R BRESOLA)",
+    "credito": false,
+    "debito": true,
+    "valor": 588.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GIOVANNA TREVISAN CABRINI)",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELAINE PEREIRA SMITEK)",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 331.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 146.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 462.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 37.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 37.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1165.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1403.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELIZETE WULFF)",
+    "credito": false,
+    "debito": true,
+    "valor": 370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9993177",
+    "complemento": "TRANSF TEF PIX(CINTIA HELENA PEREIRA SILVEIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GRAZIELLE APARECIDA MIRANDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 62.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARIANA SOLEDAD GIL)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 546.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 423.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 197.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 308.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 157.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DORALICE MARTINS DE MESQUITA)",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARCOS ALBANUS)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Angela Giovanella)",
+    "credito": false,
+    "debito": true,
+    "valor": 43.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 281.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 313.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 364.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 445.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "TARIFA",
+    "complemento": "TAR MANUT CTA PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(honorários contábeis)",
+    "credito": true,
+    "debito": false,
+    "valor": 755.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(sistema Omega data)",
+    "credito": true,
+    "debito": false,
+    "valor": 71.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(aceville frete)",
+    "credito": true,
+    "debito": false,
+    "valor": 90.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(SUZAN DANIELE NIEHUES VIEIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MEESVA CLINICA ODONTOLOGICA LTDA ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(GEORGINA LEITE DAS NEVES)",
+    "credito": false,
+    "debito": true,
+    "valor": 81.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Hercules Ryan santos de lima)",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 186.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 506.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 179.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 91.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1034.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(círculo)",
+    "credito": true,
+    "debito": false,
+    "valor": 450.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(italiano  parcela)",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(LETICIA MARIA BOING)",
+    "credito": false,
+    "debito": true,
+    "valor": 74.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VANESSA SCHAEFER GONTIJO 01815272945)",
+    "credito": false,
+    "debito": true,
+    "valor": 153.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ACQUA STATION PRODUTOS E UTENS)",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARCELO ADRIANO GUIRRO 04123798993)",
+    "credito": false,
+    "debito": true,
+    "valor": 23.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 557.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 199.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1066.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 477.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1302.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 240.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1295.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Janaína Paula Franco)",
+    "credito": false,
+    "debito": true,
+    "valor": 73.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(SUELI ABATTI)",
+    "credito": false,
+    "debito": true,
+    "valor": 43.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(LELIA MARIA DE OLIVEIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 344.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JOSE AMARANTE)",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KARINE DOS SANTOS SUCHOW)",
+    "credito": false,
+    "debito": true,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 210.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 99.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 480.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 209.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 312.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(FGTS TEC Simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 341.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(círculo)",
+    "credito": true,
+    "debito": false,
+    "valor": 306.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(María José Vitalis Roquetta)",
+    "credito": false,
+    "debito": true,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(STUDIO F M R LTDA - ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 1961.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(PEDRO VICTO ZUFFO BORGES)",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 560.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 291.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 320.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 677.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 83.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 434.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Debora Helena Alves de Moraes)",
+    "credito": false,
+    "debito": true,
+    "valor": 105.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 701.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 635.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 978.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 183.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MCBC VESTUARIO E ACESSORIOS VENDA E ALUG)",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ADSON HENRIQUE MORAIS DOS SANTOS LINS)",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Gabriela Keidy Garcia Gervásio)",
+    "credito": false,
+    "debito": true,
+    "valor": 37.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1720854000",
+    "complemento": "DEBITO DE COBRANCA(Unimed terre)",
+    "credito": true,
+    "debito": false,
+    "valor": 3656.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Silamar Siqueira)",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 90.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 351.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 443.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 699.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 619.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VANESSA SCHAEFER GONTIJO 01815272945)",
+    "credito": false,
+    "debito": true,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Gislaine Luiz Leivas)",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(plástico de mesa)",
+    "credito": true,
+    "debito": false,
+    "valor": 3171.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(círculo)",
+    "credito": true,
+    "debito": false,
+    "valor": 450.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(império têxtil)",
+    "credito": true,
+    "debito": false,
+    "valor": 1211.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Leandro Lopes Meneguzzo)",
+    "credito": false,
+    "debito": true,
+    "valor": 32.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 890.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 188.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1015.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 53.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 185.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1982.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1704.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Andressa dos Santos Furlani)",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(NOELI GULHAK GOIS)",
+    "credito": false,
+    "debito": true,
+    "valor": 24.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KELY MARA PEDROSO DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 59.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 252.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1212.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 43.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 493.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 161.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(DESIGNTEX TECIDOS)",
+    "credito": true,
+    "debito": false,
+    "valor": 2660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(água loja atrasada)",
+    "credito": true,
+    "debito": false,
+    "valor": 70.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(água atrasada)",
+    "credito": true,
+    "debito": false,
+    "valor": 74.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(água do mês)",
+    "credito": true,
+    "debito": false,
+    "valor": 70.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CLAUDIA LUISA BARBOSA WOOD)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(DARF TEC Simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 474.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(recisão completar th)",
+    "credito": true,
+    "debito": false,
+    "valor": 21.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Fabiano Silveira Producao e eventos LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 78.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Viviane Mara Lazarin Cantagalli)",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CLAUDINA VUILLEROT DOS SANTOS)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(THAISE FERNANDA DE SOUZA MOREIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 24.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 34.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1014.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 322.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 285.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1077.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1649.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 151.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 122.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 283.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 607.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 45.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 769.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 100.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 914.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ILIANE A LIMA GOMES LOPES)",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ALEXSANDRA MELAINE VIEIRA SANTOS ALVAREZ)",
+    "credito": false,
+    "debito": true,
+    "valor": 78.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(NOEMI REBECA DOS SANTOS SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 111.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Ana Paula de Oliveira Grasso)",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ALINE TEIXEIRA BICA)",
+    "credito": false,
+    "debito": true,
+    "valor": 78.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Bianca Cristina)",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DEBORA CRISTINA DE SOUZA MOREIRA 0542749)",
+    "credito": false,
+    "debito": true,
+    "valor": 54.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Leidiane Cristina Ferreira)",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(João José da Silva Junior)",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DANIELE PEREIRA DE OLIVEIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 17.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1256.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 898.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 2168.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 380.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1481.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 2485.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 17.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(simples nacional)",
+    "credito": true,
+    "debito": false,
+    "valor": 5919.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVÊNIOS(DARE-SC)",
+    "credito": true,
+    "debito": false,
+    "valor": 990.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(RENNYA CRISTINA BARROS TAJRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 78.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(marilia cristina borges olijnyk)",
+    "credito": false,
+    "debito": true,
+    "valor": 265.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(TATIANE CHAVES DE ARAUJO MIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 23.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(VIVIANE FELTZ)",
+    "credito": true,
+    "debito": false,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 856.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 509.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 862.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 103.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 35.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 256.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CAMILA EVELIN LOURENÇO)",
+    "credito": false,
+    "debito": true,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(fabiula puton)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CAMILA EVELIN LOURENÇO)",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 203.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 306.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 122.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 621.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 133.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 750.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ROSITA ESTHER DE MACEDO SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(IRINES GIUSTI)",
+    "credito": false,
+    "debito": true,
+    "valor": 62.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 519.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 265.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 219.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1144.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 63.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 630.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CAMILA EVELIN LOURENÇO)",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(RENATA DINIZ)",
+    "credito": false,
+    "debito": true,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARICLEIA SCHISLER DE ALMEIDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 28.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(F3 ADMINISTRACA)",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(IGNACIO SEBASTIAN FESSIA)",
+    "credito": false,
+    "debito": true,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(APORTUNHOL CONFEITARIA LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(DARF recisão complet)",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 111.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 510.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 396.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 189.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 17.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 538.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 447.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 75.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Aline Cristina Prade)",
+    "credito": false,
+    "debito": true,
+    "valor": 72.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ARLETE DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(CLAUDIA LUISA BARBOSA WOOD)",
+    "credito": false,
+    "debito": true,
+    "valor": 48.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Bruna Caroline Paes Duarte)",
+    "credito": false,
+    "debito": true,
+    "valor": 31.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VANI DA COSTA LIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 93.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VERA MARLI PETERS ANTONINI)",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(TACYANA DE CASTRO MELO)",
+    "credito": false,
+    "debito": true,
+    "valor": 174.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1035.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 701.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 223.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 160.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1052.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 30.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1930.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 32.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(luz loja TEC Simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 264.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DIA DE BOLO LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 176.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 809.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 96.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 403.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 70.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(PEDRO GEOVANE POHL)",
+    "credito": false,
+    "debito": true,
+    "valor": 52.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JULITA CLARICE DE MORAES SCHNEIDER)",
+    "credito": false,
+    "debito": true,
+    "valor": 58.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 32.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 280.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 371.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 233.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 314.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(JULIA DA MATA MOREIRA ZIMMERMANN 0982420)",
+    "credito": false,
+    "debito": true,
+    "valor": 191.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Bruna Caroline Paes Duarte)",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 449.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1010.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 103.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 400.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 380.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VERA LUCIA MARTINS)",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA KARLA MALAGUTTI 01450535046)",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARCIA CRISTINA FOGACA DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "6006515",
+    "complemento": "TRANSF TEF PIX(FABIANA DUTRA PFITZER SCHAEFER ME)",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VANESSA SCHAEFER GONTIJO 01815272945)",
+    "credito": false,
+    "debito": true,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Jeferson De Paula Lima)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(TATIANA ARMANDA GALLI)",
+    "credito": false,
+    "debito": true,
+    "valor": 17.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(DATERRA BUTIQUE)",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(LEAHMAR CONFECCOES LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARILIA AYRES DA COSTA FERNANDES)",
+    "credito": false,
+    "debito": true,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Tauana Manuela Holler Haack)",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ELEAZAR BUENO DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Civiara Tadeu Alves da Silva)",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 208.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 486.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 612.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 749.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 31.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1187.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "R05820003",
+    "complemento": "SAQUE CASH REC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MARCIA CRISTINA FOGACA DA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 11.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "TARIFA",
+    "complemento": "TAR MANUT CTA PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(FRANCINE BRITTES FERREIRA)",
+    "credito": false,
+    "debito": true,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ROSA MARIA SANTANA SILVA)",
+    "credito": false,
+    "debito": true,
+    "valor": 93.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Dileise Costa Saraiva)",
+    "credito": false,
+    "debito": true,
+    "valor": 15.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Debora Helena Alves de Moraes)",
+    "credito": false,
+    "debito": true,
+    "valor": 15.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(AMELIA ELIZETE NORONHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(WENDY MICHALOSKI FUNINI)",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(ANA LUCIA DA ROCHA)",
+    "credito": false,
+    "debito": true,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 773.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 956.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 952.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1540.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 1239.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KAIROS LAVACAO LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 271.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Queila Amorim)",
+    "credito": false,
+    "debito": true,
+    "valor": 47.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Lucelia Silvestri)",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Janice Cristina Kretzer)",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KARINE DOS SANTOS SUCHOW)",
+    "credito": false,
+    "debito": true,
+    "valor": 181.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(VIVIANA SOLEDAD ENUNCIACION)",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(MICHELLI SCHWATZ GONCALVES)",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO(FGTS TEC Simas)",
+    "credito": true,
+    "debito": false,
+    "valor": 533.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Simone pavan)",
+    "credito": false,
+    "debito": true,
+    "valor": 181.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 379.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 617.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 784.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 102.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 287.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO(C1Stone Pagamentos S)",
+    "credito": false,
+    "debito": true,
+    "valor": 130.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(KAIROS LAVACAO LTDA)",
+    "credito": false,
+    "debito": true,
+    "valor": 59.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(Tecidos São Geraldo)",
+    "credito": true,
+    "debito": false,
+    "valor": 1956.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "1720854000",
+    "complemento": "LIQ TIT - IB(aceville trasporte)",
+    "credito": true,
+    "debito": false,
+    "valor": 99.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO PIX(Louise da Silva Pillar)",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX(FUXICOS FRICOTES C T LTDA)",
+    "credito": true,
+    "debito": false,
+    "valor": 1325.93,
+    "origem": "Extrato"
+  }
+]

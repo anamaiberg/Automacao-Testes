@@ -1,0 +1,452 @@
+[
+  {
+    "data": "23/01/2024",
+    "documento": "",
+    "complemento": "Pix recebido de PJBANK PAGAMENTOS S A",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 603.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para CainãMateus da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2290.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 214.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1275.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para FISIOCLINICA S/S LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LAVAZUER ROGERIO PIRES",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 9995.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 4340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 911.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2992.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 4900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 89.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2984.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "",
+    "complemento": "Pix recebido de ECONOMY PARTICIPACOES SOCIETARIAS",
+    "credito": false,
+    "debito": true,
+    "valor": 4871.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 5250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "",
+    "complemento": "IOF CHEQUE ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 0.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "",
+    "complemento": "JUROS CHEQUE ESP",
+    "credito": true,
+    "debito": false,
+    "valor": 0.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1450.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 8187.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 12455.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "",
+    "complemento": "Pix recusado",
+    "credito": true,
+    "debito": false,
+    "valor": 122.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "",
+    "complemento": "estornado",
+    "credito": false,
+    "debito": true,
+    "valor": 122.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 3780.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 530.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "",
+    "complemento": "PGTO FAT CARTAO C6",
+    "credito": true,
+    "debito": false,
+    "valor": 139.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1922.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 12926.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1793.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 30695.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 3768.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1153.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 491.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1934.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 647.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "",
+    "complemento": "Pix enviado para LUIZ CARLOS ALVANI",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 976.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 878.82,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "data": "19/06/2020",
+    "documento": "315745",
+    "complemento": "CX PROGRAM",
+    "credito": false,
+    "debito": true,
+    "valor": 112.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2020",
+    "documento": "201127",
+    "complemento": "COMPRA ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2020",
+    "documento": "201148",
+    "complemento": "COMPRA ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 46.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2020",
+    "documento": "201305",
+    "complemento": "COMPRA ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  }
+]

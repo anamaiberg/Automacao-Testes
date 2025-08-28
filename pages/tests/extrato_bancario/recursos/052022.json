@@ -1,0 +1,848 @@
+[
+  {
+    "data": "02/05/2025",
+    "documento": "195273",
+    "complemento": "COMPRA CARTAO DEB MC 02/05 VAREJAO CENTRAL DE",
+    "credito": true,
+    "debito": false,
+    "valor": 28.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "",
+    "complemento": "DEBITO AUT. FAT.CARTAO MASTER CARD FINAL 9158               STER CARD",
+    "credito": true,
+    "debito": false,
+    "valor": 937.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "424173",
+    "complemento": "COMPRA CARTAO DEB MC 02/05 JARDIM ELITE AUTO P",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "162773",
+    "complemento": "COMPRA CARTAO DEB MC 02/05 DIA BRASIL 339",
+    "credito": true,
+    "debito": false,
+    "valor": 19.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 06350648000174           E CIP",
+    "credito": false,
+    "debito": true,
+    "valor": 1452.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "311637",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS DE: 4548.13.000140-2     S",
+    "credito": false,
+    "debito": true,
+    "valor": 403.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 769.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "342101",
+    "complemento": "PIX RECEBIDO - DIF TIT BRF SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1849.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "113473",
+    "complemento": "COMPRA CARTAO DEB MC 03/05 VAREJAO CENTRAL DE",
+    "credito": true,
+    "debito": false,
+    "valor": 57.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "300473",
+    "complemento": "COMPRA CARTAO DEB MC 03/05 JOSE CLAUDEMIR MAND",
+    "credito": true,
+    "debito": false,
+    "valor": 66.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "022973",
+    "complemento": "COMPRA CARTAO DEB MC 03/05 ATACADO MAXIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 310.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "185573",
+    "complemento": "COMPRA CARTAO DEB MC 03/05 JOSE CLAUDEMIR MAND",
+    "credito": true,
+    "debito": false,
+    "valor": 101.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "582073",
+    "complemento": "COMPRA CARTAO DEB MC 03/05 PIRILLO GIL E ANDRA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "988752",
+    "complemento": "CHEQUE EMITIDO/DEBITADO",
+    "credito": true,
+    "debito": false,
+    "valor": 932.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 326.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2025",
+    "documento": "383473",
+    "complemento": "COMPRA CARTAO DEB MC 04/05 AUTO POSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 223.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2025",
+    "documento": "988783",
+    "complemento": "CHEQUE EMITIDO/DEBITADO",
+    "credito": true,
+    "debito": false,
+    "valor": 651.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 874.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "052573",
+    "complemento": "COMPRA CARTAO DEB MC 05/05 PAG.AutoPostoCentro",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET TORREFACOES NOIVACOLINENSNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 566.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "120973",
+    "complemento": "COMPRA CARTAO DEB MC 05/05 MEIO PRECO VARIEDAD",
+    "credito": true,
+    "debito": false,
+    "valor": 45.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "084473",
+    "complemento": "COMPRA CARTAO DEB MC 05/05 PAG.BARMM",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "480373",
+    "complemento": "COMPRA CARTAO DEB MC 05/05 PAG.BARMM",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "988745",
+    "complemento": "CHEQUE EMITIDO/DEBITADO",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 1258.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2025",
+    "documento": "",
+    "complemento": "TED RECEBIDA DIF TITULARIDADE STR 01177199000190           DADE STR",
+    "credito": false,
+    "debito": true,
+    "valor": 790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2025",
+    "documento": "344273",
+    "complemento": "COMPRA CARTAO DEB MC 07/05 MEIO PRECO VARIEDAD",
+    "credito": true,
+    "debito": false,
+    "valor": 146.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2025",
+    "documento": "593473",
+    "complemento": "COMPRA CARTAO DEB MC 09/05 VAREJAO CENTRAL",
+    "credito": true,
+    "debito": false,
+    "valor": 80.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 226.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2025",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 05145683000199           E CIP",
+    "credito": false,
+    "debito": true,
+    "valor": 362.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2025",
+    "documento": "390616",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS DE: 3885.02.000383-2     S",
+    "credito": false,
+    "debito": true,
+    "valor": 365.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2025",
+    "documento": "010073",
+    "complemento": "COMPRA CARTAO DEB MC 10/05 PAG.Drogal",
+    "credito": true,
+    "debito": false,
+    "valor": 349.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 377.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2025",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 00849629000100           E CIP",
+    "credito": false,
+    "debito": true,
+    "valor": 403.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2025",
+    "documento": "220673",
+    "complemento": "COMPRA CARTAO DEB MC 11/05 VAREJAO CENTRAL",
+    "credito": true,
+    "debito": false,
+    "valor": 37.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2025",
+    "documento": "574773",
+    "complemento": "COMPRA CARTAO DEB MC 11/05 CIGANA CENTRO DE BE",
+    "credito": true,
+    "debito": false,
+    "valor": 121.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 244.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2025",
+    "documento": "182273",
+    "complemento": "COMPRA CARTAO DEB MC 12/05 BISTECAO PIRACICABA",
+    "credito": true,
+    "debito": false,
+    "valor": 161.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2025",
+    "documento": "022073",
+    "complemento": "COMPRA CARTAO DEB MC 12/05 FLAFER MODA MASCULI",
+    "credito": true,
+    "debito": false,
+    "valor": 169.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 331.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2025",
+    "documento": "021773",
+    "complemento": "COMPRA CARTAO DEB MC 13/05 AGROPEC AMIGO FIEL",
+    "credito": true,
+    "debito": false,
+    "valor": 285.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET SPAL IND BRAS BEBID      NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 777.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET DISTRIBUIDORA E IMPORTADONTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 364.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2025",
+    "documento": "172873",
+    "complemento": "COMPRA CARTAO DEB MC 13/05 PAG.JOSERINALDOGASP",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 1163.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2025",
+    "documento": "010517",
+    "complemento": "PAGAMENTO A FORNECEDORES NF N 1532",
+    "credito": false,
+    "debito": true,
+    "valor": 9439.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2025",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 9155.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET BRF S.A.                 NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 223.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET PIRACICABA CARNES D EIRELNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 221.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET EMBALL COMERCIO DE EMBALANTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 200.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PAGAMENTO DE TITULOS - BCE 68.878.057/0001-21       E",
+    "credito": true,
+    "debito": false,
+    "valor": 264.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET AVEC CAMPINAS DIST LTDA  NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 319.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET FISCAR COMERCIO P L D LTDNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 244.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET ARMELIN FRANGOS LTDA     NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 309.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "PAGAMENTO DE TITULOS - BCE 68.878.057/0001-21       E",
+    "credito": true,
+    "debito": false,
+    "valor": 312.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 2097.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET SOUZA CRUZ LTDA          NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 947.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET DISTRIBUIDORA DE FRIOS MANTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 372.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET BRANCATTI DISTRIBUIDORA  NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 286.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET LINPAS ATACADISTA DE PRODNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 259.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET PIRACICABA CARNES D EIRELNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 135.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET TORREFACOES NOIVACOLINENSNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 216.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 2219.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "224973",
+    "complemento": "COMPRA CARTAO DEB MC 20/05 JOSE CLAUDEMIR MAND",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "988787",
+    "complemento": "SAQUE CHEQUE CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 651.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "070673",
+    "complemento": "COMPRA CARTAO DEB MC 20/05 REDE HORT MAIS PIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 28.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "988789",
+    "complemento": "CH PAGO P/ CAIXA - INTERAGENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 608.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "988790",
+    "complemento": "SAQUE CHEQUE CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 651.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "988788",
+    "complemento": "SAQUE CHEQUE CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 551.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET 20/05 ARMELIN FRANGOS LTDA     NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 309.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET DOBES EQUIP ELETRONICOS LNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET SPAL IND BRAS BEBID      NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 202.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET PIRACICABA CARNES E DERIVNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 141.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET PIRACICABA CARNES E DERIVNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 54.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET SPAL IND BRAS BEBID      NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 14.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET SPAL IND BRAS BEBID      NTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 14.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET ASSOCIACAO COMERCIAL E INNTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "PAGAMENTO DE TITULOS - BCE 23.637.077/0001-72       E",
+    "credito": true,
+    "debito": false,
+    "valor": 332.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 3882.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "274473",
+    "complemento": "COMPRA CARTAO DEB MC 21/05 PAG.AutoPostoCentro",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "473773",
+    "complemento": "COMPRA CARTAO DEB MC 21/05 VAREJAO BENJAMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "423273",
+    "complemento": "COMPRA CARTAO DEB MC 23/05 JAU SERVE",
+    "credito": true,
+    "debito": false,
+    "valor": 71.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "988791",
+    "complemento": "COMPENSACAO INTERNA DE CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 269.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "988792",
+    "complemento": "COMPENSACAO INTERNA DE CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2025",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 955.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2025",
+    "documento": "",
+    "complemento": "JUROS SALDO UTILIZ ATE LIMITE PERIODO: 24/04 A 23/05/22",
+    "credito": true,
+    "debito": false,
+    "valor": 7.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2025",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS ABRIL / 2022             SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2025",
+    "documento": "212273",
+    "complemento": "COMPRA CARTAO DEB MC 25/05 FARMAPIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2025",
+    "documento": "053473",
+    "complemento": "COMPRA CARTAO DEB MC 26/05 PATRICIA PESCIM FIS",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2025",
+    "documento": "381873",
+    "complemento": "COMPRA CARTAO DEB MC 27/05 MEIO PRECO VARIEDAD",
+    "credito": true,
+    "debito": false,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2025",
+    "documento": "435973",
+    "complemento": "COMPRA CARTAO DEB MC 28/05 VAREJAO CENTRAL",
+    "credito": true,
+    "debito": false,
+    "valor": 102.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2025",
+    "documento": "",
+    "complemento": "DEBITO AUT. FAT.CARTAO MASTER CARD FINAL 9158",
+    "credito": true,
+    "debito": false,
+    "valor": 599.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2025",
+    "documento": "124571",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS DE: 2018.01.015950-0     S",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  }
+]

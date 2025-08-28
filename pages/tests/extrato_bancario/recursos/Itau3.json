@@ -1,0 +1,641 @@
+[
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 22337.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 15653.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 6683.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 44162.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 7830.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 44162.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7830.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 12404.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 21402.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 12404.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 21402.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 21958.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13871.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 8086.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 9330.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 16814.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 16814.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 9330.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 14528.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 7761.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 14528.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7761.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 42673.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 6270.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 42673.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 6270.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 13961.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 27644.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13961.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 27644.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 7386.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 12178.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 12178.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7386.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 9898.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 13013.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13013.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 9898.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 59498.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 5427.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 59498.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 5427.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 40380.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 13990.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13990.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 40380.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 21600.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13678.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7921.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 7089.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 31467.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 31467.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7089.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 39156.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 13875.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 39156.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13875.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 32982.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 12010.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 20972.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 5741.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 13279.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 13279.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 5741.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 18323.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 11184.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 7139.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 15459.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "TRANSF 7424.22652-5",
+    "credito": true,
+    "debito": false,
+    "valor": 6140.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE   MAST DB082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 15459.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE  MC  082452601",
+    "credito": false,
+    "debito": true,
+    "valor": 6140.19,
+    "origem": "Extrato"
+  }
+]

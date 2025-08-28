@@ -1,0 +1,893 @@
+[
+  {
+    "data": "16/01/2024",
+    "documento": "",
+    "complemento": "DA OI FIBRA ARBOR 55775",
+    "credito": true,
+    "debito": false,
+    "valor": 123.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO02/12",
+    "credito": false,
+    "debito": true,
+    "valor": 166940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 165822.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF DRAKO M03/12",
+    "credito": false,
+    "debito": true,
+    "valor": 19500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO03/12",
+    "credito": false,
+    "debito": true,
+    "valor": 23300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO03/12",
+    "credito": false,
+    "debito": true,
+    "valor": 162830.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO03/12",
+    "credito": false,
+    "debito": true,
+    "valor": 161000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO03/12",
+    "credito": false,
+    "debito": true,
+    "valor": 121600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "TAR PIX PGTO TRANSF",
+    "credito": true,
+    "debito": false,
+    "valor": 25.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "TAR PLANO ADAPT 2 11/24",
+    "credito": true,
+    "debito": false,
+    "valor": 218.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 1.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 488019.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 001",
+    "credito": true,
+    "debito": false,
+    "valor": 119.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF LOCALIZ04/12",
+    "credito": false,
+    "debito": true,
+    "valor": 922.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO04/12",
+    "credito": false,
+    "debito": true,
+    "valor": 145000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO04/12",
+    "credito": false,
+    "debito": true,
+    "valor": 12500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 13050.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 237",
+    "credito": true,
+    "debito": false,
+    "valor": 145215.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO05/12",
+    "credito": false,
+    "debito": true,
+    "valor": 10050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "FIN VEIC ITC CH 4910 L",
+    "credito": false,
+    "debito": true,
+    "valor": 121990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 127680.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4323.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO06/12",
+    "credito": false,
+    "debito": true,
+    "valor": 29175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "",
+    "complemento": "FIN VEIC ITC CH 4910 R",
+    "credito": false,
+    "debito": true,
+    "valor": 4295.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 33330.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 169.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 24.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "SISPAG DRAKO MOTORS VEIC...",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO09/12",
+    "credito": false,
+    "debito": true,
+    "valor": 153950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "TED 104.4316.XS5 A D C S",
+    "credito": false,
+    "debito": true,
+    "valor": 97949.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 79.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 144137.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 107602.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 79.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "DEP DIN CX AG 6141",
+    "credito": false,
+    "debito": true,
+    "valor": 68000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 352.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 170.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 614.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 6724.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 60140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO11/12",
+    "credito": false,
+    "debito": true,
+    "valor": 6750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "TED 033.2271.ALLIANZ S S",
+    "credito": false,
+    "debito": true,
+    "valor": 7172.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 6736.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO12/12",
+    "credito": false,
+    "debito": true,
+    "valor": 202910.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "DEP DIN CX AG 6141",
+    "credito": false,
+    "debito": true,
+    "valor": 27125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 126.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 90758.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 146033.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF DRAKO M13/12",
+    "credito": false,
+    "debito": true,
+    "valor": 3990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO13/12",
+    "credito": false,
+    "debito": true,
+    "valor": 28720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "",
+    "complemento": "SISDEB REDECARD S A",
+    "credito": true,
+    "debito": false,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 32473.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO16/12",
+    "credito": false,
+    "debito": true,
+    "valor": 8305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "TED 237.2372.CAOA M D V",
+    "credito": false,
+    "debito": true,
+    "valor": 4156.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "DA OI FIBRA ARBOR 55775",
+    "credito": true,
+    "debito": false,
+    "valor": 123.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 11543.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 237",
+    "credito": true,
+    "debito": false,
+    "valor": 1040.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO17/12",
+    "credito": false,
+    "debito": true,
+    "valor": 357300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "DEP CHEQUE CAIXA AG 6141",
+    "credito": false,
+    "debito": true,
+    "valor": 4292.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "DEP CHEQUE CAIXA AG 6141",
+    "credito": false,
+    "debito": true,
+    "valor": 4292.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 13470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 237",
+    "credito": true,
+    "debito": false,
+    "valor": 338541.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 260",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PAG TIT BANCO 033",
+    "credito": true,
+    "debito": false,
+    "valor": 1571.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 1090.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "",
+    "complemento": "DEP DIN BCO24H 827396615",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2783.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO19/12",
+    "credito": false,
+    "debito": true,
+    "valor": 253540.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 10849.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 248981.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO20/12",
+    "credito": false,
+    "debito": true,
+    "valor": 160820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "FIN VEIC ITC CH 3620 L",
+    "credito": false,
+    "debito": true,
+    "valor": 99990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6890.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 108715.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 145213.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO23/12",
+    "credito": false,
+    "debito": true,
+    "valor": 300000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO23/12",
+    "credito": false,
+    "debito": true,
+    "valor": 302200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "DEP DIN BCO24H 855971205",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO23/12",
+    "credito": false,
+    "debito": true,
+    "valor": 6510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF DRAKO M23/12",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 23249.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 596434.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX QR-CODE",
+    "credito": true,
+    "debito": false,
+    "valor": 27.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO26/12",
+    "credito": false,
+    "debito": true,
+    "valor": 69080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "",
+    "complemento": "FIN VEIC ITC CH 8225 L",
+    "credito": false,
+    "debito": true,
+    "valor": 73032.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 141443.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO27/12",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1020.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "PIX TRANSF PETROMO30/12",
+    "credito": false,
+    "debito": true,
+    "valor": 296250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "TED 422.0020.SAFRA C S",
+    "credito": false,
+    "debito": true,
+    "valor": 484.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "TED 422.0020.SAFRA C S",
+    "credito": false,
+    "debito": true,
+    "valor": 2551.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2209.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES PIX TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 10122.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 286952.98,
+    "origem": "Extrato"
+  }
+]

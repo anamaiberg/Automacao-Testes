@@ -1,0 +1,74 @@
+[
+  {
+    "data": "05/11/2024",
+    "documento": "",
+    "complemento": "Pix enviado para Gustavo Filipe Wong Chiu",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "",
+    "complemento": "Pix recebido de MEDLEVENSOHN COMERCIO E REPRESENTACOES DE PRODUTOS HOSPITALARES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 487.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "",
+    "complemento": "Pix enviado para Gustavo Filipe Wong Chiu",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "",
+    "complemento": "Pix enviado para RECEITA FEDERAL",
+    "credito": true,
+    "debito": false,
+    "valor": 155.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "",
+    "complemento": "Pix enviado para Gustavo Filipe Wong Chiu",
+    "credito": true,
+    "debito": false,
+    "valor": 12607.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "",
+    "complemento": "Pix enviado para MINISTERIO DA FAZENDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1378.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED",
+    "credito": false,
+    "debito": true,
+    "valor": 4855.88,
+    "origem": "Extrato"
+  }
+]

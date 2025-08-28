@@ -1,0 +1,137 @@
+[
+  {
+    "data": "01/10/2024",
+    "documento": "5417124",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 134.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "5417124",
+    "complemento": "Rentab.invest Facilcred*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "0000033",
+    "complemento": "Pagto Eletron Cobranca Virtual Office Out.",
+    "credito": true,
+    "debito": false,
+    "valor": 134.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "5417124",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 1261.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "5417124",
+    "complemento": "Rentab.invest Facilcred*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "0000034",
+    "complemento": "Pagto Eletron Cobranca Erp Bling Ref Outubro",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "0000035",
+    "complemento": "Pagto Eletron Cobranca Integrador Iota Ref. Setembro",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "0000036",
+    "complemento": "Pagto Eletron Cobranca Vtex Ref. Setembro",
+    "credito": true,
+    "debito": false,
+    "valor": 502.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "0949166",
+    "complemento": "Transferencia Pix Rem: Pacmen Participacoes 10/10",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "4317564",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "1444296",
+    "complemento": "Transferencia Pix Des: N9ne Cats Marketing A 10/10",
+    "credito": true,
+    "debito": false,
+    "valor": 7500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "1742228",
+    "complemento": "Transferencia Pix Rem: Exiber Servicos Eletr 15/10",
+    "credito": false,
+    "debito": true,
+    "valor": 4445.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "0000037",
+    "complemento": "Pagto Eletron Cobranca Bonifiq Out.",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "0011024",
+    "complemento": "Tarifa Bancaria Cesta Pj Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 159.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "6529544",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 3685.1,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "data": "12/12/2022",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para EMERSON COELHO PNEUS ",
+    "credito": true,
+    "debito": false,
+    "valor": 2070.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 5049 ",
+    "credito": true,
+    "debito": false,
+    "valor": 337.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": null,
+    "complemento": "Taxa de consulta Serasa do CNPJ 08.794.355/0001-01 ",
+    "credito": true,
+    "debito": false,
+    "valor": 16.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 5049 ",
+    "credito": true,
+    "debito": false,
+    "valor": 269.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para PROCEL INSTITUTO DE ESTUDOS EDESENVOLVIMENTO DA INFORMATICA ",
+    "credito": true,
+    "debito": false,
+    "valor": 2523.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 160069940 Hiab Brasil guindastes eServiços Ltda ",
+    "credito": false,
+    "debito": true,
+    "valor": 15517.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 160069940 Hiab Brasil guindastes e ServiçosLtda ",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para GUINDASUL - COMERCIO DEGUINDASTES LTDA - EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 9100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1032.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para GUINDASUL - COMERCIO DEGUINDASTES LTDA - EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  }
+]

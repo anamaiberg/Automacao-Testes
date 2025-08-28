@@ -1,0 +1,542 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": "5802008",
+    "complemento": "DÉB.TÍTULO COBRANÇA TV A CABO",
+    "credito": true,
+    "debito": false,
+    "valor": 49.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "390737",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 9.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BANCO DAYCOVAL SA REMITTANCE 62.232.889 0001-90 BANCO DAYCOVAL REMITTANCE: REMETENTE: A NGELA M CAMPBELL - STAR BUSINESS",
+    "credito": false,
+    "debito": true,
+    "valor": 350.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "391336",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "391075",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "391905",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "391654",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1994.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "392504",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 11.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "392223",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1587.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "5828798",
+    "complemento": "DÉB.TRANSF.POUPANÇA-INTERCREDIS NIVALDO GOMES VIEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.087.096-** TELAS JANELAS",
+    "credito": true,
+    "debito": false,
+    "valor": 820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "5828821",
+    "complemento": "DÉBITO CONV. FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 139.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "393187",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "COPASA",
+    "complemento": "MG DÉB.CONV.SANEAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 4359.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "392823",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1993.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "41 - 164",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "393840",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "41 - 166",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 774.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "394238",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1196.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "41 - 169",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 1409.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "5850960",
+    "complemento": "DÉB.TÍTULO COBRANÇA LORDS GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 2490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "5852229",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: SOUZA & CIA COMERCIO DE PARAFUSOS TRANSFERÊNCIA PIX CONDOMINIO EDIFICIO PANORAMA 22.704.662 0001-85 BOTAS ZELADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 121.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "395183",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "CEMIG",
+    "complemento": "DIST DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 517.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "394870",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 3451.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "395789",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "395517",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1898.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "41",
+    "complemento": "- 196 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "5866172",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ALFA CONTADORES ASSOCIADOS LTDA TRANSFERÊNCIA PIX CONDOMINIO EDIFICIO PANORAMA 22.704.662 0001-85 CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "396488",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "396154",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2708.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "41 - 175",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 5106.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "5873287",
+    "complemento": "DÉB.TRANSF.CONTASDIF.TITULARIDADE FAV.: EZEQUIEL SOUZA CONSTRUTORA 5 PARCELA EZEQUIEL EMP.",
+    "credito": true,
+    "debito": false,
+    "valor": 7404.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "397121",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 8.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "41 - 172",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 1077.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 45.725.619 0001-00 EDUARDO EXTINTORES",
+    "credito": true,
+    "debito": false,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "5887479",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 583.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "137302",
+    "complemento": "COMPRA MASTERCARD MAESTRO PADARIA MASSA REAL LT CARATINGA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 83.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "137305",
+    "complemento": "COMPRA MASTERCARD MAESTRO PADARIA MASSA REAL LT CARATINGA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 21.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "5910609",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO CARLOS PUSSENTE TRANSFERÊNCIA PIX CONDOMINIO EDIFICIO PANORAMA 22.704.662 0001-85 AC MOTORIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "41 - 164",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 457.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.087.096-** SAMUEL TELAS",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "41 - 176",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "5914312",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ALUGUEL ANDAIME",
+    "credito": true,
+    "debito": false,
+    "valor": 2445.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "5917810",
+    "complemento": "DÉB.CONV.TELECOMUNICAÇÕES CELULAR ZELADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 39.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "5917819",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 17.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "41 - 174",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 964.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "5932222",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO OTIS ELEVADORES",
+    "credito": true,
+    "debito": false,
+    "valor": 781.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "SICOOBNET",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "41 - 182",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "5937103",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: JOAO CARLOS SOARES VIEIRA TRANSFERÊNCIA PIX CONDOMINIO EDIFICIO PANORAMA 22.704.662 0001-85 ALUGUEL GUINCHO",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "AD/31-8",
+    "complemento": "JUROS ADIANT.DEPOSITANTE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.04,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,2990 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "551.671.000.016.014",
+    "complemento": "Transferência recebida 01/06 11:13 MG 310920 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 6600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "286.892.043",
+    "complemento": "TED-Crédito em Conta 104 3538 11221104000142 MG 311730 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.101",
+    "complemento": "Pagamento de Boleto BIOLAB SANUS FARMA",
+    "credito": true,
+    "debito": false,
+    "valor": 12648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.102",
+    "complemento": "Pagamento de Boleto JOSE OSVALDO OLIVEIRA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 234.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.103",
+    "complemento": "Pagamento de Boleto PAULINERIS TRANSP ENC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 108.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.104",
+    "complemento": "Pagto conta telefone OI SA",
+    "credito": true,
+    "debito": false,
+    "valor": 957.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.105",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 12.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "861.521.200.214.570",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 31/05/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 6891.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "552.827.000.026.547",
+    "complemento": "Transferência recebida 02/06 15:13 DONA EUZEBIA",
+    "credito": false,
+    "debito": true,
+    "valor": 994.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "554.425.000.014.083",
+    "complemento": "Transferência recebida 02/06 16:07 MG 310855 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 4865.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "287.044.091",
+    "complemento": "TED-Crédito em Conta 104 1688 22646525000131 MUNICIPIO DE M",
+    "credito": false,
+    "debito": true,
+    "valor": 426.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "18.843",
+    "complemento": "Compra com Cartão 02/06 16:16 CACULA JUIZ DE FORA",
+    "credito": true,
+    "debito": false,
+    "valor": 144.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "556.504.000.142.499",
+    "complemento": "Transferência enviada 02/06 12:16 RHOSSE I EQUIP C LTDA EP",
+    "credito": true,
+    "debito": false,
+    "valor": 3207.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.201",
+    "complemento": "Pagamento de Boleto LABORATORIO FARMACEUTICO ARBORETO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1660.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.202",
+    "complemento": "Pagamento de Boleto LSI SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1457.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.203",
+    "complemento": "Pagamento de Boleto MEDIX BRASIL PRODUTOS HOSPITALARES E O",
+    "credito": true,
+    "debito": false,
+    "valor": 1809.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.204",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 492.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.205",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 835.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.206",
+    "complemento": "Pagamento de Boleto TIDIMAR COM PROD HOSPITALARES",
+    "credito": true,
+    "debito": false,
+    "valor": 1860.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.207",
+    "complemento": "Pagamento de Boleto RODOVIARIO CAM SAN FILHO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 970.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 6151.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "551.653.000.073.074",
+    "complemento": "Transferência recebida 05/06 10:33 PREFEITURA MUNICIPAL DE",
+    "credito": false,
+    "debito": true,
+    "valor": 3171.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "34.665.600",
+    "complemento": "TED-Crédito em Conta 341 9358 31844889000117 PREF MUN DE PA",
+    "credito": false,
+    "debito": true,
+    "valor": 1794.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "287.448.335",
+    "complemento": "TED-Pag Fornecedores 237 0265 20734604000179 MISSAO SAL DA",
+    "credito": false,
+    "debito": true,
+    "valor": 423.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "585.165",
+    "complemento": "Compra com Cartão 05/06 13:49 EQUIPAMINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 76.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "609.472",
+    "complemento": "Compra com Cartão 05/06 14:05 MINEIRAO LOJA 163",
+    "credito": true,
+    "debito": false,
+    "valor": 249.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.501",
+    "complemento": "Pagamento de Boleto EQUIPEX COMERCIO M M H LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.502",
+    "complemento": "Pagamento de Boleto HELIANTO FARMACEUTICA LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 4900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.503",
+    "complemento": "Pagamento de Boleto CRAL ARTIGOS LABORATORIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1153.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.504",
+    "complemento": "Pagamento de Boleto POLAR FIX INDUSTRIA E COMERCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1688.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.505",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1795.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.506",
+    "complemento": "Pagamento de Boleto UNIVERSO ODONTO IMPORTACAO, EXPORTACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2905.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.507",
+    "complemento": "Pagamento de Boleto ZERMATT IND E COM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 549.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.508",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 89.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.509",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 20.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.510",
+    "complemento": "Pix Enviado 05/06 16:53 PATROMED HOSPITALAR COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.421.872.000.931",
+    "complemento": "Movimento do Dia",
+    "credito": true,
+    "debito": false,
+    "valor": 608.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 10508.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "550.688.000.022.338",
+    "complemento": "Transferência recebida 06/06 13:22 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "550.952.000.022.612",
+    "complemento": "Transferência recebida 06/06 11:58 MONTE SANTO DE MINAS",
+    "credito": false,
+    "debito": true,
+    "valor": 1848.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "550.952.000.058.045",
+    "complemento": "Transferência recebida 06/06 11:47 PM-MONTE SANTO MINAS-FNS",
+    "credito": false,
+    "debito": true,
+    "valor": 1456.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "552.037.000.015.966",
+    "complemento": "Transferência recebida 06/06 14:49 FUNDO MUNIC DE SAUDE PRE",
+    "credito": false,
+    "debito": true,
+    "valor": 234.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "554.487.000.008.774",
+    "complemento": "Transferência recebida 06/06 15:18 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "287.648.452",
+    "complemento": "TED-Pag Fornecedores 341 6128 11308894000106 FMS MACAE ROYA",
+    "credito": false,
+    "debito": true,
+    "valor": 3360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "287.651.691",
+    "complemento": "TED-Crédito em Conta 341 4233 19558782000107 HOSP M SANTANA",
+    "credito": false,
+    "debito": true,
+    "valor": 383.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "287.754.628",
+    "complemento": "TED-Crédito em Conta 104 0193 11274201000101 FUNDO MUNICIPA",
+    "credito": false,
+    "debito": true,
+    "valor": 2553.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "2.685.761.000.000",
+    "complemento": "Ordem Banc Sec Tes Nac 151264370036-73 HOSPITAL UNIVERSITÁRIO",
+    "credito": false,
+    "debito": true,
+    "valor": 523.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "111.571.000.000.131",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 749.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "202.306.020.017.228",
+    "complemento": "Ordem Bancária 118170680001-84 FUNDO MUNICIPAL DE SAU",
+    "credito": false,
+    "debito": true,
+    "valor": 1860.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "463",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 21675.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.601",
+    "complemento": "Pagamento de Boleto DISTRILAF DISTRIBUIDORA DE MEDICAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.602",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 1390.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.603",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 763.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.604",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 767.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.605",
+    "complemento": "Pagamento conta luz CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 39.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.606",
+    "complemento": "Pagamento de Boleto PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 372.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.607",
+    "complemento": "Pix Enviado 06/06 17:11 ORTOBRAS IND E COM DE ORTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1493.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 12540.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "550.368.000.074.683",
+    "complemento": "Transferência recebida 07/06 16:24 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "551.450.000.015.614",
+    "complemento": "Transferência recebida 07/06 13:15 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 1788.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "552.160.000.036.278",
+    "complemento": "Transferência recebida 07/06 11:03 ITAMARANDIBA",
+    "credito": false,
+    "debito": true,
+    "valor": 3824.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "554.033.000.013.851",
+    "complemento": "Transferência recebida 07/06 15:17 MG 310410 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 712.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "554.425.000.009.583",
+    "complemento": "Transferência recebida 07/06 15:36 P M B PAGAMENTOS DIVERSO",
+    "credito": false,
+    "debito": true,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "660.274.000.046.935",
+    "complemento": "Transferência recebida 07/06 11:19 PTC SAUDE EM CASA",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "3.501.245.246",
+    "complemento": "Pix Recebido 07/06 14:30 24807226000167 ATLANTICA H",
+    "credito": false,
+    "debito": true,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "6.200.000.064.734",
+    "complemento": "Transferência Agendada 07/06 CONSORCIO INTE",
+    "credito": false,
+    "debito": true,
+    "valor": 362.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.701",
+    "complemento": "Pagamento de Boleto D. Center Distribuidora Ltda.",
+    "credito": true,
+    "debito": false,
+    "valor": 63.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.702",
+    "complemento": "Pagamento de Boleto DISTRILAF DISTRIBUIDORA DE MEDICAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1296.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.703",
+    "complemento": "Pagamento de Boleto MISTER SERVICE",
+    "credito": true,
+    "debito": false,
+    "valor": 534.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.704",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 194.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.705",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 53190.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.706",
+    "complemento": "Impostos FGTS ARRECADACAO GRF",
+    "credito": true,
+    "debito": false,
+    "valor": 2128.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.707",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 6.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.708",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 249.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.709",
+    "complemento": "Impostos DUA ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 240.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.710",
+    "complemento": "Impostos DUA ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 107.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "811.580.700.033.340",
+    "complemento": "Tar Pag Salár Créd Conta Cobrança referente 06/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 19907.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "87",
+    "complemento": "BB RF CP Empresa Ágil",
+    "credito": false,
+    "debito": true,
+    "valor": 28926.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "834.908",
+    "complemento": "Saque no Caixa 09/06 14:29 SOP-MANOEL HONORIO-JUIZ FO",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.901",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 87.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.902",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 864.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.903",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 835.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.904",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 636.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.905",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 681.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.906",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 54.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.907",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 63.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.908",
+    "complemento": "Pagamento de Boleto BNC",
+    "credito": true,
+    "debito": false,
+    "valor": 153.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "821.601.200.119.059",
+    "complemento": "Tarifa Saque Pessoal Cobrança referente 09/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.534",
+    "complemento": "Pagto Energia Elétrica CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 57.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "87",
+    "complemento": "BB RF CP Empresa Ágil",
+    "credito": false,
+    "debito": true,
+    "valor": 9437.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "550.968.000.029.777",
+    "complemento": "Transferência recebida 12/06 11:38 FUNDO MUN SAUDE PIUMHI",
+    "credito": false,
+    "debito": true,
+    "valor": 234.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "552.745.000.012.806",
+    "complemento": "Transferência recebida 12/06 16:06 P M T MG SAUDE 15PC",
+    "credito": false,
+    "debito": true,
+    "valor": 3410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "288.472.059",
+    "complemento": "TED-Pag Fornecedores 237 1103 12320877000149 FUNDO MUNICIPA",
+    "credito": false,
+    "debito": true,
+    "valor": 351.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "288.526.722",
+    "complemento": "TED-Pag Fornecedores 237 0265 20734604000179 MISSAO SAL DA",
+    "credito": false,
+    "debito": true,
+    "valor": 2493.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.201",
+    "complemento": "Pagamento de Boleto HELIANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 862.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.202",
+    "complemento": "Pagamento de Boleto SCHUSTER COMERCIO DE EQUIPAMEN",
+    "credito": true,
+    "debito": false,
+    "valor": 3580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.203",
+    "complemento": "Pagamento de Boleto ZERMATT IND E COM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 549.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.204",
+    "complemento": "Pagamento de Boleto BIGCARD",
+    "credito": true,
+    "debito": false,
+    "valor": 3960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.205",
+    "complemento": "Pagamento de Boleto VERO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.206",
+    "complemento": "Pagamento conta luz CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 138.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.207",
+    "complemento": "Pagamento conta luz CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 332.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.208",
+    "complemento": "Pagamento conta luz CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 89.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.209",
+    "complemento": "Pagamento conta luz CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 115.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.210",
+    "complemento": "Pagamento de Boleto ECT DEGER - DR 72 SPM",
+    "credito": true,
+    "debito": false,
+    "valor": 533.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.211",
+    "complemento": "Pagamento de Boleto BRADESCO ADMINISTRADORA DE CONSORCIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1247.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.212",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 291.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.213",
+    "complemento": "Pagamento de Boleto SAL EXPRESS SOLUCOES LOGISTICA E TRANS",
+    "credito": true,
+    "debito": false,
+    "valor": 1713.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "87",
+    "complemento": "BB RF CP Empresa Ágil",
+    "credito": false,
+    "debito": true,
+    "valor": 7029.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "552.167.000.012.883",
+    "complemento": "Transferência recebida 13/06 10:59 CAMACHO",
+    "credito": false,
+    "debito": true,
+    "valor": 2625.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "552.167.000.017.278",
+    "complemento": "Transferência recebida 13/06 13:15 CAMACHO",
+    "credito": false,
+    "debito": true,
+    "valor": 1133.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "288.642.486",
+    "complemento": "TED-Pag Fornecedores 104 0817 11802697000130 MG 311660 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 13380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "288.659.588",
+    "complemento": "TED-Crédito em Conta 104 0150 11274174000169 MG 316200 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 4300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 21439.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "550.312.000.034.632",
+    "complemento": "Transferência recebida 14/06 09:50 PIRAPETINGA",
+    "credito": false,
+    "debito": true,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "550.421.000.038.862",
+    "complemento": "Transferência recebida 14/06 16:04 TRES PONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 3441.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "552.096.000.029.075",
+    "complemento": "Transferência recebida 14/06 16:41 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 997.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "288.789.961",
+    "complemento": "TED-Crédito em Conta 021 0122 31475478000100 FUND MEDICO A",
+    "credito": false,
+    "debito": true,
+    "valor": 2409.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "288.791.219",
+    "complemento": "TED-Crédito em Conta 021 0122 31475478000100 FUND MEDICO A",
+    "credito": false,
+    "debito": true,
+    "valor": 1076.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "202.306.130.015.030",
+    "complemento": "Ordem Bancária 285610410001-76 MUNICIPIO DE BOM JARDI",
+    "credito": false,
+    "debito": true,
+    "valor": 1163.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "202.306.130.015.031",
+    "complemento": "Ordem Bancária 285610410001-76 MUNICIPIO DE BOM JARDI",
+    "credito": false,
+    "debito": true,
+    "valor": 336.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.401",
+    "complemento": "Pagamento de Boleto FRESENIUS KABI BRASIL LTDA.",
+    "credito": true,
+    "debito": false,
+    "valor": 1680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.402",
+    "complemento": "Pagamento de Boleto LSI SA",
+    "credito": true,
+    "debito": false,
+    "valor": 488.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.403",
+    "complemento": "Pagamento de Boleto SERVIMED COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 757.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.404",
+    "complemento": "Pagamento de Boleto SHALON FIOS CIRURGICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 822.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.405",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 767.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.406",
+    "complemento": "Pagamento de Boleto PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 793.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.407",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 443.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.408",
+    "complemento": "Pix Enviado 14/06 15:01 CARTORIO DE P DO 2 OFICIO",
+    "credito": true,
+    "debito": false,
+    "valor": 967.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.409",
+    "complemento": "Pix Enviado 14/06 15:03 PATROMED HOSPITALAR COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 2973.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.410",
+    "complemento": "Pix Enviado 14/06 15:13 LUMIAR HEALTH BUILDERS EST",
+    "credito": true,
+    "debito": false,
+    "valor": 1555.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 1726.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "550.688.000.023.236",
+    "complemento": "Transferência recebida 15/06 10:24 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 234.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "551.795.000.014.985",
+    "complemento": "Transferência recebida 15/06 10:56 COQUEIRAL",
+    "credito": false,
+    "debito": true,
+    "valor": 890.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "551.795.000.014.992",
+    "complemento": "Transferência recebida 15/06 10:55 COQUEIRAL",
+    "credito": false,
+    "debito": true,
+    "valor": 890.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "111.661.000.000.125",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "56.519",
+    "complemento": "Compra com Cartão 15/06 14:45 KALUNGA SHOPPING JAR",
+    "credito": true,
+    "debito": false,
+    "valor": 280.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "834.908",
+    "complemento": "Saque no Caixa 15/06 15:33 SOP-MANOEL HONORIO-JUIZ FO",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.501",
+    "complemento": "Pagamento de Boleto ALFALAGOS LTDA. EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 370.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.502",
+    "complemento": "Pagamento de Boleto DIPROMED COM E IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 640.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.503",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 681.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.504",
+    "complemento": "Pagamento de Boleto BANCO BBM S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1436.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.505",
+    "complemento": "Pagamento de Boleto POTENZA SEGURANCA ELETRONICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 108.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.506",
+    "complemento": "Pagamento de Boleto ATIVA DISTRIBUICAO E LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 98.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.507",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 238.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.508",
+    "complemento": "Pagamento de Boleto JOSE OSVALDO OLIVEIRA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 102.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.509",
+    "complemento": "Pagamento de Boleto CPAPSTORE E-COMMERCE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 433.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.510",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 52.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "811.661.100.120.710",
+    "complemento": "Tarifa Saque Pessoal Cobrança referente 15/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "831.661.200.022.244",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 14/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 7349.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "554.025.000.010.573",
+    "complemento": "Transferência recebida 16/06 10:31 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "132.638",
+    "complemento": "Recebimento Fornecedor FUNDACAO HOSPITALAR DO MUNICIPIO DE VA",
+    "credito": false,
+    "debito": true,
+    "valor": 16867.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "289.196.834",
+    "complemento": "TED-Pag Fornecedores 237 0265 20734604000179 MISSAO SAL DA",
+    "credito": false,
+    "debito": true,
+    "valor": 1469.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "2.915.212.000.000",
+    "complemento": "Ordem Banc Sec Tes Nac 151264370036-73 HOSPITAL UNIVERSITÁRIO",
+    "credito": false,
+    "debito": true,
+    "valor": 891.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.601",
+    "complemento": "Pagamento de Boleto BIOLAB SANUS FARMA",
+    "credito": true,
+    "debito": false,
+    "valor": 12648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.602",
+    "complemento": "Pagamento de Boleto PARCO PAPELARIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 457.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.603",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 492.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.604",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 636.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.605",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 626.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.606",
+    "complemento": "Pagamento de Boleto PAULINERIS TRANSP ENC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 218.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.607",
+    "complemento": "Pagamento de Boleto RODOVIARIO CAM SAN FILHO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 304.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 3950.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "550.032.000.075.495",
+    "complemento": "Transferência recebida 19/06 14:27 CONSORCIO INTERMUNI DE S",
+    "credito": false,
+    "debito": true,
+    "valor": 525.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "550.062.000.063.078",
+    "complemento": "Transferência recebida 19/06 14:59 SENHORA DOS REMEDIOS",
+    "credito": false,
+    "debito": true,
+    "valor": 9266.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "550.062.000.063.088",
+    "complemento": "Transferência recebida 19/06 14:48 SENHORA DOS REMEDIOS",
+    "credito": false,
+    "debito": true,
+    "valor": 12.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "3.576.826.974",
+    "complemento": "Pix Recebido 19/06 14:13 25452301002201 SOCIEDADE E",
+    "credito": false,
+    "debito": true,
+    "valor": 1512.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "111.701.000.000.131",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 1008.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.901",
+    "complemento": "Pagamento de Boleto CIRURGICA FERNANDES COM MAT CI",
+    "credito": true,
+    "debito": false,
+    "valor": 547.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.902",
+    "complemento": "Pagamento de Boleto TERVAC INDUSTRIA E COMERCIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.903",
+    "complemento": "Pagamento de Boleto MEDIX BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1812.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.904",
+    "complemento": "Pagamento de Boleto TIDIMAR COM PROD HOSPITALARES",
+    "credito": true,
+    "debito": false,
+    "valor": 112.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.905",
+    "complemento": "Pagamento de Boleto ATIVA COMERCIAL HOSPITALAR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3312.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.906",
+    "complemento": "Pagamento de Boleto CRAL ARTIGOS LABORATORIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1153.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.907",
+    "complemento": "Pagamento de Boleto HELIANTO FARMACEUTICA LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 4900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.908",
+    "complemento": "Pagamento de Boleto SINDICATO DO COMERCIO DE JUIZ DE FORA",
+    "credito": true,
+    "debito": false,
+    "valor": 175.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.909",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1069.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.910",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 89.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.911",
+    "complemento": "Pix Enviado 19/06 11:15 LOKTAL MEDICAL ELECTRONICS",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.912",
+    "complemento": "Pagamento de Boleto BALLKE PRODUTOS HOSPITALARES L",
+    "credito": true,
+    "debito": false,
+    "valor": 517.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "821.701.200.008.136",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 19/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 4.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 2497.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "289.575.689",
+    "complemento": "TED-Crédito em Conta 104 4384 13611913000196 MG 316295 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 2520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "27.400.000.066.086",
+    "complemento": "Transferência Agendada 20/06 INDICE SAUDE 2",
+    "credito": false,
+    "debito": true,
+    "valor": 354.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "111.711.000.000.212",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 1534.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.001",
+    "complemento": "Pagamento de Boleto DELLAMED COM ART HOSP EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 631.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.002",
+    "complemento": "Pagamento de Boleto DISK MED P D MEDICAMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1143.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.003",
+    "complemento": "Pagamento de Boleto PROSPER GESTAO DE ATIVOS FINANCEIROS L",
+    "credito": true,
+    "debito": false,
+    "valor": 975.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.004",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 767.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.005",
+    "complemento": "Pagamento de Boleto PROINFO",
+    "credito": true,
+    "debito": false,
+    "valor": 1936.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.006",
+    "complemento": "Pagamento de Boleto PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 202.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.007",
+    "complemento": "Pagamento de Boleto PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 443.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.008",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 10887.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.009",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 301.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.010",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 301.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.011",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 395.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.012",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 97.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.013",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 97.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.014",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 127.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.015",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 27.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "145.564.436",
+    "complemento": "Pagto cartão crédito EMPRESARIAL ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 7758.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 13817.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "87",
+    "complemento": "BB RF CP Empresa Ágil",
+    "credito": false,
+    "debito": true,
+    "valor": 7866.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "550.012.000.008.758",
+    "complemento": "Transferência recebida 21/06 09:37 PREF M BENTO ABADE - FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 1134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "553.809.000.010.200",
+    "complemento": "Transferência recebida 21/06 09:04 PM MORADA NOVA MINA-ICS",
+    "credito": false,
+    "debito": true,
+    "valor": 123.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "553.988.000.012.001",
+    "complemento": "Transferência recebida 21/06 11:04 SAO TOMAS DE AQUINO",
+    "credito": false,
+    "debito": true,
+    "valor": 3034.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "289.622.133",
+    "complemento": "TED-Crédito em Conta 341 0912 4872297000136 PALMYRA SILICI",
+    "credito": false,
+    "debito": true,
+    "valor": 213.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "289.649.712",
+    "complemento": "TED-Crédito em Conta 104 1059 11943989000193 FMS ABAETE CON",
+    "credito": false,
+    "debito": true,
+    "valor": 803.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "289.693.203",
+    "complemento": "TED-Pag Fornecedores 237 0998 11959800000150 FUNDO MUNICIPA",
+    "credito": false,
+    "debito": true,
+    "valor": 1450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "289.700.880",
+    "complemento": "TED-Crédito em Conta 104 1688 11875540000135 MG 314340 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 788.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "111.721.000.000.097",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 4847.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.101",
+    "complemento": "Pagamento de Boleto SHALON FIOS CIRURGICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 822.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.102",
+    "complemento": "Pagamento de Boleto SHALON FIOS CIRURGICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 873.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.103",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 275.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.104",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 445.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.105",
+    "complemento": "Pagamento de Boleto TIDIMAR COM PROD HOSPITALARES",
+    "credito": true,
+    "debito": false,
+    "valor": 784.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.106",
+    "complemento": "Pagamento de Boleto RODOVIARIO CAMILO SANTOS FILHO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 732.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.107",
+    "complemento": "Pagamento de Boleto SERQUIP - TRATAMENTO DE RESIDUOS MG LT",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.108",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 7.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.109",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 8.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 8212.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "550.368.000.076.200",
+    "complemento": "Transferência recebida 22/06 15:02 MG 315250 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 2720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "550.395.000.136.024",
+    "complemento": "Transferência recebida 22/06 15:20 FMS-RES7553-ESTRU APS",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "552.745.000.025.501",
+    "complemento": "Transferência recebida 22/06 14:43 MG 316970 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 8086.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "554.025.000.010.573",
+    "complemento": "Transferência recebida 22/06 10:29 FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 158.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "69.258",
+    "complemento": "Recebimento Fornecedor FUNDO MUNICIPAL DE SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 8874.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "111.731.000.000.106",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 944.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62.201",
+    "complemento": "Pagamento de Boleto ALFALAGOS LTDA. EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 370.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62.202",
+    "complemento": "Pagamento de Boleto DISTRILAF DISTRIBUIDORA DE MEDICAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 864.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62.203",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 717.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62.204",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 105.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62.205",
+    "complemento": "Pagamento de Boleto BANCO BBM S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 19376.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "550.274.000.066.086",
+    "complemento": "Transferência recebida 23/06 16:37 INDICE SAUDE 2021-2024",
+    "credito": false,
+    "debito": true,
+    "valor": 1053.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "550.688.000.007.670",
+    "complemento": "Transferência recebida 23/06 09:26 PM CEDRO DO ABAETE -FUS",
+    "credito": false,
+    "debito": true,
+    "valor": 198.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "552.194.000.023.441",
+    "complemento": "Transferência recebida 23/06 12:48 MG 313490 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 22545.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "289.961.513",
+    "complemento": "TED-Crédito em Conta 104 0694 11412071000118 MG 310260 FMS",
+    "credito": false,
+    "debito": true,
+    "valor": 262.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "111.741.000.000.202",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 1624.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "834.908",
+    "complemento": "Saque no Caixa 23/06 14:11 SOP-MANOEL HONORIO-JUIZ FO",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.301",
+    "complemento": "Pagamento de Boleto ACACIA COMERCIO DE MEDICAMENTOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 195.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.302",
+    "complemento": "Pagamento de Boleto ACACIA COMERCIO DE MEDICAMENTOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 224.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.303",
+    "complemento": "Pagamento de Boleto JP INDUSTRIA FARMACEUTICA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 5580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.304",
+    "complemento": "Pagamento de Boleto MEDIX BRASIL PRODUTOS HOSPITALARES E O",
+    "credito": true,
+    "debito": false,
+    "valor": 506.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.305",
+    "complemento": "Pagamento de Boleto SERVIMED COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 323.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.306",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 535.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.307",
+    "complemento": "Pagamento de Boleto BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 626.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.308",
+    "complemento": "Pagamento de Boleto TIDIMAR COM PROD HOSPITALARES",
+    "credito": true,
+    "debito": false,
+    "valor": 621.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.309",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 9851.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.310",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2134.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.311",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 25.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "811.741.100.183.395",
+    "complemento": "Tarifa Saque Pessoal Cobrança referente 23/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 55.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "133.642",
+    "complemento": "Recebimento Fornecedor FUNDACAO HOSPITALAR DO MUNICIPIO DE VA",
+    "credito": false,
+    "debito": true,
+    "valor": 36641.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "232.384",
+    "complemento": "Recebimentos Diversos SERVICO NACIONAL DE APRENDIZAGEM CO",
+    "credito": false,
+    "debito": true,
+    "valor": 53.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "290.058.760",
+    "complemento": "TED-Crédito em Conta 104 1059 11943989000193 FMS ABAETE CON",
+    "credito": false,
+    "debito": true,
+    "valor": 195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "290.115.426",
+    "complemento": "TED-Crédito em Conta 237 0575 4407641000116 CLIGED MACAE C",
+    "credito": false,
+    "debito": true,
+    "valor": 3632.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "111.771.000.000.206",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 8511.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "202.306.260.062.729",
+    "complemento": "Ordem Bancária 205834310001-35 FUNDO MUNICIPAL DE SAU",
+    "credito": false,
+    "debito": true,
+    "valor": 13167.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.601",
+    "complemento": "Pagamento de Boleto CIRURGICA FERNANDES COM MAT CI",
+    "credito": true,
+    "debito": false,
+    "valor": 1419.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.602",
+    "complemento": "Pagamento de Boleto CRAL ARTIGOS LABORATORIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 782.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.603",
+    "complemento": "Pagamento de Boleto DENTAL MED SUL ARTIGOS ODONTOL",
+    "credito": true,
+    "debito": false,
+    "valor": 968.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.604",
+    "complemento": "Pagamento de Boleto DISK MED P D MEDICAMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1469.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.605",
+    "complemento": "Pagamento de Boleto FLAIRE INDUSTRIA E COMERCIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 923.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.606",
+    "complemento": "Pagamento de Boleto HELIANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.607",
+    "complemento": "Pagamento de Boleto MEDIX BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1812.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.608",
+    "complemento": "Pagamento de Boleto BFC FUNDO DE INVESTIMENTO EM DIREITOS",
+    "credito": true,
+    "debito": false,
+    "valor": 717.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.609",
+    "complemento": "Pagamento de Boleto SHALON FIOS CIRURGICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 938.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.610",
+    "complemento": "Pagamento de Boleto SERMAC CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 3960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.611",
+    "complemento": "Pagamento de Boleto TRAMED SERVICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.612",
+    "complemento": "Pagto conta telefone VIVO MG - TELEMIG",
+    "credito": true,
+    "debito": false,
+    "valor": 181.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.613",
+    "complemento": "Pagamento de Boleto M W TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 180.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.614",
+    "complemento": "Pagamento de Boleto SAL EXPRESS SOLUCOES LOGISTICA E TRANS",
+    "credito": true,
+    "debito": false,
+    "valor": 1737.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.615",
+    "complemento": "Pagamento de Boleto MERCADOPAGO.COM REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "891.771.100.843.663",
+    "complemento": "Tarifa Pacote de Serviços Cobrança referente 26/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 44830.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "550.177.000.074.655",
+    "complemento": "Transferência recebida 27/06 11:54 CARATINGA",
+    "credito": false,
+    "debito": true,
+    "valor": 3890.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "550.315.000.066.636",
+    "complemento": "Transferência recebida 27/06 09:04 DELIBERACAO 3560-2021",
+    "credito": false,
+    "debito": true,
+    "valor": 5615.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "232.415",
+    "complemento": "Recebimentos Diversos SERVICO NACIONAL DE APRENDIZAGEM CO",
+    "credito": false,
+    "debito": true,
+    "valor": 1890.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "111.781.000.000.187",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 1223.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "555.853.000.020.304",
+    "complemento": "Transferência enviada 27/06 12:00 MEDCIR",
+    "credito": true,
+    "debito": false,
+    "valor": 282.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.701",
+    "complemento": "Pagamento de Boleto ACACIA COMERCIO DE MEDICAMENTOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2964.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.702",
+    "complemento": "Pagamento de Boleto FABMED DISTRIBUIDORA HOSPITALA",
+    "credito": true,
+    "debito": false,
+    "valor": 1570.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.703",
+    "complemento": "Pagamento de Boleto PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 419.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 7382.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "550.312.000.034.632",
+    "complemento": "Transferência recebida 28/06 15:24 PIRAPETINGA",
+    "credito": false,
+    "debito": true,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "552.790.000.011.002",
+    "complemento": "Transferência recebida 28/06 12:56 FUNDACAO M A M D D CORRE",
+    "credito": false,
+    "debito": true,
+    "valor": 221.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "3.632.291.475",
+    "complemento": "Pix Recebido 28/06 10:21 00005566758606 KAMILLA COE",
+    "credito": false,
+    "debito": true,
+    "valor": 135.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "111.791.000.000.115",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 3538.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.801",
+    "complemento": "Pagamento de Boleto DISK MED P D MEDICAMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 438.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.802",
+    "complemento": "Pagamento de Boleto SHALON FIOS CIRURGICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 873.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.803",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 275.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.804",
+    "complemento": "Pagamento de Boleto SUPERMED COMERCIO E IMPORTACAO DE PROD",
+    "credito": true,
+    "debito": false,
+    "valor": 445.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.805",
+    "complemento": "Pagamento de Boleto BLL",
+    "credito": true,
+    "debito": false,
+    "valor": 31.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 2040.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "550.061.000.109.736",
+    "complemento": "Transferência recebida 29/06 10:48 CONSORCIO I S R U NOR",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "550.421.000.039.587",
+    "complemento": "Transferência recebida 29/06 15:44 TRES PONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 2940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "551.329.000.016.301",
+    "complemento": "Transferência recebida 29/06 15:53 NATALANDIA",
+    "credito": false,
+    "debito": true,
+    "valor": 893.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "552.790.000.011.002",
+    "complemento": "Transferência recebida 29/06 13:46 FUNDACAO M A M D D CORRE",
+    "credito": false,
+    "debito": true,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "554.425.000.014.083",
+    "complemento": "Transferência recebida 29/06 16:27 MG 310855 FMS CUSTEIO SU",
+    "credito": false,
+    "debito": true,
+    "valor": 5226.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "111.801.000.000.190",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 1231.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "210",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 5343.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.902",
+    "complemento": "Pagamento de Boleto ATIVA COMERCIAL HOSPITALAR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1870.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.903",
+    "complemento": "Pagamento de Boleto INCOTERMINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 4323.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.904",
+    "complemento": "Pagamento de Boleto BANCO BBM S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.905",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 3655.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.906",
+    "complemento": "Impostos SECRET. FAZENDA MG",
+    "credito": true,
+    "debito": false,
+    "valor": 525.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "811.801.100.338.714",
+    "complemento": "Tar Pag Salár Créd Conta Cobrança referente 29/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 4613.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "550.062.000.063.087",
+    "complemento": "Transferência recebida 30/06 10:22 SANTA RITA DE IBITIPOCA",
+    "credito": false,
+    "debito": true,
+    "valor": 2271.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "550.364.000.014.710",
+    "complemento": "Transferência recebida 30/06 11:00 P N FUNDO M SAUDE FAE",
+    "credito": false,
+    "debito": true,
+    "valor": 395.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "550.464.000.018.432",
+    "complemento": "Transferência recebida 30/06 14:30 IBITURUNA",
+    "credito": false,
+    "debito": true,
+    "valor": 374.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "554.033.000.006.122",
+    "complemento": "Transferência recebida 30/06 14:06 P M ARCEBURGO SAUDE",
+    "credito": false,
+    "debito": true,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "111.811.000.000.130",
+    "complemento": "Cobrança",
+    "credito": false,
+    "debito": true,
+    "valor": 439.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "834.908",
+    "complemento": "Saque no Caixa 30/06 15:02 SOP-MANOEL HONORIO-JUIZ FO",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "301.503.540.639.067",
+    "complemento": "Saque no TAA 30/06 15:03 SOP-MANOEL HONORIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "550.024.000.145.280",
+    "complemento": "Transferência enviada 30/06 11:55 TS FARMA DISTRIBUIDORA E",
+    "credito": true,
+    "debito": false,
+    "valor": 460.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.001",
+    "complemento": "Pagamento de Boleto ACACIA COMERCIO DE MEDICAMENTOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.002",
+    "complemento": "Pagamento de Boleto ACACIA COMERCIO DE MEDICAMENTOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1383.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.003",
+    "complemento": "Pagamento de Boleto A C E IND E COMERCIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 559.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.004",
+    "complemento": "Pagamento de Boleto CIRURGICA FERNANDES COM MAT CI",
+    "credito": true,
+    "debito": false,
+    "valor": 2450.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.005",
+    "complemento": "Pagamento de Boleto MEDIX BRASIL PRODUTOS HOSPITALARES E O",
+    "credito": true,
+    "debito": false,
+    "valor": 506.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.006",
+    "complemento": "Pagamento de Boleto RODOVIARIO CAM SAN FILHO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 656.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.007",
+    "complemento": "Pagamento de Boleto TOKIO MARINE SEGURADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1222.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.008",
+    "complemento": "Impostos PREF JUIZ DE FORA",
+    "credito": true,
+    "debito": false,
+    "valor": 114.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.009",
+    "complemento": "Pgto conta água CESAMA",
+    "credito": true,
+    "debito": false,
+    "valor": 942.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.010",
+    "complemento": "Pagamento de Boleto UNIMED JUIZ F C T MEDICO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 563.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.011",
+    "complemento": "Pagamento de Boleto UNIMED JUIZ F C T MEDICO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2626.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.012",
+    "complemento": "Pagamento de Boleto ASSOC PROF EMP TRANSP PAS JUIZ",
+    "credito": true,
+    "debito": false,
+    "valor": 1102.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.013",
+    "complemento": "Pix Enviado 30/06 12:51 Gabriel Chaves Arantes",
+    "credito": true,
+    "debito": false,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "841.811.200.307.324",
+    "complemento": "Tarifa Saque Pessoal Cobrança referente 30/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 24155.99,
+    "origem": "Extrato"
+  }
+]

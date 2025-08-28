@@ -1,0 +1,380 @@
+[
+  {
+    "data": "02/10/2023",
+    "documento": "1",
+    "complemento": "DEB REEMBOLSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "99999999323",
+    "complemento": "IOF S/ C-C",
+    "credito": true,
+    "debito": false,
+    "valor": 36.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "99999999938",
+    "complemento": "JUROS LIM.CRD",
+    "credito": true,
+    "debito": false,
+    "valor": 22.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "305348.908",
+    "complemento": "CREDITO PIX - LOJA E CONFECCOES ENERGY LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 60000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "1",
+    "complemento": "FOLHA DE PAGT",
+    "credito": true,
+    "debito": false,
+    "valor": 20637.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "2",
+    "complemento": "DEB PRO-LABORE",
+    "credito": true,
+    "debito": false,
+    "valor": 4436.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "12",
+    "complemento": "DEB DIST LUCROS",
+    "credito": true,
+    "debito": false,
+    "valor": 30460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "10038.168",
+    "complemento": "PG.P/INTERNET - FGTS 09 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2262.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "52660.011",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 38000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "752.589.3",
+    "complemento": "CR. INTERNET -  ALBERTINA MESS JAHN",
+    "credito": false,
+    "debito": true,
+    "valor": 122.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1",
+    "complemento": "DEB DIST LUCROS",
+    "credito": true,
+    "debito": false,
+    "valor": 19463.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1180.051.8",
+    "complemento": "TR.INTERNET - MAGDA OSTERKAMP",
+    "credito": true,
+    "debito": false,
+    "valor": 7473.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1607.440.8",
+    "complemento": "TR.INTERNET - RENAN ALVES NUNES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1392.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "1169.122.0",
+    "complemento": "CR. INTERNET -  ANA MARIA ANDRADE FERNANDES",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1",
+    "complemento": "DEB DIST LUCROS",
+    "credito": true,
+    "debito": false,
+    "valor": 22000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1448.623.7",
+    "complemento": "CR. INTERNET -  MITRA DIOCESANA DE JOINVILLE",
+    "credito": false,
+    "debito": true,
+    "valor": 875.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "308388.290",
+    "complemento": "DEBITO PIX - Mss Importacao E Exportacao Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "308388.290",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "51011205301",
+    "complemento": "CARTAO DEBITO - ARA REFRIGERACAO EIREL",
+    "credito": true,
+    "debito": false,
+    "valor": 314.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1101.262.5",
+    "complemento": "CR. INTERNET -  IVER CLAYTON DOS SANTOS SILVA",
+    "credito": false,
+    "debito": true,
+    "valor": 41.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "10118.032",
+    "complemento": "PG.P/INTERNET - AGUA 09 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 174.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "49621.011",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "49621.016",
+    "complemento": "DEPOSITO BLOQ (17/10/2023)",
+    "credito": false,
+    "debito": true,
+    "valor": 590.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "41017181250",
+    "complemento": "CARTAO DEBITO - HIPERMAIS ATACADO",
+    "credito": true,
+    "debito": false,
+    "valor": 878.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "904.899.5",
+    "complemento": "CR. INTERNET -  JESSICA GRAF",
+    "credito": false,
+    "debito": true,
+    "valor": 59.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "1169.122.0",
+    "complemento": "CR. INTERNET -  ANA MARIA ANDRADE FERNANDES",
+    "credito": false,
+    "debito": true,
+    "valor": 59.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "02023080248",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 306.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "311926.484",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "311926.484",
+    "complemento": "DEBITO PIX - DOM E ARTE MOVEIS SOB MEDIDA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "312058.547",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "312058.547",
+    "complemento": "DEBITO PIX - ARA REFRIGERACAO EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 710.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "861.384",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 174.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "904.899.5",
+    "complemento": "CR. INTERNET -  JESSICA GRAF",
+    "credito": false,
+    "debito": true,
+    "valor": 62.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "57093.011",
+    "complemento": "DEPOSITO",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "315141.607",
+    "complemento": "DEBITO PIX - Mss Importacao E Exportacao Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 224.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "315141.607",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "1",
+    "complemento": "DEBITO FERIAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1030.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "10033.853",
+    "complemento": "PG.P/INTERNET - JLT INDUSTRIA T",
+    "credito": true,
+    "debito": false,
+    "valor": 328.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "10033.848",
+    "complemento": "PG.P/INTERNET - MARAZUL MALHAS",
+    "credito": true,
+    "debito": false,
+    "valor": 11972.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "10033.849",
+    "complemento": "PG.P/INTERNET - CROMUS EMBALAGE",
+    "credito": true,
+    "debito": false,
+    "valor": 711.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "10033.857",
+    "complemento": "PG.P/INTERNET - POSTO AGRICOPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 319.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "316945.825",
+    "complemento": "DEBITO PIX - MINISTERIO DA ECONOMIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2510.69,
+    "origem": "Extrato"
+  }
+]

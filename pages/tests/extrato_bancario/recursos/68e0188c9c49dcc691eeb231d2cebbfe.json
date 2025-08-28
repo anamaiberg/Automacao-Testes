@@ -1,0 +1,20 @@
+[
+  {
+    "data": "05/06/2023",
+    "documento": null,
+    "complemento": "Cesta Multivantagens Executiva 1",
+    "credito": true,
+    "debito": false,
+    "valor": 95.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": null,
+    "complemento": "Transferência Recebida CAIXA DE A DOS EMP DO S F B 28.502.128/0001-72 | 21 AG 84 C/ 182814-4",
+    "credito": false,
+    "debito": true,
+    "valor": 498.66,
+    "origem": "Extrato"
+  }
+]

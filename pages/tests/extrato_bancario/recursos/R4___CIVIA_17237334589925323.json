@@ -1,0 +1,227 @@
+[
+  {
+    "data": "03/06/2024",
+    "documento": "89.516",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "13",
+    "complemento": "PREST.EMPREST 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 69.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "2",
+    "complemento": "PGTO.PARC.EMPRESTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1531.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "80736.764",
+    "complemento": "CREDITO TED - HUBNER COMPONENTES E SISTEMAS",
+    "credito": false,
+    "debito": true,
+    "valor": 5591.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "2",
+    "complemento": "MULTA 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 17.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "2",
+    "complemento": "JUROS DE MORA 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 2.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "4",
+    "complemento": "IOF S/ EMPRES 009/08",
+    "credito": true,
+    "debito": false,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "2",
+    "complemento": "PREST.EMPREST 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 810.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "3",
+    "complemento": "MULTA 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 13.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "3",
+    "complemento": "JUROS DE MORA 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 2.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "7",
+    "complemento": "IOF S/ EMPRES 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "3",
+    "complemento": "PREST.EMPREST 009/048",
+    "credito": true,
+    "debito": false,
+    "valor": 684.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "0524",
+    "complemento": "TAR PCT SERV PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "3",
+    "complemento": "CRED.PARC.EMPRESTIMO",
+    "credito": false,
+    "debito": true,
+    "valor": 1531.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "438781.585",
+    "complemento": "DEBITO PIX - WELLMIX IMPORTACAO U EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1406.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "438782.752",
+    "complemento": "DEBITO PIX - GARANTIA COBRANCAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "439064.054",
+    "complemento": "DEBITO PIX - ANA CLAUDIA TARARAN MACHADO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "439065.318",
+    "complemento": "DEBITO PIX - Tatiane De Souza Mineiro",
+    "credito": true,
+    "debito": false,
+    "valor": 114.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "439098.581",
+    "complemento": "DEBITO PIX - MINISTERIO DA ECONOMIA",
+    "credito": true,
+    "debito": false,
+    "valor": 231.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "439098.911",
+    "complemento": "DEBITO PIX - MINISTERIO DA ECONOMIA",
+    "credito": true,
+    "debito": false,
+    "valor": 160.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "439117.962",
+    "complemento": "DEBITO PIX - MUNICIPIO DE PONTA GROSSA",
+    "credito": true,
+    "debito": false,
+    "valor": 353.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "10002.340",
+    "complemento": "PG.P/INTERNET - TRANSPORTADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 183.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "10002.358",
+    "complemento": "PG.P/INTERNET - ESEG EQUIPAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "10002.380",
+    "complemento": "PG.P/INTERNET - AMPERNET  TELEC",
+    "credito": true,
+    "debito": false,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "442401.897",
+    "complemento": "DEBITO PIX - V. H. DE OLIVEIRA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 43.0,
+    "origem": "Extrato"
+  }
+]

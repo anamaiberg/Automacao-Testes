@@ -1,0 +1,74 @@
+[
+  {
+    "data": "15/08/2024",
+    "documento": null,
+    "complemento": "Luxal Aluminios Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 141.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": null,
+    "complemento": "Sti Electric - Solucoes Tecnol",
+    "credito": false,
+    "debito": true,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": null,
+    "complemento": "Portolese Acrilicos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 183.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": null,
+    "complemento": "Daniel Felipe Portolese",
+    "credito": true,
+    "debito": false,
+    "valor": 122.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": null,
+    "complemento": "Sti Electric - Solucoes Tecnol",
+    "credito": false,
+    "debito": true,
+    "valor": 559.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2024",
+    "documento": null,
+    "complemento": "Portolese Acrilicos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 49.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2024",
+    "documento": null,
+    "complemento": "Tintas Darka Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 193.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2024",
+    "documento": null,
+    "complemento": "Maringa Fitas Distribuidora De Fitas E Abrasivos I",
+    "credito": true,
+    "debito": false,
+    "valor": 316.68,
+    "origem": "Extrato"
+  }
+]

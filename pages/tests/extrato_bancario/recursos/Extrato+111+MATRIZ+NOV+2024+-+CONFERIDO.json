@@ -1,0 +1,686 @@
+[
+  {
+    "data": "01/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 1092.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "0000011",
+    "complemento": "Tarifa Bancaria Pagamento Funcs Net Empresa",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 8802.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000006",
+    "credito": true,
+    "debito": false,
+    "valor": 20.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "8040086",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3311963743",
+    "credito": true,
+    "debito": false,
+    "valor": 89414.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "8041038",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3311963743",
+    "credito": true,
+    "debito": false,
+    "valor": 842.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "8045602",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3311963743",
+    "credito": true,
+    "debito": false,
+    "valor": 10057.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "8045629",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3311963743",
+    "credito": true,
+    "debito": false,
+    "valor": 46214.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "8047811",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3311963743",
+    "credito": true,
+    "debito": false,
+    "valor": 686.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "5007613",
+    "complemento": "Pagto Eletronico Tributo Internet --sefaz/sp Gare",
+    "credito": true,
+    "debito": false,
+    "valor": 164273.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "0133926",
+    "complemento": "Transf Cc Para Cc Pj H M Way Comercio Exterior",
+    "credito": true,
+    "debito": false,
+    "valor": 55070.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "0013104",
+    "complemento": "Pgto Salario Via Net Emp",
+    "credito": true,
+    "debito": false,
+    "valor": 28312.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "0131225",
+    "complemento": "Transf Cc Para Cc Pj Comercial Marukai Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "1247371",
+    "complemento": "Transferencia Pix Rem: Tavares e Tuji Ltda 05/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29381.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 9296.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "0131617",
+    "complemento": "Transf Cc Para Cc Pj Comercial Marukai Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 10.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "0000011",
+    "complemento": "Tarifa Bancaria Pagamento Funcs Net Empresa",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "4984114",
+    "complemento": "Ted-transf Elet Dispon Remet.msc Mediterranean Sh",
+    "credito": false,
+    "debito": true,
+    "valor": 2018.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "0131804",
+    "complemento": "Transf Cc Para Cc Pj Comercial Marukai Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 10362.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "1736498",
+    "complemento": "Transferencia Pix Rem: Debora Cristina Utiya 11/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4806.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "6353641",
+    "complemento": "Ted Dif.titul.cc H.bank Dest. Pacifico Despacho Ad",
+    "credito": true,
+    "debito": false,
+    "valor": 4158.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "6353641",
+    "complemento": "Doc/ted Internet Ted Internet",
+    "credito": true,
+    "debito": false,
+    "valor": 13.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "0950501",
+    "complemento": "Transferencia Pix Des: Pacific Os Despachos 11/11",
+    "credito": true,
+    "debito": false,
+    "valor": 13689.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 2234.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "0133994",
+    "complemento": "Transf Cc Para Cc Pj H M Way Comercio Exterior",
+    "credito": true,
+    "debito": false,
+    "valor": 47232.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "3381991",
+    "complemento": "Transf Cc Para Cc Pj Ocean Network Express Latin AM",
+    "credito": true,
+    "debito": false,
+    "valor": 64094.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 4196.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8040086",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3316994388",
+    "credito": true,
+    "debito": false,
+    "valor": 33140.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8040086",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3317017955",
+    "credito": true,
+    "debito": false,
+    "valor": 54476.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8041038",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3317017955",
+    "credito": true,
+    "debito": false,
+    "valor": 4008.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8045602",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3317017955",
+    "credito": true,
+    "debito": false,
+    "valor": 6836.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8045629",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3317017955",
+    "credito": true,
+    "debito": false,
+    "valor": 31416.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8047811",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3316994388",
+    "credito": true,
+    "debito": false,
+    "valor": 154.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "8047811",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3317017955",
+    "credito": true,
+    "debito": false,
+    "valor": 431.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "0111124",
+    "complemento": "Tarifa Bancaria Transf Pgto Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "5000613",
+    "complemento": "Pagto Eletronico Tributo Internet --sefaz/sp Gare",
+    "credito": true,
+    "debito": false,
+    "valor": 58595.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "5004583",
+    "complemento": "Pagto Eletronico Tributo Internet --sefaz/sp Gare",
+    "credito": true,
+    "debito": false,
+    "valor": 93911.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 1775.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "1248079",
+    "complemento": "Transferencia Pix Rem: Xerelete Restaurante 14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 970.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "0011124",
+    "complemento": "Tarifa Bancaria Cesta Pj",
+    "credito": true,
+    "debito": false,
+    "valor": 156.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 4607.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 10.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "0013119",
+    "complemento": "Adiant Salario Via Net",
+    "credito": true,
+    "debito": false,
+    "valor": 3380.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 6714.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "1341013",
+    "complemento": "Transferencia Pix Rem: Mkm Distribuidora de 21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22525.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "1556106",
+    "complemento": "Transferencia Pix Rem: Liberdade Dist Alim L 21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1352.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 8678.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000005",
+    "credito": true,
+    "debito": false,
+    "valor": 17.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "0000008",
+    "complemento": "Tarifa Bancaria Pagamento Funcs Net Empresa",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "1511302",
+    "complemento": "Transferencia Pix Rem: Policampo - Comercio 23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1030.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "1438075",
+    "complemento": "Debito Automatico Cgmp-sem Parar/sp*-",
+    "credito": true,
+    "debito": false,
+    "valor": 2357.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 3455.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000001",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "8040086",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3323792183",
+    "credito": true,
+    "debito": false,
+    "valor": 107938.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "8041038",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3323792183",
+    "credito": true,
+    "debito": false,
+    "valor": 6363.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "8045602",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3323792183",
+    "credito": true,
+    "debito": false,
+    "valor": 13299.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "8045629",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3323792183",
+    "credito": true,
+    "debito": false,
+    "valor": 61150.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "8047811",
+    "complemento": "Pgto Eletronico Tributo Siscomex-prot. 3323792183",
+    "credito": true,
+    "debito": false,
+    "valor": 632.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 2871.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "1119511",
+    "complemento": "Transferencia Pix Rem: Iss Comercio de Brinq 28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2339.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000002",
+    "credito": true,
+    "debito": false,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "9111336",
+    "complemento": "Liquidacao de Cobranca Valor Disponivel",
+    "credito": false,
+    "debito": true,
+    "valor": 6349.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "9111336",
+    "complemento": "Tarifa Registro Cobranca Na Baixa Por Compensacao00000003",
+    "credito": true,
+    "debito": false,
+    "valor": 10.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "0013129",
+    "complemento": "Adiant 13salario Via Net",
+    "credito": true,
+    "debito": false,
+    "valor": 19797.13,
+    "origem": "Extrato"
+  }
+]

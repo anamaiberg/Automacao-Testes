@@ -1,0 +1,704 @@
+[
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2468.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "INTEGR.CAPITAL SUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "ARRECADACAO ESTADUAL",
+    "credito": true,
+    "debito": false,
+    "valor": 104.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2281.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2733.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2722.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1737.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "DEB. FOLHA PAGTO",
+    "credito": true,
+    "debito": false,
+    "valor": 6578.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "DEBITO TED/IB",
+    "credito": true,
+    "debito": false,
+    "valor": 191.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1285.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 751.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 2839.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 3799.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1978.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1878.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2020",
+    "documento": null,
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 3999.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 868.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 620.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "DEBITO CONVENIO ICATU",
+    "credito": true,
+    "debito": false,
+    "valor": 134.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "DEBITO CONVENIO",
+    "credito": true,
+    "debito": false,
+    "valor": 73.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "AMORTIZACAO CONTRATO",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 1359.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1494.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "TARIFAS - PGTO FOLHA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "TARIFAS - PGTO FOLHA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1363.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1711.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2020",
+    "documento": null,
+    "complemento": "TAR INCLUSÃ‡O NEGATIVAÂ¿Ã‡O",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1701.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 231.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2020",
+    "documento": null,
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 457.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2020",
+    "documento": null,
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 492.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 618.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 621.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 519.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 743.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 728.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 373.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 368.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1181.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 8.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": null,
+    "complemento": "TAR INCLUSÃ‡O NEGATIVAÂ¿Ã‡O",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1732.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 611.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "DEB. FOLHA PAGTO",
+    "credito": true,
+    "debito": false,
+    "valor": 3572.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 476.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "DEBITO TED/IB",
+    "credito": true,
+    "debito": false,
+    "valor": 476.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": null,
+    "complemento": "RESGATE APLIC. FINANCEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 3828.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2558.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2020",
+    "documento": null,
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 587.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1871.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2356.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 102.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2020",
+    "documento": null,
+    "complemento": "DEBITO CONVENIO",
+    "credito": true,
+    "debito": false,
+    "valor": 59.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2399.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 172.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2020",
+    "documento": null,
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1137.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2020",
+    "documento": null,
+    "complemento": "DEP CHEQUE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2020",
+    "documento": null,
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2020",
+    "documento": null,
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2020",
+    "documento": null,
+    "complemento": "TAR EXCLUSÃ‡O NEGATIVAÂ¿Ã‡",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2020",
+    "documento": null,
+    "complemento": "APLICACAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 30287.8,
+    "origem": "Extrato"
+  }
+]

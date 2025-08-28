@@ -1,0 +1,263 @@
+[
+  {
+    "data": "04/10/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 5800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": null,
+    "complemento": "Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 5800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 695.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": null,
+    "complemento": "Pagamento de boleto outros bancos Candido contabil ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": null,
+    "complemento": "Tarifa mensalidade pacote servicos Setembro / 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": null,
+    "complemento": "Pix recebido - dif tit 76202852615",
+    "credito": false,
+    "debito": true,
+    "valor": 215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": null,
+    "complemento": "Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": null,
+    "complemento": "Pagamento de boleto outros bancos Itau unibanco holding s.a",
+    "credito": true,
+    "debito": false,
+    "valor": 6944.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": null,
+    "complemento": "Pix recebido - dif tit 76202852615",
+    "credito": false,
+    "debito": true,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 4048.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": null,
+    "complemento": "Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": null,
+    "complemento": "Pix recebido - dif tit 08870769000172",
+    "credito": false,
+    "debito": true,
+    "valor": 46492.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 68.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": null,
+    "complemento": "Iof adicional - automatico Periodo: 01/10 a 31/10/23",
+    "credito": true,
+    "debito": false,
+    "valor": 9.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": null,
+    "complemento": "Iof imposto operacoes ﬁnanceiras Periodo: 01/10 a 31/10/23",
+    "credito": true,
+    "debito": false,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": null,
+    "complemento": "Juros saldo utiliz ate limite Periodo: 01/10 a 31/10/23",
+    "credito": true,
+    "debito": false,
+    "valor": 58.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": null,
+    "complemento": "Pix enviado Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": null,
+    "complemento": "Pix enviado Joao paulo ribeiro da sil",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": null,
+    "complemento": "Tarifa mensalidade pacote servicos Outubro / 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": null,
+    "complemento": "Tarifa avulsa envio pix 10/11/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": null,
+    "complemento": "Resgate contamax automatico",
+    "credito": false,
+    "debito": true,
+    "valor": 322.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": null,
+    "complemento": "Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": null,
+    "complemento": "Pix recebido - dif tit 76202852615",
+    "credito": false,
+    "debito": true,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 1515.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": null,
+    "complemento": "Pix enviado Jose maria ewerton sampai",
+    "credito": true,
+    "debito": false,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": null,
+    "complemento": "Pix recebido - dif tit 08870769000172",
+    "credito": false,
+    "debito": true,
+    "valor": 46492.5,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "data": "01/02/2024",
+    "documento": "163840",
+    "complemento": "COMP MASTER MAESTRO CRESCERFARMA VILA VELHA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "311142",
+    "complemento": "COMP MASTER MAESTRO GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "256214",
+    "complemento": "COMP MASTER MAESTRO P6 ITAPEMIRIM SAO PAULO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "129",
+    "complemento": "DEB PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 25.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "IOF/1-2",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 1.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "IOF/1-2",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 1.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "456483",
+    "complemento": "COMP MASTER MAESTRO RESTAURANTE KIOTO LTD CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 122.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "576816",
+    "complemento": "COMP MASTER MAESTRO PG *TON MARLENE FERR CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "026545",
+    "complemento": "COMP MASTER MAESTRO M10014100K6ISM5 CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "495823",
+    "complemento": "COMP MASTER MAESTRO PAG*DOPIGATTI CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "441221",
+    "complemento": "SAQUE - BANCO24HORA BANCO 24 HORAS",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "330144",
+    "complemento": "COMP MASTER MAESTRO P6 ITAPEMIRIM SAO PAULO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "450184",
+    "complemento": "COMP MASTER MAESTRO JARACATIA EXPRESS ICONHA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "354237",
+    "complemento": "COMP MASTER MAESTRO MINI MERCADO OLHO ECON GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "543980",
+    "complemento": "COMP MASTER MAESTRO B. B. NUNES CONVENIEN GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 8.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "422606",
+    "complemento": "COMP MASTER MAESTRO SENNA RESTAURANTE LO CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 18.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "812005",
+    "complemento": "COMP MASTER MAESTRO PG *TON ROGERIA MARI CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 44.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "373452",
+    "complemento": "COMP MASTER MAESTRO AUTO POSTO CORONEL BOR CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "688723",
+    "complemento": "COMP MASTER MAESTRO PAG*GUIDODEMATTOS CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX RUTELEIA DE LIMA E SILVA ***.585.795-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX RUTELEIA DE LIMA E SILVA ***.585.795-**",
+    "credito": false,
+    "debito": true,
+    "valor": 3477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "31499383",
+    "complemento": "DB.TR.C.MSM.TIT.INT FAV.: NOVATECH ABRASIVOS EIRELI TRANSFERÊNCIA PIX NOVATECH ABRASIVOS EIRELI 23.352.050 0001-33",
+    "credito": true,
+    "debito": false,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "3260",
+    "complemento": "DÉB.SAQUE INTERCRED",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "739995",
+    "complemento": "COMP MASTER MAESTRO PAG*POSTONOGUEIRALTDA CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "3260",
+    "complemento": "DÉB.SAQUE INTERCRED",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "416966",
+    "complemento": "COMP MASTER MAESTRO P6 ITAPEMIRIM SAO PAULO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "438648",
+    "complemento": "COMP MASTER MAESTRO GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "010482",
+    "complemento": "COMP MASTER MAESTRO GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "253452",
+    "complemento": "COMP MASTER MAESTRO P6 ITAPEMIRIM SAO PAULO BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "LC-202401",
+    "complemento": "JUROS CTA GARANTIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 52.86,
+    "origem": "Extrato"
+  }
+]

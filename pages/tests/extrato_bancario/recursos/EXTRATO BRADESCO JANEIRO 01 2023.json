@@ -1,0 +1,488 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 7082.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "847",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO CORPORATIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 479.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "848",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO CORPORATIVO CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 3857.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "849",
+    "complemento": "PAGTO ELETRON COBRANCA BRASIL CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 556.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "850",
+    "complemento": "PAGTO ELETRON COBRANCA CONDOMINIO CENTER KENNEDY",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "851",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO CORPORATIVO NUBANK",
+    "credito": true,
+    "debito": false,
+    "valor": 330.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "11222",
+    "complemento": "TARIFA BANCARIA CESTA MULTI MOBILE",
+    "credito": true,
+    "debito": false,
+    "valor": 69.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "5300277",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "5309535",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 266.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "9990002",
+    "complemento": "OPERACAO CAPITAL GIRO",
+    "credito": true,
+    "debito": false,
+    "valor": 948.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "5965420",
+    "complemento": "CONTA DE TELEFONE INTERNET --CLARO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 44.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "5966840",
+    "complemento": "CONTA DE TELEFONE INTERNET --CLARO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 59.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 5398.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "852",
+    "complemento": "PAGTO ELETRON COBRANCA PLANO DE SAUDE",
+    "credito": true,
+    "debito": false,
+    "valor": 1644.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "853",
+    "complemento": "PAGTO ELETRON COBRANCA ALUGUEL",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "2947091",
+    "complemento": "TRANSF CC PARA CC PJ SERGIO EMILIO VICENTE FERR",
+    "credito": true,
+    "debito": false,
+    "valor": 2138.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "5962787",
+    "complemento": "CONTA DE TELEFONE INTERNET --TIM S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 116.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 927.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "9990004",
+    "complemento": "OPERACAO CAPITAL GIRO CONTR 014940688 PARC 012/042",
+    "credito": true,
+    "debito": false,
+    "valor": 927.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 112.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "902947",
+    "complemento": "TITULO DE CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "902947",
+    "complemento": "TITULO DE CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "902947",
+    "complemento": "TITULO DE CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "902947",
+    "complemento": "TITULO DE CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "902947",
+    "complemento": "TITULO DE CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "6106056",
+    "complemento": "RECEBIMENTO TED D REMET.SERG C A E LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "7983359",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 6747.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "5643394",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 6747.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "7367112",
+    "complemento": "VENDA CARTAO DE CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 103.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 290.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "854",
+    "complemento": "PAGTO ELETRON COBRANCA BRADESCO DENTAL",
+    "credito": true,
+    "debito": false,
+    "valor": 116.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "3990016",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 278.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "1389562",
+    "complemento": "TED-TRANSF ELET DISPON REMET.SERVICO DE APOIO AS",
+    "credito": false,
+    "debito": true,
+    "valor": 4400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "7367112",
+    "complemento": "CIELO VDA CREDITO ELO CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 86.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "1025431",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 4486.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "3643983",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2347.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "7983359",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2959.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "8550250",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 93.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "855",
+    "complemento": "PAGTO ELETRON COBRANCA 575159",
+    "credito": true,
+    "debito": false,
+    "valor": 3153.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "2947688",
+    "complemento": "TRANSF CC PARA CC PJ SERGIO EMILIO VICENTE FERR",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "5977852",
+    "complemento": "CONTA DE LUZ INTERNET --CELPE/PE",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "7367112",
+    "complemento": "CIELO VDA CREDITO MASTER CIELO SA",
+    "credito": false,
+    "debito": true,
+    "valor": 188.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "2200514",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 188.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "7983359",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 958.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "9990030",
+    "complemento": "OPERACAO CAPITAL GIRO CONTR PARC 014467931 019/030",
+    "credito": true,
+    "debito": false,
+    "valor": 958.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "1025431",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 126.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2023",
+    "documento": "7983359",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 2012.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "60223",
+    "complemento": "RESG AUTOMATICO INVESTIM",
+    "credito": false,
+    "debito": true,
+    "valor": 3568.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "860",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO CORPORATIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 1630.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "9990037",
+    "complemento": "OPERACAO CAPITAL GIRO CONTR 014940688 PARC 013/042",
+    "credito": true,
+    "debito": false,
+    "valor": 938.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2023",
+    "documento": "2947383",
+    "complemento": "TRANSF CC PARA CC PJ SERGIO EMILIO VICENTE FERR",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "10223",
+    "complemento": "TARIFA BANCARIA MANUT CARTAO DEBITO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2023",
+    "documento": "5950000",
+    "complemento": "PAGTO ELETRONICO TRIBUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 680.77,
+    "origem": "Extrato"
+  }
+]

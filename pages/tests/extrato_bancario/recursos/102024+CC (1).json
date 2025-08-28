@@ -1,0 +1,1559 @@
+[
+  {
+    "data": "04/10/2024",
+    "documento": "040958",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "041003",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 523.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "041107",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "041150",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 988.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "041633",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "050954",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1409.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "051349",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "070814",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "071152",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1304.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "071710",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1073.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "071738",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1312.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "071802",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "081039",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "082247",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1718.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "082247",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "082309",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "082309",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 13.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "090905",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1345.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "090905",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "091244",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "091244",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "101307",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1592.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "101307",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "111106",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "111233",
+    "complemento": "CRE PIX CH",
+    "credito": false,
+    "debito": true,
+    "valor": 1266.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "111233",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "132202",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "132202",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "141458",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "141458",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "000000",
+    "complemento": "APLIC FUND",
+    "credito": true,
+    "debito": false,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "160814",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "160814",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "160823",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "160823",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 3.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "171019",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "171019",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "211721",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 4159.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "211723",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 187.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "211725",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 2495.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "211727",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 863.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "212044",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1197.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "212044",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 10.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "000000",
+    "complemento": "RESG AUT",
+    "credito": false,
+    "debito": true,
+    "valor": 3180.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "241942",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 178.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "241942",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "202409",
+    "complemento": "DB T CESTA",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "000000",
+    "complemento": "RESG FUNDO",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "011457",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 985.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "011457",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "011602",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1718.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "011602",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "031829",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 4990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "031829",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "032131",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "032131",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "040917",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "040917",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "041018",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1065.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "041033",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "041411",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "041411",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "050926",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 4990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "050926",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "051655",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "051655",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071056",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 4990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071056",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071418",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1392.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071418",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071613",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071613",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 10.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "000000",
+    "complemento": "APLIC FUND",
+    "credito": true,
+    "debito": false,
+    "valor": 21400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071713",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1312.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071713",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071930",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1261.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "071930",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "072339",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1451.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "072339",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "081813",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "081813",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "101432",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "101432",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 13.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "111522",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1592.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "111522",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "111523",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "111536",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1695.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "111536",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "112236",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "112236",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131111",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131111",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131348",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1690.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131348",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131745",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "131745",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "140921",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1368.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "140921",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "141129",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "141129",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "211720",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1523.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "211720",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 13.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "220953",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 213.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "220956",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 983.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "202410",
+    "complemento": "DB T CESTA",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "231839",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1196.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "231839",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 10.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "271140",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "031119",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 928.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "031119",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "031239",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2024",
+    "documento": "031239",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "050751",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "050751",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "051409",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "051409",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "051427",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "051427",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 10.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061033",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1156.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061122",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061122",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061226",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1707.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061226",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061308",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 985.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061308",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061348",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1388.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061348",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061737",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1312.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061737",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061944",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "061944",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "062006",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2024",
+    "documento": "062006",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "070908",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1072.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "071922",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "071922",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "081000",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1261.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "081000",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "090824",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1604.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "090824",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091307",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091307",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091901",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091901",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 15.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091931",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091945",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1188.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "091945",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 10.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "092008",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1592.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "092008",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "101745",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "101745",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "102041",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1254.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "102041",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "111837",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 2390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "111837",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 21.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "111953",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1309.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "111953",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 11.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "121453",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 225.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2024",
+    "documento": "121455",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 1042.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "132337",
+    "complemento": "CRED PIX I",
+    "credito": false,
+    "debito": true,
+    "valor": 1450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2024",
+    "documento": "132337",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 12.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "161940",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "171720",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "171720",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "180927",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1679.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "180927",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "181400",
+    "complemento": "CR PIX CHA",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": "181400",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "202411",
+    "complemento": "DB T CESTA",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "000000",
+    "complemento": "APLIC FUND",
+    "credito": true,
+    "debito": false,
+    "valor": 37179.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "261829",
+    "complemento": "ENV PIX CH",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "261829",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": "000000",
+    "complemento": "RESG AUT",
+    "credito": false,
+    "debito": true,
+    "valor": 5008.5,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,6167 @@
+[
+  {
+    "data": "03/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 58246.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3345.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "01010040003",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 5459.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 29.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "34098.580",
+    "complemento": "CREDITO TED - BMA INTER FUNDO DE INVESTIMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 69534.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "11526.825",
+    "complemento": "CREDITO TED - CIA BEAL DE ALIMENTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3081.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10141.990",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 205.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.045",
+    "complemento": "PG.P/INTERNET - SCHREIBER LOGISTICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 974.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10141.975",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 74.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.019",
+    "complemento": "PG.P/INTERNET - POSTO AGRICOPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 543.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.033",
+    "complemento": "PG.P/INTERNET - INTEGRADA TREINAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.042",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 893.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.006",
+    "complemento": "PG.P/INTERNET - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.013",
+    "complemento": "PG.P/INTERNET - SAMRELLO INSTRUMENTACAO INDUST",
+    "credito": true,
+    "debito": false,
+    "valor": 446.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.025",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3613.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.967",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1775.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.009",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 3268.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.954",
+    "complemento": "PG.P/INTERNET - ISENSEE POLIMEROS DO BRASIL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 1644.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.959",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1752.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.986",
+    "complemento": "PG.P/INTERNET - ROSSINI DO BRASIL IND E COM P.",
+    "credito": true,
+    "debito": false,
+    "valor": 2342.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.990",
+    "complemento": "PG.P/INTERNET - STARS FUNDO INVEST DIREI CREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 2568.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.997",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2860.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.017",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3404.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.947",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1059.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10142.973",
+    "complemento": "PG.P/INTERNET - TEDE TRANSPORTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2049.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.523",
+    "complemento": "PG.P/INTERNET - SB CREDITO FUNDO",
+    "credito": true,
+    "debito": false,
+    "valor": 29163.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.474",
+    "complemento": "PG.P/INTERNET - MAIS POLIMEROS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5640.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.487",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 7617.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.497",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8946.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.503",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8946.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.451",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 4395.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.511",
+    "complemento": "PG.P/INTERNET - PALADAR CULINARIA INDUSTRIAL E",
+    "credito": true,
+    "debito": false,
+    "valor": 9934.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.518",
+    "complemento": "PG.P/INTERNET - SCHWANKE INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 20738.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.507",
+    "complemento": "PG.P/INTERNET - LOGOMAR COMERCIO IMPORTACAO E",
+    "credito": true,
+    "debito": false,
+    "valor": 9156.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10143.516",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10152.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "212.570.6",
+    "complemento": "TR.INTERNET - ANDREA IMTHURN KAUDER",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "10146.123",
+    "complemento": "PG.P/INTERNET - EMPRESA DE TRANSPORTE COL VOLK",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "260999.873",
+    "complemento": "DEBITO PIX - BRASILPACK",
+    "credito": true,
+    "debito": false,
+    "valor": 24.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 90917.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 11935.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 44.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.477",
+    "complemento": "PG.P/INTERNET - CJS AUTOMACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.483",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 525.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.494",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 748.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.471",
+    "complemento": "PG.P/INTERNET - ELETRICA ZATA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 164.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.484",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 640.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.466",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 21.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.492",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 735.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.481",
+    "complemento": "PG.P/INTERNET - PAPELARIA CLASSIC",
+    "credito": true,
+    "debito": false,
+    "valor": 179.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.644",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1961.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.649",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3076.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.657",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3081.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.639",
+    "complemento": "PG.P/INTERNET - THOMPEL DISTRIBUIDORA DE PAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 1021.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.664",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 72113.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.642",
+    "complemento": "PG.P/INTERNET - JS TUBOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1040.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "10062.662",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3918.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "261426.445",
+    "complemento": "DEBITO PIX - INSETIMAX INDUSTRIA QUIMICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 746.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "261427.921",
+    "complemento": "DEBITO PIX - MATHISA EMBALAGENS",
+    "credito": true,
+    "debito": false,
+    "valor": 1143.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "261499.447",
+    "complemento": "CREDITO PIX - Casare Industria E Comercio De",
+    "credito": false,
+    "debito": true,
+    "valor": 252.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 80131.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 47.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.061",
+    "complemento": "PG.P/INTERNET - AMORIM VEDACOES IND LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.084",
+    "complemento": "PG.P/INTERNET - POSTO IRMAOS SMIDERLE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 874.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.047",
+    "complemento": "PG.P/INTERNET - POSTO ONGARATO",
+    "credito": true,
+    "debito": false,
+    "valor": 562.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.056",
+    "complemento": "PG.P/INTERNET - POSTO 4 IRMAOS JL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 635.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.072",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 831.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.095",
+    "complemento": "PG.P/INTERNET - ECOLAB QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 929.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.407",
+    "complemento": "PG.P/INTERNET - MASSAS D.ITALIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2182.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.416",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2693.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.366",
+    "complemento": "PG.P/INTERNET - ORO E CIA LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 1163.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.396",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1280.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.409",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2423.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.425",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2869.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.764",
+    "complemento": "PG.P/INTERNET - ELETRICA ZATA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4348.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.781",
+    "complemento": "PG.P/INTERNET - CCF TECNOLOGIA EM PROCESSAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.401",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1951.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.410",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2524.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.406",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.411",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2548.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.768",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4824.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.773",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 5054.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.789",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 9114.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.759",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 4118.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.779",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5266.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10075.785",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6037.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10076.106",
+    "complemento": "PG.P/INTERNET - FENIX",
+    "credito": true,
+    "debito": false,
+    "valor": 3585.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10076.119",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3040.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10076.136",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3294.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10076.684",
+    "complemento": "PG.P/INTERNET - LOGOMAR COMERCIO IMPORTACAO E",
+    "credito": true,
+    "debito": false,
+    "valor": 31820.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10076.686",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND E COM DE EMBALAG",
+    "credito": true,
+    "debito": false,
+    "valor": 10569.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "17491.910",
+    "complemento": "CREDITO TED - LAMITEC INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "10081.584",
+    "complemento": "PG.P/INTERNET - KABUM COMERCIO ELETRONICO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 308.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 28017.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3575.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 23.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "33701.826",
+    "complemento": "CREDITO TED - OPERA FIDC MULTISETORIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 98793.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "262524.533",
+    "complemento": "CREDITO PIX - GBD SECURITIZADORA DE CREDITOS SA",
+    "credito": false,
+    "debito": true,
+    "valor": 59587.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.758",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 661.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.774",
+    "complemento": "PG.P/INTERNET - OPERA FUNDO DE INVESTIMENTOS E",
+    "credito": true,
+    "debito": false,
+    "valor": 721.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.786",
+    "complemento": "PG.P/INTERNET - CHIMAS INDUSTRIA E COMERCIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 949.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.732",
+    "complemento": "PG.P/INTERNET - TRANSPORTADORA OCIANI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 243.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.742",
+    "complemento": "PG.P/INTERNET - POSTO O CARRETAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 261.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.751",
+    "complemento": "PG.P/INTERNET - AUTO POSTO TULIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 641.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.765",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 705.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.144",
+    "complemento": "PG.P/INTERNET - AUTO POSTO LIGIER LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1186.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.230",
+    "complemento": "PG.P/INTERNET - GDM INDUSTRIA E COMERCIO DE PL",
+    "credito": true,
+    "debito": false,
+    "valor": 3839.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10114.784",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.162",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.222",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3492.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.187",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 1358.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.208",
+    "complemento": "PG.P/INTERNET - TRANS SD TRANSPORTES RODOVIARI",
+    "credito": true,
+    "debito": false,
+    "valor": 2325.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.212",
+    "complemento": "PG.P/INTERNET - LC EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.742",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4323.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.769",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4808.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.774",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4825.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.242",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3964.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.722",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4103.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.752",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 4346.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.779",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5379.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.760",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4376.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.794",
+    "complemento": "PG.P/INTERNET - EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 5772.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.800",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7605.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.810",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9495.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.818",
+    "complemento": "PG.P/INTERNET - COIM BRASIL LTDA BANCO JP MORG",
+    "credito": true,
+    "debito": false,
+    "valor": 11749.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "10115.786",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5653.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "1164.616.0",
+    "complemento": "TR.INTERNET - VICENTE HENRIQUE DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1001.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "262653.721",
+    "complemento": "DEBITO PIX - SOLANGE PEDRO",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "03024166699",
+    "complemento": "DEPOSITO BLOQ. APP (07/07/2023)",
+    "credito": false,
+    "debito": true,
+    "valor": 8215.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 25321.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "263235.776",
+    "complemento": "CREDITO PIX - LIBRA FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 109565.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.804",
+    "complemento": "PG.P/INTERNET - CORSUL COMERCIO E REPRESENTACO",
+    "credito": true,
+    "debito": false,
+    "valor": 429.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.818",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 619.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.839",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1278.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.872",
+    "complemento": "PG.P/INTERNET - PREMIUM RELIANCE C I P P EMBA",
+    "credito": true,
+    "debito": false,
+    "valor": 2738.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.909",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1641.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.851",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2306.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.893",
+    "complemento": "PG.P/INTERNET - LIMER CART IND COM DE EMB LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2816.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.829",
+    "complemento": "PG.P/INTERNET - GOMATECH MAQUINAS HIDRAULICAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1263.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.861",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2505.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10086.899",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 2818.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.322",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5342.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.329",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6743.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.305",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3369.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.337",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 70661.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.291",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3025.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.312",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4522.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10087.333",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 70661.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "263415.913",
+    "complemento": "DEBITO PIX - ELETRICA ZATA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 36.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "263423.501",
+    "complemento": "DEBITO PIX - ALMEIDA ATACADO LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 4924.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10091.724",
+    "complemento": "PG.P/INTERNET - FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 24358.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "980.670.9",
+    "complemento": "TR.INTERNET - HERMES JOSE FREIBERGER",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "263530.254",
+    "complemento": "CREDITO PIX - ZK INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 5459.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "966.0",
+    "complemento": "CR.TRF.INTERC -  GRUBER INDUSTRIAL DE INJETADOS",
+    "credito": false,
+    "debito": true,
+    "valor": 5336.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "10165.615",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 322.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 32.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "13.904",
+    "complemento": "DEV.CH.DEP.12",
+    "credito": true,
+    "debito": false,
+    "valor": 8215.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 64276.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 21583.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "00708195914",
+    "complemento": "CARTAO DEBITO - DOCE DE LEITE CAFEBC",
+    "credito": true,
+    "debito": false,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "30708203434",
+    "complemento": "CARTAO DEBITO - ZARA BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 3.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 29.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "",
+    "complemento": "TARIFA EXCLUSAO PROT.",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "20220982624",
+    "complemento": "DB.LIBERTY SE",
+    "credito": true,
+    "debito": false,
+    "valor": 283.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "33969.805",
+    "complemento": "CREDITO TED - IB SIGMA FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 43038.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "25282.194",
+    "complemento": "CREDITO TED - CIA BEAL DE ALIMENTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3081.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "25759.721",
+    "complemento": "CREDITO TED - EUROTEC INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "212.570.6",
+    "complemento": "TR.INTERNET - ANDREA IMTHURN KAUDER",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.030",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.064",
+    "complemento": "PG.P/INTERNET - CHIMAS INDUSTRIA E COMERCIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 712.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.041",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 205.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10289.984",
+    "complemento": "PG.P/INTERNET - S T I QUIM PLAST POM BLU GASP",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10289.999",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 37.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.022",
+    "complemento": "PG.P/INTERNET - AGROPECUARIA LINK",
+    "credito": true,
+    "debito": false,
+    "valor": 67.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.052",
+    "complemento": "PG.P/INTERNET - CDR CLINICA DA INFORMATICA EIR",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10290.076",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 728.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10291.951",
+    "complemento": "PG.P/INTERNET - ISENSEE POLIMEROS DO BRASIL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 1644.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10292.023",
+    "complemento": "PG.P/INTERNET - SERVICE SERVICOS DE LIMPEZA",
+    "credito": true,
+    "debito": false,
+    "valor": 2689.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10291.976",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1015.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10291.985",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1752.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10291.999",
+    "complemento": "PG.P/INTERNET - CLINIPAM CLINICA PARANAENSE AS",
+    "credito": true,
+    "debito": false,
+    "valor": 2239.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10292.006",
+    "complemento": "PG.P/INTERNET - ROSSINI DO BRASIL IND E COM P.",
+    "credito": true,
+    "debito": false,
+    "valor": 2342.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10292.031",
+    "complemento": "PG.P/INTERNET - FERNANDA BOMSENHOR ROSA",
+    "credito": true,
+    "debito": false,
+    "valor": 2470.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10292.036",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2860.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.720",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3404.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.777",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 5334.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.815",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 7617.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.697",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 3268.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.731",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3613.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.746",
+    "complemento": "PG.P/INTERNET - FARMALAN COMERCIO DE PRODUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3803.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.831",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8286.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10293.759",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 4395.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10295.758",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11626.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10295.750",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10152.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10295.764",
+    "complemento": "PG.P/INTERNET - PROJEDATA INFORMATICA",
+    "credito": true,
+    "debito": false,
+    "valor": 19553.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10295.732",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8946.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10298.510",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1775.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10298.479",
+    "complemento": "PG.P/INTERNET - MOMENTO ENGENHARIA AMBIENTAL S",
+    "credito": true,
+    "debito": false,
+    "valor": 2547.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "10298.500",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 893.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "265060.438",
+    "complemento": "DEBITO PIX - MARQUETTI ADVOCACIA",
+    "credito": true,
+    "debito": false,
+    "valor": 13334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "265062.126",
+    "complemento": "DEBITO PIX - LAMITEC INDUSTRIA E COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "01010040003",
+    "complemento": "CUSTA/DESP.CARTORARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 682.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 65152.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 336.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "265511.761",
+    "complemento": "CREDITO PIX - LIBRA FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 56457.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 35.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.406",
+    "complemento": "PG.P/INTERNET - DALLA DUE COM E AUTOM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 234.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.413",
+    "complemento": "PG.P/INTERNET - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.429",
+    "complemento": "PG.P/INTERNET - SAGATOR COMERCIO DE GAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.436",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 735.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.386",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 122.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.396",
+    "complemento": "PG.P/INTERNET - PAPELARIA CLASSIC",
+    "credito": true,
+    "debito": false,
+    "valor": 228.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.411",
+    "complemento": "PG.P/INTERNET - THOMPEL DISTRIBUIDORA DE PAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 344.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.444",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 748.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.788",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3081.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.825",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5449.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.442",
+    "complemento": "PG.P/INTERNET - FENIX",
+    "credito": true,
+    "debito": false,
+    "valor": 740.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.750",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1306.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.759",
+    "complemento": "PG.P/INTERNET - JS TUBOS DE PVC LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 1734.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.780",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3076.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.797",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3918.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.835",
+    "complemento": "PG.P/INTERNET - BANCO COOPERATIVO SICOOB SA",
+    "credito": true,
+    "debito": false,
+    "valor": 19710.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.737",
+    "complemento": "PG.P/INTERNET - PACKING 12 INDUSTRIA DE EMBALA",
+    "credito": true,
+    "debito": false,
+    "valor": 1227.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.771",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1961.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.806",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 4056.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.816",
+    "complemento": "PG.P/INTERNET - PX INDUSTRIA E COMERCIO DE MAQ",
+    "credito": true,
+    "debito": false,
+    "valor": 5400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "10074.839",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 74298.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "847.837.6",
+    "complemento": "TR.INTERNET - ANA MARILDA NOVACOSKI NUNES",
+    "credito": true,
+    "debito": false,
+    "valor": 297.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "265607.831",
+    "complemento": "DEBITO PIX - THIAGO VARELA DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "847.837.6",
+    "complemento": "TR.INTERNET - ANA MARILDA NOVACOSKI NUNES",
+    "credito": true,
+    "debito": false,
+    "valor": 263.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 51377.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 23932.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 41.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.614",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1280.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.642",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.658",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2423.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.603",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 831.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.621",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1313.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.663",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2524.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.635",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1951.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.651",
+    "complemento": "PG.P/INTERNET - JSD QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.666",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2548.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.667",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2869.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.951",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 5054.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.957",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5266.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.967",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 9114.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.928",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3040.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.945",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4485.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.961",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6037.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.963",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 6349.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.935",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3294.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.941",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 4118.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10060.971",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND E COM DE EMBALAG",
+    "credito": true,
+    "debito": false,
+    "valor": 10569.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10061.097",
+    "complemento": "PG.P/INTERNET - TORNEARIA MUELLER",
+    "credito": true,
+    "debito": false,
+    "valor": 866.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "266120.553",
+    "complemento": "DEBITO PIX - PAPELARIA CLASSIC LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 26.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "10061.633",
+    "complemento": "PG.P/INTERNET - GERMANIA DESPACHANTE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 26599.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3575.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 29.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "33466.863",
+    "complemento": "CREDITO TED - BMA FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 92495.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.398",
+    "complemento": "PG.P/INTERNET - S T I QUIM PLAST POM BLU GASP",
+    "credito": true,
+    "debito": false,
+    "valor": 931.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.414",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 1360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.382",
+    "complemento": "PG.P/INTERNET - FENIX",
+    "credito": true,
+    "debito": false,
+    "valor": 557.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.390",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.394",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.380",
+    "complemento": "PG.P/INTERNET - STEEL SERV COM IMP E EXP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 324.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.370",
+    "complemento": "PG.P/INTERNET - POUSADA LIEBE ALPINE",
+    "credito": true,
+    "debito": false,
+    "valor": 197.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.376",
+    "complemento": "PG.P/INTERNET - OPERA FUNDO DE INVESTIMENTOS E",
+    "credito": true,
+    "debito": false,
+    "valor": 211.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.387",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 705.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.400",
+    "complemento": "PG.P/INTERNET - MARCELO LOURENCE 03791232908",
+    "credito": true,
+    "debito": false,
+    "valor": 955.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.409",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10056.416",
+    "complemento": "PG.P/INTERNET - TRANSPORTADORA OCIANI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1474.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.209",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 2046.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.233",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3492.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.239",
+    "complemento": "PG.P/INTERNET - GDM INDUSTRIA E COMERCIO DE PL",
+    "credito": true,
+    "debito": false,
+    "valor": 3839.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.243",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3964.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.246",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4103.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.268",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4814.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.225",
+    "complemento": "PG.P/INTERNET - LC EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.249",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 4346.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.271",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4825.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.253",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4376.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.259",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4342.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.266",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4808.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.563",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5653.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.576",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7215.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.577",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7605.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.585",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9240.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.572",
+    "complemento": "PG.P/INTERNET - TRANS SD TRANSPORTES RODOVIARI",
+    "credito": true,
+    "debito": false,
+    "valor": 5960.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.582",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8372.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.589",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9495.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "10057.601",
+    "complemento": "PG.P/INTERNET - EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 10158.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "266606.697",
+    "complemento": "CREDITO PIX - Casare Industria E Comercio De",
+    "credito": false,
+    "debito": true,
+    "valor": 506.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "07612168523",
+    "complemento": "DEPOSITO BLOQ. APP (14/07/2023)",
+    "credito": false,
+    "debito": true,
+    "valor": 8215.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 35063.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3312.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 23.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "266906.422",
+    "complemento": "DEBITO PIX - Jose De Andrade",
+    "credito": true,
+    "debito": false,
+    "valor": 4128.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "33552.537",
+    "complemento": "CREDITO TED - OPERA FIDC MULTISETORIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 180929.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "32271.080",
+    "complemento": "CREDITO TED - R SANDER INDUSTRIA DE ALIMENTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 19990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "267063.212",
+    "complemento": "DEBITO PIX COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 228.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10066.391",
+    "complemento": "PG.P/INTERNET - FUNDO DA JUSTICA DO PODER JUDI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.599",
+    "complemento": "PG.P/INTERNET - TECNORT METALURGICA",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.643",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2306.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.646",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2505.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.653",
+    "complemento": "PG.P/INTERNET - PREMIUM RELIANCE C I P P EMBA",
+    "credito": true,
+    "debito": false,
+    "valor": 2738.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.628",
+    "complemento": "PG.P/INTERNET - AUTO POSTO LIGIER LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1813.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.657",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 2818.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10067.616",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1641.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.190",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3369.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.206",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3973.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.235",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9495.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.237",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 70661.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.184",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3025.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.232",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 7678.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.218",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4185.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.227",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5342.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.242",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 70661.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10068.997",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1278.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "10069.601",
+    "complemento": "PG.P/INTERNET - BRADESCO SEGUROS - SEGURO AUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 5036.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "267083.396",
+    "complemento": "DEBITO PIX - LAMITEC INDUSTRIA E COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "267105.278",
+    "complemento": "CREDITO PIX - ZK INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 11738.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "13.905",
+    "complemento": "DEV.CH.DEP.21",
+    "credito": true,
+    "debito": false,
+    "valor": 8215.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 61350.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 7.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 3.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 32.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "33890.072",
+    "complemento": "CREDITO TED - BMA INTER FUNDO DE INVESTIMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 71135.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268164.029",
+    "complemento": "DEBITO PIX - INVESTSOLO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268164.029",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268165.010",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268165.010",
+    "complemento": "DEBITO PIX - ANDREA IMTHURN KAUDER",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268177.818",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268177.119",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268177.119",
+    "complemento": "DEBITO PIX - DOUGLAS MICHAEL GOIS",
+    "credito": true,
+    "debito": false,
+    "valor": 4853.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268178.428",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268177.818",
+    "complemento": "DEBITO PIX - MARCOS DE OLIVEIRA SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6590.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268178.428",
+    "complemento": "DEBITO PIX - ALEXANDRO FERNANDO DRESCH",
+    "credito": true,
+    "debito": false,
+    "valor": 21056.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268180.299",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268180.299",
+    "complemento": "DEBITO PIX - Renan Cardoso da Rosa",
+    "credito": true,
+    "debito": false,
+    "valor": 13386.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268181.038",
+    "complemento": "DEBITO PIX - GRAZZIOTIN REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 3938.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268181.038",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268182.002",
+    "complemento": "DEBITO PIX - VALMOR KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 8426.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268182.002",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268182.415",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268182.415",
+    "complemento": "DEBITO PIX - Paulo Hiroshi Hasegawa",
+    "credito": true,
+    "debito": false,
+    "valor": 1024.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268183.858",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268183.351",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268183.351",
+    "complemento": "DEBITO PIX - UNIFLEX COMERCIO DE EMBALAGENS",
+    "credito": true,
+    "debito": false,
+    "valor": 318.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268186.046",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268183.858",
+    "complemento": "DEBITO PIX - ELISANDRO FOCHESATO",
+    "credito": true,
+    "debito": false,
+    "valor": 351.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268184.645",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268184.645",
+    "complemento": "DEBITO PIX - JOSE CARLOS DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 3192.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268185.369",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268185.369",
+    "complemento": "DEBITO PIX - Deivide Santos Da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 494.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268186.046",
+    "complemento": "DEBITO PIX - PAULO LEMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5539.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268186.865",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268186.865",
+    "complemento": "DEBITO PIX - RUBENS LUIZ DOS SANTOS PAIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1237.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268188.137",
+    "complemento": "DEBITO PIX - RICARDO DA ROSA BARCELOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1218.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268187.549",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268187.549",
+    "complemento": "DEBITO PIX - ROSIMAR GOLIN",
+    "credito": true,
+    "debito": false,
+    "valor": 596.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268188.137",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10162.429",
+    "complemento": "PG.P/INTERNET - tim",
+    "credito": true,
+    "debito": false,
+    "valor": 953.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.411",
+    "complemento": "PG.P/INTERNET - HDI GLOBAL SEGUROS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 450.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.422",
+    "complemento": "PG.P/INTERNET - POSTO DE ABASTECIMENTO SAMUARA",
+    "credito": true,
+    "debito": false,
+    "valor": 766.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.430",
+    "complemento": "PG.P/INTERNET - CDL DE POMERODE",
+    "credito": true,
+    "debito": false,
+    "valor": 1819.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.446",
+    "complemento": "PG.P/INTERNET - JOCA COM DE MAT DE CONSTRUCAO",
+    "credito": true,
+    "debito": false,
+    "valor": 727.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.451",
+    "complemento": "PG.P/INTERNET - HIDRA E BANHO LOUCAS E METAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 1159.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.460",
+    "complemento": "PG.P/INTERNET - POSTO AGRICOPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 260.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.418",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E PREVIDENCIA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1217.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.398",
+    "complemento": "PG.P/INTERNET - HDI GLOBAL SEGUROS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 696.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.424",
+    "complemento": "PG.P/INTERNET - UNIFIQUE TELECOMUNICACOES S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 619.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10163.438",
+    "complemento": "PG.P/INTERNET - ACIP POMERODE",
+    "credito": true,
+    "debito": false,
+    "valor": 318.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.471",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10152.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.508",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 728.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.483",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2860.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.499",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1752.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.536",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND E COM DE EMBALAG",
+    "credito": true,
+    "debito": false,
+    "valor": 23793.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.544",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1015.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.547",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 5334.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.588",
+    "complemento": "PG.P/INTERNET - MIRA OTM TRANSPORTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1748.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.488",
+    "complemento": "PG.P/INTERNET - STARS SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 3268.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.501",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 205.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.576",
+    "complemento": "PG.P/INTERNET - DISK TENHA EXPRESS LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.555",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1775.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.558",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8946.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.569",
+    "complemento": "PG.P/INTERNET - SCHREIBER LOGISTICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 332.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.572",
+    "complemento": "PG.P/INTERNET - TEDE TRANSPORTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1158.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.582",
+    "complemento": "PG.P/INTERNET - LAZA PLASTICO",
+    "credito": true,
+    "debito": false,
+    "valor": 663.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10164.596",
+    "complemento": "PG.P/INTERNET - EXPRESSO LEOMAR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 285.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "10165.072",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 893.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268210.477",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268210.477",
+    "complemento": "DEBITO PIX - OLAVO DE OLIVEIRA ARRAIS JR",
+    "credito": true,
+    "debito": false,
+    "valor": 167.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268305.730",
+    "complemento": "DEBITO PIX - LAMITEC INDUSTRIA E COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "268305.730",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 162134.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 62.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "268529.305",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "268529.305",
+    "complemento": "DEBITO PIX - LAMITEC INDUSTRIA E COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.372",
+    "complemento": "PG.P/INTERNET - FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 53.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.377",
+    "complemento": "PG.P/INTERNET - FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 80.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.874",
+    "complemento": "PG.P/INTERNET - JS TUBOS DE PVC LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 1734.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.895",
+    "complemento": "PG.P/INTERNET - ALFA TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 167.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.901",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 280.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.920",
+    "complemento": "PG.P/INTERNET - PALADAR CULINARIA INDUSTRIAL E",
+    "credito": true,
+    "debito": false,
+    "valor": 9459.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.864",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 748.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.871",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5449.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.878",
+    "complemento": "PG.P/INTERNET - JS TUBOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1684.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.887",
+    "complemento": "PG.P/INTERNET - GOLDEN FIX S DE FIXACAO EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1886.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.848",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3076.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.868",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3081.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.888",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1306.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "77617.598",
+    "complemento": "DEB. TED - INDUSTRIA QUIMICA DIPIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 128.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "77617.598",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.861",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3918.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "10038.886",
+    "complemento": "PG.P/INTERNET - REWEFLON COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1037.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 89194.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 62.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "268953.171",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "268953.171",
+    "complemento": "DEBITO PIX - RNX FUNDO DE INVEST EM DIR CRED",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "268960.773",
+    "complemento": "CREDITO PIX - FIDUCIA GESTAO FINANCEIRA LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 4514.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.797",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3040.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.822",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4485.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.856",
+    "complemento": "PG.P/INTERNET - SAINT MARTIN SECURITIZADORA SA",
+    "credito": true,
+    "debito": false,
+    "valor": 481.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.805",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2524.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.820",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 6348.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.824",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1951.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.843",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8328.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.845",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4586.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.848",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1313.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.858",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 526.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.860",
+    "complemento": "PG.P/INTERNET - POSTO 4 IRMAOS JL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 667.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.864",
+    "complemento": "PG.P/INTERNET - POSTO ONGARATO",
+    "credito": true,
+    "debito": false,
+    "valor": 615.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.788",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5266.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.793",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6037.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.800",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 831.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.815",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.827",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 4118.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.850",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 565.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "10044.861",
+    "complemento": "PG.P/INTERNET - POSTO IRMAOS SMIDERLE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1085.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 5617.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 71489.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 29.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "77624.712",
+    "complemento": "DEB. TED - LIBRA FUNDO DE INVESTIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 478.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "77624.712",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "33813.785",
+    "complemento": "CREDITO TED - OPERA FIDC MULTISETORIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 170145.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.398",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 11.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.380",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 450.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.373",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 30709.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.400",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 51.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.371",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 96632.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.383",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 11450.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.386",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 145.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.388",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 122.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10067.561",
+    "complemento": "PG.P/INTERNET - ICMS",
+    "credito": true,
+    "debito": false,
+    "valor": 255674.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.422",
+    "complemento": "PG.P/INTERNET - TRANSPORTADORA OCIANI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 996.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.440",
+    "complemento": "PG.P/INTERNET - CDR CLINICA DA INFORMATICA EIR",
+    "credito": true,
+    "debito": false,
+    "valor": 2541.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.318",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.329",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.397",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.401",
+    "complemento": "PG.P/INTERNET - DM SYSTEM INFORMATICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.332",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4814.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.343",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.349",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1252.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.362",
+    "complemento": "PG.P/INTERNET - ISENSEE POLIMEROS DO BRASIL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 3908.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.367",
+    "complemento": "PG.P/INTERNET - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.380",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.337",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5669.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.391",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 345.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.399",
+    "complemento": "PG.P/INTERNET - ELETRICA ZATA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 424.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.458",
+    "complemento": "PG.P/INTERNET - AUTO POSTO TULIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2151.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.432",
+    "complemento": "PG.P/INTERNET - COMERCIO DE PARAFUSOS E FERRAG",
+    "credito": true,
+    "debito": false,
+    "valor": 263.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.447",
+    "complemento": "PG.P/INTERNET - SAGATOR COMERCIO DE GAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.455",
+    "complemento": "PG.P/INTERNET - MARCELO LOURENCE 03791232908",
+    "credito": true,
+    "debito": false,
+    "valor": 955.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "10084.462",
+    "complemento": "PG.P/INTERNET - POSTO O CARRETAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 522.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 39905.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 7082.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "716.733",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 225.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 20.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "77628.793",
+    "complemento": "DEB. TED - SCHULTZ MASSAS ESPECIAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "77628.793",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "33576.897",
+    "complemento": "CREDITO TED - RNX FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 174154.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.586",
+    "complemento": "PG.P/INTERNET - PREMIUM RELIANCE C I P P EMBA",
+    "credito": true,
+    "debito": false,
+    "valor": 2738.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.610",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9495.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.696",
+    "complemento": "PG.P/INTERNET - INFOTEL SOLUCOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1176.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.573",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 7678.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.592",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3369.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.628",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3973.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.639",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2128.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.642",
+    "complemento": "PG.P/INTERNET - DACOLONIA ALIM NATURAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3867.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.647",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2306.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.651",
+    "complemento": "PG.P/INTERNET - KNOPF COMERCIO E TRANSPORTES L",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.710",
+    "complemento": "PG.P/INTERNET - CLARI DE FATIMA OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.614",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1641.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.616",
+    "complemento": "PG.P/INTERNET - ROLAMENTOS SAO BENTO LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 504.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.645",
+    "complemento": "PG.P/INTERNET - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.661",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3976.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.667",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3170.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.680",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 72802.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.580",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2505.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.619",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4185.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.658",
+    "complemento": "PG.P/INTERNET - CHIMAS INDUSTRIA E COMERCIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 712.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "10036.672",
+    "complemento": "PG.P/INTERNET - BRASKEM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 72802.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "270136.266",
+    "complemento": "CREDITO PIX - ZK INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 4676.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 27029.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 29.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "270881.242",
+    "complemento": "CREDITO PIX - BELLUNO INSTITUICAO DE PAGAMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 3468.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "270939.282",
+    "complemento": "CREDITO PIX - BELLUNO INSTITUICAO DE PAGAMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 6668.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "41220.890",
+    "complemento": "CREDITO TED - CIA BEAL DE ALIMENTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 8262.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "212.570.6",
+    "complemento": "TR.INTERNET - ANDREA IMTHURN KAUDER",
+    "credito": true,
+    "debito": false,
+    "valor": 1021.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10097.942",
+    "complemento": "PG.P/INTERNET - SAMAE",
+    "credito": true,
+    "debito": false,
+    "valor": 600.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10098.213",
+    "complemento": "PG.P/INTERNET - DARJ",
+    "credito": true,
+    "debito": false,
+    "valor": 974.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.260",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1752.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.265",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 6763.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.271",
+    "complemento": "PG.P/INTERNET - CHIMAS INDUSTRIA E COMERCIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 712.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.274",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2350.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.329",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 617.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.276",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8946.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.302",
+    "complemento": "PG.P/INTERNET - PACKING 12 INDUSTRIA DE EMBALA",
+    "credito": true,
+    "debito": false,
+    "valor": 277.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.333",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 627.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.254",
+    "complemento": "PG.P/INTERNET - AUTO POSTO LIGIER LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1399.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.323",
+    "complemento": "PG.P/INTERNET - DEIN HAUS",
+    "credito": true,
+    "debito": false,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.285",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2007.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.312",
+    "complemento": "PG.P/INTERNET - SCHREIBER LOGISTICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 217.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "10104.321",
+    "complemento": "PG.P/INTERNET - INTERPAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 569.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 4594.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 47484.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 44.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "33682.503",
+    "complemento": "CREDITO TED - BELLUNO FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 281150.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "77636.311",
+    "complemento": "DEB. TED - EUROTEC IND E COM EMBA PLASTICAS",
+    "credito": true,
+    "debito": false,
+    "valor": 120000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "77636.311",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "271422.984",
+    "complemento": "DEBITO PIX - HNOVA TELEFONIA CORPORATIVA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "271422.159",
+    "complemento": "DEBITO PIX - FCK SOLUCOES EM ESTRUTURAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 39750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "271422.159",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "271422.984",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "1053.669.8",
+    "complemento": "TR.INTERNET - DEMMER ADVOGADOS E ASSOCIADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2925.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10054.428",
+    "complemento": "PG.P/INTERNET - taxa 2via LAO",
+    "credito": true,
+    "debito": false,
+    "valor": 135.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10054.906",
+    "complemento": "PG.P/INTERNET - DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 32050.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.242",
+    "complemento": "PG.P/INTERNET - REWEFLON COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1037.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.277",
+    "complemento": "PG.P/INTERNET - CORSUL COMERCIO E REPRESENTACO",
+    "credito": true,
+    "debito": false,
+    "valor": 822.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.213",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 5449.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.249",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1306.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.279",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 280.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.285",
+    "complemento": "PG.P/INTERNET - KRUEGER COM DE MAT ELTR E HIDR",
+    "credito": true,
+    "debito": false,
+    "valor": 1007.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.219",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 78020.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.220",
+    "complemento": "PG.P/INTERNET - JS TUBOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1684.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.244",
+    "complemento": "PG.P/INTERNET - GOLDEN FIX S DE FIXACAO EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1886.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.260",
+    "complemento": "PG.P/INTERNET - THOMPEL DISTRIBUIDORA DE PAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 534.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.233",
+    "complemento": "PG.P/INTERNET - NOVA PLASTILUX P EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 5236.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.255",
+    "complemento": "PG.P/INTERNET - JS TUBOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2020.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "10055.269",
+    "complemento": "PG.P/INTERNET - SOLEFILMES IMP DISTR E LOGISTI",
+    "credito": true,
+    "debito": false,
+    "valor": 2471.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "1483.943.1",
+    "complemento": "TR.INTERNET - BIZA PARTICIPACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 15608.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "77636.426",
+    "complemento": "DEB. TED - ANDRE RICARDO MANZKE",
+    "credito": true,
+    "debito": false,
+    "valor": 18121.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "77636.426",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "271521.486",
+    "complemento": "CREDITO PIX - ZK INDUSTRIA E COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 5338.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 105425.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 11938.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 74.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.098",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2060.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.109",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1951.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.114",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8255.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.149",
+    "complemento": "PG.P/INTERNET - JSD QUIMICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1636.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.100",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 6348.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.120",
+    "complemento": "PG.P/INTERNET - CRC FILMES FLEXIVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1313.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.128",
+    "complemento": "PG.P/INTERNET - PACKING 12 INDUSTRIA DE EMBALA",
+    "credito": true,
+    "debito": false,
+    "valor": 278.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.160",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 565.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.169",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 526.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.104",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4485.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.134",
+    "complemento": "PG.P/INTERNET - SHARING COMERCIO E SERVICOS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 725.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.155",
+    "complemento": "PG.P/INTERNET - JSD QUIMICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2969.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10031.157",
+    "complemento": "PG.P/INTERNET - VALLE PRODUTOS PARA INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 636.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "10032.016",
+    "complemento": "PG.P/INTERNET - HUBERGROUP BRASIL T G LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4586.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 18730.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 40701.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 11970.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 32.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.204",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5669.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.232",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10298.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.247",
+    "complemento": "PG.P/INTERNET - SM RESINAS BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12468.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.295",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3118.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.310",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 642.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.320",
+    "complemento": "PG.P/INTERNET - COIM BRASIL LTDA BANCO JP MORG",
+    "credito": true,
+    "debito": false,
+    "valor": 11440.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.198",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.226",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.231",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9240.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.238",
+    "complemento": "PG.P/INTERNET - ISENSEE POLIMEROS DO BRASIL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 3908.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.278",
+    "complemento": "PG.P/INTERNET - COIM BRASIL LTDA BANCO JP MORG",
+    "credito": true,
+    "debito": false,
+    "valor": 23498.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.280",
+    "complemento": "PG.P/INTERNET - ATS COLOR DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4189.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.186",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 2046.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.214",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8372.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.230",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 15548.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.235",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1252.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.257",
+    "complemento": "PG.P/INTERNET - TECNOFILME IND COM F ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5521.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.272",
+    "complemento": "PG.P/INTERNET - TUBOS JARAGUA",
+    "credito": true,
+    "debito": false,
+    "valor": 800.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.291",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 486.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.307",
+    "complemento": "PG.P/INTERNET - CLICHERIA BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 415.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.314",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9345.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.328",
+    "complemento": "PG.P/INTERNET - TRANSPORTADORA OCIANI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1493.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.330",
+    "complemento": "PG.P/INTERNET - SAGATOR COMERCIO DE GAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.227",
+    "complemento": "PG.P/INTERNET - COIM BRASIL LTDA BANCO JP MORG",
+    "credito": true,
+    "debito": false,
+    "valor": 11749.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.276",
+    "complemento": "PG.P/INTERNET - REMOX COM PROD QUIMICOS LT EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.287",
+    "complemento": "PG.P/INTERNET - EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 12194.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.304",
+    "complemento": "PG.P/INTERNET - CYAN QUIMICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11454.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.299",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1577.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.305",
+    "complemento": "PG.P/INTERNET - TRANS SD TRANSPORTES RODOVIARI",
+    "credito": true,
+    "debito": false,
+    "valor": 3480.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "10044.308",
+    "complemento": "PG.P/INTERNET - MANUTENCOES INDUSTRIAIS MEPH E",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "272335.765",
+    "complemento": "CREDITO PIX - Andre Nicolau Coelho Neto",
+    "credito": false,
+    "debito": true,
+    "valor": 1527.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 35378.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 18240.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 32.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "272550.077",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "272550.077",
+    "complemento": "DEBITO PIX - EPI SUL DO BRASIL COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 140.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "33788.608",
+    "complemento": "CREDITO TED - BMA INTER FUNDO DE INVESTIMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 43172.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "272622.404",
+    "complemento": "CREDITO PIX - LIBRA FUNDO DE INVESTIMENTO EM",
+    "credito": false,
+    "debito": true,
+    "valor": 30788.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "272689.456",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "272689.456",
+    "complemento": "DEBITO PIX - INSETIMAX INDUSTRIA QUIMICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1539.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.783",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2505.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.801",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 3369.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.809",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3973.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.811",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2128.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.838",
+    "complemento": "PG.P/INTERNET - SCHWANKE INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 430.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.808",
+    "complemento": "PG.P/INTERNET - PAPION FILMES FLEXIVEIS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1641.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.830",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 3170.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.839",
+    "complemento": "PG.P/INTERNET - SUL AR E AGUA EQUIPAMENTOS LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 815.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.842",
+    "complemento": "PG.P/INTERNET - RECAP RENOVADORA CATARINENSE D",
+    "credito": true,
+    "debito": false,
+    "valor": 149.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.817",
+    "complemento": "PG.P/INTERNET - GREENMASTER INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 3976.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.846",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1236.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.795",
+    "complemento": "PG.P/INTERNET - PREMIUM RELIANCE C I P P EMBA",
+    "credito": true,
+    "debito": false,
+    "valor": 2738.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10053.806",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9495.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "10054.243",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 1195.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 49464.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 14.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "49853.301",
+    "complemento": "CREDITO TED - CIA BEAL DE ALIMENTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 6392.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10100.632",
+    "complemento": "PG.P/INTERNET - MERCADOPAGO.COM REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 74.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10100.624",
+    "complemento": "PG.P/INTERNET - PAGAR.ME PAGAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 579.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10100.635",
+    "complemento": "PG.P/INTERNET - GURGELMIX MAQUINAS E FERRAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 219.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "510.271",
+    "complemento": "SAQ. CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9910.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.947",
+    "complemento": "PG.P/INTERNET - POSTO DE ABASTECIMENTO SAMUARA",
+    "credito": true,
+    "debito": false,
+    "valor": 220.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.954",
+    "complemento": "PG.P/INTERNET - POSTO AGRICOPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 286.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.975",
+    "complemento": "PG.P/INTERNET - CHIMAS INDUSTRIA E COMERCIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 712.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.945",
+    "complemento": "PG.P/INTERNET - AUREA INDUSTRIA E COM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 32.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.957",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 617.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.962",
+    "complemento": "PG.P/INTERNET - CS EMBALAGENS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 627.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10123.987",
+    "complemento": "PG.P/INTERNET - GRAFICA E EDITORA 3 DE MAIO LT",
+    "credito": true,
+    "debito": false,
+    "valor": 885.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.798",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2007.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.809",
+    "complemento": "PG.P/INTERNET - SOLEFLEX IMPORTACAO DISTRIBUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 2350.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.817",
+    "complemento": "PG.P/INTERNET - LOGOMAR COM IMPORT E EXPORT LT",
+    "credito": true,
+    "debito": false,
+    "valor": 6104.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.839",
+    "complemento": "PG.P/INTERNET - TSA QUIMICA DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8286.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.841",
+    "complemento": "PG.P/INTERNET - BANCO VOLKSWAGEN S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 9171.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.765",
+    "complemento": "PG.P/INTERNET - ELETRO MECANICA EME",
+    "credito": true,
+    "debito": false,
+    "valor": 1293.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.776",
+    "complemento": "PG.P/INTERNET - DACOLONIA ALIM NATURAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1728.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.845",
+    "complemento": "PG.P/INTERNET - L A FAL B C T C QUALIDADE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9621.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.781",
+    "complemento": "PG.P/INTERNET - AUTO POSTO LIGIER LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1827.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.826",
+    "complemento": "PG.P/INTERNET - NOVA P PLASTICOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 6763.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "10124.849",
+    "complemento": "PG.P/INTERNET - DSPLASTIC IND COM EMB EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 14481.46,
+    "origem": "Extrato"
+  }
+]

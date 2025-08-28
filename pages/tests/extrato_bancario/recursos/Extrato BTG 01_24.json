@@ -1,0 +1,101 @@
+[
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "FEDERAL FUNDS RECEIVED USD999997 BANCO SANTANDER INTE RNATIONAL FDF2401051184300",
+    "credito": false,
+    "debito": true,
+    "valor": 326387.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "FEDERAL FUNDS RECEIVED USD999997 BANCO SANTANDER INTE RNATIONAL FDF2401052272000",
+    "credito": false,
+    "debito": true,
+    "valor": 31.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED G491BN143 INVESCO U.S. DOLLAR LIQUIDITY PORTFOLIO RESERVE CLASS (ACC)(USD) 6154873 NTL7017018 SOLICITED ORDER HLD PERS ALL $",
+    "credito": true,
+    "debito": false,
+    "valor": 53744.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED AXP5624111 AMERICAN EXPRESS CO SUB NT FIXED/FLTG 5.625% 07/28/34 B/E DTD 07/28/23 CLB SOLICITED ORDER VARIABLE RATE",
+    "credito": true,
+    "debito": false,
+    "valor": 63033.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED BAC5354318 BANK AMER CORP 2.551% 02/04/28 B/E DTD 02/04/22 CLB SOLICITED ORDER VARIABLE RATE",
+    "credito": true,
+    "debito": false,
+    "valor": 51596.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED GM5003208 GENERAL MTRS FINL CO INC SR NT 3.600% 06/21/30 B/E DTD 06/22/20 CLB SOLICITED ORDER YLD TO MAT",
+    "credito": true,
+    "debito": false,
+    "valor": 49870.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED GS5377724 GOLDMAN SACHS GROUP INC NT FXD/FLTG 3.615% 03/15/28 B/E DTD 03/15/22 CLB SOLICITED ORDER VARIABLE RATE",
+    "credito": true,
+    "debito": false,
+    "valor": 58174.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": null,
+    "complemento": "PURCHASED G7112M468 PIMCO INCOME FUND CLASS E (ACC)(USD) NTL7017018 HLD PERS ALL $ SOLICITED ORDER",
+    "credito": true,
+    "debito": false,
+    "valor": 50002.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": null,
+    "complemento": "INTEREST ON FREE CREDIT BALANCES USD999997 U.S.DOLLARS CURRENCY CREDIT INTEREST FOR INTEREST PERIOD ENDING 01-19-24 YIELDS WERE: CURRENT 1.000% EFFECTIVE 1.004%",
+    "credito": false,
+    "debito": true,
+    "valor": 66.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": null,
+    "complemento": "ELECTRONIC TRANSACTION USD999997 AUTHORIZED DEBIT 0005000008AMEX EPAYM ENT",
+    "credito": true,
+    "debito": false,
+    "valor": 15.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": null,
+    "complemento": "BOND INTEREST RECEIVED 025816DK2 60000 AMERICAN EXPRESS CO SUB NT FIXED/FLTG 5.625% 07/28/34 B/E DTD 07/28/23 CLB RD 01/26 PD 01/28/24",
+    "credito": false,
+    "debito": true,
+    "valor": 1687.5,
+    "origem": "Extrato"
+  }
+]

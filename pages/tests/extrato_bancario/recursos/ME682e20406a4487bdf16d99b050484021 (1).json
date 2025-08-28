@@ -1,0 +1,56 @@
+[
+  {
+    "data": "03/02/2025",
+    "documento": "0",
+    "complemento": "DEBITO PRESTA SIEMP",
+    "credito": true,
+    "debito": false,
+    "valor": 6254.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "0",
+    "complemento": "DEBITO IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 19.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "0",
+    "complemento": "COBRANCA DE JUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 67.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "171228",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 874.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "0",
+    "complemento": "DEBITO PRESTA SIEMP",
+    "credito": true,
+    "debito": false,
+    "valor": 2811.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "202501",
+    "complemento": "MENSALIDADE CESTA SERVICO",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS DEZEMBRO / 2022",
+    "credito": true,
+    "debito": false,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "010119",
+    "complemento": "PAGAMENTO A FORNECEDORES CNPJ 004270778000171",
+    "credito": false,
+    "debito": true,
+    "valor": 403.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 403.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "DEBITO AUTOM EMPRESAS CONVENIADAS W MOTORS",
+    "credito": true,
+    "debito": false,
+    "valor": 1143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 1143.74,
+    "origem": "Extrato"
+  }
+]

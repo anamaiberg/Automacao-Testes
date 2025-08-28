@@ -1,0 +1,236 @@
+[
+  {
+    "data": "03/08/2021",
+    "documento": "79259",
+    "complemento": "b DEP CHEQUE TERMINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 9105.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 9105.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2021",
+    "documento": "133956",
+    "complemento": "b DEP CHEQUE CAIXA",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2021",
+    "documento": "163021",
+    "complemento": "b DEP CHEQUE CAIXA",
+    "credito": false,
+    "debito": true,
+    "valor": 7185.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "",
+    "complemento": "MENSALIDADE DE SEGURO PORTO SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 105.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "",
+    "complemento": "MENSALIDADE DE SEGURO PORTO SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 353.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "118243",
+    "complemento": "PAGAMENTO DE TITULOS - BCE 02.255.187/0001-08",
+    "credito": true,
+    "debito": false,
+    "valor": 299.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 7226.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "",
+    "complemento": "MENSALIDADE DE SEGURO PORTO SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 131.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "109355",
+    "complemento": "PAGAMENTO CONTA LUZ EM CANAIS INTERNET CELESC SANTA CAT",
+    "credito": true,
+    "debito": false,
+    "valor": 5143.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "109572",
+    "complemento": "PAGAMENTO CONTA LUZ EM CANAIS INTERNET CELESC SANTA CAT",
+    "credito": true,
+    "debito": false,
+    "valor": 81.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "127851",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET AP COMERCIO DE FRIOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "127377",
+    "complemento": "PGTO TITULO OUTRO BCO - INTERNET ZD ALIMENTOS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5924.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "79237",
+    "complemento": "b DEP CHEQUE TERMINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 1549.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 16501.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1549.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2021",
+    "documento": "79226",
+    "complemento": "b DEP CHEQUE TERMINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 9097.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 9097.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2021",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS JULHO / 2021",
+    "credito": true,
+    "debito": false,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2021",
+    "documento": "868043",
+    "complemento": "b DEP CHEQUE TERMINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 7987.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2021",
+    "documento": "868054",
+    "complemento": "b DEP CHEQUE TERMINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 508.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 7987.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2021",
+    "documento": "",
+    "complemento": "TARIFA EXTRATO INTELIGENTE 23/08/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 495.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2021",
+    "documento": "161207",
+    "complemento": "b DEP CHEQUE CAIXA",
+    "credito": false,
+    "debito": true,
+    "valor": 5998.12,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,5519 @@
+[
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 81926.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 61244.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 107578.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 217.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 165000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 36726.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 701.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3204.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 327.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4512.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4990.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC01/09 9122",
+    "credito": false,
+    "debito": true,
+    "valor": 36000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC01/09 9131",
+    "credito": false,
+    "debito": true,
+    "valor": 43000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 01/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 949.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 18.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 249985",
+    "credito": false,
+    "debito": true,
+    "valor": 6.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 203990.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 166173.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 18.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 108.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 80054.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 31385.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 77.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 364.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3776.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE CABA DB084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 128.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE VISA DB088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1188.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 267.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 13782.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 7448.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 957.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC04/09 9126",
+    "credito": false,
+    "debito": true,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TED 363.0001.OPERA F M 9029",
+    "credito": false,
+    "debito": true,
+    "valor": 89935.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 04/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 588.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 87.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TAR ADAPT 3 EXCED 08/23 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 11.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 256581",
+    "credito": false,
+    "debito": true,
+    "valor": 6.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 259607",
+    "credito": false,
+    "debito": true,
+    "valor": 11.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 221093.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 51468.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 188.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "CONSORC ITAU P7856514774 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2054.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251938 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 316.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "PARCELA GIRO 14/48 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 68911.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17251938 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 62372.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3831.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 633.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 45.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 810.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 3724.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 119.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC05/09 9026",
+    "credito": false,
+    "debito": true,
+    "valor": 156000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC05/09 9130",
+    "credito": false,
+    "debito": true,
+    "valor": 23000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC05/09 9132",
+    "credito": false,
+    "debito": true,
+    "valor": 95000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 05/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 1229.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 317.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238098",
+    "credito": false,
+    "debito": true,
+    "valor": 2.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238112",
+    "credito": false,
+    "debito": true,
+    "valor": 4.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238640",
+    "credito": false,
+    "debito": true,
+    "valor": 6.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 251938",
+    "credito": false,
+    "debito": true,
+    "valor": 7.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 259403",
+    "credito": false,
+    "debito": true,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 261762",
+    "credito": false,
+    "debito": true,
+    "valor": 11.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 261889",
+    "credito": false,
+    "debito": true,
+    "valor": 4.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 262188",
+    "credito": false,
+    "debito": true,
+    "valor": 32.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 263595",
+    "credito": false,
+    "debito": true,
+    "valor": 8.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265749",
+    "credito": false,
+    "debito": true,
+    "valor": 9.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265867",
+    "credito": false,
+    "debito": true,
+    "valor": 24.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 9040.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 112937.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 919.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 129.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 127.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251965 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 280.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17251965 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 35971.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2527.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1734.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 70.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 850.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2796.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC06/09 9128",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 06/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 389.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 11.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TAR CONTR/RENOV CTA GAR 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 282.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 251965",
+    "credito": false,
+    "debito": true,
+    "valor": 6.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 261850",
+    "credito": false,
+    "debito": true,
+    "valor": 5.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 263667",
+    "credito": false,
+    "debito": true,
+    "valor": 5.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265378",
+    "credito": false,
+    "debito": true,
+    "valor": 4.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265399",
+    "credito": false,
+    "debito": true,
+    "valor": 5.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265729",
+    "credito": false,
+    "debito": true,
+    "valor": 10.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 274819",
+    "credito": false,
+    "debito": true,
+    "valor": 1.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 20687.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 139748.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 28618.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 14655.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 114821.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 110.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 5.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261754 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 295.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261792 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 278.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261850 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 240.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261870 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261874 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 648.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261930 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 416.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17262220 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 350.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17263602 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 232.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17263667 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 265.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17263920 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 414.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17264343 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 251.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17264496 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 189.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265354 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 244.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265378 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 200.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265399 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 265.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265483 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 252.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265678 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1344.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265729 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 487.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265856 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 228.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265861 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 398.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265871 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 361.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265882 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 389.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17267092 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 486.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261754 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261792 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261870 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261874 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261930 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17262220 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17263602 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17263920 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17264343 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17264496 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265354 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265483 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265678 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 4.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265856 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265861 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265871 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265882 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17267092 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 98000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 51602.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2743.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 217.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 203.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 422.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 217.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 6722.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2660.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC08/09 9132",
+    "credito": false,
+    "debito": true,
+    "valor": 42000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TED 363.0001.OPERA F M 9132",
+    "credito": false,
+    "debito": true,
+    "valor": 117809.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17261850 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 240.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17263667 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 265.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17265378 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 200.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17265399 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 265.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17265729 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 487.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 08/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 3603.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 65742",
+    "credito": true,
+    "debito": false,
+    "valor": 602.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 75022",
+    "credito": true,
+    "debito": false,
+    "valor": 680.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 75242",
+    "credito": true,
+    "debito": false,
+    "valor": 239.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 75340",
+    "credito": true,
+    "debito": false,
+    "valor": 3756.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 75361",
+    "credito": true,
+    "debito": false,
+    "valor": 730.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 13.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 153837.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 53790.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1827.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 47877.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 211.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 181.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 16.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 79339.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 68103.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 4175.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 777.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 140.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 80.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 19711.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 249.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 8747.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 454.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC11/09 9327",
+    "credito": false,
+    "debito": true,
+    "valor": 16000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TED 422.0067.DISBRACON D 9127",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 11/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 7265.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 51.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 251635",
+    "credito": false,
+    "debito": true,
+    "valor": 6.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321343",
+    "credito": false,
+    "debito": true,
+    "valor": 45.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 574.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 295905.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 83559.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 47.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 237.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 210000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 79650.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2055.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 141.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 383.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1356.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1339.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC12/09 9779",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 12/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 7144.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 9.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 240060",
+    "credito": false,
+    "debito": true,
+    "valor": 6.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 250184",
+    "credito": false,
+    "debito": true,
+    "valor": 11.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 262221",
+    "credito": false,
+    "debito": true,
+    "valor": 7.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 264007",
+    "credito": false,
+    "debito": true,
+    "valor": 7.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321730",
+    "credito": false,
+    "debito": true,
+    "valor": 22.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 2130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 78082.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 134686.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 165.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 4.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17250184 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 475.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17259111 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 234.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17321333 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 268.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17321730 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 967.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17321821 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 640.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17259111 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17321333 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17321821 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 18000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 57025.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2889.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 57.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1070.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 417.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2109.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 120.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2568.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC13/09 9122",
+    "credito": false,
+    "debito": true,
+    "valor": 27000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TED 363.0001.OPERA F M 9029",
+    "credito": false,
+    "debito": true,
+    "valor": 102945.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17250184 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 475.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17321730 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 967.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 13/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 1956.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 21.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 137230.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 116458.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 175.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 148.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 5.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17237997 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 188.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17238241 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 299.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251966 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 281.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261793 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 278.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17264976 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 271.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265379 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 199.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265400 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17296797 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 273.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17237997 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17238241 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17251966 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261793 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17264976 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265379 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265400 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17296797 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 145000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 70846.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 190.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 85.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1337.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1208.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 5699.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 3445.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC14/09 9129",
+    "credito": false,
+    "debito": true,
+    "valor": 21000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 14/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 6878.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 51653",
+    "credito": true,
+    "debito": false,
+    "valor": 296.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 51677",
+    "credito": true,
+    "debito": false,
+    "valor": 300.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "BX TIT TRANSF COB 75243",
+    "credito": true,
+    "debito": false,
+    "valor": 239.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 217907.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 176487.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 40072.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 93.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 220.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "PARCELA GIRO 20/24 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 30956.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 50479.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 56210.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1195.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 317.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 5101.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2225.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 453.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC15/09 9136",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC15/09 9127",
+    "credito": false,
+    "debito": true,
+    "valor": 220000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TED 363.0001.OPERA F M 9126",
+    "credito": false,
+    "debito": true,
+    "valor": 111779.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 15/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 797.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 11.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 254466",
+    "credito": false,
+    "debito": true,
+    "valor": 10.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 72794.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 185125.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 98232.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 40199.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 82.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 24000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 49561.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 36661.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 453.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 4450.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 933.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE AM 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 697.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 295.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 693.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 10011.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 181.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 16652.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 319.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC18/09 9125",
+    "credito": false,
+    "debito": true,
+    "valor": 33000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC18/09 9953",
+    "credito": false,
+    "debito": true,
+    "valor": 123000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC18/09 9121",
+    "credito": false,
+    "debito": true,
+    "valor": 94000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 18/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 4816.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 259608",
+    "credito": false,
+    "debito": true,
+    "valor": 11.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1776.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 178589.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1531.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 71531.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 227.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251636 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 277.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17259404 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 328.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17307671 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 433.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17251636 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17259404 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17307671 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 42000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 73017.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2308.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 302.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4101.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 205.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2883.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC19/09 9136",
+    "credito": false,
+    "debito": true,
+    "valor": 90000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC19/09 9953",
+    "credito": false,
+    "debito": true,
+    "valor": 32000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 19/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 5479.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 278.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 434.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238100",
+    "credito": false,
+    "debito": true,
+    "valor": 2.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238114",
+    "credito": false,
+    "debito": true,
+    "valor": 4.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 251636",
+    "credito": false,
+    "debito": true,
+    "valor": 6.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 261756",
+    "credito": false,
+    "debito": true,
+    "valor": 6.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 261794",
+    "credito": false,
+    "debito": true,
+    "valor": 5.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 262222",
+    "credito": false,
+    "debito": true,
+    "valor": 7.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 263576",
+    "credito": false,
+    "debito": true,
+    "valor": 9.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 263921",
+    "credito": false,
+    "debito": true,
+    "valor": 9.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265355",
+    "credito": false,
+    "debito": true,
+    "valor": 5.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265857",
+    "credito": false,
+    "debito": true,
+    "valor": 5.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 307671",
+    "credito": false,
+    "debito": true,
+    "valor": 9.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 158313.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 24505.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1899.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 197.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 3507.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 101.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 151000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 27514.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1498.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 99.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 393.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 20/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 2037.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 262755",
+    "credito": false,
+    "debito": true,
+    "valor": 21.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 291277",
+    "credito": false,
+    "debito": true,
+    "valor": 8.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 312725",
+    "credito": false,
+    "debito": true,
+    "valor": 10.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 152144.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 154219.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5566.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17259601 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 677.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17262755 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1004.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17263327 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1064.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17263978 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 497.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265380 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 199.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265401 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265750 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 439.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265862 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 398.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17291277 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 424.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17259601 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17263327 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17263978 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265380 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265401 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265750 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265862 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 87000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 129747.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 32066.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 23.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2655.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 213.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4209.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 302.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1375.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC21/09 9127",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC21/09 9128",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17262755 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 1004.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17291277 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 424.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 21/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 3058.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 13.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 498.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 263978",
+    "credito": false,
+    "debito": true,
+    "valor": 10.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 274820",
+    "credito": false,
+    "debito": true,
+    "valor": 1.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 314788",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 70282.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 15870.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 31429.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 145.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17274820 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 64.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17312386 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 472.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17312786 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 818.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17312386 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17312786 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 37346.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 39726.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 100.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3157.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 187.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 3020.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 685.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 6595.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 646.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC22/09 9779",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC22/09 9014",
+    "credito": false,
+    "debito": true,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17274820 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 64.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 22/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 3900.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321361",
+    "credito": false,
+    "debito": true,
+    "valor": 20.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 416.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 75902.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 206592.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 320.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 80.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17275244 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 239.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17275362 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 729.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17275244 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17275362 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 64415.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 4599.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 621.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1158.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE AM 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 468.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1255.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 173.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 11040.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 6585.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 216.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC25/09 9014",
+    "credito": false,
+    "debito": true,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 25/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 1372.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 59.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 251637",
+    "credito": false,
+    "debito": true,
+    "valor": 6.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 307672",
+    "credito": false,
+    "debito": true,
+    "valor": 9.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 881.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 158904.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 71759.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 245.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 23.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251637 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 278.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17251967 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 281.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17307657 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 715.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17307672 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 434.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "FIN VEIC 04/48 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 7436.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17251967 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17307657 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 2.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 68000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 63332.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3286.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 131.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE AM 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 49.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 232.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 088071596 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1462.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE HC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 98.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2171.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4684.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC26/09 9779",
+    "credito": false,
+    "debito": true,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC26/09 9029",
+    "credito": false,
+    "debito": true,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17251637 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 278.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17307672 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 434.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 26/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 3987.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 33.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238029",
+    "credito": false,
+    "debito": true,
+    "valor": 4.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238650",
+    "credito": false,
+    "debito": true,
+    "valor": 7.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 240061",
+    "credito": false,
+    "debito": true,
+    "valor": 6.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 315075",
+    "credito": false,
+    "debito": true,
+    "valor": 5.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 316133",
+    "credito": false,
+    "debito": true,
+    "valor": 6.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 336819",
+    "credito": false,
+    "debito": true,
+    "valor": 153.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1113.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 221206.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 27778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 21000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 139.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17315075 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 237.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17316133 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 302.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17316502 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 232.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17316502 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 59435.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 422.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 1249.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 458.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 6278.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC27/09 9127",
+    "credito": false,
+    "debito": true,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17315075 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 237.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17316133 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 302.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 27/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 1499.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "BX TIT DESC 338490",
+    "credito": true,
+    "debito": false,
+    "valor": 413.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 53.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 232.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 237998",
+    "credito": false,
+    "debito": true,
+    "valor": 4.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238242",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 238627",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 316502",
+    "credito": false,
+    "debito": true,
+    "valor": 5.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 319267",
+    "credito": false,
+    "debito": true,
+    "valor": 7.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 338046",
+    "credito": false,
+    "debito": true,
+    "valor": 24.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 88874.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1368.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 188979.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 3400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 111.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17237987 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 778.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17237998 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 189.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17238242 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 300.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17238627 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 855.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17259405 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 328.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17261795 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 278.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17265381 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 199.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17291278 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 423.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17296798 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 273.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17319267 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 360.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17237987 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17259405 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17261795 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17265381 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17291278 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17296798 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESCONTO DUPLICATAS 4175",
+    "credito": false,
+    "debito": true,
+    "valor": 256453.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 1075.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 3997.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 265.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 22.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "REDE AM 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 138.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "REDE EL 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 442.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 2363.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1615.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC28/09 9122",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17237998 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 189.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17238242 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 300.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17238627 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 855.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17319267 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 360.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 28/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 8498.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 37.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 200.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 01/01 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 424.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 265381",
+    "credito": false,
+    "debito": true,
+    "valor": 4.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 291278",
+    "credito": false,
+    "debito": true,
+    "valor": 9.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 296968",
+    "credito": false,
+    "debito": true,
+    "valor": 9.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 307694",
+    "credito": false,
+    "debito": true,
+    "valor": 10.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321320",
+    "credito": false,
+    "debito": true,
+    "valor": 8.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321443",
+    "credito": false,
+    "debito": true,
+    "valor": 5.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321725",
+    "credito": false,
+    "debito": true,
+    "valor": 17.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 326873",
+    "credito": false,
+    "debito": true,
+    "valor": 14.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 116731.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 38213.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5902.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 4243.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 182.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17296726 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 420.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17296968 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 445.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "DESC DP BAIXA 17338208 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 200.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17296726 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "JR MORA DESC 17338208 9247",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "SISPAG DISBRACON DIST L 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 89000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "1",
+    "complemento": "TRANSF 9247.55145",
+    "credito": false,
+    "debito": true,
+    "valor": 41022.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 296.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 2702.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TRANSF 9247.51468-1 9629",
+    "credito": false,
+    "debito": true,
+    "valor": 64.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "REDE AM 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 197.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "REDE MC 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 4208.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "REDE VS 084542438 9935",
+    "credito": false,
+    "debito": true,
+    "valor": 1832.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF DISBRAC29/09 9028",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "EST DESC DP BX17296968 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 445.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 29/09S 9247",
+    "credito": false,
+    "debito": true,
+    "valor": 4850.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TAR/CUSTAS COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 307310",
+    "credito": false,
+    "debito": true,
+    "valor": 9.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321251",
+    "credito": false,
+    "debito": true,
+    "valor": 4.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321879",
+    "credito": false,
+    "debito": true,
+    "valor": 7.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 321887",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 323137",
+    "credito": false,
+    "debito": true,
+    "valor": 6.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "TIT DESC PG MAIOR 323147",
+    "credito": false,
+    "debito": true,
+    "valor": 4.15,
+    "origem": "Extrato"
+  }
+]

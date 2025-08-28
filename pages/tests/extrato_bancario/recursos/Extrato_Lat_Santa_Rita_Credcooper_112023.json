@@ -1,0 +1,317 @@
+[
+  {
+    "data": "01/11/2023",
+    "documento": "331446",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 5317.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "331674",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 7.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "331942",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 82477.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "332185",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 11.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "332477",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 5458.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "332762",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 5.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "333091",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1977.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "333332",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "333665",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2599.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "333896",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 1.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "334190",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 77050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "334418",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "CONSÓRCIOS",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1837.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "CONSÓRCIOS",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1837.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "334702",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 7866.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "334978",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "335287",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 17545.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "335545",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "335868",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1326.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "336089",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 1.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "336368",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 75075.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "336618",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "336910",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 9553.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "337122",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "337399",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 6337.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "337666",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "338850",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2541.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "339007",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 1.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "7505044",
+    "complemento": "DÉB.CONV.PREFEITURA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "7505045",
+    "complemento": "DÉB.TRANSF.CONTAS MESMATIT.INTERCREDIS FAV.: LATICINIOS SANTA RITA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "339216",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 9520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "339399",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 1.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "GANHA",
+    "complemento": "GANH CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "340291",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 0.82,
+    "origem": "Extrato"
+  }
+]

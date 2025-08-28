@@ -1,0 +1,8993 @@
+[
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 75352.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 5304.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 85.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 24.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 732.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 358.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 162.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores TED",
+    "credito": true,
+    "debito": false,
+    "valor": 843.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 19473.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 698.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2756.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2809.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 11.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA01/11",
+    "credito": false,
+    "debito": true,
+    "valor": 92000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 4270.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Tar Adapt 2 Exced  10/23",
+    "credito": true,
+    "debito": false,
+    "valor": 117.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "TAR PIXQR LIQ MAQUININHA",
+    "credito": true,
+    "debito": false,
+    "valor": 99.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 216.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2576.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 4975.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 14555.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "CEI Dep Dinh Imediato",
+    "credito": false,
+    "debito": true,
+    "valor": 940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Luisa C06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANTONIO LIN06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANTONIO LIN06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BARBARA PAR06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNO FERNA06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caroline Al06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DIOGO VILLE06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gabriel Uba06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gleidson Pe06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gutto Ferna06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GUILHERME C06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HUMBERTO AL06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISABELLA SI06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANA CAS06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANA SIL06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANO JOR06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LEONORA MAL06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINCOLN CEO06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LOURRANY MA06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCIA CRIS06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARILENE AL06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 18.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PIO ADRIAN 06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata de C06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL RAMO06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAQUEL LOUR06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 75000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  DENIO M06/11",
+    "credito": false,
+    "debito": true,
+    "valor": 432.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 54719.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 8582.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1149.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 10885.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 324.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 861.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2852.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 1573.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Paula L07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Luiza 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Arthur Gabr07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ADEILTON DE07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALEXANDRE M07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA SAMP07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA PAULA B07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA PAULA B07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA DE OL07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Cecilia Que07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA CAMB07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CARLUCIA MA07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELA PIM07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DENISE DE P07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EDILBERTO J07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gabriel Cam07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GUILHERME M07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HELEN CRIST07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HELENA D A 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HERBERT SAN07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 51.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HUGO ALVES 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 70.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Joao Vitor 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JANETE SIMO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOSE MARCIO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Kayque Sell07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 42.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Laryssa Ram07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINDA CRISL07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 43.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCIA NADIR07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 40.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCELO ROS07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCELO ROS07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 51.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCOS VINI07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 41.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARLI FERRE07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 187.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 46.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PATRICK VIT07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 52.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CLAUD07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL COUT07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL GOME07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL JOAQ07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL MELO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL RAMO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAISSA PERE07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROMULO LIAL07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Samuel Mend07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Sinval Jose07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 52.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDRA BARB07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SENISI DE A07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAINA CORD07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAYAN RODR07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VILMA DAS G07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VILMA DAS G07/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  07/11S",
+    "credito": false,
+    "debito": true,
+    "valor": 18195.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 3660.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 12320.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 2829.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 420.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 7401.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 890.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 4521.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 5565.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Luiza 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Arthur Gabr08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALEXANDRE M08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA CRIS08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA LUIZA M08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BERNARDO BA08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Camila Viei08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Dayse Pimen08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELA PIM08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DEBORA PAUL08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Eduardo Sil08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EDIVALDO DE08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FILIPE MATE08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HEBER CAIRE08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS HELENA D A 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIA FONSE08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KERLLON OLI08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINCOLN CEO08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maicon Doug08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maicon Doug08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARILENE AL08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 32.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MAYCON DANT08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 33.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO FELLE08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RENAT08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROBERTA SIM08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 54.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROMULO LIAL08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SIDNEI LUCI08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tatiane Nas08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS TAMARA MANG08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 51.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THIAGO MAX 08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Vania Marqu08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Yasmyn Gabr08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS 21311686 Th08/11",
+    "credito": false,
+    "debito": true,
+    "valor": 44.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 11280.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1094.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 5166.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 692.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3143.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2401.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Rede  VS  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 119.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Luisa C09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA DE OL09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNO RAFAE09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA AMAR09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 45.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA CARL09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DENISE DE P09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 87.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EULER MARQU09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA BO09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gabriel Cam09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gabriel Hen09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Isaque Pere09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 39.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISABEL GOME09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jorge Luiz 09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 59.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA MEN09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA GUI09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LOURRANY MA09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIS FELIPE09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maicon Doug09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NATHALIA GO09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NAYARA ROCH09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 55.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL GOME09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SHINE ON LT09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SILVANA REZ09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tamara Dura09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS TAYGA MONCA09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS TAYGA MONCA09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THIAGO MAX 09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VICTOR SERR09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS William Siq09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS 21311686 Th09/11",
+    "credito": false,
+    "debito": true,
+    "valor": 65.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "TED 104.2255.ACADEMIA C",
+    "credito": false,
+    "debito": true,
+    "valor": 650.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 222.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 582.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 17749.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 4049.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 19450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores TED",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 19572.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 700.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 4117.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2708.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 24.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Luiza 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CRISTIANE M10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELEN MARA M10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA BO10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 85.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA NO10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA DE10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISABELA F O10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JAINE SOARE10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANA SIL10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINDA CRISL10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUANA GABRI10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS COSTA10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUTRICIA H 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 48.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA FATIM10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARILENE AL10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATHEUS AMA10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NATHALIA RA10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 39.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Pliner Juni10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Robelia Mar10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 56.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Victor Serr10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Vitoria Car10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VALDINEIA R10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VALDINEIA R10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 48.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Wellington 10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS WALKIRIA FE10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Yuri Bernar10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA10/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 28872.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 40993.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 6058.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 305.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 27366.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 745.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2570.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2593.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Luisa C13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Luiza 13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AILTON ELIA13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AILTON ELIA13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANDERSON LU13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANDRE LUIZ 13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 31.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Barbara Oha13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BEATRIZ MEL13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA YASMI13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILLA BER13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 41.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINE EM13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELLE MA13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Elberth de 13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jose Henriq13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANO JOR13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KARIN CRIST13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LOURRANY MA13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS APARE13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ CLAUDI13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCIA CRIS13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATHEUS G C13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MICHELLE CR13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MICHELLE DE13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NATALIA COS13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Pedro Henri13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RODRIGO SAM13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VICTOR HUGO13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA13/11",
+    "credito": false,
+    "debito": true,
+    "valor": 140000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 71299.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1865.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2217.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 398.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 111412.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 471.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2729.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2129.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 58.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Luiza 14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AILTON ELIA14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNO MIGUE14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNO RAFAE14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Cecilia Que14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Cecilia Que14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINE EM14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA PEI14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELIZABETH K14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA PE14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GENY DE ALM14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Isabela Len14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Isabelle Mo14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Junio Matos14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Kayque Sell14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KAIC ALEX B14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KAIC ALEX B14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Anton14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LEONARDO DO14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA MEN14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS LASMA14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCIANA CAS14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 43.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NASSON MONT14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PATRICK VIT14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 179.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL GOME14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAISSA PERE14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAYAN RODR14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VANESSA CAL14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Yuri Bernar14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA14/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 89591.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 4583.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2199.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2479.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2692.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 8122.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 704.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2907.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Rede  VS  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 22.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Alisson Oli16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Amanda Leti16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AILTON ELIA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALINE ROMAN16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA FLAVIA 16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANANDA COUT16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 43.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Bruno Monte16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 71.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Cecilia Que16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 32.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Clara Morei16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Clara Morei16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CRISLANI MA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELLE MA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 32.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Eduardo Sil16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Elberth de 16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Emanuel Gon16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELCIO JOSE 16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMERSON DA 16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Geraldo Vie16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GAEL QUEIRO16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Isabella Si16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Joao Henriq16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 98.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Keven Sande16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Livia Crist16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA APA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINDA CRISL16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUANA HOFMA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA EDUAR16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROGER SALOM16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RUTH LORENA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SIDNEI LUCI16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tamara Dura16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAINA CORD16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VERUSKA CEL16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VINICIUS RO16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA16/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 11492.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 333.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 926.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 109.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 481.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 662.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 542.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3374.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2634.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Angelita Ma17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALINE ROMAN17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELLE AL17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELIANE DE P17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELIZABETH O17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMANUELLE S17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Glaucilene 17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gutto Ferna17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIEL LUC17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GIUSEPPE GA17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jessica Bar17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jessica Car17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Juliano Ron17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Keven Sande17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Liliane Cri17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Luiz Gustav17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LILIANE BOT17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PATRICIA RO17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Reginaldo C17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Rikelvyn Ro17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAISSA PERE17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RODRIGO SAM17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROGER SALOM17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Sergio Luis17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDY PEDRO17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THIAGO MAX 17/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 3660.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 41681.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 470.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 322.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 450.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 7418.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 552.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3811.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 1631.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 19.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA CLARA F20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA VITO20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Dialogus As20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELLE MA20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 54.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA L 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Glaucilene 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GERSON ARAU20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GIZELLE DA 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IGOR SILVEI20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jose Henriq20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANO JOR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Keven Sande20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KATYUZA MAR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KELE DIAS L20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KEZIA DAYAN20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LAUANE LUIZ20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LEANDERSON 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINDA CRISL20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUDIMILA CO20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria Eduar20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCO TULIO20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA JOSE 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MICHELLE CR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MICHELLE DE20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 33.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MILENY COST20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Rikelvyn Ro20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL PEDR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ROGER SALOM20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SIDNEI LUCI20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Vania Lucia20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VANESSA NAR20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS WALDIRENE E20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA20/11",
+    "credito": false,
+    "debito": true,
+    "valor": 65000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 21260.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2673.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 7859.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1831.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 441.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2893.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2064.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 10.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ADENIZE F C21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALESSANDRO 21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 117.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANTONIO RIC21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA VITO21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Emanuelle S21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EDIVALDO DE21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gleidson Pe21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IAN DA SILV21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 40.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IGOR BORGES21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISABEL GOME21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Janete Simo21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jessyca Oli21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JONATHAN TA21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Laryssa Kel21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leticia Apa21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINCOLN ROM21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MILENY COST21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Reginaldo C21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SELMA CRIST21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS TAISSA CRIS21/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 6792.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 521.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 981.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 16904.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 332.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3267.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Rede  VS  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 28.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Clara 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANNA CLAUDI22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Bruno Monte22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BARBARA LOR22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRENDA GONC22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNO RAFAE22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Cecilia Que22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA CARL22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA DE S22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 29.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CRISLAYNE A22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 45.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Dayse Pimen22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELA PIM22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELLE MA22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 37.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DENISE DE P22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 42.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Emanuelly V22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELOIZA MARI22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELTON REIS 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 51.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELZILANE RO22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 415.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMILIANA EF22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ilcelina Ri22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IAN DA SILV22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 48.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ITACY RITA 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 34.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Janete Soar22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JONATHAN TA22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIA DIAS 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Laryssa Kel22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Linda Crisl22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LILIAN LIMA22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LINCOLN ROM22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS GABRI22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUDIMILA CO22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria Eduar22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCO TULIO22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA JOSE 22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARINA SILV22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATHEUS AMA22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 31.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Neylor Henr22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NALTON SEBA22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Priscila Sa22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 32.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ruan Debian22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL GOME22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Sinval Jose22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 78.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tatiane Nas22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS WANDERSON C22/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 10966.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 6650.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 732.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 409.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 5340.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 544.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3057.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2287.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 10.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Luisa C23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Anna Clara 23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BEATRIZ MEL23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRENDA BARB23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caique Nava23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CARLA LUCIA23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINA DO23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINA DO23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA ALM23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Danielle al23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELIANE DE P23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA NO23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GAEL QUEIRO23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GERALDO VIE23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GIOVANA EMA23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IAN DA SILV23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Juan Felipe23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Julianderso23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JURCILEIA A23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lara Daniel23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA GUI23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LOURRANY MA23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA TEREZ23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATHEUS G C23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NATHALIA TH23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Reginaldo C23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL DE P23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL GOME23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL PEDR23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SELMA CRIST23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SERGIO CAET23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SILVIA MIRA23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Wenderson B23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS YURI RAFAEL23/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 6626.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 47662.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 525.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 1135.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 31874.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 854.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 857.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1913.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 17865.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3105.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3040.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3060.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3571.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1316.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1086.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 491.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3066.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3025.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2180.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 377.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1305.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 759.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 492.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2748.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 543.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3045.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 134.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 558.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1215.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 3034.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 221.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 5137.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 450.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2733.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2197.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Rede  VS  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 67.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ana Paula L24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANA CLARA F24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANNA CLAUDI24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Barbara Lor24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CARLA LUCIA24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANIELA FER24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DANILO EMER24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DENISE VASC24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EDIVALDO DE24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EDUARDO J F24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMILIANA EF24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FELIPE ALVE24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gabriel Uba24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gleidson Pe24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GAEL QUEIRO24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISAQUE DE C24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Jose Henriq24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANO JOR24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Leandro Ces24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LARISSA SAL24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LILIANE BOT24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS DIEGO24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maicon Doug24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria de Fa24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria Victo24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCO TULIO24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MAX JACI PI24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PRISCILA LA24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 35.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Roselaine d24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RUTH LORENA24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SELMA CRIST24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Thaylla Kha24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 0.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THIAGO MAX 24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS William Ant24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 77000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA24/11",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "DevDOC504119 24/11 MOT57",
+    "credito": false,
+    "debito": true,
+    "valor": 270.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 13898.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2236.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 263.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 8363.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 24613.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 476.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2871.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 1655.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA LORE27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELO EDUA27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 47.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELO EDUA27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ARTHUR YAGO27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Barbara Lor27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Bruno Monte27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BEATRIZ MEL27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMILIANA EF27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GEOVANIA AP27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GISLAINE FE27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 31.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Icaro Borge27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Janete Simo27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Janete Soar27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JACQUELINE 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 31.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tatiane Nas27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Vania Lucia27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VANESSA CAL27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VICTOR CALD27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA27/11",
+    "credito": false,
+    "debito": true,
+    "valor": 89000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2023",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 58653.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 262.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 4650.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2737.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 690.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 338.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1923.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 22688.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 381.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2782.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2090.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 4.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Aelton Alei28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA LORE28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANANDA COUT28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 36.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caroline Al28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Dayse Pimen28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Elberth de 28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ELENICE SOA28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMANUELLE S28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMANUELLE S28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FRANCISCO R28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 46.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GUILHERME C28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISABELA SOT28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 17.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS IZABELA MAR28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JACKELINE S28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JACKELINE S28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 256.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO VITOR 28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JONATHAN TA28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANA SIL28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA GUI28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS DE CA28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria Victo28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARILENE AL28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS METICIA M F28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nataly caro28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia R 28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 20.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PALOMA RIBE28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Raissa Pere28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SANDRO GARZ28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tatiane Nas28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAYAN RODR28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VICTOR CALD28/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 27283.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 732.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 105.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 676.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 11834.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 547.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3682.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2702.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 12.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Alana Letic29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ALFREDO FRA29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELA MARI29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELITA MA29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Camila Arau29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Camila Arau29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA FERR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIA RIB29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DAYSE PIMEN29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMILIANA EF29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giuliana Ca29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GABRIELA PE29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS GAEL QUEIRO29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Izabela Mar29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOAO MARCEL29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIA ALVES29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS KELE DIAS L29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Tavar29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LETICIA GAB29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 0.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUCELIO ANT29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS LUIZ FERNAN29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCILENE A29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCO TULIO29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA AMELI29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 23.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARINA BOTH29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS VICT29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Otavio Augu29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PATRICIA HE29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 27.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 16.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 38.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Rafael Cout29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 8.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RODRIGO ELC29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARA MARIA 29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAYAN RODR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS THAYAN RODR29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VIRGINIA AP29/11",
+    "credito": false,
+    "debito": true,
+    "valor": 25.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 5981.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 13045.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Tributos",
+    "credito": true,
+    "debito": false,
+    "valor": 14803.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 534.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 1560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 165.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 377.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 325.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 40993.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 752.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Sispag Fornecedores",
+    "credito": true,
+    "debito": false,
+    "valor": 35065.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Rede   ELO  DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 572.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Rede   MAST DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 3119.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Rede   VISA DB059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 2320.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Rede  MC  059127988",
+    "credito": false,
+    "debito": true,
+    "valor": 42.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Arthur Enzo30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Arthur Feli30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ADRIANA LUI30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ANGELO EDUA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 36.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BEATRIZ MEL30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BERNARDO AU30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA CASSI30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA DE OL30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Caleu de Ol30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 30.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Claudia Pei30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 1.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Dayse Pimen30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DEJACIR TEI30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DENILSON MA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS DERICK FLAV30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS EMILIANA EF30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ERIVELTO DU30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FABIANA DE 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS FABIANA DE 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Giovanni Al30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Gleidson Pe30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS ISADORA LEO30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 21.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JOSE MARCIO30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 26.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS JULIANA VER30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 7.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Luiza Quere30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maicon Doug30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Maria Eduar30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Miguel Vito30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCELA DE 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCILENE A30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 12.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARCO TULIO30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 19.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MARIA JULIA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MATHEUS AMA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MELISSA ALV30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS MELISSA ALV30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 28.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Nathalia Si30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS NATHALIA F 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO CESAR30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 40.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS PAULO RICAR30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Raquel Lour30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Renata Pris30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Ronei Gurge30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 2.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL PEDR30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS RENATA LU D30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Sara Maria 30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SARAH CRIST30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS SONIA REGIN30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 3.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Taissa Cris30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 9.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS Tiago Vasco30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 14.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS TERESA RAQU30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 10.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS VICTOR LUCA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS WALLISON DA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 24.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX QRS WANDERSON C30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "PIX TRANSF  ASSOCIA30/11",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Est Sispag Fornecedores",
+    "credito": false,
+    "debito": true,
+    "valor": 534.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "DevDOC505131 30/11 MOT62",
+    "credito": false,
+    "debito": true,
+    "valor": 752.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 22995.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/11/2023",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  }
+]

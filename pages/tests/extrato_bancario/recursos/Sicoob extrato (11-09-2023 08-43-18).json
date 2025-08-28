@@ -1,0 +1,92 @@
+[
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "129",
+    "complemento": "DEB PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 49.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEM.EMPRES",
+    "credito": true,
+    "debito": false,
+    "valor": 18.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "Pix",
+    "complemento": "PIX REC.OUTRA IF MT RECEBIMENTO PIX SOMARE IGUASSU TERAPIA LTDA 28.599.234 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 5681.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "8937447",
+    "complemento": "DÉB CONV. FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 4772.18,
+    "origem": "Extrato"
+  }
+]

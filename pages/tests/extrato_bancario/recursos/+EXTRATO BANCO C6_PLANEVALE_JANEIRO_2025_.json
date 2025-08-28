@@ -1,0 +1,47 @@
+[
+  {
+    "data": "08/01/2025",
+    "documento": "",
+    "complemento": "Pix recebido de MARCEL RABELO DE SOUZA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2025",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 107.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2025",
+    "documento": "",
+    "complemento": "CREDITO DE COBRANCA",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2025",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 141.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2025",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 57.75,
+    "origem": "Extrato"
+  }
+]

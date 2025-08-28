@@ -1,0 +1,578 @@
+[
+  {
+    "data": "11/01/2024",
+    "documento": "449812",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "449814",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "449819",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11290.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "449823",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 71802.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "593070",
+    "complemento": "TRANSF CP PARA CC PJ MAXBID INTERMEDIACAO DE AT",
+    "credito": true,
+    "debito": false,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "593869",
+    "complemento": "TRANSF CP PARA CC PJ LUIZ AUGUSTO BAPTISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 61600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "1305770",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "593847",
+    "complemento": "TRANSF CP PARA CC PJ GUTOMAQ INTERMEDIACOES IMO",
+    "credito": true,
+    "debito": false,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "4135",
+    "complemento": "ESTORNO IR FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "1105939",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "1305429",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "1146198",
+    "complemento": "IMPOSTO RENDA NA FONTE* Poup Facil-Depos A Partir 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "4135",
+    "complemento": "ESTORNO DE RENDIMENTOS * POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "4135",
+    "complemento": "ESTORNO DE RENDIMENTOS * POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "593941",
+    "complemento": "TRANSF.AUT.C/C P/POUP. LUIZ AUGUSTO BAPTISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "449131",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 71802.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "449133",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "449137",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11290.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "449138",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "449140",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 2099.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "593610",
+    "complemento": "TRANSF CP PARA CC PJ G5 BUSINESS EQUIPAMENTOS INDUSTR",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "593769",
+    "complemento": "TRANSF CP PARA CC PJ MAXBID INTERMEDIACAO DE AT",
+    "credito": true,
+    "debito": false,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "593814",
+    "complemento": "TRANSF CP PARA CC PJ MAXBID INTERMEDIACAO DE AT",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "593908",
+    "complemento": "TRANSF CP PARA CC PJ LUIZ AUGUSTO BAPTISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 60000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "1233770",
+    "complemento": "TRANSF CP PARA CC PJ LUIZ AUGUSTO BAPTISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 46000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "1105000",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "449084",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 21657.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "449085",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 7786.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "449086",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "449087",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "449724",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 71802.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "593184",
+    "complemento": "TRANSF CP PARA CC PJ LUIZ AUGUSTO BAPTISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 63000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "593615",
+    "complemento": "TRANSF CP PARA CC PJ MAXBID INTERMEDIACAO DE AT",
+    "credito": true,
+    "debito": false,
+    "valor": 61850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "4135",
+    "complemento": "ESTORNO IR FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "1505668",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "1517361",
+    "complemento": "IMPOSTO RENDA NA FONTE* Poup Facil-Depos A Partir 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "4135",
+    "complemento": "ESTORNO DE RENDIMENTOS * POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "449470",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 71802.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "449473",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "449475",
+    "complemento": "TRANSF CC PARA CP PJ RINO & RINO SOCIEDADE DE ADVOGAD",
+    "credito": false,
+    "debito": true,
+    "valor": 11782.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "593434",
+    "complemento": "TRANSF CP PARA CC PJ LUIZ AUGUSTO BAPTISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 62000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "593563",
+    "complemento": "TRANSF CP PARA CC PJ MAXBID INTERMEDIACAO DE AT",
+    "credito": true,
+    "debito": false,
+    "valor": 33350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "1505522",
+    "complemento": "RENDIMENTOS Poup Facil-Depos A Partir 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "1502227",
+    "complemento": "IMPOSTO RENDA NA FONTE* Poup Facil-Depos A Partir 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "1105812",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "1124258",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "1505828",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "1517481",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "8600",
+    "complemento": "TED-TRANSF ELET DISPON OFICIO 20240004864269-00003",
+    "credito": true,
+    "debito": false,
+    "valor": 27.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "1105344",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "1180371",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1105887",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "1128587",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "1105711",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "1145917",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "1105711",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "1121833",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "1105730",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "1111662",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "1105720",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "1163976",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "1105701",
+    "complemento": "RENDIMENTOS POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "1199468",
+    "complemento": "IMPOSTO RENDA NA FONTE* POUP FACIL-DEPOS A PARTIR 4/5/12",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": "4135",
+    "complemento": "TARIFA CTA SEM MOVTO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.48,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "data": "03/01/2024",
+    "documento": null,
+    "complemento": "Operação 22818370 - Cód.aut.: 862263 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 838.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado RICARDO FISCHER JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": null,
+    "complemento": "Operação 22827458 - Cód.aut.: 188371 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado VINICIUS RAMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: VINICIUS RAMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado merciel de Agustinho Gonçalves",
+    "credito": true,
+    "debito": false,
+    "valor": 540.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Operação 22872287 - Cód.aut.: 488732 - Recurso - processo de suspensão - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1207.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Operação 22873008 - Cód.aut.: 252846 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "merciel de Agustinho Gonçalves (Pedido de reembolso) - Pix Devolução Recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 540.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado merciel de Agustinho Gonçalves",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: merciel de Agustinho Gonçalves",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado Patrick Gabriel Poltronieri de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 540.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: Patrick Gabriel Poltronieri de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": null,
+    "complemento": "Operação 22911072 - Cód.aut.: 420518 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANS SOLUCOES DE MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1701.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado Ingelore Zermiani",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": null,
+    "complemento": "Operação 22940358 - Cód.aut.: 137034 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": null,
+    "complemento": "Operação 22947372 - Cód.aut.: 646413 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": null,
+    "complemento": "Operação 22948576 - Cód.aut.: 559256 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": null,
+    "complemento": "Operação 22948837 - Cód.aut.: 737693 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Operação 22967390 - Cód.aut.: 431169 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado HENRIQUE CARIOCA DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: HENRIQUE CARIOCA DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado Isac Kauan Floriano Barreto",
+    "credito": true,
+    "debito": false,
+    "valor": 1035.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: Isac Kauan Floriano Barreto",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": null,
+    "complemento": "Operação 22987053 - Cód.aut.: 173450 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": null,
+    "complemento": "Operação 22998394 - Cód.aut.: 775310 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": null,
+    "complemento": "Operação 22999221 - Cód.aut.: 817023 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "Operação 23016823 - Cód.aut.: 139052 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 4433.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": null,
+    "complemento": "PAGUEVELOZ INSTITUICAO DE PAGAMENTO LTDA ESTORNO SALDO CARTEIRA - Ressarcimento de valor creditado a menor (operações 14/12/2023) - Transferência Recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Operação 23063930 - Cód.aut.: 038708 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Operação 23067775 - Cód.aut.: 408435 - recurso do processo de suspensão - CELINA - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Operação 23073530 - Cód.aut.: 077391 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1196.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Operação 23075862 - Cód.aut.: 620019 - RECURSO PROCESSO DE SUSPENSÃO - ART. 261 II - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "WILMAR CONTABILIDADE - Pagamento de Conta",
+    "credito": true,
+    "debito": false,
+    "valor": 1499.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pagamento de Conta: WILMAR CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 29.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": null,
+    "complemento": "Operação 23084266 - Cód.aut.: 665745 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1138.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado Patrick Gabriel Poltronieri de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": null,
+    "complemento": "Operação 23104442 - Cód.aut.: 368219 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1638.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado RAFAEL SANTOS DE QUADROS",
+    "credito": true,
+    "debito": false,
+    "valor": 570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": null,
+    "complemento": "Operação 23149331 - Cód.aut.: 011881 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado JOAO TERCILIO MURARA",
+    "credito": true,
+    "debito": false,
+    "valor": 366.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": null,
+    "complemento": "Operação 23165993 - Cód.aut.: 122950 - PAGAMENTO PROCESSO DE SUSPENSÃO - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1196.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado DIEGO ROBERTO BARRETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": null,
+    "complemento": "Operação 23262720 - Cód.aut.: 406269 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": null,
+    "complemento": "Operação 23265797 - Cód.aut.: 039206 - PROCESSO DE SUSPENSÃO ROSENIR - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": null,
+    "complemento": "PAGUEVELOZ INSTITUICAO DE PAGAMENTO LTDA ESTORNO SALDO CARTEIRA - Campanha de Cashback - Transferência Recebida",
+    "credito": false,
+    "debito": true,
+    "valor": 13.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": null,
+    "complemento": "Transferência Recebida: PAGUEVELOZ INSTITUICAO DE PAGAMENTO LTDA ESTORNO SALDO CARTEIRA - Campanha de Cashback - Tarifa Cobrada",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANS SOLUCOES DE MARKETING",
+    "credito": true,
+    "debito": false,
+    "valor": 1701.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado BATACAD GRAFICA DIGITAL",
+    "credito": true,
+    "debito": false,
+    "valor": 62.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado KARINE LAVANDOSKI MOMM",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: KARINE LAVANDOSKI MOMM",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": null,
+    "complemento": "Operação 23311841 - Cód.aut.: 457560 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": null,
+    "complemento": "Operação 23317463 - Cód.aut.: 742523 - RECURSO LEONARDO OLINDIO DA SILVA - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1508.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2024",
+    "documento": null,
+    "complemento": "Operação 23323288 - Cód.aut.: 610854 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 838.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado INFOCELL",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado INFOCELL",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: INFOCELL",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": null,
+    "complemento": "Operação 23355776 - Cód.aut.: 184899 - - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 635.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado RICARDO FISCHER JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado CAROL MODAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 257.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: CAROL MODAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ORGACAR DESPACHANTE LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": null,
+    "complemento": "Tarifa Cobrada Pix Enviado: ORGACAR DESPACHANTE LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": null,
+    "complemento": "Pix Enviado ANDRE GUILHERME DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": null,
+    "complemento": "Operação 23408199 - Cód.aut.: 589841 - Recurso - suspensão - Operação de Cartão",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  }
+]

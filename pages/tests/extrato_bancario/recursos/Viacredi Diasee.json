@@ -1,0 +1,1631 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "2.329",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 15.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "2.356",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 36.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "99999999323",
+    "complemento": "IOF S/ C-C",
+    "credito": true,
+    "debito": false,
+    "valor": 62.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "99999999938",
+    "complemento": "JUROS LIM.CRD",
+    "credito": true,
+    "debito": false,
+    "valor": 420.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "247532.694",
+    "complemento": "DEBITO PIX - Livandoir Ribeiro mello",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "247533.163",
+    "complemento": "DEBITO PIX - Ruan Rodrigues Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "247533.579",
+    "complemento": "DEBITO PIX - Natanael Felipe Ribeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "247535.652",
+    "complemento": "DEBITO PIX - IVETE PEREIRA DUARTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1507.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "51184",
+    "complemento": "SAQUE CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "2.340",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 19.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "2.337",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 20.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.348",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.348",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 660.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.333",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.333",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 599.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.321",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.321",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 561.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.317",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "2.317",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 524.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1124.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 35000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249399.939",
+    "complemento": "DEBITO PIX - GUILHERME FRANCISCO SCHEFFER",
+    "credito": true,
+    "debito": false,
+    "valor": 2351.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249399.237",
+    "complemento": "DEBITO PIX - Ruan Rodrigues Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 1946.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249400.812",
+    "complemento": "DEBITO PIX - Natanael Felipe Ribeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 1875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1",
+    "complemento": "FOLHA DE PAGT",
+    "credito": true,
+    "debito": false,
+    "valor": 11577.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249401.596",
+    "complemento": "DEBITO PIX - Livandoir Ribeiro mello",
+    "credito": true,
+    "debito": false,
+    "valor": 2002.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249402.394",
+    "complemento": "DEBITO PIX - DJALMA JULIAN DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3733.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249403.771",
+    "complemento": "DEBITO PIX - EGYDIO PEDERIVA NETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2597.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249403.133",
+    "complemento": "DEBITO PIX - Marcial Leopoldo dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 2782.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249403.771",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249407.144",
+    "complemento": "DEBITO PIX - Danillo Morais do Nascimento",
+    "credito": true,
+    "debito": false,
+    "valor": 402.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249407.144",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "57196",
+    "complemento": "SAQUE CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "2.409",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 21.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "2.428",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 10.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "2.412",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 22.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10040.205",
+    "complemento": "PG.P/INTERNET - FUTURO AMBIENTAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 518.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10040.194",
+    "complemento": "PG.P/INTERNET - G-COLETAS AMBIENTAL",
+    "credito": true,
+    "debito": false,
+    "valor": 327.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10135.912",
+    "complemento": "PG.P/INTERNET - FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 3047.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "250197.361",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "250197.361",
+    "complemento": "DEBITO PIX - CRISTIANE MOREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "2.416",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 18.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.384",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.384",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1214.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.432",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.432",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 426.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "284.617.9",
+    "complemento": "TR.INTERNET - TERESINHA LENFERS",
+    "credito": true,
+    "debito": false,
+    "valor": 1305.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "848.601.8",
+    "complemento": "TR.INTERNET - ADAIR CARDOSO DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2105.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1531.703.0",
+    "complemento": "TR.INTERNET - ELIANE BERTOLDI",
+    "credito": true,
+    "debito": false,
+    "valor": 1588.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1255.058.2",
+    "complemento": "TR.INTERNET - TANIA CRISTINA JERONIMO BRUNO",
+    "credito": true,
+    "debito": false,
+    "valor": 10776.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1066.700.8",
+    "complemento": "TR.INTERNET - MARIA DE LOURDES MACHADO",
+    "credito": true,
+    "debito": false,
+    "valor": 9388.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "957.461.1",
+    "complemento": "TR.INTERNET - RAFAEL RODRIGO DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1140.696.8",
+    "complemento": "TR.INTERNET - AVIAMENTOS LUCAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 804.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "232.549.7",
+    "complemento": "TR.INTERNET - JOSE VALDIR LENFERS",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "965.117.9",
+    "complemento": "TR.INTERNET - DAIANA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 2451.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "390.134.3",
+    "complemento": "TR.INTERNET - MARCIANA PRIM",
+    "credito": true,
+    "debito": false,
+    "valor": 1827.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1331.548.0",
+    "complemento": "TR.INTERNET - ICARO SAMUEL SILVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2948.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "236.041.1",
+    "complemento": "TR.INTERNET - YARA CRISTINA ISENSEE",
+    "credito": true,
+    "debito": false,
+    "valor": 4424.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251057.545",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251057.545",
+    "complemento": "DEBITO PIX - VIVIANE TONHOLI DA CUNHA",
+    "credito": true,
+    "debito": false,
+    "valor": 2488.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251059.048",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251059.048",
+    "complemento": "DEBITO PIX - STEFFENS CASEADO E BOTAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 414.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251061.023",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251059.855",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251059.855",
+    "complemento": "DEBITO PIX - MARIA EDUARDA GOLCALVES PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 596.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251060.719",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251060.719",
+    "complemento": "DEBITO PIX - OSCAR DE SOUZA E SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 595.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251061.023",
+    "complemento": "DEBITO PIX - IRANILDA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 3430.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251062.227",
+    "complemento": "DEBITO PIX - ELISETE GARCIA TELLES 05085131975",
+    "credito": true,
+    "debito": false,
+    "valor": 4818.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251062.227",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251062.618",
+    "complemento": "DEBITO PIX - DEBORA GUTJHAR CANI",
+    "credito": true,
+    "debito": false,
+    "valor": 3654.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251062.618",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251065.614",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251065.614",
+    "complemento": "DEBITO PIX - RUDINEI FANTINI",
+    "credito": true,
+    "debito": false,
+    "valor": 2668.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251066.652",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251066.652",
+    "complemento": "DEBITO PIX - POLIDROL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4158.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "953.391.5",
+    "complemento": "TR.INTERNET - ANA PAULA SERIGRAFIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2068.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1269.518.1",
+    "complemento": "TR.INTERNET - GISELE PEREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 36689.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "291.737.8",
+    "complemento": "TR.INTERNET - JAISON DIAS",
+    "credito": true,
+    "debito": false,
+    "valor": 16000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "978.084.0",
+    "complemento": "TR.INTERNET - NEUSIR SANTOS VASIAK",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251074.074",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251074.074",
+    "complemento": "DEBITO PIX - CRISTIANE MOREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251075.791",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "251075.791",
+    "complemento": "DEBITO PIX - ADEMAR DE MOURA",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "2.307",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1256.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "52023075055",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5750.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "51089.898",
+    "complemento": "DEB.CELESC - CELESC",
+    "credito": true,
+    "debito": false,
+    "valor": 181.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "54",
+    "complemento": "DB.APLIC.PROGRAMADA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 6.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "2.352",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 442.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "10089.521",
+    "complemento": "PG.P/INTERNET - FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 309.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "2.292",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 14.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "130623",
+    "complemento": "FOLHACHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "1",
+    "complemento": "DEBITO RESCISAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1484.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "228.427",
+    "complemento": "DB.SAMAE GASPAR",
+    "credito": true,
+    "debito": false,
+    "valor": 324.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "42691.909",
+    "complemento": "DEB.CELESC - celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 418.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "02308562530",
+    "complemento": "DB. BRADESCO AUTO PCL",
+    "credito": true,
+    "debito": false,
+    "valor": 472.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10109.443",
+    "complemento": "PG.P/INTERNET - SERVMED CLINICA DE MEDICINA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10109.485",
+    "complemento": "PG.P/INTERNET - MKM CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10109.456",
+    "complemento": "PG.P/INTERNET - VRF CONTROLE DE PONTO ACESSO L",
+    "credito": true,
+    "debito": false,
+    "valor": 79.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10109.464",
+    "complemento": "PG.P/INTERNET - SERVMED CLINICA DE MEDICINA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "10109.474",
+    "complemento": "PG.P/INTERNET - CLINIPAM CLINICA PARANAENSE AS",
+    "credito": true,
+    "debito": false,
+    "valor": 1586.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "978.084.0",
+    "complemento": "TR.INTERNET - NEUSIR SANTOS VASIAK",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "43193.406",
+    "complemento": "DEB.CELESC - CELESC",
+    "credito": true,
+    "debito": false,
+    "valor": 1121.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "254396.777",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "254396.777",
+    "complemento": "DEBITO PIX - CRISTIANE MOREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "2.291",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "2.291",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 885.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10161.466",
+    "complemento": "PG.P/INTERNET - FUTURO AMBIENTA",
+    "credito": true,
+    "debito": false,
+    "valor": 613.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10161.467",
+    "complemento": "PG.P/INTERNET - GASPRAGAS CONTR",
+    "credito": true,
+    "debito": false,
+    "valor": 384.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "2.359",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 38.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "233",
+    "complemento": "PREST.EMPREST 021/060",
+    "credito": true,
+    "debito": false,
+    "valor": 4835.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 6.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "49870",
+    "complemento": "SAQUE CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "49840",
+    "complemento": "SAQUE CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255894.771",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255894.462",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255894.462",
+    "complemento": "DEBITO PIX - Ruan Rodrigues Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255894.771",
+    "complemento": "DEBITO PIX - Livandoir Ribeiro mello",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255895.230",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255895.230",
+    "complemento": "DEBITO PIX - Natanael Felipe Ribeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "692.990.7",
+    "complemento": "TR.INTERNET - VALTAIR DE OLIVEIRA MENEZES",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10097.962",
+    "complemento": "PG.P/INTERNET - Simples",
+    "credito": true,
+    "debito": false,
+    "valor": 3097.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10097.955",
+    "complemento": "PG.P/INTERNET - INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 4213.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "16",
+    "complemento": "PREST.EMPREST 021/060",
+    "credito": true,
+    "debito": false,
+    "valor": 2251.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "0523",
+    "complemento": "TAR PCT SERV PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "2.288",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 2.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "257243.716",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "257243.716",
+    "complemento": "DEBITO PIX - CRISTIANE MOREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "22904",
+    "complemento": "TAR.REN.DESC.TIT.",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "73029000185",
+    "complemento": "CONSORCIO.IMOVEIS",
+    "credito": true,
+    "debito": false,
+    "valor": 2599.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "2.345",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "258653.943",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "258653.943",
+    "complemento": "DEBITO PIX - Natanael Felipe Ribeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "259005.375",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "259005.375",
+    "complemento": "DEBITO PIX - EGYDIO PEDERIVA NETO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "2.429",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "2.302",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259411.799",
+    "complemento": "DEBITO PIX - DJALMA JULIAN DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259411.799",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259411.799",
+    "complemento": "EST PIX TRANSF PAG",
+    "credito": false,
+    "debito": true,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259411.799",
+    "complemento": "ESTORNO PIX - DJALMA JULIAN DOS SANTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "618.903.2",
+    "complemento": "CR. INTERNET -  JIDI CONFECCOES LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259439.584",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259439.584",
+    "complemento": "DEBITO PIX - DJALMA JULIAN DOS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 4.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259886.214",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259885.860",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259885.860",
+    "complemento": "DEBITO PIX - Ruan Rodrigues Ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259886.214",
+    "complemento": "DEBITO PIX - CRISTIANE MOREIRA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259886.882",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259886.882",
+    "complemento": "DEBITO PIX - Natanael Felipe Ribeiro",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "2.357",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 35.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "2.413",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.78,
+    "origem": "Extrato"
+  }
+]

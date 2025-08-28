@@ -1,0 +1,6599 @@
+[
+  {
+    "data": "02/05/2023",
+    "documento": "513155",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 6068.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.247.499-**",
+    "credito": true,
+    "debito": false,
+    "valor": 1637.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANDRE OSNI DUARTE ***.809.399-**",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DORIVAL DIEGO HERRMANN ***.081.349-**",
+    "credito": false,
+    "debito": true,
+    "valor": 153.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ HENRIQUE GONCALVES DO NASCIMENTO HA 35.419.918 0001-54",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6944444",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: DERLEI WEBER TRANSFERÊNCIA PIX DERLEI WEBER ***.873.719-** GEAN BEBIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 208.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIR GONCALVES DO NASCIMENTO ***.204.319-** HAVILAH",
+    "credito": false,
+    "debito": true,
+    "valor": 141.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDENILSON CARDOSO FILHO ***.373.679-**",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RODRIGO LEONIR DA SILVA ***.366.869-**",
+    "credito": false,
+    "debito": true,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.508.849-**",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROGERIO LENCINA DOS SANTOS 39.247.430 0001-48",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.069.879-**",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 40.269.869 0001-50",
+    "credito": true,
+    "debito": false,
+    "valor": 3100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 935.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FERNANDO DOS SANTOS ***.068.359-** BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 4502.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 342.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.198.769-**",
+    "credito": true,
+    "debito": false,
+    "valor": 1850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.021.329-**",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.853.139-**",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6945348",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: SARTORI AUTO CENTER EIRELI TRANSFERÊNCIA PIX SARTORI AUTO CENTER EIRELI 08.434.018 0001-03 BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 251.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PETISCARIA ENSEADA DO ARVOREDO LTDA 39.998.725 0001-56",
+    "credito": false,
+    "debito": true,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SILVESTRE PEDRO BITTENCOURT ***.005.489-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMERSON RODRIGUES DE JESUS ***.076.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 427.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEAN ROMEIRO DA SILVA 18.688.239 0001-61 NOTA 84510",
+    "credito": false,
+    "debito": true,
+    "valor": 1157.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEAN ROMEIRO DA SILVA 18.688.239 0001-61 NOTA 84 919",
+    "credito": false,
+    "debito": true,
+    "valor": 461.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "99",
+    "complemento": "DEP.DINHEIRO NOME: JEAN COMERCIO DE BEBIDAS  LTDA CPF CNPJ: 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6948588",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: FRANCIELI CAMATINI 08755960960 TRANSFERÊNCIA PIX FRANCIELI CAMATINI 08755960960 33.329.997 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.584.369-**",
+    "credito": true,
+    "debito": false,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6948666",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 52407.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6948724",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 10828.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6948739",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 3037.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 4400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "6948753",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 4680.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAIARA DA SILVA BORGES ***.143.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 1325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 709.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CABRAL R E P LTDA 28.109.686 0001-72",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 4558.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FRANCIELI CAMATINI 08755960960 33.329.997 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ FERNANDO DE SOUZA ***.232.179-**",
+    "credito": false,
+    "debito": true,
+    "valor": 489.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RECANTO CAIXA DACO BAR FLUTUANTE LTDA ME 07.780.700 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 2032.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAPPTA 13.966.572 0001-71",
+    "credito": false,
+    "debito": true,
+    "valor": 6136.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARINEZ BARBOZA DE OLIVEIRA ***.433.089-** GEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 576.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ ANTONIO SEGATA AMORIM ***.124.819-**",
+    "credito": false,
+    "debito": true,
+    "valor": 3600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DO MANO 30.242.394 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDINEI DE OLIVEIRA FERREIRA 026675049 41.533.476 0001-75",
+    "credito": false,
+    "debito": true,
+    "valor": 723.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDINEI DE OLIVEIRA FERREIRA 026675049 41.533.476 0001-75 MARIA CHORONA",
+    "credito": false,
+    "debito": true,
+    "valor": 2542.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEONARDO GOMES ***.316.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 385.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SUPERMERCADO BIG BOM LTDA 28.136.202 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 519.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 18 377 925 HUMBERTO MARASCHI 18.377.925 0001-11 CARNE HAMBURGUER 02/05/2023 000.456 CHEQUE COMPE INTEGRADA 14.373,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 1039.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "514475",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 5.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "0066218901",
+    "complemento": "DÉB.IOF EMPRÉSTIMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1342.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "IOF/2-5",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 0.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2023",
+    "documento": "IOF/2-5",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 58.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "513975",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 77787.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSIANE BENTA DA SILVA 12.639.652 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 5003.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SANDRO JOEL DE ANDRADE ***.449.630-**",
+    "credito": false,
+    "debito": true,
+    "valor": 217.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SABOR PAULISTA RESTAURANTE LTDA 47.057.759 0001-74",
+    "credito": false,
+    "debito": true,
+    "valor": 174.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FRANCIELE DOMINGUES DOS SANTOS ***.041.459-**",
+    "credito": false,
+    "debito": true,
+    "valor": 276.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VENDELINO RODRIGUES ***.334.749-**",
+    "credito": false,
+    "debito": true,
+    "valor": 646.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 440.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARIA PUREZA SANTANA ***.616.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2504.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARIA PUREZA SANTANA ***.616.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1798.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BOI BERRANTE ACOUGUE CORTES  FINOS LTDA 49.427.654 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 662.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 50164426 JOHNATAN DA SILVA OLIVEIRA 50.164.426 0001-59",
+    "credito": false,
+    "debito": true,
+    "valor": 8120.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUCIANA PEREIRA MANOEL BRAATZ ***.559.759-**",
+    "credito": false,
+    "debito": true,
+    "valor": 142.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALBERIONE MARCIO PRATI 14.510.054 0001-01",
+    "credito": false,
+    "debito": true,
+    "valor": 2890.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GUILHERME CARVALHO WALTRICK 17.237.415 0001-86",
+    "credito": false,
+    "debito": true,
+    "valor": 107.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSENERI APARECIDA SILVA ***.546.209-**",
+    "credito": false,
+    "debito": true,
+    "valor": 961.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROMANIACOS HAMBURGUERIA E  CHOPERIA LTDA 42.678.396 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIARA MARIA VIEIRA 08257851973 46.739.698 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 1863.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OBBABIER PETISCARIA E CHOPERIA  LTDA 10.195.492 0001-71",
+    "credito": false,
+    "debito": true,
+    "valor": 999.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FABIO AZAMBUJA BRIAO ***.169.670-**",
+    "credito": false,
+    "debito": true,
+    "valor": 277.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX KEILA SILVA CAMARGO ***.261.549-**",
+    "credito": false,
+    "debito": true,
+    "valor": 469.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANDRE OSNI DUARTE ***.809.399-**",
+    "credito": false,
+    "debito": true,
+    "valor": 185.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELZA DE SOUZA ***.233.238-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 500.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ERIVELTO LEAL DOS SANTOS ***.019.859-**",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 26.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALCIDINA APARECIDA CHAVES PAIM ***.399.109-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDEVALDO ZUNINO ***.172.589-**",
+    "credito": false,
+    "debito": true,
+    "valor": 285.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 96.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA CLAUDIA VATRIM FERNANDES ***.366.879-**",
+    "credito": false,
+    "debito": true,
+    "valor": 491.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2023",
+    "documento": "515385",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 73.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "514949",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 28230.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "00394987",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 6082.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX STTUDIO PORCELANATOS LTDA 36.340.530 0001-26",
+    "credito": false,
+    "debito": true,
+    "valor": 635.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 5142.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARF LANCHONETE 34.145.024 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 379.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6961153",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 5127.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6961156",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 117.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6961159",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 2806.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6961215",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: LUIZ ROBERTO GONZAGA TRANSFERÊNCIA PIX LUIZ ROBERTO GONZAGA ***.967.319-**",
+    "credito": false,
+    "debito": true,
+    "valor": 242.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOVITO CAPISTRANO ***.211.509-**",
+    "credito": false,
+    "debito": true,
+    "valor": 908.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6961576",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: CARLOS ANTONIO ALTHOFF TRANSFERÊNCIA PIX CARLOS ANTONIO ALTHOFF 08.738.851 0001-48",
+    "credito": false,
+    "debito": true,
+    "valor": 2532.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARAMELIA ATELIE DOCES E PAES  LTDA 43.437.618 0001-26",
+    "credito": false,
+    "debito": true,
+    "valor": 294.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUANA JAHN LINHARES 27.244.729 0001-60",
+    "credito": false,
+    "debito": true,
+    "valor": 1214.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DAIANE C S 07129537957 24.665.072 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1478.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EVANDRO CEZAR SETIM ***.246.599-** JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 595.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FONTE BAR E COZINHA LTDA 47.851.717 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 157.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSELI FACCIO DA SILVA PREMOLI DEGUCHI 5 30.401.567 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 176.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SERLY INES MAYER ***.303.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1449.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAFETERIA E CHOCOLATERIA JRLL 43.217.158 0001-20 BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 431.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMERSON DE OLIVEIRA RANG ***.388.460-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2488.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 49.051.636 GESIANE ORLANDI RAULINO 49.051.636 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 167.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6962207",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCELO RICARDO HACKENHAAR TRANSFERÊNCIA PIX MARCELO RICARDO HACKENHAAR 19.053.804 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 234.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NILTON RIBEIRO DE MENEZES 43919251091 40.803.312 0001-58",
+    "credito": false,
+    "debito": true,
+    "valor": 1278.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.651.499-**",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "3078",
+    "complemento": "DEP.DINHEIRO - INTERCREDIS",
+    "credito": false,
+    "debito": true,
+    "valor": 907.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLEITON LARA DOS SANTOS ***.419.649-** BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 491.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PESQUE PAGUE DO OPA LTDA 20.849.185 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 614.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA RITA CARDOSO DE MORAIS ME 23.433.020 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 1183.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VALDIR ORSI JUNIOR ***.475.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 382.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6963336",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 5049.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6963443",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 4690.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6963462",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 6071.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELZA DE SOUZA ***.233.238-**",
+    "credito": false,
+    "debito": true,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "DÉBITO DEVOLUÇÃO PIX ***.233.238-**",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANI DE AMARAL MEI 40.978.525 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 2044.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.207.339-**",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JURACI MARIA ***.056.229-**",
+    "credito": false,
+    "debito": true,
+    "valor": 67.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDINEI DE OLIVEIRA FERREIRA 026675049 41.533.476 0001-75 MARIA CHORONA",
+    "credito": false,
+    "debito": true,
+    "valor": 1445.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSINI E ROSINI RESTAURANTE L 05.392.059 0001-96",
+    "credito": false,
+    "debito": true,
+    "valor": 6617.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDINEI DE OLIVEIRA FERREIRA 026675049 41.533.476 0001-75 MARIA CHORONA",
+    "credito": false,
+    "debito": true,
+    "valor": 119.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OTHER SOCCER CHOPPER EIRELI ME 28.132.953 0001-22",
+    "credito": false,
+    "debito": true,
+    "valor": 179.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOHNATAN DA SILVA OLIVEIRA ***.397.795-**",
+    "credito": false,
+    "debito": true,
+    "valor": 492.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JUREMA BATISTA ***.130.747-**",
+    "credito": false,
+    "debito": true,
+    "valor": 774.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 363.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELEANO POMPEU ***.100.249-**",
+    "credito": false,
+    "debito": true,
+    "valor": 604.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JAIRO SILVA ***.286.419-**",
+    "credito": false,
+    "debito": true,
+    "valor": 112.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSE ALBINO DE OLIVEIRA 42.228.272 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 507.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DEC COMERCIO E VAREJO DE ALIME 37.738.967 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 538.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6965913",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 186.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "6965915",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO 04/05/2023 194 CÓPIA/2ª VIA DE COMPROVANTE  DOCUMENTOS 3,38D",
+    "credito": true,
+    "debito": false,
+    "valor": 114.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "516320",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 32.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2023",
+    "documento": "0039498742",
+    "complemento": "DÉB.SEGURO EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 122.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "SEM",
+    "complemento": "PAR DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2135.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "515896",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 11427.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PETISCARIA ENSEADA DO ARVOREDO LTDA 39.998.725 0001-56",
+    "credito": false,
+    "debito": true,
+    "valor": 341.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLEITON IRINEU MATIAS ***.431.589-**",
+    "credito": false,
+    "debito": true,
+    "valor": 105.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELIZETE MACHADO ***.505.819-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1601.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDUARDO AUGUSTO PEREIRA ***.504.159-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1708.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "662189",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TUANI REGINA DE MELO MACHADO 38.471.616 0001-13",
+    "credito": false,
+    "debito": true,
+    "valor": 3043.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "6967212",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: FRANCIELI CAMATINI 08755960960 TRANSFERÊNCIA PIX FRANCIELI CAMATINI 08755960960 33.329.997 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ST PATRICK LIQUOR STORE  CONVENIENCIA LTD 47.014.020 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 785.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX HELOISA DA SILVA COSTA ***.815.299-** PIX PARA JEAN LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 103.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SEBASTIAO ANTONIO RODRIGUES  FERREIRA 037 43.057.423 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ FERNANDO DE SOUZA ***.232.179-**",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OKKAH SANDUICHERIA LTDA 08.977.475 0001-44",
+    "credito": false,
+    "debito": true,
+    "valor": 1329.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELEANDRO TIL ***.693.559-**",
+    "credito": false,
+    "debito": true,
+    "valor": 227.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PAI E FILHOS LTDA 49.679.678 0001-31",
+    "credito": false,
+    "debito": true,
+    "valor": 246.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "662189",
+    "complemento": "ESTORNO DÉB.EMPRÉSTIMO",
+    "credito": false,
+    "debito": true,
+    "valor": 150000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "662189",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANI DE AMARAL MEI 40.978.525 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 668.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "6968017",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 3001.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AMARAL 2 IRMAOS LTDA 43.353.120 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 914.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "6968437",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: 48.744.961 VALTER SILVIO DA  COSTA TRANSFERÊNCIA PIX 48.744.961 VALTER SILVIO DA COSTA  JUNIOR 48.744.961 0001-37 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 1524.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELAINE 0 27.313.158 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 1202.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "6969516",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: RENO ROBSON OLIVEIRA GARCIA TRANSFERÊNCIA PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADAO VERLIM CANDIDO ***.355.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 413.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DUTRA 45.212.000 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 886.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.737.789-**",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LIDIA ELZA FLORENCIO DOS SANTOS ***.651.229-**",
+    "credito": false,
+    "debito": true,
+    "valor": 783.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSE RICARDO MARTINES VARGAS ***.000.410-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1378.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALINE DOS SANTOS DA SILVA CARDOSO ***.730.839-**",
+    "credito": false,
+    "debito": true,
+    "valor": 131.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX REGELAINE ALVES DE SOUZA ***.533.619-**",
+    "credito": false,
+    "debito": true,
+    "valor": 985.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GUILHERME PINTO ***.781.969-**",
+    "credito": false,
+    "debito": true,
+    "valor": 463.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX O TIJUCANO RESTAURANTE PUB LTDA 07.213.557 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 224.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BAY SUSHI LTDA 48.510.329 0001-29",
+    "credito": false,
+    "debito": true,
+    "valor": 892.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCIA BONKOSKI CARNETTI  00441710050 45.267.813 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 209.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 177.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARENA 48 BEACH SPORTS LTDA 44.033.909 0001-11",
+    "credito": false,
+    "debito": true,
+    "valor": 617.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 48.933.933 GABRIEL BATISTA  MAGALHAES 48.933.933 0001-68",
+    "credito": false,
+    "debito": true,
+    "valor": 103.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2023",
+    "documento": "517217",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "516770",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 9056.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.302.529-**",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VALDIR ORSI JUNIOR ***.475.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "3066",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: FABIO AZAMBUJA BRIAO TRANSFERÊNCIA PIX FABIO AZAMBUJA BRIAO ***.169.670-** JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 189.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDUARDO ADELAR OTAVIO ***.487.969-**",
+    "credito": false,
+    "debito": true,
+    "valor": 162.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1362.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1055.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CANTINA DILDA LTDA ME 82.177.973 0001-65",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADAO VERLIM CANDIDO ***.355.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 722.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX HIGOR VICENTE DIAS ***.918.159-**",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELIENE SILVA MACHADO ***.758.237-**",
+    "credito": false,
+    "debito": true,
+    "valor": 167.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DORIVAL DIEGO HERRMANN ***.081.349-**",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARF LANCHONETE 34.145.024 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARF LANCHONETE 34.145.024 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 88.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEAN ROMEIRO DA SILVA 18.688.239 0001-61 NOTA 86223",
+    "credito": false,
+    "debito": true,
+    "valor": 359.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEANDRO SOUZA DA SILVA ***.941.999-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1044.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLEUSA SENIRA DA SILVA SANTOS ***.734.909-**",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 12025.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "6977001",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCELO RICARDO HACKENHAAR TRANSFERÊNCIA PIX MARCELO RICARDO HACKENHAAR 19.053.804 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 1053.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 814.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GILMAR KLUGE ***.297.399-**",
+    "credito": false,
+    "debito": true,
+    "valor": 7621.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "6980074",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 26002.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MADALENA BURGUER 27.894.584 0001-42 08/05/2023 103 DEP.CHEQUE BLOQ.1D 20.453,27*",
+    "credito": false,
+    "debito": true,
+    "valor": 269.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "0305202311",
+    "complemento": "CRÉD.DISTRIBUIÇÃO SOBRAS/VALORES",
+    "credito": false,
+    "debito": true,
+    "valor": 5578.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLOS ALEXANDRE DA SILVA ***.908.709-** JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 1072.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELEN BORGES DE SOUZA ***.529.990-**",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIANA NUNES ***.169.409-** SKY",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PAULO SERGIO TOMKELSKI JUNIOR ***.220.519-**",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BRAVA CONVENIENCIA LTDA 42.265.260 0001-39",
+    "credito": false,
+    "debito": true,
+    "valor": 2001.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDEMIR COSTA DA MACENA ***.785.499-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SERLY INES MAYER ***.303.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1449.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "518271",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2023",
+    "documento": "0000518601",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 4059.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "517725",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 28621.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DIRLEI DA SILVA DECEZERE ***.179.839-** 09/05/2023 99 DEP.CHEQUE BLOQ.1D 9.805,07*",
+    "credito": false,
+    "debito": true,
+    "valor": 562.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ODETE NOVELO ***.301.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1508.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VALERIO DAHLANIO ***.979.929-**",
+    "credito": false,
+    "debito": true,
+    "valor": 347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DUTRA 45.212.000 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 808.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ CARLOS TOSTA ***.750.559-**",
+    "credito": false,
+    "debito": true,
+    "valor": 165.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DISTRITO 92 32.855.114 0001-00 09/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 4.059,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 8046.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EVERTON MANOEL 11400525942 32.920.552 0001-04",
+    "credito": false,
+    "debito": true,
+    "valor": 305.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEONARDO FABIO VURTUOSO ***.706.589-**",
+    "credito": false,
+    "debito": true,
+    "valor": 218.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SEBASTIAO ANTONIO RODRIGUES  FERREIRA 037 43.057.423 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 562.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENI TEREZINHA ESPINOLA RAMOS ***.381.889-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PAULO HENRIQUE CORDEIRO ***.275.059-**",
+    "credito": false,
+    "debito": true,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SONIA ALBRECH DO NASCIMENTO ***.097.420-**",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "6986887",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: FRANCIELI CAMATINI 08755960960 TRANSFERÊNCIA PIX FRANCIELI CAMATINI 08755960960 33.329.997 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SHEILA MARIA DE SOUSA ***.046.819-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1888.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DO MANO 30.242.394 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LANCHONETE DO ZECA LTDA 09.328.334 0001-63",
+    "credito": false,
+    "debito": true,
+    "valor": 822.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDUARDO ADELAR OTAVIO ***.487.969-**",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DOCE REQUINTE PANIFICADORA E  CONFEITARIA 21.804.454 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 447.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIS MAURO GARCIA DOS SANTOS ***.151.369-**",
+    "credito": false,
+    "debito": true,
+    "valor": 264.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AGUIA SUPERMERCADO LTDA 18.829.560 0001-19 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 129.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADAO VERLIM CANDIDO ***.355.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 149.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 96.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAICON CESAR CASTRO ***.744.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIANO VALERIO PRESTES ***.545.079-**",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "6989129",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: DINHOS BAR LTDA TRANSFERÊNCIA PIX DINHOS BAR LTDA 44.347.070 0001-96 PGMT CH DV",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "000048",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 2146.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "000218",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "103",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 2746.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "103",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 17707.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "519265",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2023",
+    "documento": "0000475401",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "518777",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 33889.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA PAULA OLEINIK ***.597.699-**",
+    "credito": false,
+    "debito": true,
+    "valor": 956.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE SABOR DO MORRETES 30.217.297 0001-02",
+    "credito": false,
+    "debito": true,
+    "valor": 107.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 19 682 761 MARIA NILDA DE OLIVEIRA 19.682.761 0001-07 PAGAMENTO BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 247.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SANDRO JOEL DE ANDRADE ***.449.630-**",
+    "credito": false,
+    "debito": true,
+    "valor": 253.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "270029708",
+    "complemento": "CRÉD.TED-STR ALIRIO M. A. RESTAURANTE LTDA 46.634.948 0001-08 CODIGO TED: T832135192",
+    "credito": false,
+    "debito": true,
+    "valor": 4144.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIARA MARIA VIEIRA 08257851973 46.739.698 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 1246.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "6992804",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62 JEAN NOTA 87226",
+    "credito": false,
+    "debito": true,
+    "valor": 899.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALCIDINA APARECIDA CHAVES PAIM ***.399.109-**",
+    "credito": false,
+    "debito": true,
+    "valor": 562.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 197.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROGERIO LENCINA DOS SANTOS 39.247.430 0001-48 10/05/2023 100 DEP.CHEQUE BLOQ.1D 22.348,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 131.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "662189",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OBBABIER PETISCARIA E CHOPERIA  LTDA 10.195.492 0001-71 10/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 13.000,00* 10/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 2.146,22* 10/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 600,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 799.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEILA NANCI SOUZA SILVA ***.759.699-**",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEILA NANCI SOUZA SILVA ***.759.699-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ FERNANDO PRIESNITZ ***.691.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX COND EDIF VILLA DOS CORAIS  RESIDENCE 11.505.764 0001-55 PGTO JEAN COMERCIO DE BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 434.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX COND EDIF VILLA DOS CORAIS  RESIDENCE 11.505.764 0001-55 JEAN COMERCIO DE BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 362.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO SILVA FILHO ***.948.499-**",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 49.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SERLY INES MAYER ***.303.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1665.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "000490",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 9685.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 4059.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2023",
+    "documento": "520408",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 95707.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "519838",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 25833.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 50075538 EMERSON JERONIMO MARTINS 50.075.538 0001-33",
+    "credito": false,
+    "debito": true,
+    "valor": 481.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "4",
+    "complemento": "SAQUE NA AGENCIA NOME: JEAN GONÇALVES FILHO CPF: 040.499.659-09 11/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 120,00*",
+    "credito": true,
+    "debito": false,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ HENRIQUE GONCALVES DO NASCIMENTO HA 35.419.918 0001-54",
+    "credito": false,
+    "debito": true,
+    "valor": 273.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "7001686",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 363.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSELI FACCIO DA SILVA PREMOLI DEGUCHI 5 30.401.567 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 273.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NILTON RIBEIRO DE MENEZES 43919251091 40.803.312 0001-58",
+    "credito": false,
+    "debito": true,
+    "valor": 1343.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BOI BERRANTE ACOUGUE CORTES  FINOS LTDA 49.427.654 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 532.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BOI BERRANTE ACOUGUE CORTES  FINOS LTDA 49.427.654 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 532.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "DÉBITO DEVOLUÇÃO PIX 49.427.654 0001-95",
+    "credito": true,
+    "debito": false,
+    "valor": 532.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JANE RIBEIRO BATISTA ***.458.398-**",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PEDRO JOSE HAAS 59385863991 29.964.171 0001-12",
+    "credito": false,
+    "debito": true,
+    "valor": 1963.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 09.348.827 0001-65",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "7003691",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MOVEIS VENZON NETO LTDA TRANSFERÊNCIA PIX MOVEIS VENZON NETO LTDA 29.390.434 0001-27",
+    "credito": false,
+    "debito": true,
+    "valor": 162.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 207.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CRISTIAN IURI KOEHLER DA SILVA ***.771.199-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2901.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "7004100",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: RR LOGTRANS LTDA TRANSFERÊNCIA PIX RR LOGTRANS LTDA 23.515.385 0002-06",
+    "credito": false,
+    "debito": true,
+    "valor": 1605.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSINI E ROSINI RESTAURANTE L 05.392.059 0001-96",
+    "credito": false,
+    "debito": true,
+    "valor": 5525.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TUANI REGINA DE MELO MACHADO 38.471.616 0001-13",
+    "credito": false,
+    "debito": true,
+    "valor": 2457.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.702.769-**",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "000011",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 22-DIVERGÊNCIA OU INSUFICIÊNCIA  ASSINATU",
+    "credito": true,
+    "debito": false,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "850013",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "000048",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 12-CHEQUES SEM FUNDOS - 2  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 2146.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "000218",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 12-CHEQUES SEM FUNDOS - 2  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 12246.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 12848.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "521345",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2023",
+    "documento": "0000507501",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "520917",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 19837.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GERACAO ADVENTURE EVENTOS LTDA 47.442.029 0001-97 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 720.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDISON ANTONIO DA SILVA 34.180.260 0001-08",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDSON JOSE DE SOUZA ***.481.829-**",
+    "credito": false,
+    "debito": true,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "7006473",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62 NOTA E CHEQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 4939.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MONIQUE CONCEICAO SILVA DOS  SANTOS ***.325.057-**",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CRISTIANE PEREIRA ***.867.989-** 12/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 3.000,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELAINE 0 27.313.158 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 1059.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DHENIFER EDUARDA DO AMARAL ***.499.799-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2184.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLA CASAGRANDA MENEGHETTI DOS SANTOS 0 48.292.218 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BRUNA VALENTE ***.343.518-**",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "47",
+    "complemento": "SAQUE NA AGENCIA NOME: JEAN GONÇALVES FURTADO CPF: 040.499.659-09",
+    "credito": true,
+    "debito": false,
+    "valor": 49900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX REGELAINE ALVES DE SOUZA ***.533.619-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1261.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CONVENIENCIA ME 39.808.800 0001-79",
+    "credito": false,
+    "debito": true,
+    "valor": 500.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JAILSON JANICIO GUEDES ***.344.319-**",
+    "credito": false,
+    "debito": true,
+    "valor": 509.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SPEED TELECOM LTDA 39.155.686 0001-25",
+    "credito": false,
+    "debito": true,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDEVALDO EGIDIO DAS LUZES ***.539.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 418.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANDERSON ROCHA STURMER ***.605.519-** 12/05/2023 99 DEP.CHEQUE BLOQ.1D 16.458,08*",
+    "credito": false,
+    "debito": true,
+    "valor": 2076.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.702.769-**",
+    "credito": true,
+    "debito": false,
+    "valor": 1242.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "7008670",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCELO RICARDO HACKENHAAR TRANSFERÊNCIA PIX MARCELO RICARDO HACKENHAAR 19.053.804 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAFAEL TEIXEIRA PINHEIRO 38.312.360 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 2220.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 259.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSENERI APARECIDA SILVA ***.546.209-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2146.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BRASIL TECH SUL MAQUINAS 16.564.832 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 396.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADRIANO OSNI VIEIRA DE OLIVEIRA  08553496 40.269.869 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "7010616",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 333.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "000490",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 12-CHEQUES SEM FUNDOS - 2  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO 12/05/2023 000.457 CHEQUE COMPE INTEGRADA 5.225,01D",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2023",
+    "documento": "522306",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 28.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "521891",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 11407.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSIMERE ROQUE 03151385990 15.590.257 0001-18",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX WZ RESTAURANTE LTDA 01.993.913 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 3349.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1063.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 215.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSE HIGINO DA SILVA NETO ***.393.679-**",
+    "credito": false,
+    "debito": true,
+    "valor": 440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CLAUDEMIR COSTA DA MACENA ***.785.499-**",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIO CESAR DA SILVA LANCHONETE 24.858.784 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAICON CESAR CASTRO ***.744.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAICON CESAR CASTRO ***.744.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SILVESTRE PEDRO BITTENCOURT ***.005.489-** 15/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 9.740,36*",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "7014170",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 13825.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DEC COMERCIO E VAREJO DE ALIME 37.738.967 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 854.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 18021.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 03.524.866 0001-90",
+    "credito": true,
+    "debito": false,
+    "valor": 590.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE COSTA E MARQUES  LTDA 22.076.321 0001-02",
+    "credito": false,
+    "debito": true,
+    "valor": 1192.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLA IRENE DA SILVA ***.744.699-**",
+    "credito": false,
+    "debito": true,
+    "valor": 35.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 40.269.869 0001-50",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SUPERMERCADO BIG BOM LTDA 28.136.202 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 1038.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEAN ROMEIRO DA SILVA 18.688.239 0001-61 NOTA 86613",
+    "credito": false,
+    "debito": true,
+    "valor": 717.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX COMPARTS LTDA 03.195.677 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 3805.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SUSANA REGINA DE SENA FELISBERTO ***.298.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAPPTA 13.966.572 0001-71",
+    "credito": false,
+    "debito": true,
+    "valor": 5898.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DAMIAN SILVA COMERCIO DE GENEROS  ALIMENT 34.793.336 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 8094.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ACADEMIA NOVA FORMA LTDA 20.792.820 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "000118",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 21-CONTRA-ORDEM OU OPOSIÇÃO AO  PAGAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 240.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "001264",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1915.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 14542.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2023",
+    "documento": "523341",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "522790",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 33306.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROGERIO BETINELLI ***.345.439-**",
+    "credito": false,
+    "debito": true,
+    "valor": 128.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DIRLEI DA SILVA DECEZERE ***.179.839-**",
+    "credito": false,
+    "debito": true,
+    "valor": 562.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMERSON RODRIGUES DE JESUS ***.076.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 422.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FERREIRA & CAMARGO VIDROS E ALUMINIO 05.548.038 0001-17 16/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 1.675,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 1093.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ODETE NOVELO ***.301.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "7022842",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: 48.744.961 VALTER SILVIO DA  COSTA TRANSFERÊNCIA PIX 48.744.961 VALTER SILVIO DA COSTA  JUNIOR 48.744.961 0001-37 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 547.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FELIPE ALEXANDRE ***.796.059-** 16/05/2023 100 DEP.CHEQUE BLOQ.1D 35.730,15*",
+    "credito": false,
+    "debito": true,
+    "valor": 293.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MINI MERCADO GOLFINHO LTDA 42.620.800 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 80.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCOS AURELIO MARTINS  02953262989 29.868.570 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 371.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SONIA ALBRECH DO NASCIMENTO ***.097.420-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DOCE REQUINTE PANIFICADORA E  CONFEITARIA 21.804.454 0001-95",
+    "credito": false,
+    "debito": true,
+    "valor": 842.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEME SILVA COMERCIO DE COMBUSTIVEIS E 31.575.975 0001-71 JEAN BEBIDAS POLAR",
+    "credito": false,
+    "debito": true,
+    "valor": 311.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GUILHERME PINTO ***.781.969-**",
+    "credito": false,
+    "debito": true,
+    "valor": 253.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FERREIRA & CAMARGO VIDROS E ALUMINIO 05.548.038 0001-17",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO PEDRO CARDOSO SILVESTRE ***.125.309-**",
+    "credito": false,
+    "debito": true,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "7025298",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB 16/05/2023 194 CÓPIA/2ª VIA DE COMPROVANTE  DOCUMENTOS 6,76D",
+    "credito": true,
+    "debito": false,
+    "valor": 2339.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "006102",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "524223",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 33.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2023",
+    "documento": "0000470801",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 635.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "523796",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 27314.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7026570",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 4091.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7026573",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 4091.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7026618",
+    "complemento": "DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 555.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7026691",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JERUSA HELENA FLORENCIO TRANSFERÊNCIA PIX JERUSA HELENA FLORENCIO 10.415.751 0001-22",
+    "credito": false,
+    "debito": true,
+    "valor": 295.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PAULO CESAR DE CAMARGO 27.450.240 0001-44",
+    "credito": false,
+    "debito": true,
+    "valor": 1283.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 19 682 761 MARIA NILDA DE OLIVEIRA 19.682.761 0001-07 BEBIDAS DIA 17 DE MAIO",
+    "credito": false,
+    "debito": true,
+    "valor": 572.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SABOR PAULISTA RESTAURANTE LTDA 47.057.759 0001-74",
+    "credito": false,
+    "debito": true,
+    "valor": 386.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VENDELINO RODRIGUES ***.334.749-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1030.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NELLES ROBERTO DORNELLES  02946091058 38.649.243 0001-28 17/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 9.740,36*",
+    "credito": false,
+    "debito": true,
+    "valor": 1764.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCADO MENA LTDA 44.391.609 0001-04",
+    "credito": false,
+    "debito": true,
+    "valor": 1510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO GABRIEL WESTPHAL 06292014983 44.280.473 0001-65",
+    "credito": false,
+    "debito": true,
+    "valor": 213.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIARA MARIA VIEIRA 08257851973 46.739.698 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 481.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 225.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CHIERLEI MAAS BRANDES ***.613.809-**",
+    "credito": false,
+    "debito": true,
+    "valor": 288.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7027634",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62 NOTA 87631 17/05/2023 100 DEP.CHEQUE BLOQ.1D 11.170,79*",
+    "credito": false,
+    "debito": true,
+    "valor": 2473.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DO MANO 30.242.394 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ACADEMIA NOVA FORMA LTDA 20.792.820 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 175.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSMAR COMPER FILHO 65246110982 34.534.039 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADOLAR SERAFIM 08.308.783 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MOBEL MOVEIS SOB MEDIDA EIRELI 20.085.032 0001-44",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 363.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO ANDRE BALTAZAR 21.670.763 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARINEZ BARBOZA DE OLIVEIRA ***.433.089-** BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 674.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLOS ALEXANDRE DA SILVA ***.908.709-** JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 458.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "7029757",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: FELIPE LUIZ BENATTI TRANSFERÊNCIA PIX FELIPE LUIZ BENATTI ***.872.159-**",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BAY SUSHI LTDA 48.510.329 0001-29",
+    "credito": false,
+    "debito": true,
+    "valor": 1170.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCIA BONKOSKI CARNETTI  00441710050 45.267.813 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSE ALBINO DE OLIVEIRA 42.228.272 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 606.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "000010",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "000198",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 21-CONTRA-ORDEM OU OPOSIÇÃO AO  PAGAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "001264",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 12-CHEQUES SEM FUNDOS - 2  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 4275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 33130.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2023",
+    "documento": "525117",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 29.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "524748",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 18745.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALBERIONE MARCIO PRATI 14.510.054 0001-01",
+    "credito": false,
+    "debito": true,
+    "valor": 840.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JS INDUSTRIA E COMERCIO DE CINTOS  E CALC 28.959.878 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 103.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CRISTINA MESSIAS DE FREITAS ***.250.359-**",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ HENRIQUE G DO N RESTAURANTE BISTRO 46.696.461 0001-41",
+    "credito": false,
+    "debito": true,
+    "valor": 215.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSELI FACCIO DA SILVA PREMOLI DEGUCHI 5 30.401.567 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 347.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ CARLOS TOSTA ***.750.559-**",
+    "credito": false,
+    "debito": true,
+    "valor": 145.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NILTON RIBEIRO DE MENEZES 43919251091 40.803.312 0001-58",
+    "credito": false,
+    "debito": true,
+    "valor": 1429.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEFERSON LUIZ MALLMANN ***.912.830-**",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "3078",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: RONILSON CARDOSO TRANSFERÊNCIA PIX RONILSON CARDOSO ***.773.989-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCADO RUZZA LTDA 39.379.366 0001-59",
+    "credito": false,
+    "debito": true,
+    "valor": 1188.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA RITA CARDOSO DE MORAIS ME 23.433.020 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 1660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIANO BRITOS TAMAZZIA ***.726.729-** 18/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 1.800,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 51355.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX UVEL COMERCIAL DE VEICULOS LTD 03.047.652 0003-31",
+    "credito": false,
+    "debito": true,
+    "valor": 376.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CITROFREE BEBIDAS LTDA 12.829.881 0001-37 JEAN COMERCIO DE BEBIDAS-CHAPA  FABRICA",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "7034107",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: AMANDA LOPES WILL 13833924985 TRANSFERÊNCIA PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 11170.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2023",
+    "documento": "525883",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 19.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "ICATU",
+    "complemento": "CAPI DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CASAGRANDE GRILL EIRELI 28.893.167 0001-48",
+    "credito": false,
+    "debito": true,
+    "valor": 3104.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "525531",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 30843.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GERACAO ADVENTURE PARK LTDA 44.683.922 0001-16 BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 326.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "7035651",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCOS BOVEE TRANSFERÊNCIA PIX MARCOS BOVEE 00.302.145 0001-47",
+    "credito": false,
+    "debito": true,
+    "valor": 245.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.874.825-**",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDISON ANTONIO DA SILVA 34.180.260 0001-08",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "7035763",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62 NOTA 87767",
+    "credito": false,
+    "debito": true,
+    "valor": 4050.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANE DE OLIVEIRA MARCIMIANO ***.684.729-**",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PAI E FILHOS LTDA 49.679.678 0001-31",
+    "credito": false,
+    "debito": true,
+    "valor": 52.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GABRIELE FERNANDES ALVES  MONTEIRO 447853 48.838.516 0001-36 BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 681.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DIOGO DOS SANTOS ***.210.259-**",
+    "credito": false,
+    "debito": true,
+    "valor": 110.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.247.499-**",
+    "credito": true,
+    "debito": false,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AMARAL 2 IRMAOS LTDA 43.353.120 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 1624.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUCAS TADEU ALBINO LUIZ 38456150959 23.024.111 0001-33",
+    "credito": false,
+    "debito": true,
+    "valor": 322.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 226.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEANDRO SOUZA DA SILVA ***.941.999-**",
+    "credito": false,
+    "debito": true,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARMEM LUCIA SERPA ***.938.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARMEM LUCIA SERPA ***.938.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARMEM LUCIA SERPA ***.938.089-**",
+    "credito": false,
+    "debito": true,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARENA 48 BEACH SPORTS LTDA 44.033.909 0001-11",
+    "credito": false,
+    "debito": true,
+    "valor": 140.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DANIEL ELOI FLORENCIO ***.592.359-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1445.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANI DE AMARAL MEI 40.978.525 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 914.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "7038880",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCELO RICARDO HACKENHAAR TRANSFERÊNCIA PIX MARCELO RICARDO HACKENHAAR 19.053.804 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 1063.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENISE FERNANDES MACIEL ***.419.940-**",
+    "credito": false,
+    "debito": true,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO VICTOR FERNANDES SOUZA ***.176.749-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RODRIGO DA SILVA VANDERLINDE ***.653.639-**",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAFAELA RONCONI OLIVEIRA ***.107.909-** 19/05/2023 7040587 DÉB.TRANSF.CONTAS DIF.TIT.  INTERCREDIS 450,00D FAV.: MARIA DAS GRACAS VELHO  NUNES TRANSFERÊNCIA PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 25.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "3088",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: MARIA DAS GRACAS VELHO  NUNES TRANSFERÊNCIA PIX MARIA DAS GRACAS VELHO NUNES 21.306.704 0001-67",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "526622",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2023",
+    "documento": "0000505001",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 12028.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "526272",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 19472.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ERICA BEZERRA DA SILVA ***.519.714-**",
+    "credito": false,
+    "debito": true,
+    "valor": 962.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARIA PUREZA SANTANA ***.616.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1503.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 383.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GABRIEL PEREIRA ***.635.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 298.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JAISON FLORINDO ***.636.629-** 2 CXS HEINEKEN - 3 CXS ORIGINAL",
+    "credito": false,
+    "debito": true,
+    "valor": 965.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIO CESAR DA SILVA LANCHONETE 24.858.784 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.302.529-**",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.242.379-**",
+    "credito": true,
+    "debito": false,
+    "valor": 225.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.281.729-**",
+    "credito": true,
+    "debito": false,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLOS WAGNER ALVES ***.590.969-** KAITO",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GILMAR KLUGE ***.297.399-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2215.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GUILHERME VERI SIMAO ***.601.779-**",
+    "credito": false,
+    "debito": true,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEAN ROMEIRO DA SILVA 18.688.239 0001-61 NOTA 86812",
+    "credito": false,
+    "debito": true,
+    "valor": 429.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "662189",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DUTRA 45.212.000 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 886.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TUANI REGINA DE MELO MACHADO 38.471.616 0001-13",
+    "credito": false,
+    "debito": true,
+    "valor": 1270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7044887",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: LANCHONETE PIZZARIA DO  ZECA LTDA TRANSFERÊNCIA PIX LANCHONETE PIZZARIA DO ZECA LTDA 09.328.334 0001-63",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7045469",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 2750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7045472",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 4821.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7045478",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 3345.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7045481",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 13536.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEFFERSON LUIZ LEMES DA SILVA ***.407.299-** 22/05/2023 99 DEP.CHEQUE BLOQ.1D 40.514,74*",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EDUARDO MACHADO ***.643.129-**",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DAMIAN SILVA COMERCIO DE GENEROS  ALIMENT 34.793.336 0001-70",
+    "credito": false,
+    "debito": true,
+    "valor": 5258.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SHEILA MARIA DE SOUSA ***.046.819-**",
+    "credito": false,
+    "debito": true,
+    "valor": 470.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DEC COMERCIO E VAREJO DE ALIME 37.738.967 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 342.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PETISCARIA SOBRAL LTDA 29.071.020 0001-35",
+    "credito": false,
+    "debito": true,
+    "valor": 598.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7047628",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: RENO ROBSON OLIVEIRA GARCIA TRANSFERÊNCIA PIX RENO ROBSON OLIVEIRA GARCIA ***.515.400-**",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "7048050",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: RENO ROBSON OLIVEIRA GARCIA TRANSFERÊNCIA PIX RENO ROBSON OLIVEIRA GARCIA ***.515.400-**",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2023",
+    "documento": "527486",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "527049",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 36191.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "00561703",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 12206.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELZIRA FLORES ***.797.590-**",
+    "credito": false,
+    "debito": true,
+    "valor": 303.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 09.348.827 0001-65",
+    "credito": true,
+    "debito": false,
+    "valor": 565.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAURICIO ZANELLA 40.977.427 0001-69",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RITA CAROLINA HOSOUME TEODORO  1061978699 48.767.046 0001-67",
+    "credito": false,
+    "debito": true,
+    "valor": 160.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SCHEEREN E SILVEIRA IMOBILIARIA LTDA 33.913.416 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 169.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 34781.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "7049875",
+    "complemento": "DÉB.CONV.TELECOMUNICAÇÕES 23/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 12.028,18*",
+    "credito": true,
+    "debito": false,
+    "valor": 136.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PEDRO FERNANDO BERNARDO NETO ***.665.579-**",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "7050391",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: 48.744.961 VALTER SILVIO DA  COSTA TRANSFERÊNCIA PIX 48.744.961 VALTER SILVIO DA COSTA  JUNIOR 48.744.961 0001-37 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 610.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "7051238",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: CAMILLE VICENTE SILVA NUNES  106138 TRANSFERÊNCIA PIX CAMILLE VICENTE SILVA NUNES  10613859901 47.921.726 0001-20 AGUA",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MADALENA BURGUER 27.894.584 0001-42",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DO MANO 30.242.394 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCOS AURELIO MARTINS  02953262989 29.868.570 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 746.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AGUIA SUPERMERCADO LTDA 18.829.560 0001-19 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 2143.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AGUIA SUPERMERCADO LTDA 18.829.560 0001-19 MOEDAS JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 124.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "7052210",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 10447.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX THIAGO CALONICO ***.909.159-** AGUA",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARLOS ALBERTO ***.116.159-**",
+    "credito": false,
+    "debito": true,
+    "valor": 353.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "850029",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 39514.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "528265",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 37.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "0000477901",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "0000514701",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2023",
+    "documento": "0056170319",
+    "complemento": "DÉB.SEGURO EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 270.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "527894",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 32247.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "7053607",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JERUSA HELENA FLORENCIO TRANSFERÊNCIA PIX JERUSA HELENA FLORENCIO 10.415.751 0001-22",
+    "credito": false,
+    "debito": true,
+    "valor": 944.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "7054033",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62 JEAN 88013",
+    "credito": false,
+    "debito": true,
+    "valor": 9154.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "7054178",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MERCADO CUCO LTDA TRANSFERÊNCIA PIX MERCADO CUCO LTDA 10.197.674 0001-81",
+    "credito": false,
+    "debito": true,
+    "valor": 1640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 56.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 49060566 SEBASTIAO ALMEIDA DE  OLIVEIRA 49.060.566 0001-06 24/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 13.000,00* 24/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 15.000,00* 24/05/2023 REAP99 DEP.CHEQUE BLOQ.1D 1.000,00*",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SABOR PAULISTA RESTAURANTE LTDA 47.057.759 0001-74",
+    "credito": false,
+    "debito": true,
+    "valor": 391.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ CARLOS TOSTA ***.750.559-**",
+    "credito": false,
+    "debito": true,
+    "valor": 122.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "662189",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MADALENA BURGUER 27.894.584 0001-42",
+    "credito": false,
+    "debito": true,
+    "valor": 271.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 294.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NELCI DE SOUZA ***.312.189-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2082.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIARA MARIA VIEIRA 08257851973 46.739.698 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 674.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX COLETTI E PAVAN LTDA 30.184.586 0001-52 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 214.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FERNANDA LOPES ***.453.049-** JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GABRIEL PEREIRA ***.635.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 288.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCIA BONKOSKI CARNETTI  00441710050 45.267.813 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 239.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAPPTA 13.966.572 0001-71",
+    "credito": false,
+    "debito": true,
+    "valor": 2901.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "7056555",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: GILBERTO SARTORI TRANSFERÊNCIA PIX GILBERTO SARTORI ***.750.059-**",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 40.269.869 0001-50",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 12028.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "529027",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 30.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "0000471501",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2023",
+    "documento": "0000506801",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 12028.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "528707",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 15147.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMERSON JERONIMO MARTINS ***.802.449-**",
+    "credito": false,
+    "debito": true,
+    "valor": 233.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARIA PUREZA SANTANA ***.616.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "7057969",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: CARLOS ANTONIO ALTHOFF TRANSFERÊNCIA PIX CARLOS ANTONIO ALTHOFF 08.738.851 0001-48",
+    "credito": false,
+    "debito": true,
+    "valor": 1276.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CARAMELIA ATELIE DOCES E PAES  LTDA 43.437.618 0001-26 88141",
+    "credito": false,
+    "debito": true,
+    "valor": 456.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SERGIO LINAURO DE MAGALHAES ***.659.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 108.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALAN BATISTA DOS SANTOS ***.599.966-**",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EUNICE RIBAS DOS SANTOS PEREIRA ***.299.730-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAMIELI LEIDA FUENTES 29.689.553 0001-85",
+    "credito": false,
+    "debito": true,
+    "valor": 561.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALBERIONE MARCIO PRATI 14.510.054 0001-01",
+    "credito": false,
+    "debito": true,
+    "valor": 2383.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DUTRA 45.212.000 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 199.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAFAEL KOEHLER DA SILVA 31.995.250 0001-32",
+    "credito": false,
+    "debito": true,
+    "valor": 5340.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FONTE BAR E COZINHA LTDA 47.851.717 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 211.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GUILHERME CARVALHO WALTRICK 17.237.415 0001-86",
+    "credito": false,
+    "debito": true,
+    "valor": 161.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUCAS FERNANDO DA SILVEIRA TOSTA ***.220.199-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA PAULA CONSTANCIO ***.181.339-**",
+    "credito": false,
+    "debito": true,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EVERTON MANOEL 11400525942 32.920.552 0001-04",
+    "credito": false,
+    "debito": true,
+    "valor": 305.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SOUZ ASSESSORIA EMPRESARIAL LTDA 38.444.911 0001-80",
+    "credito": false,
+    "debito": true,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARIA PUREZA SANTANA ***.616.009-**",
+    "credito": false,
+    "debito": true,
+    "valor": 572.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEME SILVA COMERCIO DE COMBUSTIVEIS E 31.575.975 0001-71 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 123.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AGUIA SUPERMERCADO LTDA 18.829.560 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FATIMA S 01116644975 31.058.189 0001-05",
+    "credito": false,
+    "debito": true,
+    "valor": 523.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "850029",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 12-CHEQUES SEM FUNDOS - 2  APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "REAP99",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "529786",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 9.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2023",
+    "documento": "0000508201",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "529410",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 21022.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GERACAO ADVENTURE EVENTOS LTDA 47.442.029 0001-97",
+    "credito": false,
+    "debito": true,
+    "valor": 257.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO GABRIEL WESTPHAL 06292014983 44.280.473 0001-65",
+    "credito": false,
+    "debito": true,
+    "valor": 239.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ HENRIQUE G DO N RESTAURANTE BISTRO 46.696.461 0001-41",
+    "credito": false,
+    "debito": true,
+    "valor": 451.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.702.769-**",
+    "credito": true,
+    "debito": false,
+    "valor": 2335.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX M J CONVENIENCIA LTDA 41.608.545 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 1239.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX AGUIA SUPERMERCADO LTDA 18.829.560 0001-19 JEAN BEBIDAS 26/05/2023 REAP100 DEP.CHEQUE BLOQ.1D 12.028,18*",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "7062441",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 5656.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CBRL PETISCARIA EVENTOS LTDA 36.983.471 0001-04",
+    "credito": false,
+    "debito": true,
+    "valor": 365.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "7062457",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: 48.744.961 VALTER SILVIO DA  COSTA TRANSFERÊNCIA PIX 48.744.961 VALTER SILVIO DA COSTA  JUNIOR 48.744.961 0001-37 JEAN BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 609.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARF LANCHONETE 34.145.024 0001-50",
+    "credito": false,
+    "debito": true,
+    "valor": 243.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FERNANDO DOS SANTOS ***.068.359-** BEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 1624.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SOLANGE APARECIDA MOREIRA BIANCHINI 1034 45.913.743 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 432.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SUSANA REGINA DE SENA FELISBERTO ***.298.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GABRIELE FERNANDES ALVES  MONTEIRO 447853 48.838.516 0001-36 DEPOSITO BEBIDA",
+    "credito": false,
+    "debito": true,
+    "valor": 405.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FRANKLIN FERREIRA DE SOUZA  01610914155 38.114.383 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 358.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALAN MEYER DAL BELLO ***.089.791-**",
+    "credito": false,
+    "debito": true,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GIOVANE DE BRITTO MERTENS ***.778.329-**",
+    "credito": false,
+    "debito": true,
+    "valor": 544.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "7063214",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: AUTO POSTO CANAA LTDA TRANSFERÊNCIA PIX JEAN COMERCIO DE BEBIDAS LTDA 17.968.860 0001-16",
+    "credito": true,
+    "debito": false,
+    "valor": 248.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "7063274",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGAMENTO DE CARTÃO DE CRÉDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALBERIONE MARCIO PRATI ***.694.649-**",
+    "credito": false,
+    "debito": true,
+    "valor": 512.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX IVAN ALBUQUERQUE GARCIA PINHO ***.025.798-**",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PAI E FILHOS LTDA 49.679.678 0001-31",
+    "credito": false,
+    "debito": true,
+    "valor": 93.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CONVENIENCIA ME 39.808.800 0001-79",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BOI BERRANTE ACOUGUE CORTES  FINOS LTDA 49.427.654 0001-95 BEBIDA HEINEKEN",
+    "credito": false,
+    "debito": true,
+    "valor": 770.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TOP CHOPP LTDA 37.837.620 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 2110.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANI DE AMARAL MEI 40.978.525 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 900.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELEANO POMPEU ***.100.249-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1481.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 16.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX TATIANE DE OLIVEIRA MARCIMIANO ***.684.729-**",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JURACI MARIA ***.056.229-** 26/05/2023 108 DEP.CHEQUE BLOQ.1D 16.451,63*",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEFERSON LUIZ MALLMANN ***.912.830-**",
+    "credito": false,
+    "debito": true,
+    "valor": 341.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEONARDO FERREIRA DA SILVA ***.205.488-**",
+    "credito": false,
+    "debito": true,
+    "valor": 63.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSIMERE ROQUE 03151385990 15.590.257 0001-18",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DANIEL ELOI FLORENCIO ***.592.359-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1285.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX PETISCARIA ENSEADA DO ARVOREDO LTDA 39.998.725 0001-56",
+    "credito": false,
+    "debito": true,
+    "valor": 818.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "7064227",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: MARCELO RICARDO HACKENHAAR TRANSFERÊNCIA PIX MARCELO RICARDO HACKENHAAR 19.053.804 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 810.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NILTON RIBEIRO DE MENEZES 43919251091 40.803.312 0001-58",
+    "credito": false,
+    "debito": true,
+    "valor": 1054.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSIANE ALDANETE AMORIM ***.871.649-**",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSE VALDIR AMORIM ***.517.789-**",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BAY SUSHI LTDA 48.510.329 0001-29",
+    "credito": false,
+    "debito": true,
+    "valor": 1090.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SAMOEL DA SILVA 09587668944 46.672.825 0001-53",
+    "credito": false,
+    "debito": true,
+    "valor": 277.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.302.529-**",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2023",
+    "documento": "530502",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 18.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "530168",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 20268.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ELAINE 0 27.313.158 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 642.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1989.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADRIANO OSNI DUARTE ***.860.109-**",
+    "credito": false,
+    "debito": true,
+    "valor": 66.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAFAEL DOS SANTOS ***.668.129-**",
+    "credito": false,
+    "debito": true,
+    "valor": 142.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOAO BATISTA ANDRADE DAVILA ***.792.820-**",
+    "credito": false,
+    "debito": true,
+    "valor": 370.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OSEIAS ANTONIO DA SILVA FILHO ***.917.558-**",
+    "credito": false,
+    "debito": true,
+    "valor": 261.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DORIVAL DIEGO HERRMANN ***.081.349-**",
+    "credito": false,
+    "debito": true,
+    "valor": 170.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "108",
+    "complemento": "DEP.DINHEIRO NOME: JEAN COMERCIO DE BEBIDAS  LTDA CPF CNPJ: 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 61068.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA CLAUDIA VATRIM FERNANDES ***.366.879-**",
+    "credito": false,
+    "debito": true,
+    "valor": 615.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GILMAR KLUGE ***.297.399-** 29/05/2023 REAP106 DEP.CHEQUE BLOQ.1D 9.740,36*",
+    "credito": false,
+    "debito": true,
+    "valor": 4863.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VOLNEI SALVIO STALOCH 89642953900 37.154.869 0001-09",
+    "credito": false,
+    "debito": true,
+    "valor": 553.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "86",
+    "complemento": "DEP.DINHEIRO NOME: JEAN COMERCIO DE BEBIDAS  LTDA CPF CNPJ: 17.968.860 0001-16",
+    "credito": false,
+    "debito": true,
+    "valor": 190104.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 26315.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JEFFERSON LUIZ LEMES DA SILVA ***.407.299-**",
+    "credito": false,
+    "debito": true,
+    "valor": 346.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CAMINHO DO MAR LTDA 33.837.399 0001-19",
+    "credito": false,
+    "debito": true,
+    "valor": 1505.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSICLEUTON VIANA GUAJARA ***.490.513-**",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ARIBERTO DRESSEL ***.670.709-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1807.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX 50164426 JOHNATAN DA SILVA OLIVEIRA 50.164.426 0001-59",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE COSTA E MARQUES  LTDA 22.076.321 0001-02",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NATASHA RODRIGUES SIPP ***.325.199-** DESCARGA",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 50568.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "662189",
+    "complemento": "LIBERAÇÃO PARCELA EMPRÉSTIMO",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 45774.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070052",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 43615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SUSANA REGINA DE SENA FELISBERTO ***.298.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 441.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 56.228.356 0019-60",
+    "credito": true,
+    "debito": false,
+    "valor": 49677.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GABRIEL PEREIRA ***.635.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 358.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070465",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 14258.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070467",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 2010.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070469",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 3660.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070481",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 8121.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070484",
+    "complemento": "DÉB.CONV.SANEAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 104.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070528",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 208.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070529",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 131.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070536",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 156.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070537",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 317.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070538",
+    "complemento": "DÉB.CONV.ORGÃOS GOV.",
+    "credito": true,
+    "debito": false,
+    "valor": 142.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070543",
+    "complemento": "DÉB.CONV.ORGÃOS GOV.",
+    "credito": true,
+    "debito": false,
+    "valor": 1247.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "7070545",
+    "complemento": "DÉB.CONV.ORGÃOS GOV.",
+    "credito": true,
+    "debito": false,
+    "valor": 142.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SILVESTRE PEDRO BITTENCOURT ***.005.489-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "REAP100",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 12028.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "108",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO 29/05/2023 000.458 CHEQUE COMPE INTEGRADA 6.325,20D",
+    "credito": false,
+    "debito": true,
+    "valor": 16451.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2023",
+    "documento": "531286",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "530904",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 33424.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DIRLEI DA SILVA DECEZERE ***.179.839-**",
+    "credito": false,
+    "debito": true,
+    "valor": 590.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANA RITA CARDOSO DE MORAIS ME 23.433.020 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 242.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "7072520",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGAMENTO DE CARTÃO DE CRÉDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMERSON RODRIGUES DE JESUS ***.076.389-**",
+    "credito": false,
+    "debito": true,
+    "valor": 299.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GOMES ***.149.249-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2733.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JOSICLEUTON VIANA GUAJARA ***.490.513-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DISTRITO 92 32.855.114 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 8079.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1291.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "7073513",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: EMANUEL DOS SANTOS TRANSFERÊNCIA PIX EMANUEL DOS SANTOS ***.177.649-**",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RESTAURANTE PAI E FILHOS LTDA 49.679.678 0001-31",
+    "credito": false,
+    "debito": true,
+    "valor": 128.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENGENHARIA DO DRINK 44.090.590 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 4276.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX HELOISA EDNA LUCINDA 27.351.679 0001-10",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SERGIO PAULO LUCINDA ***.449.399-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FRANCIELI CAMATINI 08755960960 33.329.997 0001-87",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX WANDERLEI APARECIDO MENDES 09910044854 42.136.133 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 403.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "7074309",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 3106.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "7074311",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 3740.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "7074312",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 1615.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSINI RESTAURANTE  LANCHONETE L 05.392.059 0001-96",
+    "credito": false,
+    "debito": true,
+    "valor": 436.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EUNICE RIBAS DOS SANTOS PEREIRA ***.299.730-** JEANBEBIDAS",
+    "credito": false,
+    "debito": true,
+    "valor": 2850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MOBEL MOVEIS SOB MEDIDA EIRELI 20.085.032 0001-44",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 40.269.869 0001-50",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LT PIZZA PRIME LTDA 42.036.599 0001-63",
+    "credito": false,
+    "debito": true,
+    "valor": 1347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JULIO CESAR DA SILVA LANCHONETE 24.858.784 0001-51",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DUTRA 45.212.000 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 698.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "REAP106",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 9740.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2023",
+    "documento": "532052",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "RFB",
+    "complemento": "- DARA DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 7402.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "531678",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 27881.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADRIANO HENRIQUE NUNES ***.959.239-**",
+    "credito": false,
+    "debito": true,
+    "valor": 103.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "7076638",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: JANDIR SERPA TRANSFERÊNCIA PIX JANDIR SERPA 24.924.832 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 4953.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LENIR SCHIMIN FERREIRA ***.782.849-**",
+    "credito": false,
+    "debito": true,
+    "valor": 107.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX BANA S PIZZAS LTDA 48.128.619 0001-02 BEBIDAS PEDIDO 87532 CLIENTE 1339",
+    "credito": false,
+    "debito": true,
+    "valor": 857.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "7077121",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGAMENTO DE CARTÃO DE CRÉDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 200000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "7077170",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: LUIZ ROBERTO GONZAGA TRANSFERÊNCIA PIX LUIZ ROBERTO GONZAGA ***.967.319-**",
+    "credito": false,
+    "debito": true,
+    "valor": 212.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MAICON CESAR CASTRO ***.744.719-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2010.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MERCEARIA DO MANO 30.242.394 0001-55",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX NAIARA MARIA VIEIRA 08257851973 46.739.698 0001-62",
+    "credito": false,
+    "debito": true,
+    "valor": 1383.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX JONAS FERNANDO DOS SANTOS ***.859.700-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1717.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCELO PACHECO ***.966.219-**",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DIOGO FERNANDES DOS SANTOS  09643557952 48.058.026 0001-17",
+    "credito": false,
+    "debito": true,
+    "valor": 63.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LEILA NANCI SOUZA SILVA 46975969949 32.509.263 0001-17",
+    "credito": false,
+    "debito": true,
+    "valor": 3229.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ADAO VERLIM CANDIDO ***.355.029-**",
+    "credito": false,
+    "debito": true,
+    "valor": 288.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.705.811-**",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAN MAURICIO CLAUDINO ***.259.539-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FRANKLIN FERREIRA DE SOUZA  01610914155 38.114.383 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 669.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "7078888",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: ANDERSON SANTOS FARIA TRANSFERÊNCIA PIX ANDERSON SANTOS FARIA ***.057.519-** JEAN",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARCELO PACHECO ***.966.219-**",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "532802",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "0000502901",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "0000504301",
+    "complemento": "DÉB.CH.DESCONTADO DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 12028.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "0066218901",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 4833.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2023",
+    "documento": "0066218906",
+    "complemento": "DÉB.SEGURO EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  }
+]

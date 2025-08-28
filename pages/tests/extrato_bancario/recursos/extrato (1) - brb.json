@@ -1,0 +1,7418 @@
+[
+  {
+    "data": "03/02/2025",
+    "documento": "000002",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000002",
+    "credito": false,
+    "debito": true,
+    "valor": 2150.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000001",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000001",
+    "credito": false,
+    "debito": true,
+    "valor": 7234.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000003",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000003",
+    "credito": false,
+    "debito": true,
+    "valor": 10771.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000051",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000051",
+    "credito": false,
+    "debito": true,
+    "valor": 884.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000050",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000050",
+    "credito": false,
+    "debito": true,
+    "valor": 3761.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000049",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000049",
+    "credito": false,
+    "debito": true,
+    "valor": 6214.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 660.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "300325",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 300325",
+    "credito": true,
+    "debito": false,
+    "valor": 401.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "300866",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 300866",
+    "credito": true,
+    "debito": false,
+    "valor": 1252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "301326",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 301326",
+    "credito": true,
+    "debito": false,
+    "valor": 1480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "301721",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 301721",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "302884",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 302884",
+    "credito": true,
+    "debito": false,
+    "valor": 4578.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "304317",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 304317",
+    "credito": true,
+    "debito": false,
+    "valor": 1113.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "305483",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 305483",
+    "credito": true,
+    "debito": false,
+    "valor": 1920.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "306057",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 306057",
+    "credito": true,
+    "debito": false,
+    "valor": 1537.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "306493",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 306493",
+    "credito": true,
+    "debito": false,
+    "valor": 1417.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "307836",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 307836",
+    "credito": true,
+    "debito": false,
+    "valor": 2566.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "308193",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 308193",
+    "credito": true,
+    "debito": false,
+    "valor": 1340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "309481",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 309481",
+    "credito": true,
+    "debito": false,
+    "valor": 3576.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "309945",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 309945",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "311558",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 311558",
+    "credito": true,
+    "debito": false,
+    "valor": 999.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "311976",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 311976",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "312661",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 312661",
+    "credito": true,
+    "debito": false,
+    "valor": 4564.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000077",
+    "complemento": "DEPOSITO DINHEIRO CAIXA AGENCI – DOC: 000077",
+    "credito": false,
+    "debito": true,
+    "valor": 23911.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 SUPERMERCADO F S L — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2025",
+    "documento": "001476",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001476",
+    "credito": true,
+    "debito": false,
+    "valor": 25913.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000030",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000030",
+    "credito": false,
+    "debito": true,
+    "valor": 158.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000031",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000031",
+    "credito": false,
+    "debito": true,
+    "valor": 907.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000032",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000032",
+    "credito": false,
+    "debito": true,
+    "valor": 2025.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000007",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000007",
+    "credito": false,
+    "debito": true,
+    "valor": 372.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 408.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000006",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000006",
+    "credito": false,
+    "debito": true,
+    "valor": 1051.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 273.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 HELENA APARECIDA N A — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 975.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 167.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "615466",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 615466",
+    "credito": true,
+    "debito": false,
+    "valor": 8176.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "617024",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 617024",
+    "credito": true,
+    "debito": false,
+    "valor": 1365.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "618871",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 618871",
+    "credito": true,
+    "debito": false,
+    "valor": 119.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "620101",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 620101",
+    "credito": true,
+    "debito": false,
+    "valor": 362.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "621839",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 621839",
+    "credito": true,
+    "debito": false,
+    "valor": 283.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "623320",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 623320",
+    "credito": true,
+    "debito": false,
+    "valor": 590.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "625822",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 625822",
+    "credito": true,
+    "debito": false,
+    "valor": 203.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "627219",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 627219",
+    "credito": true,
+    "debito": false,
+    "valor": 15.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "628349",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 628349",
+    "credito": true,
+    "debito": false,
+    "valor": 577.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "629976",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 629976",
+    "credito": true,
+    "debito": false,
+    "valor": 170.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "631377",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 631377",
+    "credito": true,
+    "debito": false,
+    "valor": 717.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "632669",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 632669",
+    "credito": true,
+    "debito": false,
+    "valor": 511.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "633749",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 633749",
+    "credito": true,
+    "debito": false,
+    "valor": 453.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "635233",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 635233",
+    "credito": true,
+    "debito": false,
+    "valor": 284.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "636691",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 636691",
+    "credito": true,
+    "debito": false,
+    "valor": 678.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "638130",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 638130",
+    "credito": true,
+    "debito": false,
+    "valor": 309.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "639338",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 639338",
+    "credito": true,
+    "debito": false,
+    "valor": 488.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "641443",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 641443",
+    "credito": true,
+    "debito": false,
+    "valor": 188.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "644791",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 644791",
+    "credito": true,
+    "debito": false,
+    "valor": 359.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "646758",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 646758",
+    "credito": true,
+    "debito": false,
+    "valor": 430.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "648553",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 648553",
+    "credito": true,
+    "debito": false,
+    "valor": 606.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "650733",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 650733",
+    "credito": true,
+    "debito": false,
+    "valor": 309.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "652521",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 652521",
+    "credito": true,
+    "debito": false,
+    "valor": 380.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "654702",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 654702",
+    "credito": true,
+    "debito": false,
+    "valor": 567.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "656145",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 656145",
+    "credito": true,
+    "debito": false,
+    "valor": 204.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "658171",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 658171",
+    "credito": true,
+    "debito": false,
+    "valor": 504.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "659947",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 659947",
+    "credito": true,
+    "debito": false,
+    "valor": 602.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "661779",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 661779",
+    "credito": true,
+    "debito": false,
+    "valor": 419.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "664242",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 664242",
+    "credito": true,
+    "debito": false,
+    "valor": 492.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 BRENO CYRINO CARVALH — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2025",
+    "documento": "001415",
+    "complemento": "RESGATE FUNDOS – DOC: 001415",
+    "credito": false,
+    "debito": true,
+    "valor": 13765.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000072",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000072",
+    "credito": false,
+    "debito": true,
+    "valor": 434.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000071",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000071",
+    "credito": false,
+    "debito": true,
+    "valor": 1118.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000070",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000070",
+    "credito": false,
+    "debito": true,
+    "valor": 1823.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000003",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000003",
+    "credito": false,
+    "debito": true,
+    "valor": 284.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 305.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000004",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000004",
+    "credito": false,
+    "debito": true,
+    "valor": 996.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 142.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "874508",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 874508 TICKET SERVICOS SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1607.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "432696",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 432696",
+    "credito": true,
+    "debito": false,
+    "valor": 1148.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "433684",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 433684",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "434733",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 434733",
+    "credito": true,
+    "debito": false,
+    "valor": 1173.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "436101",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 436101",
+    "credito": true,
+    "debito": false,
+    "valor": 218.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "436999",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 436999",
+    "credito": true,
+    "debito": false,
+    "valor": 319.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "438061",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 438061",
+    "credito": true,
+    "debito": false,
+    "valor": 743.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "440105",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 440105",
+    "credito": true,
+    "debito": false,
+    "valor": 335.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "441055",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 441055",
+    "credito": true,
+    "debito": false,
+    "valor": 333.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "441951",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 441951",
+    "credito": true,
+    "debito": false,
+    "valor": 734.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "443063",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 443063",
+    "credito": true,
+    "debito": false,
+    "valor": 680.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "443833",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 443833",
+    "credito": true,
+    "debito": false,
+    "valor": 214.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "446158",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 446158",
+    "credito": true,
+    "debito": false,
+    "valor": 642.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "447197",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 447197",
+    "credito": true,
+    "debito": false,
+    "valor": 102.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "448263",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 448263",
+    "credito": true,
+    "debito": false,
+    "valor": 88.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "449300",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 449300",
+    "credito": true,
+    "debito": false,
+    "valor": 887.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "450189",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 450189",
+    "credito": true,
+    "debito": false,
+    "valor": 687.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "451142",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 451142",
+    "credito": true,
+    "debito": false,
+    "valor": 962.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "452267",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 452267",
+    "credito": true,
+    "debito": false,
+    "valor": 528.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2025",
+    "documento": "001436",
+    "complemento": "RESGATE FUNDOS – DOC: 001436",
+    "credito": false,
+    "debito": true,
+    "valor": 3137.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000022",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000022",
+    "credito": false,
+    "debito": true,
+    "valor": 357.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000023",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000023",
+    "credito": false,
+    "debito": true,
+    "valor": 1873.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000021",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000021",
+    "credito": false,
+    "debito": true,
+    "valor": 2162.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000152",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000152",
+    "credito": false,
+    "debito": true,
+    "valor": 417.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000151",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000151",
+    "credito": false,
+    "debito": true,
+    "valor": 1149.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 42.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "497887",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 497887",
+    "credito": true,
+    "debito": false,
+    "valor": 1491.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "499193",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 499193",
+    "credito": true,
+    "debito": false,
+    "valor": 536.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "500466",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 500466",
+    "credito": true,
+    "debito": false,
+    "valor": 335.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "502039",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 502039",
+    "credito": true,
+    "debito": false,
+    "valor": 63.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "503748",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 503748",
+    "credito": true,
+    "debito": false,
+    "valor": 105.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "504849",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 504849",
+    "credito": true,
+    "debito": false,
+    "valor": 496.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "506082",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 506082",
+    "credito": true,
+    "debito": false,
+    "valor": 647.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "507504",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 507504",
+    "credito": true,
+    "debito": false,
+    "valor": 230.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "508639",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 508639",
+    "credito": true,
+    "debito": false,
+    "valor": 442.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "509889",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 509889",
+    "credito": true,
+    "debito": false,
+    "valor": 311.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "511191",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 511191",
+    "credito": true,
+    "debito": false,
+    "valor": 946.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "512572",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 512572",
+    "credito": true,
+    "debito": false,
+    "valor": 269.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "513818",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 513818",
+    "credito": true,
+    "debito": false,
+    "valor": 374.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "515644",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 515644",
+    "credito": true,
+    "debito": false,
+    "valor": 258.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "517102",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 517102",
+    "credito": true,
+    "debito": false,
+    "valor": 432.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 DAYANNA ALMEIDA ALVE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 53.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 KETLYM LOPES BARBOSA — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2025",
+    "documento": "001496",
+    "complemento": "RESGATE FUNDOS – DOC: 001496",
+    "credito": false,
+    "debito": true,
+    "valor": 877.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000038",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000038",
+    "credito": false,
+    "debito": true,
+    "valor": 375.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000039",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000039",
+    "credito": false,
+    "debito": true,
+    "valor": 1312.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000040",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000040",
+    "credito": false,
+    "debito": true,
+    "valor": 2227.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000023",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000023",
+    "credito": false,
+    "debito": true,
+    "valor": 209.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000025",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000025",
+    "credito": false,
+    "debito": true,
+    "valor": 601.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000024",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000024",
+    "credito": false,
+    "debito": true,
+    "valor": 1245.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 585.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "069209",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 069209",
+    "credito": true,
+    "debito": false,
+    "valor": 528.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "070115",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 070115",
+    "credito": true,
+    "debito": false,
+    "valor": 579.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "070980",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 070980",
+    "credito": true,
+    "debito": false,
+    "valor": 4887.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "073726",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 073726",
+    "credito": true,
+    "debito": false,
+    "valor": 2813.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "074978",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 074978",
+    "credito": true,
+    "debito": false,
+    "valor": 2398.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "075892",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 075892",
+    "credito": true,
+    "debito": false,
+    "valor": 782.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "076989",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 076989",
+    "credito": true,
+    "debito": false,
+    "valor": 579.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "077978",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 077978",
+    "credito": true,
+    "debito": false,
+    "valor": 799.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "079352",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 079352",
+    "credito": true,
+    "debito": false,
+    "valor": 189.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "080274",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 080274",
+    "credito": true,
+    "debito": false,
+    "valor": 924.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "081349",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 081349",
+    "credito": true,
+    "debito": false,
+    "valor": 371.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "000000",
+    "complemento": "PACOTE PJ PLUS – DOC: 000000",
+    "credito": true,
+    "debito": false,
+    "valor": 74.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2025",
+    "documento": "002198",
+    "complemento": "RESGATE FUNDOS – DOC: 002198",
+    "credito": false,
+    "debito": true,
+    "valor": 8343.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000009",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000009",
+    "credito": false,
+    "debito": true,
+    "valor": 2402.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000008",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000008",
+    "credito": false,
+    "debito": true,
+    "valor": 7030.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000007",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000007",
+    "credito": false,
+    "debito": true,
+    "valor": 11263.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000022",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000022",
+    "credito": false,
+    "debito": true,
+    "valor": 405.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000023",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000023",
+    "credito": false,
+    "debito": true,
+    "valor": 3272.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000021",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000021",
+    "credito": false,
+    "debito": true,
+    "valor": 8148.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 JOAO RICARDO B GHISL — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 AMANDA ALMEIDA AZERE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 68.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 MARCIA GOMES DE CAST — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 25.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 294.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "425850",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 425850",
+    "credito": true,
+    "debito": false,
+    "valor": 2001.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "426763",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 426763",
+    "credito": true,
+    "debito": false,
+    "valor": 2383.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "430659",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 430659",
+    "credito": true,
+    "debito": false,
+    "valor": 1096.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "431431",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 431431",
+    "credito": true,
+    "debito": false,
+    "valor": 858.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "433625",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 433625",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "434760",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 434760",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "437186",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 437186",
+    "credito": true,
+    "debito": false,
+    "valor": 1593.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "439397",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 439397",
+    "credito": true,
+    "debito": false,
+    "valor": 767.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "440378",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 440378",
+    "credito": true,
+    "debito": false,
+    "valor": 1298.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "442791",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 442791",
+    "credito": true,
+    "debito": false,
+    "valor": 2644.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "445337",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 445337",
+    "credito": true,
+    "debito": false,
+    "valor": 4578.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "446326",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 446326",
+    "credito": true,
+    "debito": false,
+    "valor": 627.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "450524",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 450524",
+    "credito": true,
+    "debito": false,
+    "valor": 1422.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "453284",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 453284",
+    "credito": true,
+    "debito": false,
+    "valor": 999.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "454379",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 454379",
+    "credito": true,
+    "debito": false,
+    "valor": 2567.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "455694",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 455694",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "456548",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 456548",
+    "credito": true,
+    "debito": false,
+    "valor": 537.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "457565",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 457565",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "459051",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 459051",
+    "credito": true,
+    "debito": false,
+    "valor": 559.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "459737",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 459737",
+    "credito": true,
+    "debito": false,
+    "valor": 726.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "460578",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 460578",
+    "credito": true,
+    "debito": false,
+    "valor": 957.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "461623",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 461623",
+    "credito": true,
+    "debito": false,
+    "valor": 861.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "462466",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 462466",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "463545",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 463545",
+    "credito": true,
+    "debito": false,
+    "valor": 976.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "464578",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 464578",
+    "credito": true,
+    "debito": false,
+    "valor": 498.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "465442",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 465442",
+    "credito": true,
+    "debito": false,
+    "valor": 678.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "466324",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 466324",
+    "credito": true,
+    "debito": false,
+    "valor": 374.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "467299",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 467299",
+    "credito": true,
+    "debito": false,
+    "valor": 401.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "468503",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 468503",
+    "credito": true,
+    "debito": false,
+    "valor": 330.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "469651",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 469651",
+    "credito": true,
+    "debito": false,
+    "valor": 467.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "724438",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 724438 FUNDACAO ABC PARA AS",
+    "credito": false,
+    "debito": true,
+    "valor": 764.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "724464",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 724464 FUNDACAO ABC PARA AS",
+    "credito": false,
+    "debito": true,
+    "valor": 286.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2025",
+    "documento": "001643",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001643",
+    "credito": true,
+    "debito": false,
+    "valor": 1046.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000048",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000048",
+    "credito": false,
+    "debito": true,
+    "valor": 263.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000050",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000050",
+    "credito": false,
+    "debito": true,
+    "valor": 816.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000049",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000049",
+    "credito": false,
+    "debito": true,
+    "valor": 1807.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000181",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000181",
+    "credito": false,
+    "debito": true,
+    "valor": 27.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000182",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000182",
+    "credito": false,
+    "debito": true,
+    "valor": 422.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000183",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000183",
+    "credito": false,
+    "debito": true,
+    "valor": 752.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 156.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 NOVA HERA CF CENTRO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 29.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000077",
+    "complemento": "DEPOSITO DINHEIRO CAIXA AGENCI – DOC: 000077",
+    "credito": false,
+    "debito": true,
+    "valor": 26310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "625369",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 625369",
+    "credito": true,
+    "debito": false,
+    "valor": 820.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "629293",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 629293",
+    "credito": true,
+    "debito": false,
+    "valor": 5303.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "630042",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 630042",
+    "credito": true,
+    "debito": false,
+    "valor": 916.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "630837",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 630837",
+    "credito": true,
+    "debito": false,
+    "valor": 1015.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "633046",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 633046",
+    "credito": true,
+    "debito": false,
+    "valor": 737.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "634008",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 634008",
+    "credito": true,
+    "debito": false,
+    "valor": 1140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "636390",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 636390",
+    "credito": true,
+    "debito": false,
+    "valor": 550.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "637040",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 637040",
+    "credito": true,
+    "debito": false,
+    "valor": 1491.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "637997",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 637997",
+    "credito": true,
+    "debito": false,
+    "valor": 1169.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "638719",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 638719",
+    "credito": true,
+    "debito": false,
+    "valor": 105.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "639331",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 639331",
+    "credito": true,
+    "debito": false,
+    "valor": 63.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "640086",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 640086",
+    "credito": true,
+    "debito": false,
+    "valor": 283.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "640862",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 640862",
+    "credito": true,
+    "debito": false,
+    "valor": 492.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "641379",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 641379",
+    "credito": true,
+    "debito": false,
+    "valor": 610.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "642221",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 642221",
+    "credito": true,
+    "debito": false,
+    "valor": 197.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "642878",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 642878",
+    "credito": true,
+    "debito": false,
+    "valor": 15.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "643436",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 643436",
+    "credito": true,
+    "debito": false,
+    "valor": 119.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "644125",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 644125",
+    "credito": true,
+    "debito": false,
+    "valor": 362.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "644599",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 644599",
+    "credito": true,
+    "debito": false,
+    "valor": 190.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "645480",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 645480",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "646032",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 646032",
+    "credito": true,
+    "debito": false,
+    "valor": 717.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "646598",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 646598",
+    "credito": true,
+    "debito": false,
+    "valor": 453.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "647501",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 647501",
+    "credito": true,
+    "debito": false,
+    "valor": 511.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "650871",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 650871",
+    "credito": true,
+    "debito": false,
+    "valor": 678.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "651486",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 651486",
+    "credito": true,
+    "debito": false,
+    "valor": 170.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "652729",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 652729",
+    "credito": true,
+    "debito": false,
+    "valor": 188.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "653418",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 653418",
+    "credito": true,
+    "debito": false,
+    "valor": 567.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "654054",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 654054",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "654719",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 654719",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "655237",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 655237",
+    "credito": true,
+    "debito": false,
+    "valor": 198.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "655950",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 655950",
+    "credito": true,
+    "debito": false,
+    "valor": 308.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "656916",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 656916",
+    "credito": true,
+    "debito": false,
+    "valor": 212.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "657676",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 657676",
+    "credito": true,
+    "debito": false,
+    "valor": 642.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "658456",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 658456",
+    "credito": true,
+    "debito": false,
+    "valor": 528.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "658949",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 658949",
+    "credito": true,
+    "debito": false,
+    "valor": 298.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "659711",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 659711",
+    "credito": true,
+    "debito": false,
+    "valor": 897.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "660342",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 660342",
+    "credito": true,
+    "debito": false,
+    "valor": 962.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "661074",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 661074",
+    "credito": true,
+    "debito": false,
+    "valor": 736.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "661646",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 661646",
+    "credito": true,
+    "debito": false,
+    "valor": 335.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "662446",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 662446",
+    "credito": true,
+    "debito": false,
+    "valor": 705.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "663411",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 663411",
+    "credito": true,
+    "debito": false,
+    "valor": 680.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "664264",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 664264",
+    "credito": true,
+    "debito": false,
+    "valor": 233.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "664732",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 664732",
+    "credito": true,
+    "debito": false,
+    "valor": 92.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "665470",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 665470",
+    "credito": true,
+    "debito": false,
+    "valor": 250.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "666162",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 666162",
+    "credito": true,
+    "debito": false,
+    "valor": 258.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "667182",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 667182",
+    "credito": true,
+    "debito": false,
+    "valor": 500.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "667938",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 667938",
+    "credito": true,
+    "debito": false,
+    "valor": 216.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "668538",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 668538",
+    "credito": true,
+    "debito": false,
+    "valor": 420.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "669327",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 669327",
+    "credito": true,
+    "debito": false,
+    "valor": 719.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "669911",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 669911",
+    "credito": true,
+    "debito": false,
+    "valor": 494.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "670543",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 670543",
+    "credito": true,
+    "debito": false,
+    "valor": 230.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "671225",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 671225",
+    "credito": true,
+    "debito": false,
+    "valor": 647.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "671798",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 671798",
+    "credito": true,
+    "debito": false,
+    "valor": 496.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "672512",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 672512",
+    "credito": true,
+    "debito": false,
+    "valor": 442.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "001617",
+    "complemento": "RESGATE FUNDOS – DOC: 001617",
+    "credito": false,
+    "debito": true,
+    "valor": 655.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000035",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000035",
+    "credito": false,
+    "debito": true,
+    "valor": 141.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000036",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000036",
+    "credito": false,
+    "debito": true,
+    "valor": 1055.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000037",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000037",
+    "credito": false,
+    "debito": true,
+    "valor": 1764.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000011",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000011",
+    "credito": false,
+    "debito": true,
+    "valor": 47.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000013",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000013",
+    "credito": false,
+    "debito": true,
+    "valor": 471.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000012",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000012",
+    "credito": false,
+    "debito": true,
+    "valor": 1002.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 39.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "576668",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 576668 TICKET SERVICOS SA",
+    "credito": false,
+    "debito": true,
+    "valor": 769.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2025",
+    "documento": "001388",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001388",
+    "credito": true,
+    "debito": false,
+    "valor": 5291.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000012",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000012",
+    "credito": false,
+    "debito": true,
+    "valor": 472.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000013",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000013",
+    "credito": false,
+    "debito": true,
+    "valor": 813.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000011",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000011",
+    "credito": false,
+    "debito": true,
+    "valor": 1975.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000006",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000006",
+    "credito": false,
+    "debito": true,
+    "valor": 125.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 543.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000004",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000004",
+    "credito": false,
+    "debito": true,
+    "valor": 1361.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "855503",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 855503 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 115.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "855607",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 855607 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 954.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 SUPERMERCADO F S L — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 192.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "835426",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 835426",
+    "credito": true,
+    "debito": false,
+    "valor": 707.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 54 182 734 ALEXANDRE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 17.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 JEANE PEREIRA DA SIL — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 18.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2025",
+    "documento": "001217",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001217",
+    "credito": true,
+    "debito": false,
+    "valor": 5914.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 132.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000003",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000003",
+    "credito": false,
+    "debito": true,
+    "valor": 534.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000004",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000004",
+    "credito": false,
+    "debito": true,
+    "valor": 1128.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 133.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 VR BENEFICIOS SERV P — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 686.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000041",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000041",
+    "credito": false,
+    "debito": true,
+    "valor": 237.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000039",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000039",
+    "credito": false,
+    "debito": true,
+    "valor": 1306.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "000040",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000040",
+    "credito": false,
+    "debito": true,
+    "valor": 1555.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "611081",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 611081",
+    "credito": true,
+    "debito": false,
+    "valor": 2701.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "611672",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 611672",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "613536",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 613536",
+    "credito": true,
+    "debito": false,
+    "valor": 2159.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "614333",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 614333",
+    "credito": true,
+    "debito": false,
+    "valor": 521.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "615423",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 615423",
+    "credito": true,
+    "debito": false,
+    "valor": 645.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "615989",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 615989",
+    "credito": true,
+    "debito": false,
+    "valor": 799.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "616542",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 616542",
+    "credito": true,
+    "debito": false,
+    "valor": 579.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "617185",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 617185",
+    "credito": true,
+    "debito": false,
+    "valor": 924.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "618215",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 618215",
+    "credito": true,
+    "debito": false,
+    "valor": 782.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "618782",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 618782",
+    "credito": true,
+    "debito": false,
+    "valor": 897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "619602",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 619602",
+    "credito": true,
+    "debito": false,
+    "valor": 289.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "620218",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 620218",
+    "credito": true,
+    "debito": false,
+    "valor": 371.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "620867",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 620867",
+    "credito": true,
+    "debito": false,
+    "valor": 516.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "621662",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 621662",
+    "credito": true,
+    "debito": false,
+    "valor": 545.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "622549",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 622549",
+    "credito": true,
+    "debito": false,
+    "valor": 485.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "623207",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 623207",
+    "credito": true,
+    "debito": false,
+    "valor": 861.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "623914",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 623914",
+    "credito": true,
+    "debito": false,
+    "valor": 470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "624593",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 624593",
+    "credito": true,
+    "debito": false,
+    "valor": 126.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "625716",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 625716",
+    "credito": true,
+    "debito": false,
+    "valor": 55.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "626361",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 626361",
+    "credito": true,
+    "debito": false,
+    "valor": 275.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "686287",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 686287",
+    "credito": true,
+    "debito": false,
+    "valor": 726.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "686995",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 686995",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "687577",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 687577",
+    "credito": true,
+    "debito": false,
+    "valor": 245.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "688503",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 688503",
+    "credito": true,
+    "debito": false,
+    "valor": 500.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "688820",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 688820",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "001645",
+    "complemento": "RESGATE FUNDOS – DOC: 001645",
+    "credito": false,
+    "debito": true,
+    "valor": 11135.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000012",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000012",
+    "credito": false,
+    "debito": true,
+    "valor": 1933.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000013",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000013",
+    "credito": false,
+    "debito": true,
+    "valor": 6638.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000014",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000014",
+    "credito": false,
+    "debito": true,
+    "valor": 10247.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000018",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000018",
+    "credito": false,
+    "debito": true,
+    "valor": 1062.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000020",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000020",
+    "credito": false,
+    "debito": true,
+    "valor": 3534.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000019",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000019",
+    "credito": false,
+    "debito": true,
+    "valor": 6447.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 CRISTINA SANTOS DA C — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 30.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 392.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "847580",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 847580 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 373.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "848949",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 848949 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 27612.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "847433",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 847433 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 712.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "492358",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 492358",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "493005",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 493005",
+    "credito": true,
+    "debito": false,
+    "valor": 1184.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "493488",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 493488",
+    "credito": true,
+    "debito": false,
+    "valor": 1439.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "494122",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 494122",
+    "credito": true,
+    "debito": false,
+    "valor": 1317.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "494669",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 494669",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "496247",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 496247",
+    "credito": true,
+    "debito": false,
+    "valor": 4578.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "497719",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 497719",
+    "credito": true,
+    "debito": false,
+    "valor": 676.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "499073",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 499073",
+    "credito": true,
+    "debito": false,
+    "valor": 1257.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "500917",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 500917",
+    "credito": true,
+    "debito": false,
+    "valor": 1029.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "501514",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 501514",
+    "credito": true,
+    "debito": false,
+    "valor": 4641.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "502057",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 502057",
+    "credito": true,
+    "debito": false,
+    "valor": 1119.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "502473",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 502473",
+    "credito": true,
+    "debito": false,
+    "valor": 1680.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "502987",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 502987",
+    "credito": true,
+    "debito": false,
+    "valor": 1063.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "504990",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 504990",
+    "credito": true,
+    "debito": false,
+    "valor": 5673.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "506671",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 506671",
+    "credito": true,
+    "debito": false,
+    "valor": 2364.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "508275",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 508275",
+    "credito": true,
+    "debito": false,
+    "valor": 715.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "508955",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 508955",
+    "credito": true,
+    "debito": false,
+    "valor": 1164.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "509394",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 509394",
+    "credito": true,
+    "debito": false,
+    "valor": 980.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "511389",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 511389",
+    "credito": true,
+    "debito": false,
+    "valor": 4578.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "512122",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 512122",
+    "credito": true,
+    "debito": false,
+    "valor": 498.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "513114",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 513114",
+    "credito": true,
+    "debito": false,
+    "valor": 946.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "513666",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 513666",
+    "credito": true,
+    "debito": false,
+    "valor": 976.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "514126",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 514126",
+    "credito": true,
+    "debito": false,
+    "valor": 330.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "514588",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 514588",
+    "credito": true,
+    "debito": false,
+    "valor": 587.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "515093",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 515093",
+    "credito": true,
+    "debito": false,
+    "valor": 374.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "515780",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 515780",
+    "credito": true,
+    "debito": false,
+    "valor": 467.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "516458",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 516458",
+    "credito": true,
+    "debito": false,
+    "valor": 800.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "517010",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 517010",
+    "credito": true,
+    "debito": false,
+    "valor": 906.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "517513",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 517513",
+    "credito": true,
+    "debito": false,
+    "valor": 15.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "518017",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 518017",
+    "credito": true,
+    "debito": false,
+    "valor": 251.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "518466",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 518466",
+    "credito": true,
+    "debito": false,
+    "valor": 197.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "518942",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 518942",
+    "credito": true,
+    "debito": false,
+    "valor": 484.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "519560",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 519560",
+    "credito": true,
+    "debito": false,
+    "valor": 610.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "519964",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 519964",
+    "credito": true,
+    "debito": false,
+    "valor": 517.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "520497",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 520497",
+    "credito": true,
+    "debito": false,
+    "valor": 190.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "521338",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 521338",
+    "credito": true,
+    "debito": false,
+    "valor": 453.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "522041",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 522041",
+    "credito": true,
+    "debito": false,
+    "valor": 717.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "522683",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 522683",
+    "credito": true,
+    "debito": false,
+    "valor": 511.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "523281",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 523281",
+    "credito": true,
+    "debito": false,
+    "valor": 707.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "523941",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 523941",
+    "credito": true,
+    "debito": false,
+    "valor": 317.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "524574",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 524574",
+    "credito": true,
+    "debito": false,
+    "valor": 678.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "525162",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 525162",
+    "credito": true,
+    "debito": false,
+    "valor": 170.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "525769",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 525769",
+    "credito": true,
+    "debito": false,
+    "valor": 92.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "526231",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 526231",
+    "credito": true,
+    "debito": false,
+    "valor": 250.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "526635",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 526635",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "527467",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 527467",
+    "credito": true,
+    "debito": false,
+    "valor": 198.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "527893",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 527893",
+    "credito": true,
+    "debito": false,
+    "valor": 212.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "528890",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 528890",
+    "credito": true,
+    "debito": false,
+    "valor": 63.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "529660",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 529660",
+    "credito": true,
+    "debito": false,
+    "valor": 105.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "530261",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 530261",
+    "credito": true,
+    "debito": false,
+    "valor": 246.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "530803",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 530803",
+    "credito": true,
+    "debito": false,
+    "valor": 292.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "531226",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 531226",
+    "credito": true,
+    "debito": false,
+    "valor": 277.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "531979",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 531979",
+    "credito": true,
+    "debito": false,
+    "valor": 145.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "532341",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 532341",
+    "credito": true,
+    "debito": false,
+    "valor": 290.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "533008",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 533008",
+    "credito": true,
+    "debito": false,
+    "valor": 446.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "533480",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 533480",
+    "credito": true,
+    "debito": false,
+    "valor": 948.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "533989",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 533989",
+    "credito": true,
+    "debito": false,
+    "valor": 501.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "534484",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 534484",
+    "credito": true,
+    "debito": false,
+    "valor": 382.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "534939",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 534939",
+    "credito": true,
+    "debito": false,
+    "valor": 528.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "535490",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 535490",
+    "credito": true,
+    "debito": false,
+    "valor": 962.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "536045",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 536045",
+    "credito": true,
+    "debito": false,
+    "valor": 245.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "536678",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 536678",
+    "credito": true,
+    "debito": false,
+    "valor": 736.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "537326",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 537326",
+    "credito": true,
+    "debito": false,
+    "valor": 625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "538058",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 538058",
+    "credito": true,
+    "debito": false,
+    "valor": 410.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 CARLA MAYARA MARQUES — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000",
+    "credito": false,
+    "debito": true,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 CARLA MAYARA MARQUES — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 JOSEFA RABELO DA SIL — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ANDERSON MARCHEZI BO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 101.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 32.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 29.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 33.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2025",
+    "documento": "001343",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001343",
+    "credito": true,
+    "debito": false,
+    "valor": 4008.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000014",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000014",
+    "credito": false,
+    "debito": true,
+    "valor": 374.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000015",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000015",
+    "credito": false,
+    "debito": true,
+    "valor": 1313.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000016",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000016",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000016",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000016",
+    "credito": false,
+    "debito": true,
+    "valor": 71.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000017",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000017",
+    "credito": false,
+    "debito": true,
+    "valor": 548.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000018",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000018",
+    "credito": false,
+    "debito": true,
+    "valor": 1111.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2249.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000077",
+    "complemento": "DEPOSITO DINHEIRO CAIXA AGENCI – DOC: 000077",
+    "credito": false,
+    "debito": true,
+    "valor": 23210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "770176",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 770176",
+    "credito": true,
+    "debito": false,
+    "valor": 1719.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "771491",
+    "complemento": "PAGAMENTO TRIBUTO FEDERAL – DOC: 771491 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 1416.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 CAIXA ECONOMICA FEDE — 0132",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "772162",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 772162",
+    "credito": true,
+    "debito": false,
+    "valor": 1169.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "773547",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 773547",
+    "credito": true,
+    "debito": false,
+    "valor": 541.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "774250",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 774250",
+    "credito": true,
+    "debito": false,
+    "valor": 469.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "774496",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 774496",
+    "credito": true,
+    "debito": false,
+    "valor": 59.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "774999",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 774999",
+    "credito": true,
+    "debito": false,
+    "valor": 160.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "775447",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 775447",
+    "credito": true,
+    "debito": false,
+    "valor": 2608.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "776038",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 776038",
+    "credito": true,
+    "debito": false,
+    "valor": 513.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "776573",
+    "complemento": "PAGAMENTO SANEAGO – DOC: 776573 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 920.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "777088",
+    "complemento": "PAGAMENTO SANEAGO – DOC: 777088 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 89.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "777702",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 777702",
+    "credito": true,
+    "debito": false,
+    "valor": 384.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 LUZIMAR VARGAS GOMES — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "778947",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 778947",
+    "credito": true,
+    "debito": false,
+    "valor": 2437.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "779344",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 779344",
+    "credito": true,
+    "debito": false,
+    "valor": 293.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "780163",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 780163",
+    "credito": true,
+    "debito": false,
+    "valor": 500.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "780714",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 780714",
+    "credito": true,
+    "debito": false,
+    "valor": 258.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "781174",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 781174",
+    "credito": true,
+    "debito": false,
+    "valor": 230.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "781636",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 781636",
+    "credito": true,
+    "debito": false,
+    "valor": 496.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "782200",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 782200",
+    "credito": true,
+    "debito": false,
+    "valor": 647.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "782589",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 782589",
+    "credito": true,
+    "debito": false,
+    "valor": 631.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "783067",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 783067",
+    "credito": true,
+    "debito": false,
+    "valor": 141.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "783573",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 783573",
+    "credito": true,
+    "debito": false,
+    "valor": 420.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "783984",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 783984",
+    "credito": true,
+    "debito": false,
+    "valor": 475.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "784700",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 784700",
+    "credito": true,
+    "debito": false,
+    "valor": 494.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "785303",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 785303",
+    "credito": true,
+    "debito": false,
+    "valor": 649.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "785661",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 785661",
+    "credito": true,
+    "debito": false,
+    "valor": 540.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "786323",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 786323",
+    "credito": true,
+    "debito": false,
+    "valor": 491.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "788006",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 788006",
+    "credito": true,
+    "debito": false,
+    "valor": 876.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "788542",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 788542",
+    "credito": true,
+    "debito": false,
+    "valor": 434.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "788990",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 788990",
+    "credito": true,
+    "debito": false,
+    "valor": 682.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "789432",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789432",
+    "credito": true,
+    "debito": false,
+    "valor": 446.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "790091",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 790091",
+    "credito": true,
+    "debito": false,
+    "valor": 371.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "790478",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 790478",
+    "credito": true,
+    "debito": false,
+    "valor": 897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "790842",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 790842",
+    "credito": true,
+    "debito": false,
+    "valor": 218.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "791336",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 791336",
+    "credito": true,
+    "debito": false,
+    "valor": 500.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "791909",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 791909",
+    "credito": true,
+    "debito": false,
+    "valor": 698.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "792340",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792340",
+    "credito": true,
+    "debito": false,
+    "valor": 849.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "792862",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792862",
+    "credito": true,
+    "debito": false,
+    "valor": 521.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "793140",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793140",
+    "credito": true,
+    "debito": false,
+    "valor": 645.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "793811",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793811",
+    "credito": true,
+    "debito": false,
+    "valor": 440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "794286",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 794286",
+    "credito": true,
+    "debito": false,
+    "valor": 1958.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "794800",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 794800",
+    "credito": true,
+    "debito": false,
+    "valor": 1988.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "795141",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 795141",
+    "credito": true,
+    "debito": false,
+    "valor": 753.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "795597",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 795597",
+    "credito": true,
+    "debito": false,
+    "valor": 681.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "796692",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 796692",
+    "credito": true,
+    "debito": false,
+    "valor": 494.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "797174",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 797174",
+    "credito": true,
+    "debito": false,
+    "valor": 1439.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "797754",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 797754",
+    "credito": true,
+    "debito": false,
+    "valor": 126.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "798228",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 798228",
+    "credito": true,
+    "debito": false,
+    "valor": 55.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2025",
+    "documento": "001598",
+    "complemento": "RESGATE FUNDOS – DOC: 001598",
+    "credito": false,
+    "debito": true,
+    "valor": 4412.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000024",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000024",
+    "credito": false,
+    "debito": true,
+    "valor": 247.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000023",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000023",
+    "credito": false,
+    "debito": true,
+    "valor": 1137.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000025",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000025",
+    "credito": false,
+    "debito": true,
+    "valor": 1889.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000304",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000304",
+    "credito": false,
+    "debito": true,
+    "valor": 34.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000303",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000303",
+    "credito": false,
+    "debito": true,
+    "valor": 522.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000305",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000305",
+    "credito": false,
+    "debito": true,
+    "valor": 1313.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 72.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "822671",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 822671 TICKET SERVICOS SA",
+    "credito": false,
+    "debito": true,
+    "valor": 1119.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ANA PAULA AMANCIO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 277.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "474052",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 474052",
+    "credito": true,
+    "debito": false,
+    "valor": 1104.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "474465",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 474465",
+    "credito": true,
+    "debito": false,
+    "valor": 726.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "475017",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 475017",
+    "credito": true,
+    "debito": false,
+    "valor": 1018.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "475249",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 475249",
+    "credito": true,
+    "debito": false,
+    "valor": 485.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "476100",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 476100",
+    "credito": true,
+    "debito": false,
+    "valor": 1473.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "477425",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 477425",
+    "credito": true,
+    "debito": false,
+    "valor": 1413.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "478107",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 478107",
+    "credito": true,
+    "debito": false,
+    "valor": 330.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 JOSE TULIO VALADARES — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2025",
+    "documento": "001214",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001214",
+    "credito": true,
+    "debito": false,
+    "valor": 3002.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000045",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000045",
+    "credito": false,
+    "debito": true,
+    "valor": 504.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000044",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000044",
+    "credito": false,
+    "debito": true,
+    "valor": 915.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000043",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000043",
+    "credito": false,
+    "debito": true,
+    "valor": 1790.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000011",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000011",
+    "credito": false,
+    "debito": true,
+    "valor": 299.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000009",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000009",
+    "credito": false,
+    "debito": true,
+    "valor": 678.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000010",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000010",
+    "credito": false,
+    "debito": true,
+    "valor": 1189.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 51.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "303343",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 303343 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 19.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "378778",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 378778 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 1054.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "520596",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 520596 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 38.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "642335",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 642335 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 29.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "758518",
+    "complemento": "PAGAMENTO TRIBUTO FEDERAL – DOC: 758518 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 574.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "759118",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 759118",
+    "credito": true,
+    "debito": false,
+    "valor": 800.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "759807",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 759807",
+    "credito": true,
+    "debito": false,
+    "valor": 374.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "760316",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 760316",
+    "credito": true,
+    "debito": false,
+    "valor": 625.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "760868",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 760868",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "761455",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 761455",
+    "credito": true,
+    "debito": false,
+    "valor": 300.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "761938",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 761938",
+    "credito": true,
+    "debito": false,
+    "valor": 470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "762767",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 762767",
+    "credito": true,
+    "debito": false,
+    "valor": 380.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "763414",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 763414",
+    "credito": true,
+    "debito": false,
+    "valor": 444.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "763970",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 763970",
+    "credito": true,
+    "debito": false,
+    "valor": 707.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "764676",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 764676",
+    "credito": true,
+    "debito": false,
+    "valor": 190.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "765241",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 765241",
+    "credito": true,
+    "debito": false,
+    "valor": 610.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "765849",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 765849",
+    "credito": true,
+    "debito": false,
+    "valor": 906.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "767962",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 767962",
+    "credito": true,
+    "debito": false,
+    "valor": 715.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "768689",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 768689",
+    "credito": true,
+    "debito": false,
+    "valor": 92.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "769378",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 769378",
+    "credito": true,
+    "debito": false,
+    "valor": 250.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "770003",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 770003",
+    "credito": true,
+    "debito": false,
+    "valor": 317.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "770513",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 770513",
+    "credito": true,
+    "debito": false,
+    "valor": 198.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "777788",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 777788",
+    "credito": true,
+    "debito": false,
+    "valor": 724.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "778575",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 778575",
+    "credito": true,
+    "debito": false,
+    "valor": 246.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2025",
+    "documento": "001959",
+    "complemento": "RESGATE FUNDOS – DOC: 001959",
+    "credito": false,
+    "debito": true,
+    "valor": 2760.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000048",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000048",
+    "credito": false,
+    "debito": true,
+    "valor": 366.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000047",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000047",
+    "credito": false,
+    "debito": true,
+    "valor": 1127.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000046",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000046",
+    "credito": false,
+    "debito": true,
+    "valor": 2029.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000004",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000004",
+    "credito": false,
+    "debito": true,
+    "valor": 24.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000006",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000006",
+    "credito": false,
+    "debito": true,
+    "valor": 675.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 951.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 0.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 VR BENEFICIOS SERV P — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 343.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "304539",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 304539",
+    "credito": true,
+    "debito": false,
+    "valor": 580.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "306263",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 306263",
+    "credito": true,
+    "debito": false,
+    "valor": 2364.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "307004",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 307004",
+    "credito": true,
+    "debito": false,
+    "valor": 212.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "307387",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 307387",
+    "credito": true,
+    "debito": false,
+    "valor": 1447.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "307788",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 307788",
+    "credito": true,
+    "debito": false,
+    "valor": 479.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "308382",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 308382",
+    "credito": true,
+    "debito": false,
+    "valor": 230.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "310107",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 310107",
+    "credito": true,
+    "debito": false,
+    "valor": 661.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2025",
+    "documento": "001538",
+    "complemento": "RESGATE FUNDOS – DOC: 001538",
+    "credito": false,
+    "debito": true,
+    "valor": 455.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000060",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000060",
+    "credito": false,
+    "debito": true,
+    "valor": 2106.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000059",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000059",
+    "credito": false,
+    "debito": true,
+    "valor": 7869.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000061",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000061",
+    "credito": false,
+    "debito": true,
+    "valor": 11180.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000015",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000015",
+    "credito": false,
+    "debito": true,
+    "valor": 553.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000013",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000013",
+    "credito": false,
+    "debito": true,
+    "valor": 4861.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000014",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000014",
+    "credito": false,
+    "debito": true,
+    "valor": 7068.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 34.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 4.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 74.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 SUPERMERCADO F S L — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 37.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 9.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 11.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 38.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 3.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 22.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 11.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 26.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 16.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 264.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "772089",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 772089",
+    "credito": true,
+    "debito": false,
+    "valor": 59.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "774874",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 774874",
+    "credito": true,
+    "debito": false,
+    "valor": 329.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "776148",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 776148",
+    "credito": true,
+    "debito": false,
+    "valor": 2418.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "776597",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 776597",
+    "credito": true,
+    "debito": false,
+    "valor": 6726.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "777040",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 777040",
+    "credito": true,
+    "debito": false,
+    "valor": 663.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "784303",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 784303",
+    "credito": true,
+    "debito": false,
+    "valor": 160.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "784736",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 784736",
+    "credito": true,
+    "debito": false,
+    "valor": 274.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "785263",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 785263",
+    "credito": true,
+    "debito": false,
+    "valor": 1215.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "785760",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 785760",
+    "credito": true,
+    "debito": false,
+    "valor": 1471.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "788718",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 788718",
+    "credito": true,
+    "debito": false,
+    "valor": 332.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "789353",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789353",
+    "credito": true,
+    "debito": false,
+    "valor": 38.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "789538",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789538",
+    "credito": true,
+    "debito": false,
+    "valor": 480.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "789995",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789995",
+    "credito": true,
+    "debito": false,
+    "valor": 192.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "790430",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 790430",
+    "credito": true,
+    "debito": false,
+    "valor": 2208.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "790971",
+    "complemento": "DEBITO PAGAMENTO PREFEITURA – DOC: 790971 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 454.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "792264",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792264",
+    "credito": true,
+    "debito": false,
+    "valor": 1211.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "792630",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792630",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "793081",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793081",
+    "credito": true,
+    "debito": false,
+    "valor": 948.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "793474",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793474",
+    "credito": true,
+    "debito": false,
+    "valor": 323.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "793881",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793881",
+    "credito": true,
+    "debito": false,
+    "valor": 484.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "794289",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 794289",
+    "credito": true,
+    "debito": false,
+    "valor": 736.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "794694",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 794694",
+    "credito": true,
+    "debito": false,
+    "valor": 625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "795042",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 795042",
+    "credito": true,
+    "debito": false,
+    "valor": 413.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "795495",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 795495",
+    "credito": true,
+    "debito": false,
+    "valor": 668.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "795898",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 795898",
+    "credito": true,
+    "debito": false,
+    "valor": 980.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "796392",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 796392",
+    "credito": true,
+    "debito": false,
+    "valor": 469.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "796799",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 796799",
+    "credito": true,
+    "debito": false,
+    "valor": 447.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "797387",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 797387",
+    "credito": true,
+    "debito": false,
+    "valor": 763.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "798145",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 798145",
+    "credito": true,
+    "debito": false,
+    "valor": 410.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "798811",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 798811",
+    "credito": true,
+    "debito": false,
+    "valor": 256.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "799207",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 799207",
+    "credito": true,
+    "debito": false,
+    "valor": 464.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "799861",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 799861",
+    "credito": true,
+    "debito": false,
+    "valor": 735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "800336",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 800336",
+    "credito": true,
+    "debito": false,
+    "valor": 307.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 118.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 64.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 26.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 28.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 7.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 29.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 16.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 31.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 47.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 10.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 19.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 18.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 16.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 7.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 44.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 18.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 21.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 4.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 85.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 9.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2025",
+    "documento": "001364",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001364",
+    "credito": true,
+    "debito": false,
+    "valor": 7820.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000049",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000049",
+    "credito": false,
+    "debito": true,
+    "valor": 299.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000047",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000047",
+    "credito": false,
+    "debito": true,
+    "valor": 754.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000048",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000048",
+    "credito": false,
+    "debito": true,
+    "valor": 1982.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000004",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000004",
+    "credito": false,
+    "debito": true,
+    "valor": 68.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000006",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000006",
+    "credito": false,
+    "debito": true,
+    "valor": 689.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000005",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000005",
+    "credito": false,
+    "debito": true,
+    "valor": 639.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 80.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "173014",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 173014",
+    "credito": true,
+    "debito": false,
+    "valor": 5338.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000077",
+    "complemento": "DEPOSITO DINHEIRO CAIXA AGENCI – DOC: 000077",
+    "credito": false,
+    "debito": true,
+    "valor": 25460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "707374",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 707374",
+    "credito": true,
+    "debito": false,
+    "valor": 533.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "707818",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 707818",
+    "credito": true,
+    "debito": false,
+    "valor": 59.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "708362",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 708362",
+    "credito": true,
+    "debito": false,
+    "valor": 491.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "708760",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 708760",
+    "credito": true,
+    "debito": false,
+    "valor": 475.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "709454",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 709454",
+    "credito": true,
+    "debito": false,
+    "valor": 590.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "709829",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 709829",
+    "credito": true,
+    "debito": false,
+    "valor": 767.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "710299",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 710299",
+    "credito": true,
+    "debito": false,
+    "valor": 434.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "711265",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 711265",
+    "credito": true,
+    "debito": false,
+    "valor": 500.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "711797",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 711797",
+    "credito": true,
+    "debito": false,
+    "valor": 141.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "712381",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 712381",
+    "credito": true,
+    "debito": false,
+    "valor": 631.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "712789",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 712789",
+    "credito": true,
+    "debito": false,
+    "valor": 475.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "713505",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 713505",
+    "credito": true,
+    "debito": false,
+    "valor": 420.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "713882",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 713882",
+    "credito": true,
+    "debito": false,
+    "valor": 494.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "714389",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 714389",
+    "credito": true,
+    "debito": false,
+    "valor": 174.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "715100",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 715100",
+    "credito": true,
+    "debito": false,
+    "valor": 563.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "715662",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 715662",
+    "credito": true,
+    "debito": false,
+    "valor": 678.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "716164",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 716164",
+    "credito": true,
+    "debito": false,
+    "valor": 274.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "716738",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 716738",
+    "credito": true,
+    "debito": false,
+    "valor": 897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "717317",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 717317",
+    "credito": true,
+    "debito": false,
+    "valor": 218.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "717800",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 717800",
+    "credito": true,
+    "debito": false,
+    "valor": 698.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "718283",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 718283",
+    "credito": true,
+    "debito": false,
+    "valor": 521.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "718732",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 718732",
+    "credito": true,
+    "debito": false,
+    "valor": 904.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "719196",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 719196",
+    "credito": true,
+    "debito": false,
+    "valor": 645.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "719732",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 719732",
+    "credito": true,
+    "debito": false,
+    "valor": 849.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "720410",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 720410",
+    "credito": true,
+    "debito": false,
+    "valor": 293.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "720882",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 720882",
+    "credito": true,
+    "debito": false,
+    "valor": 1958.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "721389",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 721389",
+    "credito": true,
+    "debito": false,
+    "valor": 126.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "722000",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 722000",
+    "credito": true,
+    "debito": false,
+    "valor": 55.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "722509",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 722509",
+    "credito": true,
+    "debito": false,
+    "valor": 500.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "722955",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 722955",
+    "credito": true,
+    "debito": false,
+    "valor": 980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "723397",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 723397",
+    "credito": true,
+    "debito": false,
+    "valor": 681.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "724068",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 724068",
+    "credito": true,
+    "debito": false,
+    "valor": 485.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "724468",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 724468",
+    "credito": true,
+    "debito": false,
+    "valor": 935.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "724984",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 724984",
+    "credito": true,
+    "debito": false,
+    "valor": 1018.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "725709",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 725709",
+    "credito": true,
+    "debito": false,
+    "valor": 800.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "728162",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 728162",
+    "credito": true,
+    "debito": false,
+    "valor": 1878.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "729583",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 729583",
+    "credito": true,
+    "debito": false,
+    "valor": 736.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "730205",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 730205",
+    "credito": true,
+    "debito": false,
+    "valor": 426.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "730728",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 730728",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "731140",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 731140",
+    "credito": true,
+    "debito": false,
+    "valor": 444.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "731767",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 731767",
+    "credito": true,
+    "debito": false,
+    "valor": 169.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "732262",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 732262",
+    "credito": true,
+    "debito": false,
+    "valor": 1719.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "733297",
+    "complemento": "PAGAMENTO DETRAN – DOC: 733297 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 102.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "734153",
+    "complemento": "PAGAMENTO TRIBUTO GDF – DOC: 734153 3143",
+    "credito": true,
+    "debito": false,
+    "valor": 607.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "734571",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 734571",
+    "credito": true,
+    "debito": false,
+    "valor": 714.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "735150",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 735150",
+    "credito": true,
+    "debito": false,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "735771",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 735771",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "737159",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 737159",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "739662",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 739662",
+    "credito": true,
+    "debito": false,
+    "valor": 300.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "740126",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 740126",
+    "credito": true,
+    "debito": false,
+    "valor": 906.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 13.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 4.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 72.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 57.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 32.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 15.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 18.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 41.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 35.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 25.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 66.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 28.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 30.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 3.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 29.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 21.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 40.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 9.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 46.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 3.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 42.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 54.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2025",
+    "documento": "001995",
+    "complemento": "RESGATE FUNDOS – DOC: 001995",
+    "credito": false,
+    "debito": true,
+    "valor": 6726.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000069",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000069",
+    "credito": false,
+    "debito": true,
+    "valor": 208.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000067",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000067",
+    "credito": false,
+    "debito": true,
+    "valor": 1096.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000068",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000068",
+    "credito": false,
+    "debito": true,
+    "valor": 1453.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000031",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000031",
+    "credito": false,
+    "debito": true,
+    "valor": 184.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000033",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000033",
+    "credito": false,
+    "debito": true,
+    "valor": 455.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000032",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000032",
+    "credito": false,
+    "debito": true,
+    "valor": 1035.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "671779",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 671779 TICKET SERVICOS SA",
+    "credito": false,
+    "debito": true,
+    "valor": 778.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 36.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "658413",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 658413",
+    "credito": true,
+    "debito": false,
+    "valor": 3784.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "668058",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 668058",
+    "credito": true,
+    "debito": false,
+    "valor": 1273.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "668574",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 668574",
+    "credito": true,
+    "debito": false,
+    "valor": 246.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "669313",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 669313",
+    "credito": true,
+    "debito": false,
+    "valor": 317.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "669861",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 669861",
+    "credito": true,
+    "debito": false,
+    "valor": 417.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 15.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 40.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 42.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 16.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 4.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 10.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 17.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 LUZIMAR VARGAS GOMES — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 78.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 17.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 17.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 28.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2025",
+    "documento": "001572",
+    "complemento": "RESGATE FUNDOS – DOC: 001572",
+    "credito": false,
+    "debito": true,
+    "valor": 421.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000043",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000043",
+    "credito": false,
+    "debito": true,
+    "valor": 303.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000044",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000044",
+    "credito": false,
+    "debito": true,
+    "valor": 1898.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000045",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000045",
+    "credito": false,
+    "debito": true,
+    "valor": 1560.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000491",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000491",
+    "credito": false,
+    "debito": true,
+    "valor": 35.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000490",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000490",
+    "credito": false,
+    "debito": true,
+    "valor": 26.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000014",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000014",
+    "credito": false,
+    "debito": true,
+    "valor": 34.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000013",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000013",
+    "credito": false,
+    "debito": true,
+    "valor": 513.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000012",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000012",
+    "credito": false,
+    "debito": true,
+    "valor": 980.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "140855",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 140855 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 347.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "486973",
+    "complemento": "CREDITO DE TED PAG C.CORRENTE – DOC: 486973 PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 22.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "789012",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789012",
+    "credito": true,
+    "debito": false,
+    "valor": 160.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "789489",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789489",
+    "credito": true,
+    "debito": false,
+    "valor": 59.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "789994",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 789994",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "790667",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 790667",
+    "credito": true,
+    "debito": false,
+    "valor": 580.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "791129",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 791129",
+    "credito": true,
+    "debito": false,
+    "valor": 446.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "791666",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 791666",
+    "credito": true,
+    "debito": false,
+    "valor": 332.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "792083",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792083",
+    "credito": true,
+    "debito": false,
+    "valor": 38.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "792750",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 792750",
+    "credito": true,
+    "debito": false,
+    "valor": 337.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "793170",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793170",
+    "credito": true,
+    "debito": false,
+    "valor": 2062.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "793615",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 793615",
+    "credito": true,
+    "debito": false,
+    "valor": 1953.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 SCANNTECH BRASIL AUT — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 252.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 0.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 10.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 15.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 2.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 18.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 11.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 48.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 39.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 29.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 38.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 8.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 65.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 44.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2025",
+    "documento": "001254",
+    "complemento": "APL BRB RENDE FACIL FIRF CP AU – DOC: 001254",
+    "credito": true,
+    "debito": false,
+    "valor": 143.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000029",
+    "complemento": "CREDITO STONE DEBITO OUTROS – DOC: 000029",
+    "credito": false,
+    "debito": true,
+    "valor": 526.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000031",
+    "complemento": "CREDITO STONE DEBITO VISA – DOC: 000031",
+    "credito": false,
+    "debito": true,
+    "valor": 668.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000030",
+    "complemento": "CREDITO STONE DEBITO MASTER – DOC: 000030",
+    "credito": false,
+    "debito": true,
+    "valor": 2106.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000001",
+    "complemento": "CREDITO ANTECIPACAO STONE OUT – DOC: 000001",
+    "credito": false,
+    "debito": true,
+    "valor": 110.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000002",
+    "complemento": "CREDITO ANTECIPACAO STONE VISA – DOC: 000002",
+    "credito": false,
+    "debito": true,
+    "valor": 861.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000003",
+    "complemento": "CREDITO ANTECIPACAO STONE MAS – DOC: 000003",
+    "credito": false,
+    "debito": true,
+    "valor": 886.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000501",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000501",
+    "credito": false,
+    "debito": true,
+    "valor": 14.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ALELO INSTITUICAO DE — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 4.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 MARIA DE OLIVEIRA BR — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 VR BENEFICIOS SERV P — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 366.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "056216",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 056216",
+    "credito": true,
+    "debito": false,
+    "valor": 1378.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "061286",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 061286",
+    "credito": true,
+    "debito": false,
+    "valor": 2347.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "063928",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 063928",
+    "credito": true,
+    "debito": false,
+    "valor": 2774.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "064932",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 064932",
+    "credito": true,
+    "debito": false,
+    "valor": 497.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 1.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 48.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 19.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 6.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 34.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 21.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 71.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 24.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 41.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 25.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 41.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 27.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 20.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 16.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 15.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 7.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 55.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 GTELLES SUPERMERCADO — 0132",
+    "credito": false,
+    "debito": true,
+    "valor": 12.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2025",
+    "documento": "002221",
+    "complemento": "RESGATE FUNDOS – DOC: 002221",
+    "credito": false,
+    "debito": true,
+    "valor": 312.23,
+    "origem": "Extrato"
+  }
+]

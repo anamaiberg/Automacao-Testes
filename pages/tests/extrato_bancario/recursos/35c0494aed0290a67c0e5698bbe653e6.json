@@ -1,0 +1,848 @@
+[
+  {
+    "data": "02/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 10216.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "080209",
+    "complemento": "DEBITO TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 7210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "761840",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "080178",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 142.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "080179",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 355.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "077028",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080584",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2275.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080585",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 433.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080586",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 599.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080587",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 814.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080588",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 848.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "080590",
+    "complemento": "PAGAMENTO DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 574.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "008000",
+    "complemento": "TARIFA RENOV.CONTR.",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "008000",
+    "complemento": "MENSALIDADE PACOTE",
+    "credito": true,
+    "debito": false,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "000001",
+    "complemento": "DEVOLUCAO TITULO COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 2275.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 3102.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "008398",
+    "complemento": "TED - SPB",
+    "credito": false,
+    "debito": true,
+    "valor": 49818.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080888",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1036.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080889",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080890",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2270.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080891",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 101.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080892",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 549.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080893",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 720.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080894",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 526.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080895",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 279.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080940",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 39.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "080942",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 6254.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "003401",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "923298",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 29400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "001008",
+    "complemento": "PAGTO FINANCIAMENTO DE LONGO PRAZO",
+    "credito": true,
+    "debito": false,
+    "valor": 3340.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "000835",
+    "complemento": "CHEQUE COMPENSADO",
+    "credito": true,
+    "debito": false,
+    "valor": 1124.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "724179",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 202.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "008000",
+    "complemento": "RENOVACAO DE CADASTRO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "000832",
+    "complemento": "CHEQUE COMPENSADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "005531",
+    "complemento": "TED - SPB",
+    "credito": false,
+    "debito": true,
+    "valor": 18414.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "521750",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "082060",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "082063",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1241.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "082056",
+    "complemento": "DEBITO TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "082064",
+    "complemento": "DEBITO TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "890063",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2173.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 9676.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082340",
+    "complemento": "CREDITO TRANSFERENCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "119732",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "001261",
+    "complemento": "CREDITO REGULARIZACAO",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082174",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1216.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082175",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 322.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082176",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 351.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082177",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 435.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082178",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1771.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082179",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1246.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082183",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 294.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082184",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 684.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082185",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 276.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082186",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 276.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082187",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082188",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "082189",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2379.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "428705",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3331.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "000832",
+    "complemento": "ADIANTAMENTO DEPOSITANTE CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082661",
+    "complemento": "CREDITO TRANSFERENCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 4300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 3476.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082662",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 505.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082663",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 694.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082664",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082665",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 480.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082666",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1326.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082667",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 343.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082668",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 185.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "082669",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 307.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "001026",
+    "complemento": "PAGTO FINANCIAMENTO DE LONGO PRAZO",
+    "credito": true,
+    "debito": false,
+    "valor": 3714.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "082875",
+    "complemento": "CREDITO TRANSFERENCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "756904",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 586.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "686128",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083191",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 808.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083192",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2129.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083193",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 567.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083194",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 274.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083195",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 268.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083196",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 319.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083197",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 436.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "083198",
+    "complemento": "DEBITO TRANSFERENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "198257",
+    "complemento": "CREDITO CONSORCIO",
+    "credito": false,
+    "debito": true,
+    "valor": 133.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "000001",
+    "complemento": "EMPRESTIMO BBH",
+    "credito": true,
+    "debito": false,
+    "valor": 218.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 86.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "000001",
+    "complemento": "EMPRESTIMO BBH",
+    "credito": true,
+    "debito": false,
+    "valor": 133.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "000000",
+    "complemento": "JUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  }
+]

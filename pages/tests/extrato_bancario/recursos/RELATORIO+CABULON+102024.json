@@ -1,0 +1,1775 @@
+[
+  {
+    "data": "01/10/2024",
+    "documento": "NI 399",
+    "complemento": "Transf. da conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": false,
+    "debito": true,
+    "valor": 343.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0982 Acordo - Condor Super x Elaine Brito - 0005081-3 Elaine Brito dos Santos Camargo",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3632-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 496.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3634-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 386.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3631-1 Selection Locadora de Veículos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 42.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3630-1 Selection Locadora de Veículos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Acordo Hossamo e Nazareth - 0078126-40.2019.8. Neide Aguirra Macacari",
+    "credito": false,
+    "debito": true,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0983 Acordo Hossamo e Nazareth - 0078126-40.2 Neide Aguirra Macacari",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3637-1 RWR Logística e Distribuição Ltda (Hi",
+    "credito": true,
+    "debito": false,
+    "valor": 501.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "",
+    "complemento": "Receitas não Identificadas",
+    "credito": false,
+    "debito": true,
+    "valor": 5166.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3646-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 20.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3642-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 46.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3645-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 61.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3644-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 61.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Despesas com Prospecção Pago 03/10/2024 - Almoço Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 164.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3643-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 293.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Acordo Hossamo e Nazareth - 0078126-40.2019.8.1 Neide Aguirra Macacari",
+    "credito": true,
+    "debito": false,
+    "valor": 425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Hospedagem Site Pago Uol E-mail Profissional 5 Caixas Universo Online S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 39.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Hospedagem Site Pago Uol E-mail Profissional 5 Caixas Universo Online S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 102.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Hospedagem Site Pago Uol E-mail Profissional 5 Caixas Universo Online S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 74.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "",
+    "complemento": "Tarifas Diversas",
+    "credito": true,
+    "debito": false,
+    "valor": 55.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0984 Acordo - Juraci Inez Balzer x Condor Super Center Juraci Inez Balzer",
+    "credito": false,
+    "debito": true,
+    "valor": 362.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "",
+    "complemento": "Hospedagem Site Pago Uol E-mail Profissional 5 Caixas Universo Online S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 24.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "NI 405",
+    "complemento": "Transf. da conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": false,
+    "debito": true,
+    "valor": 4766.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "",
+    "complemento": "Pagamento de Emprestimos a Terceriros Pago Devolução - Pagamentos 09/09 Graça Advogados Associados",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "",
+    "complemento": "Serviços Adm/Fin/Mkt Solidez Pago Adm/Mkt e Financeiro Solidez - Soluções & Serviços de Apoi",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3655-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3658-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Diarista Pago Diaria 05/10 - Apto Benedita Sofia dos Reis dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Honorários Mensais (partido) Rec. NF 0967 Assessoria Mensal Trabalhista. Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 115191.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0969 Pedido de Habilitação - Despacho Decisório Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 34089.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Pró-labore Pago Advogado Tributario Curitiba André Aparecido Dias de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago André Aparecido Dias de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 6243.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Repasse Comissão (indicação) Pago Acordo - Claudiney Dias de Castro x Condor Super Ce Angelo Tagliari Neto",
+    "credito": true,
+    "debito": false,
+    "valor": 641.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago Advogado Trabalhista Curitiba Angelo Tagliari Neto",
+    "credito": true,
+    "debito": false,
+    "valor": 2743.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Pró-labore Pago Advogado Trabalhista Curitiba Angelo Tagliari Neto",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Advogado(a) Tercerizado(a) Pago Admissão 18/09/2024 Cecília Franco Vieira de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 1516.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Advogado(a) Tercerizado(a) Pago Fernando Schlieper",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Advogado(a) Tercerizado(a) Pago Michele Cristine da Luz",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Pagamento de Emprestimos a Terceriros Pago Devolução - Êxito - Julio Cesar Lara - 50119 Graça Advogados Associados",
+    "credito": true,
+    "debito": false,
+    "valor": 15266.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "INSS Pago Receita Federal",
+    "credito": true,
+    "debito": false,
+    "valor": 1750.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "",
+    "complemento": "Serviços Adm/Fin/Mkt Solidez Pago Serviços administrativos/Financeiros Solidez - Soluções & Serviços de Apoi",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 RWR Logística e Distribuição Ltda (Hi",
+    "credito": false,
+    "debito": true,
+    "valor": 2457.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Honorários Mensais (partido) Rec. NF 0968 Assessoria Mensal - Prestação de Serviço. Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 13551.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Garante Distrib Import Prod Alimentíco",
+    "credito": false,
+    "debito": true,
+    "valor": 14.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 P J Zonta Administração de Bens e Pa",
+    "credito": false,
+    "debito": true,
+    "valor": 2030.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 API SPE 46 - Planejamento e Desenv.",
+    "credito": false,
+    "debito": true,
+    "valor": 214.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Logcondor Operador Logistico Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 1269.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 13808.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Condor Auto Posto Rodoviária Lt- Via",
+    "credito": false,
+    "debito": true,
+    "valor": 537.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Auto Posto Avenida das Araucárias Lt",
+    "credito": false,
+    "debito": true,
+    "valor": 470.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Pró-labore Pago Advogado Trabalhista Curitiba - Sócio Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3659-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 247.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3663-1 Selection Locadora de Veículos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 415.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Repasse de Parceria Pago Rede Postos Condor Guilherme Augusto Castro de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 1070.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3660-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 66.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Repasse Comissão (indicação) Pago 30% Acordo - Vinícius Marcondes Laureano x Apoio A Sergio da Silva Takigone",
+    "credito": true,
+    "debito": false,
+    "valor": 153.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago Honorarios Tributários Condor Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 2564.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago Honorarios Tributários Condor Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 2564.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago Sócio Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 23191.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Distribuição de Lucro (Fixo) Pago Sócio Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 23175.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "",
+    "complemento": "Pró-labore Pago Advogado Cível Curitiba Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "NI 410",
+    "complemento": "Transf. para conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "NI 411",
+    "complemento": "Transf. para conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3672-1 Pedro Joanir Zonta",
+    "credito": true,
+    "debito": false,
+    "valor": 52.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3671-1 Pedro Joanir Zonta",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Seguro de Vida Pago Seguro de Vida em grupo Metropolitan Life Seguros e Previdênci",
+    "credito": true,
+    "debito": false,
+    "valor": 146.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Contabilidade Pago NF 14584 Serviços Mensais de Contabilidade ACN Assessoria e Contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 673.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3670-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 734.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Seguro de Responsabilidade Civil Pago 3/6 Porto Seguro Companhia de Seguros",
+    "credito": true,
+    "debito": false,
+    "valor": 1104.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3675-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 78.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3674-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 1163.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2024",
+    "documento": "",
+    "complemento": "Serviços Adm/Fin/Mkt Solidez Pago Adm/Mkt e Financeiro Solidez - Soluções & Serviços de Apoi",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Advogados Correspondentes (audiencia) Pago Realizações de Audiencias Condor Amanda Javorski",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Advogados Correspondentes (audiencia) Pago Condor Ana Paula Menini",
+    "credito": true,
+    "debito": false,
+    "valor": 1940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3680-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 138.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Advogados Correspondentes (audiencia) Pago Condor Carla Yumi Akabane",
+    "credito": true,
+    "debito": false,
+    "valor": 1050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Advogados Correspondentes (audiencia) Pago Audiencia Condor Daniel José Morais Assunuma de Sou",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Brindes Pago Aniversario 10/10 Fernando Schlieper",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3678-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Advogados Correspondentes (audiencia) Pago Condor Pedro Henrique Bleichvelh Tibes de M",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3677-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 947.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Simples Nacional Pago 09/2024 Receita Federal",
+    "credito": true,
+    "debito": false,
+    "valor": 29691.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Reembolso Custas - Banco do Brasil S/A x Condor Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 391.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0986 Alvara - Banco do Brasil S/A x Condor Super Cent Banco do Brasil S/A",
+    "credito": false,
+    "debito": true,
+    "valor": 11383.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3681-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Est.Pag. SPF 3680-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": false,
+    "debito": true,
+    "valor": 138.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "NI 417",
+    "complemento": "Transf. para conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Reembolso Custas - Banco do Brasil S/A x Condor S Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 391.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3680-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 138.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0987 Alvara - Fabiane Kurpiel x Antenor Nunes G Fabiane Kurpiel",
+    "credito": false,
+    "debito": true,
+    "valor": 79.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Alvara - Fabiane Kurpiel x Antenor Nunes Guimarã Fabiane Kurpiel",
+    "credito": false,
+    "debito": true,
+    "valor": 319.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3685-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 4.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3684-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3686-1 Sandra Mara Zonta Gabardo",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3683-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 1461.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0991 Acordo - Cleusa Ferreira de Oliveira x Viação Grac Cleusa Ferreira de Oliveira",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Acordo - Vinícius Marcondes Laureano x Apoio Ad Vinicius Marcondes Laureano",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0992 Acordo - Vinícius Marcondes Laureano x Ap Vinicius Marcondes Laureano",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Acordo - Eliane Alves x Maria Helena Andrade de Eliane Alves",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0993 Acordo - Eliane Alves x Maria Helena Andra Eliane Alves",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Honorários Acompanhamento Mensal Rec. NF 0981 Assessoria Mensal - Prestação de Serv Castro e Rosa Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 1251.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Empresa de Águas Ouro Fino Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 374.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Repasse (part. faturamento e metas) Pago Saldo Participação 5.2% Angelo Tagliari Neto",
+    "credito": true,
+    "debito": false,
+    "valor": 1661.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Antecipação de Distribuição de Lucro Pago Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 3709.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Repasse (part. faturamento e metas) Pago Saldo Participação 5.2% André Aparecido Dias de Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Antecipação de Distribuição de Lucro Pago Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 3709.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Acordo - Vinícius Marcondes Laureano x Apoio Admi Vinicius Marcondes Laureano",
+    "credito": true,
+    "debito": false,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Acordo - Eliane Alves x Maria Helena Andrade de So Eliane Alves",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Repasse (part. faturamento e metas) Pago Saldo Participação 5.2% Fernando Schlieper",
+    "credito": true,
+    "debito": false,
+    "valor": 730.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Alvara - Fabiane Kurpiel x Antenor Nunes Guimarãe Fabiane Kurpiel",
+    "credito": true,
+    "debito": false,
+    "valor": 319.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3688-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 73.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3687-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 15.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3690-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 106.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3689-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Repasse (part. faturamento e metas) Pago Saldo Participação 5.2% Michele Cristine da Luz",
+    "credito": true,
+    "debito": false,
+    "valor": 754.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3692-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3694-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3698-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 200.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3697-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3705-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 386.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3701-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "Serviços Adm/Fin/Mkt Solidez Pago Adm/Mkt e Financeiro Solidez - Soluções & Serviços de Apoi",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0995 Alvara - Condor Super Center x Banco Bradesco S Banco Bradesco S/A",
+    "credito": false,
+    "debito": true,
+    "valor": 2515.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Alvara - Condor Super Center x Banco Bradesco S/ Condor Super Center Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 11598.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 53.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "NI 422",
+    "complemento": "Transf. da conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": false,
+    "debito": true,
+    "valor": 10004.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0996 Alvara - Condor Super Center Ltda - (45) Araucári Douglas Fagundes de Melo",
+    "credito": false,
+    "debito": true,
+    "valor": 370.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "NI 425",
+    "complemento": "Transf. da conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": false,
+    "debito": true,
+    "valor": 10004.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Passagem Aereas/Onibus Pago Azul linhas Areas - Dr. João Banco Itaú S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 15666.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Passagem Aereas/Onibus Pago Latam Pass - Dr. João Banco Itaú S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1471.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Alvara - Condor Super Center x Banco Bradesco S/A Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 9278.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Alvara - Condor Super Center x Banco Bradesco S/A Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 2515.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Antecipação de Distribuição de Lucro Pago Sucumbencia Julio Cesar de O. Lara Marcus Vinicius Cabulon",
+    "credito": true,
+    "debito": false,
+    "valor": 4551.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3702-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "",
+    "complemento": "Antecipação de Distribuição de Lucro Pago Sucumbencia Julio Cesar de O. Lara Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 4551.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "NI 426",
+    "complemento": "Transf. para conta Conta de Adiantamento - André Dias de O",
+    "credito": true,
+    "debito": false,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "NI 430",
+    "complemento": "Transf. para conta Conta de Adiantamento - André Dias de O",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "(-) Emprestimos Terceiros Pago Pagamanto de contas Graça Advogados Associados",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3707-1 Condor Auto Posto Saff Ltda - Posto 2",
+    "credito": true,
+    "debito": false,
+    "valor": 247.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3706-1 Empresa de Águas Ouro Fino Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 382.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 0997 Acordo - Claudiney Dias de Castro x Condor Supe Claudiney Dias de Castro",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Recuperação de Adiantamento de Despesas Rec. 09/2024 Castro e Rosa Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 60.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3711-1 Pedro Joanir Zonta",
+    "credito": true,
+    "debito": false,
+    "valor": 581.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3713-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 615.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Relacionamento com Cliente atual Pago Almoço Condor 21/10/2024 Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "",
+    "complemento": "Honorários Pontuais Rec. NF 0998 Pró-labore - Inventario Judicial em decorrencia do faleci Zilma Elizabeth da Silva",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "",
+    "complemento": "Uber e Táxi Pago Recibo 22 e 23/10/2024 Jair Rossete",
+    "credito": true,
+    "debito": false,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3123-2 PJ000751498 5018787-23.2022.4.04.700 Comercial de Alimentos Zonta Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 957.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "NI 435",
+    "complemento": "Transf. da conta Conta Aplicação Sicoob (Cabulon e Fuzine",
+    "credito": false,
+    "debito": true,
+    "valor": 5005.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "",
+    "complemento": "Relacionamento com Cliente atual Pago Café escritorio Thiago Henrique Fuzinelli",
+    "credito": true,
+    "debito": false,
+    "valor": 67.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3720-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 193.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "",
+    "complemento": "(-) Emprestimos Terceiros Pago Pagamento dia 24/10 - Graça Graça Advogados Associados",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3732-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 61.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3731-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 61.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Certidão Negativa (Cobrada) Pago SPF 3730-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 61.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3725-1 Condor Auto Posto Rodoviária Lt- Via",
+    "credito": true,
+    "debito": false,
+    "valor": 49.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3724-1 Condor Auto Posto Rodoviária Lt- Via",
+    "credito": true,
+    "debito": false,
+    "valor": 36.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3727-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 1606.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Recebimento de Emprestimos de Terceiros Rec. Devolução - Pagamento dia 24/10 - Graça Graça Advogados Associados",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Honorários Final de Ação (êxito) Rec. NF 0999 Acordo - PJ Zonta x Keppe Robeiro Alimento P J Zonta Administração de Bens e Pa",
+    "credito": false,
+    "debito": true,
+    "valor": 97.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Acordo - PJ Zonta x Keppe Robeiro Alimentos - 00 P J Zonta Administração de Bens e Pa",
+    "credito": false,
+    "debito": true,
+    "valor": 1202.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "NI 438",
+    "complemento": "Transf. para conta Conta de adiantamento - Michele Luz",
+    "credito": true,
+    "debito": false,
+    "valor": 104.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3733-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3734-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3743-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 73.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3748-1 API SPE 46 - Planejamento e Desenv.",
+    "credito": true,
+    "debito": false,
+    "valor": 147.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3745-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 247.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3744-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 1022.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais Pago PJ - 0025653-82.2024.8.16.0182 - Azul Linhas Aereas Brasileiras Fundo da Justiça do Poder Judiciario",
+    "credito": true,
+    "debito": false,
+    "valor": 496.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3747-1 Selection Locadora de Veículos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 64.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3746-1 Selection Locadora de Veículos Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 55.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Hospedagem Site Pago Uol E-mail Profissional 5 Caixas Universo Online S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 73.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "(-) Pagamento de Acordo Cliente Pago Acordo - PJ Zonta x Keppe Robeiro Alimentos - 0001 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3752-1 Condor Super Center Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 515.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3751-1 RWR Logística e Distribuição Ltda (Hi",
+    "credito": true,
+    "debito": false,
+    "valor": 501.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "NI 449",
+    "complemento": "Transf. para conta Conta de adiantamento - Camila Alessandr",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "(+) Recebimento de Acordo Cliente Rec. Alvara - Sandra Mara Zonta Gabardo x Marco Anto Sandra Mara Zonta Gabardo",
+    "credito": false,
+    "debito": true,
+    "valor": 10847.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "Honorários Sucumbências Rec. NF 1000 Alvara - Sandra Mara Zonta Gabardo x Marco Ant Marco Antonio da Rocha Pia Me",
+    "credito": false,
+    "debito": true,
+    "valor": 1205.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "NI 448",
+    "complemento": "Transf. para conta Conta de Adiantamento - André Dias de O",
+    "credito": true,
+    "debito": false,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "",
+    "complemento": "Recebimento de Emprestimos de Terceiros Rec. Pagamento de adiantamento Graça Advogados Associados",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "NI 450",
+    "complemento": "Transf. para conta Banco Sicoob (Graça Advogados)",
+    "credito": true,
+    "debito": false,
+    "valor": 10847.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "NI 451",
+    "complemento": "Transf. da conta Banco Sicoob (Graça Advogados)",
+    "credito": false,
+    "debito": true,
+    "valor": 10847.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "NI 452",
+    "complemento": "Transf. para conta Banco Itau S/A (Graça Advogados)",
+    "credito": true,
+    "debito": false,
+    "valor": 10847.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3755-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 105.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "",
+    "complemento": "Custas Processuais (Cobrada) Pago SPF 3754-1 P J Zonta Administração de Bens e Pa",
+    "credito": true,
+    "debito": false,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "",
+    "complemento": "Tarifa TED",
+    "credito": true,
+    "debito": false,
+    "valor": 9.93,
+    "origem": "Extrato"
+  }
+]

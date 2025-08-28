@@ -1,0 +1,434 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA CRI 21G0864354",
+    "credito": true,
+    "debito": false,
+    "valor": 350000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 350000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA DEB FLU U AMBP13",
+    "credito": true,
+    "debito": false,
+    "valor": 250059.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 20G0703083",
+    "credito": true,
+    "debito": false,
+    "valor": 17.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 20G0703083 ",
+    "credito": false,
+    "debito": true,
+    "valor": 250076.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA CRI 21L0002653",
+    "credito": true,
+    "debito": false,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 150960.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 21G0864354 ",
+    "credito": false,
+    "debito": true,
+    "valor": 149886.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 21L0002653 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1137.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 21L0002653",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 21G0864354",
+    "credito": true,
+    "debito": false,
+    "valor": 62.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA DEB FLU U QUAL16",
+    "credito": true,
+    "debito": false,
+    "valor": 300000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 300000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA DEB FLU U HARG11",
+    "credito": true,
+    "debito": false,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA DEB FLU U CSBR11",
+    "credito": true,
+    "debito": false,
+    "valor": 700000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 250000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1642.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 21G0864354 ",
+    "credito": false,
+    "debito": true,
+    "valor": 201076.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 21G0864354",
+    "credito": true,
+    "debito": false,
+    "valor": 153.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U AMBP13 ",
+    "credito": false,
+    "debito": true,
+    "valor": 250912.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U AMBP13",
+    "credito": true,
+    "debito": false,
+    "valor": 192.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA CRI 22F0783752",
+    "credito": true,
+    "debito": false,
+    "valor": 550000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 550000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 500183.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 21L0002653",
+    "credito": true,
+    "debito": false,
+    "valor": 383.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 21L0002653 ",
+    "credito": false,
+    "debito": true,
+    "valor": 500566.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 550287.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U HARG11 ",
+    "credito": false,
+    "debito": true,
+    "valor": 248494.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U QUAL16 ",
+    "credito": false,
+    "debito": true,
+    "valor": 300837.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U CSBR11 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1265.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U CSBR11",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U HARG11",
+    "credito": true,
+    "debito": false,
+    "valor": 121.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U QUAL16",
+    "credito": true,
+    "debito": false,
+    "valor": 188.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "",
+    "complemento": "APLICAÇÃO COMPROMISSADA CRI 22H1631360",
+    "credito": true,
+    "debito": false,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 001 AGE 3154 CTA 144533 - RECEBIMENTO DE TED - SPB ",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 700633.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U HARG11",
+    "credito": true,
+    "debito": false,
+    "valor": 158.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U HARG11 ",
+    "credito": false,
+    "debito": true,
+    "valor": 252747.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U CSBR11 ",
+    "credito": false,
+    "debito": true,
+    "valor": 448263.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U CSBR11",
+    "credito": true,
+    "debito": false,
+    "valor": 218.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 305.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "TED BCO 1 AGE 3154 CTA 144533 - RETIRADA EM C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA DEB FLU U CSBR11 ",
+    "credito": false,
+    "debito": true,
+    "valor": 252067.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA DEB FLU U CSBR11",
+    "credito": true,
+    "debito": false,
+    "valor": 140.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "IRRF RECOMPRA COMPROMISSADA CRI 22F0783752",
+    "credito": true,
+    "debito": false,
+    "valor": 69.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "RECOMPRA COMPROMISSADA CRI 22F0783752 ",
+    "credito": false,
+    "debito": true,
+    "valor": 248447.18,
+    "origem": "Extrato"
+  }
+]

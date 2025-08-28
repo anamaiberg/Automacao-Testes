@@ -1,0 +1,371 @@
+[
+  {
+    "data": "04/12/2023",
+    "documento": "NCX000143",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 2462.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 80457534000180 NCR MATERIAIS E EQU",
+    "credito": true,
+    "debito": false,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "SAMAEBL-C",
+    "complemento": "DEBITO CONVENIOS 83779462000186 SAMAEBL-C",
+    "credito": true,
+    "debito": false,
+    "valor": 64.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 76588722000170 ALFA INSTALACOE",
+    "credito": true,
+    "debito": false,
+    "valor": 646.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 15428335000182 LABOPRIME",
+    "credito": true,
+    "debito": false,
+    "valor": 1614.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "NCX000063",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 107250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2023",
+    "documento": "I00858",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 107250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 47920270000184 OLIVER CONNECT LT",
+    "credito": false,
+    "debito": true,
+    "valor": 29500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 47920270000184 OLIVER CONNECT LT",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 44284312000140 KAIZA INTERMEDIACOE",
+    "credito": true,
+    "debito": false,
+    "valor": 54500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2023",
+    "documento": "NCX000154",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "COTA",
+    "complemento": "INTEGR.CAPITAL SUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "NCX000226",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1433.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "NCX000268",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 238880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "I02083",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 238880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 83108357000115 MUNICIPIO DE BL",
+    "credito": true,
+    "debito": false,
+    "valor": 195.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 28129701000144 CAMILA ZWANG  S",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "CELESC-G",
+    "complemento": "DEBITO CONVENIOS 08336783000190 CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 92.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 02255187000108 UNIFIQUE TELECO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 02255187000108 UNIFIQUE TELECO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "TIMCEL-G",
+    "complemento": "DEBITO CONVENIOS 02421421000111 TIMCEL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 63.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2023",
+    "documento": "TIMCEL-G",
+    "complemento": "DEBITO CONVENIOS 02421421000111 TIMCEL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 181.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "I01221",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 170235.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2023",
+    "documento": "NCX000074",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 170235.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "NCX000092",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 105620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2023",
+    "documento": "I01276",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 105620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "I00882",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 42350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "NCX000274",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 284700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "I00878",
+    "complemento": "DEBITO TED/IB 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 142350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 100000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2023",
+    "documento": "NCX000138",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 80795727000222 POTENCIAL PETROLEO",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 03073727906 MARCIA CRISTINA DE O",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "NCX000200",
+    "complemento": "DEP DINHEIRO 03546713000143 IZIDORO COMBUSTIVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 2828.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14427962000136 AUTO MECANICA D",
+    "credito": true,
+    "debito": false,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "SFSC-0024",
+    "complemento": "ARRECADACAO ESTADUAL",
+    "credito": true,
+    "debito": false,
+    "valor": 723.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "SFSC-0024",
+    "complemento": "ARRECADACAO ESTADUAL",
+    "credito": true,
+    "debito": false,
+    "valor": 7232.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO 00394460005887 DARFC0385",
+    "credito": true,
+    "debito": false,
+    "valor": 4333.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 79511812000151 SERVMED CLINICA",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 07520438000140 RODOIL DISTRIBUIDOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2023",
+    "documento": "CX90790",
+    "complemento": "RECEBIMENTO PIX SICREDI 77419596972 NEUSA MARIA",
+    "credito": false,
+    "debito": true,
+    "valor": 1230.0,
+    "origem": "Extrato"
+  }
+]

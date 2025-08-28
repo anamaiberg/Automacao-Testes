@@ -1,0 +1,623 @@
+[
+  {
+    "data": "03/07/2023",
+    "documento": "5004",
+    "complemento": "CRED.TR.CT.INTERCRE REM.: MACIEL RIBEIRO AVELAR TRANSFERÊNCIA PIX MACIEL RIBEIRO AVELAR ***.208.568-**",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX EDISON CARLOS MENDONCA DOS REIS ***.654.097-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": "127",
+    "complemento": "TRANSF.RECURSO(E/I)",
+    "credito": true,
+    "debito": false,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "4323047",
+    "complemento": "TRANSF.RECEB-PIX SI REM.: LUCIMARI GASPARETTO DA SILVA TRANSFERÊNCIA PIX LUCIMARI GASPARETTO DA SILVA ***.652.601-** LANCE JAN",
+    "credito": false,
+    "debito": true,
+    "valor": 7500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "4323061",
+    "complemento": "TRANSF.RECEB-PIX SI REM.: EDELMIRO MOTA DA SILVA TRANSFERÊNCIA PIX EDELMIRO MOTA DA SILVA ***.273.600-** LANCE JAN",
+    "credito": false,
+    "debito": true,
+    "valor": 7500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "654914",
+    "complemento": "COMP MASTER MAESTRO EMBALAGENS FORMOSA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "42",
+    "complemento": "SAQUE NA AGENCIA NOME: ARALDO MARKS & CIA LTDA CPF: 04.143.940 0001-90",
+    "credito": true,
+    "debito": false,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX MCM C A LTDA 24.341.153 0001-60",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": "50",
+    "complemento": "SAQUE NA AGENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX DANIEL PALUDO ***.336.531-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.702.661-** HOTEL MATHEUS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "4327168",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 60.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": "114",
+    "complemento": "SAQUE PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "38",
+    "complemento": "PGTOS-CARTÃO DÉB.CX",
+    "credito": true,
+    "debito": false,
+    "valor": 14777.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "50",
+    "complemento": "SAQUE NA AGENCIA NOME: AROLDO MARKS CPF: 911.166.191-72",
+    "credito": true,
+    "debito": false,
+    "valor": 4853.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": "61",
+    "complemento": "SAQUE NA AGENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "4333519",
+    "complemento": "TRANSF. PIX SICOOB FAV.: ALIANCA COMBUSTIVEIS LTDA TRANSFERÊNCIA PIX AROLDO MARKS & CIA LTDA 04.143.940 0001-90 ABASTECIMENTO MATHEUS",
+    "credito": true,
+    "debito": false,
+    "valor": 404.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "114",
+    "complemento": "SAQUE PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "3623479",
+    "complemento": "DÉB.TRANSF.POU.INTE AROLDO MARKS",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 15.045.348 0001-72",
+    "credito": true,
+    "debito": false,
+    "valor": 95.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "Pix",
+    "complemento": "EST.PIX EMIT.OUT.IF ESTORNO PIX 15.045.348/0001-72",
+    "credito": false,
+    "debito": true,
+    "valor": 95.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "88",
+    "complemento": "SAQUE NA AGENCIA NOME: AROLDO MARKS CPF: 911.166.191-72",
+    "credito": true,
+    "debito": false,
+    "valor": 7200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX JOAO LUIS SCHOLL ***.355.468-** FORNECEDOR ROQUE DESCONZI",
+    "credito": false,
+    "debito": true,
+    "valor": 20117.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "114",
+    "complemento": "SAQUE PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX DANIEL PALUDO ***.336.531-**",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX DANIEL PALUDO ***.336.531-**",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX ADEMILSON MABONI ***.928.891-**",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "00289221",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 4799.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.928.891-** DEVOLUCAO DE PIX ERRADO",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "4352304",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 833.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "4352314",
+    "complemento": "DÉB.CNV.EN.ELET.GAS",
+    "credito": true,
+    "debito": false,
+    "valor": 48.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.653.541-**",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 29.907.570 0001-41",
+    "credito": true,
+    "debito": false,
+    "valor": 210.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "00294530",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1706.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "4355759",
+    "complemento": "TRANSF.RECEB-PIX SI REM.: ADEMIR ZUFFO TRANSFERÊNCIA PIX ADEMIR ZUFFO ***.348.110-**",
+    "credito": false,
+    "debito": true,
+    "valor": 12720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "4357446",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 723.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "4357461",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 111.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.543.030-** CANETAS",
+    "credito": true,
+    "debito": false,
+    "valor": 760.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 08.751.624 0001-52 PNEUS",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "4359856",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 3623.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "4359858",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "4359861",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 1417.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "4359868",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 571.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 20.585.961 0001-12",
+    "credito": true,
+    "debito": false,
+    "valor": 868.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEM.EMPRES",
+    "credito": true,
+    "debito": false,
+    "valor": 870.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 33.553.090 0001-05 FARMACIA GEL",
+    "credito": true,
+    "debito": false,
+    "valor": 752.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "47",
+    "complemento": "SAQUE NA AGENCIA NOME: AROLDO MARKS CPF: 911.166.191-72",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": "114",
+    "complemento": "SAQUE PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.789.521-** ELETRICA LOJA",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4369746",
+    "complemento": "TRANSF.RECEB-PIX SI REM.: MARCELO RODRIGO ISOTON TRANSFERÊNCIA PIX MARCELO RODRIGO ISOTON ***.019.941-**",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX ANTONIO A ZARY ***.817.680-**",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371598",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 1642.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371600",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 1218.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371603",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 755.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371604",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371609",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 606.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371615",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 697.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371618",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 219.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": "4371623",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 1321.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "SICOOB SEG",
+    "complemento": "DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 180.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX GEDISON S PINTO ***.387.270-**",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "425819",
+    "complemento": "COMP MASTER MAESTRO SR SAO PAULO COMERCIO FORMOSA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 265.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "425919",
+    "complemento": "COMP MASTER MAESTRO SR SAO PAULO COMERCIO FORMOSA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 77.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX MELCI BRUNETTO ***.315.799-**",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX MELCI BRUNETTO ***.315.799-**",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "Pix",
+    "complemento": "PIX REC.OUTRA IF MT RECEBIMENTO PIX AROLDO MARKS 04.143.940 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "4380700",
+    "complemento": "TRANSF.RECEB-PIX SI REM.: EVANDRO CARLOS GASPARETTO DA SILVA TRANSFERÊNCIA PIX EVANDRO CARLOS GASPARETTO DA SILVA ***.325.261-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1469.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "937446",
+    "complemento": "COMP MASTER MAESTRO POSTO S JUDAS TADEU FORMOSA BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 110.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "003.363",
+    "complemento": "CHQ CMP INTEGRADA",
+    "credito": true,
+    "debito": false,
+    "valor": 444.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "152555",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 233.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "152556",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 7.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "152557",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 178.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "904994",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 238.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "904995",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 44.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "425338",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 29.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "425339",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 245.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "688561",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 93.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "688562",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 39.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "220070",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1531.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "221878",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1236.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "329493",
+    "complemento": " SEGURADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 98.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "727220",
+    "complemento": "RESG AUTOM",
+    "credito": false,
+    "debito": true,
+    "valor": 290.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "18145",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 104.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "18146",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 14.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "366585",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 51.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "366586",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 102.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "366587",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 193.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "31213",
+    "complemento": "SAQUE LOT",
+    "credito": true,
+    "debito": false,
+    "valor": 347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "615235",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 332.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "900609",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1557.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "727220",
+    "complemento": "RESG AUTOM",
+    "credito": false,
+    "debito": true,
+    "valor": 1769.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "728802",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 214.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "728803",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 148.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "997176",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 68.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "997177",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 154.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "61207",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "61251",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "61107",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "35254",
+    "complemento": " DEB.AUTOR.",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "727220",
+    "complemento": "RESG AUTOM",
+    "credito": false,
+    "debito": true,
+    "valor": 784.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "275086",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 139.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "275087",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 258.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "550026",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 39.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "550027",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 299.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "550028",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 59.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "71354",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "557701",
+    "complemento": "DEB P FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 124.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "900616",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 268.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "188908",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 405.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "188909",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 92.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "188910",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 17.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "866486",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 610.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "866487",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 170.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "578308",
+    "complemento": "REDE EL CC",
+    "credito": false,
+    "debito": true,
+    "valor": 134.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "578309",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 106.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "578310",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 102.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "940285",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 316.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "940286",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 612.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "121122",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "121302",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "121829",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "900619",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 539.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "52023",
+    "complemento": "DB CEST PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "314891",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 159.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "314892",
+    "complemento": "REDE EL CC",
+    "credito": false,
+    "debito": true,
+    "valor": 34.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "314893",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 212.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "589756",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 157.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "589757",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 70.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "589758",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 159.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "337415",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1746.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "124092",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 314.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "124093",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 107.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "124094",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 155.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "873235",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 514.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "873236",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 287.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "141712",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "141146",
+    "complemento": "SAQUE LOT",
+    "credito": true,
+    "debito": false,
+    "valor": 349.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "141311",
+    "complemento": "CP MAESTRO",
+    "credito": true,
+    "debito": false,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "398925",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 291.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "398926",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 34.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "652952",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 148.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "652953",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 77.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "652954",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 168.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "195899",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 200.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "195900",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 39.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "936005",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 179.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "936006",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 92.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "525242",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 188.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "525243",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 126.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "869356",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 115.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "869357",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 507.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "869358",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 286.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "191408",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 570.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "900612",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1007.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "900614",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 954.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "0",
+    "complemento": "PREST EMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1295.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "227930",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 503.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "227931",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 187.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "227932",
+    "complemento": "REDE EL CC",
+    "credito": false,
+    "debito": true,
+    "valor": 53.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "485514",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 144.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "485515",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 91.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "485516",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 339.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "82319",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 120.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "408913",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1570.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "949073",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 913.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "727220",
+    "complemento": "RESG AUTOM",
+    "credito": false,
+    "debito": true,
+    "valor": 726.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "13158",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 92.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "13159",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 176.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "754268",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 151.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "754269",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 122.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "754270",
+    "complemento": "REDE EL CC",
+    "credito": false,
+    "debito": true,
+    "valor": 107.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "289055",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 174.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "289056",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 130.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "552850",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 56.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "552851",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 54.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "552852",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 94.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "99336",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 62.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "99337",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 193.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "835565",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 83.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "231024",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "231400",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "231815",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "427963",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 70.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "427964",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 17.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "765077",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 195.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "765078",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 320.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "765079",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 44.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "241312",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "241344",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "115745",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 95.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "115746",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 77.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "368867",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 58.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "368868",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 179.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "633485",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 174.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "633486",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 68.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "888482",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 205.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "888483",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 61.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "888484",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 9.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "281303",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 699.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "900621",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "157217",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 92.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "413508",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 235.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "291307",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "291342",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "291413",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "191330",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 819.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "291436",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 606.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "684918",
+    "complemento": "REDE MC CC",
+    "credito": false,
+    "debito": true,
+    "valor": 174.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "684919",
+    "complemento": "REDE VS CC",
+    "credito": false,
+    "debito": true,
+    "valor": 124.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "940983",
+    "complemento": "REDE EL CD",
+    "credito": false,
+    "debito": true,
+    "valor": 9.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "940984",
+    "complemento": "REDE MC CD",
+    "credito": false,
+    "debito": true,
+    "valor": 40.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "940985",
+    "complemento": "REDE VS CD",
+    "credito": false,
+    "debito": true,
+    "valor": 53.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "301029",
+    "complemento": "CRED PIX",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  }
+]

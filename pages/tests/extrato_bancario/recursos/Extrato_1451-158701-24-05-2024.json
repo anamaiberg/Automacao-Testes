@@ -1,0 +1,29 @@
+[
+  {
+    "data": "23/05/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 83.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "",
+    "complemento": "TBI 1451.68508-3 C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  }
+]

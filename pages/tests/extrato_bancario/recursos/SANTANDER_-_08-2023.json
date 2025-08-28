@@ -1,0 +1,8795 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 31/07/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 6.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 29/07/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "583627",
+    "complemento": "PIX RECEBIDO DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 42.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1562.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 153.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 625.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 48.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 66.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 149.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "EXTRATO CONSOLIDADO PIX RECEBIDO 04124808917",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "091009",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 672.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09842347990",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1541.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 166.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 391.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 644.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS FIORELO PEGORARO C D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 112.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 532.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 547.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SIHORBS SIND HOTEIS REST",
+    "credito": true,
+    "debito": false,
+    "valor": 74.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05164887916",
+    "credito": false,
+    "debito": true,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13627612906",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 87054400259",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10897088905",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05848314470",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08229122954",
+    "credito": false,
+    "debito": true,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03550455240",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09167034950",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08874606907",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05890655566",
+    "credito": false,
+    "debito": true,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 86340425020",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13090543478",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04915736261",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 80034290990",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "363302",
+    "complemento": "PIX RECEBIDO DIF TIT 31215693842",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 75560305200",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 157.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "010802",
+    "complemento": "RECEBIMENTO VIA PGTO FORNECEDORES TICKET SER 47866934000174",
+    "credito": false,
+    "debito": true,
+    "valor": 501.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "531789",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 3.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 223.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1011.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 175.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 37.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 49.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 21.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07285177954",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09073775990",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12651793957",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "192062",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 853.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05543500920",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04379117480",
+    "credito": false,
+    "debito": true,
+    "valor": 9.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 74037420953",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 87054400259",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 72960000072",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "163829",
+    "complemento": "PIX RECEBIDO DIF TIT 06488946900",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08197212988",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10651704910",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02482350441",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09718738959",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03954930218",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08808028984",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70636372235",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "552299",
+    "complemento": "PIX RECEBIDO DIF TIT 06633010508",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 45463028000101",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03536887031",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3226.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1389.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 336.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 213.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 43.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 9.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 145.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09626130962",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03503736204",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "441792",
+    "complemento": "PIX RECEBIDO DIF TIT 06633010508",
+    "credito": false,
+    "debito": true,
+    "valor": 23.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "291631",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 765.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "230484",
+    "complemento": "PIX RECEBIDO DIF TIT 04968725914",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13324448905",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "464190",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 78.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 51874094845",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 72092672479",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10946989974",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 73343781991",
+    "credito": false,
+    "debito": true,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 86508905554",
+    "credito": false,
+    "debito": true,
+    "valor": 31.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 25707870865",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "440454",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03536887031",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "025119",
+    "complemento": "PIX RECEBIDO DIF TIT 04968725914",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07417635911",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06067532140",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07417635911",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "435234",
+    "complemento": "PIX RECEBIDO DIF TIT 03601649942",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 46713015000106",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02725382130",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12529499950",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04535166960",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3516.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 03/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 69034668000156",
+    "credito": false,
+    "debito": true,
+    "valor": 785.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 982.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 85.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 301.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 230.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 135.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 43537209000100",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "392657",
+    "complemento": "EXTRATO CONSOLIDADO ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 785.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 46720869841",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10415004918",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13038285617",
+    "credito": false,
+    "debito": true,
+    "valor": 32.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "503744",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 22.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 72092672479",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08599191969",
+    "credito": false,
+    "debito": true,
+    "valor": 35.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04113564531",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "274128",
+    "complemento": "PIX RECEBIDO DIF TIT 04968725914",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02708084933",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10651704910",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12225172994",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05282731916",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11297682521",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02165446295",
+    "credito": false,
+    "debito": true,
+    "valor": 47.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 61380466920",
+    "credito": false,
+    "debito": true,
+    "valor": 34.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02725382130",
+    "credito": false,
+    "debito": true,
+    "valor": 46.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05689037575",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05349406922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12225172994",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07219570562",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3797.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11273650964",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08063942930",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10600438902",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 73.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13608974962",
+    "credito": false,
+    "debito": true,
+    "valor": 17.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05473073140",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05388306976",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09173079928",
+    "credito": false,
+    "debito": true,
+    "valor": 84.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09120988990",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05339015963",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09811649944",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10651704910",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08974871920",
+    "credito": false,
+    "debito": true,
+    "valor": 41.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 45815712000",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "182475",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 33.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "601232",
+    "complemento": "PAGAMENTO FGTS-CANAIS ATM FGTS GRF CONVENIO 017",
+    "credito": true,
+    "debito": false,
+    "valor": 930.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07115136351",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "010807",
+    "complemento": "DEBITO PAGAMENTO DE SALARIO PAGSAL: 6 PAGTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11257.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 1121.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 111.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 463.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 16.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 4357.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 62.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05662113947",
+    "credito": false,
+    "debito": true,
+    "valor": 238.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02535864000133",
+    "credito": false,
+    "debito": true,
+    "valor": 720.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "514321",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1656.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08625828906",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09977768978",
+    "credito": false,
+    "debito": true,
+    "valor": 17.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 119.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 363.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MULTIDISPLAY COMERCIO E S",
+    "credito": true,
+    "debito": false,
+    "valor": 429.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PEPSICO DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 301.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2423.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 109.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DISTRIBUIDORA DE ALIMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 208.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS TALENTO SALGADOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03963653965",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 55199782800",
+    "credito": false,
+    "debito": true,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06161595443",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 45815712000",
+    "credito": false,
+    "debito": true,
+    "valor": 72.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "421284",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11683336950",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12772333906",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 14197854943",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09679824993",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 71062490258",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03608159878",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10213348985",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6105.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "MENSALIDADE DE SEGURO PORTO SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 328.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "563469",
+    "complemento": "PIX RECEBIDO DIF TIT 15115156946",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 316.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 273.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1276.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 14.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 9.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 180.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 33.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05662113947",
+    "credito": false,
+    "debito": true,
+    "valor": 31.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "627581",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 567.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12059081963",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "474097",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 76.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48514411934",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 88532356320",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 42599964000148",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 69083932915",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09750413989",
+    "credito": false,
+    "debito": true,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07127290547",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "435719",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09870567940",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08814483973",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "EXTRATO CONSOLIDADO PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09850807954",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10378850903",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 2844.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "010809",
+    "complemento": "RECEBIMENTO VIA PGTO FORNECEDORES TICKET SER 47866934000174",
+    "credito": false,
+    "debito": true,
+    "valor": 312.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 217.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 251.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1345.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 8.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 162.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 17.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 4.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05890655566",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "727271",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 951.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09523339966",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13096076995",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "162375",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 160.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04657890484",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94759553991",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09073775990",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02494160260",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06949514980",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07841413980",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 23143501898",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09483817951",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10993201946",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05258926990",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 25112812877",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03547255996",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04188751975",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 31.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09850807954",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3892.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 09/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "220242",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR PARA: 3059.01.000386-1",
+    "credito": true,
+    "debito": false,
+    "valor": 3369.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "240092",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR PARA: 3059.01.000386-1",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "606295",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PGTO ATM AG: 3059",
+    "credito": true,
+    "debito": false,
+    "valor": 10787.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO ESCRITORIO CONTABIL NASTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1093.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 188.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CIDADE JARDIM COMERCIO AT",
+    "credito": true,
+    "debito": false,
+    "valor": 504.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 588.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 738.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BALLESTEROS BALLESTEROS L",
+    "credito": true,
+    "debito": false,
+    "valor": 530.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 186.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 140.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BDL LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 79.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 376.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CRBS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 396.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 89960157920",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 199.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 40.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 837.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 142.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09030613416",
+    "credito": false,
+    "debito": true,
+    "valor": 24.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05781514996",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "832797",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 644.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04547626901",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11297682521",
+    "credito": false,
+    "debito": true,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "121051",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "165237",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 77.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90296362972",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08465490937",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05398952960",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09167971989",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05353995538",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09679824993",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06285760993",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03536887031",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07222108920",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10993201946",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 75343797920",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05502286916",
+    "credito": false,
+    "debito": true,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03301725902",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "262105",
+    "complemento": "PIX RECEBIDO DIF TIT 09870567940",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09073775990",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10940463709",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10940463709",
+    "credito": false,
+    "debito": true,
+    "valor": 25.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07843962999",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 25112812877",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05543500920",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 31396.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 10/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 10/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 69034668000156",
+    "credito": false,
+    "debito": true,
+    "valor": 372.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 977.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 37.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 186.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 30.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 947.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 116.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 14.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04945645981",
+    "credito": false,
+    "debito": true,
+    "valor": 21.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 98839632972",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "942755",
+    "complemento": "EXTRATO CONSOLIDADO ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 680.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07547010938",
+    "credito": false,
+    "debito": true,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "301537",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 78.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 54516340925",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90296362972",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96454385434",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08465490937",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08342406962",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO LEONILDO ARAUJO DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "550122",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 26.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03536887031",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05609463920",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 10.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10068773471",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08959867950",
+    "credito": false,
+    "debito": true,
+    "valor": 38.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08186204989",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "534744",
+    "complemento": "PIX RECEBIDO DIF TIT 86442280560",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 2206.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 14992794696",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08336205926",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94851182015",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 18.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 11/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1631.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 32.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 56.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 605.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 389.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 3.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 52.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 119.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS TALENTO SALGADOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 343.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MULTIDISPLAY COMERCIO E S",
+    "credito": true,
+    "debito": false,
+    "valor": 561.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2283.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 402.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "069250",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1202.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02535864000133",
+    "credito": false,
+    "debito": true,
+    "valor": 671.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO BASE GAS REGIONAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 406.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06403494988",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11227995946",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11227995946",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "465559",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 49.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06285760993",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 61104404346",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 41.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730249902",
+    "credito": false,
+    "debito": true,
+    "valor": 19.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05556779902",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08438236901",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 95339787672",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04915736261",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 42616861801",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05618432951",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10213348985",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 82592551034",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1120.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 14/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 5.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 12/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 216.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 180.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 924.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 8.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 105.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "239000",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO SICOOB PAGT-CABAL PRE",
+    "credito": false,
+    "debito": true,
+    "valor": 66.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "182616",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 499.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 43887179000153",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07683511978",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "192320",
+    "complemento": "PIX RECEBIDO DIF TIT 71136327266",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "470695",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 63.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06419881927",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04945645981",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02725382130",
+    "credito": false,
+    "debito": true,
+    "valor": 37.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "105984",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 15115156946",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04945645981",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 14141084948",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07181013912",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09679824993",
+    "credito": false,
+    "debito": true,
+    "valor": 53.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05502286916",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03715214244",
+    "credito": false,
+    "debito": true,
+    "valor": 58.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70333749413",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 2430.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "010816",
+    "complemento": "RECEBIMENTO VIA PGTO FORNECEDORES TICKET SER 47866934000174",
+    "credito": false,
+    "debito": true,
+    "valor": 350.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "034153",
+    "complemento": "PIX RECEBIDO DIF TIT 05221319993",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 472.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 82.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 162.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1352.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "113959",
+    "complemento": "EXTRATO CONSOLIDADO PIX RECEBIDO DIF TIT 67829902968",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 38777223004",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08198751980",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 10.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 65.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09237795904",
+    "credito": false,
+    "debito": true,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07464165985",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02708084933",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "111775",
+    "complemento": "PIX RECEBIDO DIF TIT 12583144448",
+    "credito": false,
+    "debito": true,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05848314470",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "281709",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 753.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09131746969",
+    "credito": false,
+    "debito": true,
+    "valor": 35.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "032239",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 47.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10054748933",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13608974962",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11106168992",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "240472",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48423498832",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10884029921",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03536887031",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04715531585",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09679824993",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13522409981",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 29921280821",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12852188929",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3846.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 85284420000108",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 41.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1087.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 67.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 42.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 741.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 36205386895",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 55.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BALLESTEROS BALLESTEROS L",
+    "credito": true,
+    "debito": false,
+    "valor": 306.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1024.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 93.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 179.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 448.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 360.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 588.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03554668990",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08186011919",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "386254",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 635.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 88532356320",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 98839632972",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 60421978350",
+    "credito": false,
+    "debito": true,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08942214932",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "463004",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 82.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12028292954",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08225172990",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "520501",
+    "complemento": "PIX RECEBIDO DIF TIT 05221319993",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05388306976",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07544903940",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09592420904",
+    "credito": false,
+    "debito": true,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11018138900",
+    "credito": false,
+    "debito": true,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 200.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08942214932",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 69034668000156",
+    "credito": false,
+    "debito": true,
+    "valor": 298.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 242.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1487.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 50.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 114.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 19.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 52.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08002411935",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 97727466387",
+    "credito": false,
+    "debito": true,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "495111",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 621.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09523339966",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 80829066934",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "612916",
+    "complemento": "PAGAMENTO FGTS-CANAIS ATM FGTS GRRF ELETRONICA",
+    "credito": true,
+    "debito": false,
+    "valor": 121.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 51028572000110",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "020025",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 73.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90296362972",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02708084933",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04679480971",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05134673519",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 43533787000160",
+    "credito": false,
+    "debito": true,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08342406962",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11296719413",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "310818",
+    "complemento": "PAGAMENTO A FORNECEDORES BEN VISA VAL",
+    "credito": false,
+    "debito": true,
+    "valor": 98.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04084821926",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3353.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11311516905",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02630383946",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 91008956520",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09483817951",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08616489517",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07893260947",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09286598955",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04428972946",
+    "credito": false,
+    "debito": true,
+    "valor": 41.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05161601922",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 98804448920",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "010821",
+    "complemento": "DEBITO PAGAMENTO DE SALARIO PAGSAL: 1 PAGTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 845.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10213348985",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 19.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 67037593915",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "614046",
+    "complemento": "EXTRATO CONSOLIDADO  PAGAMENTO DARF EM CANAIS ATM SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 7263.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03554668990",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 385.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 73.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 32.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1470.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 326.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 2.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02535864000133",
+    "credito": false,
+    "debito": true,
+    "valor": 567.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04113564531",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 119.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MULTIDISPLAY COMERCIO E S",
+    "credito": true,
+    "debito": false,
+    "valor": 248.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1857.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 383.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS TALENTO SALGADOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03184446905",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 21825315809",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "493290",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 224.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 40103950000166",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96924403034",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08229122954",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "620310",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13763876979",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10268874450",
+    "credito": false,
+    "debito": true,
+    "valor": 1.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11647394686",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11647394686",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "080368",
+    "complemento": "PIX RECEBIDO DIF TIT 08480042990",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04915736261",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 39689900803",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10347890903",
+    "credito": false,
+    "debito": true,
+    "valor": 32.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 5667.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 21/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 118.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 492.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 9.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 796.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 82.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 19.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "239000",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO SICOOB PAGT-CABAL PRE",
+    "credito": false,
+    "debito": true,
+    "valor": 118.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "445770",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 17.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 87046571953",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "735824",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 656.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12651793957",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04079365993",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 98839632972",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "494937",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 45.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09523339966",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "133633",
+    "complemento": "PIX RECEBIDO DIF TIT 11291457941",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12145074929",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12705939946",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09483817951",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12909555909",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07451140326",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09436271921",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09523339966",
+    "credito": false,
+    "debito": true,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10924951931",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06590032955",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 34228519000143",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11829335995",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04077699274",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "373927",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06212916250",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 2726.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "010823",
+    "complemento": "RECEBIMENTO VIA PGTO FORNECEDORES TICKET SER 47866934000174",
+    "credito": false,
+    "debito": true,
+    "valor": 195.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08942214932",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03554668990",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 402.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 226.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1174.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 19.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 10.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "150270",
+    "complemento": "PIX RECEBIDO DIF TIT 06073943580",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "838050",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 348.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09192721931",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "594538",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 113.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07195124924",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09543459916",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03119055522",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 42616861801",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06285760993",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03579564609",
+    "credito": false,
+    "debito": true,
+    "valor": 44.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07263811790",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "374253",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07296861916",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 92682693253",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 97052027968",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12225172994",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90228863953",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03554668990",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06582227912",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06551200923",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11924874946",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48649891845",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "EXTRATO CONSOLIDADO  Continuação 1 Nome CAFE E LANCHONETE PINGUIN LTDA Agência Conta Corrente 3059 13.000706-8 PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10988780941",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12261523920",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 2966.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08942214932",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 904.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 419.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 246.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 57.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03503736204",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09073775990",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "944730",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 628.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO BASE GAS REGIONAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 419.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 164.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 127.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 457.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BDL LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 60.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS TIMONEIRO DISTRIBUIDORA D",
+    "credito": true,
+    "debito": false,
+    "valor": 509.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 201.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 69905185100",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "002765",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 44.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 87054400259",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08782605521",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 89470109953",
+    "credito": false,
+    "debito": true,
+    "valor": 39.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12644672902",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 82592551034",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04025574926",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09340062612",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 50415781000153",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 44126343881",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07156295900",
+    "credito": false,
+    "debito": true,
+    "valor": 21.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "153455",
+    "complemento": "PIX RECEBIDO DIF TIT 09643094910",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04915736261",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 140.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "TARIFA EXTRATO CONSOLIDADO 23/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 24/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 5.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "053452",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 39.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 69034668000156",
+    "credito": false,
+    "debito": true,
+    "valor": 308.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 269.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 997.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 207.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 11.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 7.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 11.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11090549989",
+    "credito": false,
+    "debito": true,
+    "valor": 62.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04939775208",
+    "credito": false,
+    "debito": true,
+    "valor": 39.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "053678",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 803.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 84245344253",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70465714498",
+    "credito": false,
+    "debito": true,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03547255996",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 40700402268",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07362531575",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70333749413",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09611820917",
+    "credito": false,
+    "debito": true,
+    "valor": 37.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09512224577",
+    "credito": false,
+    "debito": true,
+    "valor": 9.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "001776",
+    "complemento": "PIX RECEBIDO DIF TIT 44318114864",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11534463402",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 10.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04864001901",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09360063908",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 96961600972",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70333749413",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "TRANSFERENCIA PROGRAMADA PARA: 3059.60.041729-8",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 2052.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 46293853000160",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10268874450",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11036209911",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02630383946",
+    "credito": false,
+    "debito": true,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "EXTRATO CONSOLIDADO PIX RECEBIDO 45667604809",
+    "credito": false,
+    "debito": true,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10979333776",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04915736261",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "034066",
+    "complemento": "PIX RECEBIDO DIF TIT 67829902968",
+    "credito": false,
+    "debito": true,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10213348985",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90296362972",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 85378810906",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07127678944",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 94812454972",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 723.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1923.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 445.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 81.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 16.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 39.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "176946",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1143.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 90700597620",
+    "credito": false,
+    "debito": true,
+    "valor": 29.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11044483946",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02535864000133",
+    "credito": false,
+    "debito": true,
+    "valor": 747.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03359997271",
+    "credito": false,
+    "debito": true,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "242403",
+    "complemento": "RESG POUP - CENTRAL/INTERNET/APP DE: 3059.60.041729-8",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OLIVEIRA COMERCIO GENEROS",
+    "credito": true,
+    "debito": false,
+    "valor": 476.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 119.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 334.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MULTIDISPLAY COMERCIO E S",
+    "credito": true,
+    "debito": false,
+    "valor": 310.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DIST MULLER COM E REPR LT",
+    "credito": true,
+    "debito": false,
+    "valor": 253.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 115.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS TIMONEIRO DISTRIBUIDORA D",
+    "credito": true,
+    "debito": false,
+    "valor": 365.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SOUZA CRUZ LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2217.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "470887",
+    "complemento": "PIX RECEBIDO DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 84.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS JTI",
+    "credito": true,
+    "debito": false,
+    "valor": 461.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HENKEL COMERCIO SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MSS DISTRIBUIDORA DE CONG",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BALLESTEROS BALLESTEROS L",
+    "credito": true,
+    "debito": false,
+    "valor": 632.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 114.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 39.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 619.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "511584",
+    "complemento": "PIX RECEBIDO DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 61.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 62501718356",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02630383946",
+    "credito": false,
+    "debito": true,
+    "valor": 57.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 21.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11311516905",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "292983",
+    "complemento": "PIX RECEBIDO DIF TIT 04025574926",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "321131",
+    "complemento": "PIX RECEBIDO DIF TIT 11631915908",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09664710598",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 25112812877",
+    "credito": false,
+    "debito": true,
+    "valor": 41.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10556609921",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 51360080000127",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06162439100",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12950354645",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10213348985",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "422582",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 252.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "TARIFA PIX RECEBIDO QR CHECKOUT 26/08/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "081699",
+    "complemento": "PIX RECEBIDO DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 22.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 120.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 986.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 442.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 17.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 13.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02630383946",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07670369990",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10628996950",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04229980957",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "288408",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 881.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12702396941",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 87054400259",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11311516905",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03947346298",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11106168992",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 85074101034",
+    "credito": false,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10442156901",
+    "credito": false,
+    "debito": true,
+    "valor": 41.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08463754945",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "243818",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 30974587869",
+    "credito": false,
+    "debito": true,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 86483019556",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05160041907",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07256024908",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 13522409981",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05258926990",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 18962533774",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "163954",
+    "complemento": "DEP DINHEIRO CAIXA",
+    "credito": false,
+    "debito": true,
+    "valor": 404.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02725382130",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70910130426",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05331739903",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 28440992890",
+    "credito": false,
+    "debito": true,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09483817951",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3408.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "010830",
+    "complemento": "RECEBIMENTO VIA PGTO FORNECEDORES TICKET SER 47866934000174",
+    "credito": false,
+    "debito": true,
+    "valor": 533.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "372325",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 60.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 22919267809",
+    "credito": false,
+    "debito": true,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11665326905",
+    "credito": false,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1102.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 352.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 49.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "905407",
+    "complemento": "EXTRATO CONSOLIDADO  PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 160.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03554668990",
+    "credito": false,
+    "debito": true,
+    "valor": 18.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 9.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 64.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "239000",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO SICOOB PAGT-CABAL PRE",
+    "credito": false,
+    "debito": true,
+    "valor": 17.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10268874450",
+    "credito": false,
+    "debito": true,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "301418",
+    "complemento": "PIX RECEBIDO DIF TIT 06004234923",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "387490",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 563.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07947229970",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08212994929",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09946334917",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02955247235",
+    "credito": false,
+    "debito": true,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09087815980",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06081017966",
+    "credito": false,
+    "debito": true,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07321709906",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "015216",
+    "complemento": "PIX RECEBIDO DIF TIT 10720558999",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11311516905",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11693731940",
+    "credito": false,
+    "debito": true,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05258926990",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 10.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09488762985",
+    "credito": false,
+    "debito": true,
+    "valor": 7.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02419747000104",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 12430539926",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05160041907",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 16098905908",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09131746969",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08649934986",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 07843962999",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 41137242000109",
+    "credito": false,
+    "debito": true,
+    "valor": 114.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10600438902",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 29814472204",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "500163",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 29814472204",
+    "credito": false,
+    "debito": true,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3516.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "515306",
+    "complemento": "MENSALIDADE DE SEGURO Parc 002/006 Vida Grupo",
+    "credito": true,
+    "debito": false,
+    "valor": 365.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1499.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 458.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 182.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "052461",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO BEN-BEN VVALE",
+    "credito": false,
+    "debito": true,
+    "valor": 230.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 14.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "905407",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 31.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 89141164920",
+    "credito": false,
+    "debito": true,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02711768066",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "493397",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 838.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "315674",
+    "complemento": "PIX RECEBIDO - DIF TIT 04740876000125",
+    "credito": false,
+    "debito": true,
+    "valor": 75.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04878311010",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05258926990",
+    "credito": false,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 11311516905",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06533430947",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 70040846202",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 04469624900",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03608159878",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 09766989940",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05258926990",
+    "credito": false,
+    "debito": true,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08270416916",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08781431902",
+    "credito": false,
+    "debito": true,
+    "valor": 21.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "410595",
+    "complemento": "PIX RECEBIDO DIF TIT",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 92900445434",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 31875725000157",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 02803681943",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08730236924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05079271922",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06162439100",
+    "credito": false,
+    "debito": true,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 10080081924",
+    "credito": false,
+    "debito": true,
+    "valor": 2.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 3295.19,
+    "origem": "Extrato"
+  }
+]

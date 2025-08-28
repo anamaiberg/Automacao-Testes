@@ -1,0 +1,2810 @@
+[
+  {
+    "data": "02/01/2023",
+    "documento": "COB000015",
+    "complemento": "SALDO ANTERIOR -11.628,45 MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "",
+    "complemento": "IOF BASICO CH PJ Iof.BAsic",
+    "credito": true,
+    "debito": false,
+    "valor": 13.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE Iof.ADic.",
+    "credito": true,
+    "debito": false,
+    "valor": 194.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "COB000020",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2023",
+    "documento": "AOV000018",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 2625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "COB000020",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 8438.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38749471813 GUILHERME AUGUSTO LIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2023",
+    "documento": "COB000010",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "COB000009",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3364.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "COB000006",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 608.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 948.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1403.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 125.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 914.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 686.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1866.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 526.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 53946299000138 MECANICA PAULINENSE",
+    "credito": true,
+    "debito": false,
+    "valor": 1519.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 41477461876 Mariana Fernandes de M",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "COB000004",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2023",
+    "documento": "COB000013",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 17.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "COB000013",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 7144.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 42585212807 YNGRID COLLETE LUZ",
+    "credito": true,
+    "debito": false,
+    "valor": 1395.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 38772299000175 Paulo E Paulo Ins",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 42456565819 WALLACE MONTEIRO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CPFLPAULG",
+    "credito": true,
+    "debito": false,
+    "valor": 1120.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 04740876000125 ALELO",
+    "credito": true,
+    "debito": false,
+    "valor": 1870.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 699.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 142.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 371.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 245.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 242.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 157.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 731.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 692.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2168.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 191.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 239.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 365.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "COB000002",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2023",
+    "documento": "COB000014",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 18.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "COB000014",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 8102.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "SI02372",
+    "complemento": "TRANSF ENTRE CONTAS 47283339817 LETICIA VICENTE",
+    "credito": true,
+    "debito": false,
+    "valor": 625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "SI02270",
+    "complemento": "TRANSF ENTRE CONTAS 06874493914 ADRIANA FLORENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 645.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 44252106893 Jaqueline Santana Oliv",
+    "credito": true,
+    "debito": false,
+    "valor": 513.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "SI02367",
+    "complemento": "TRANSF ENTRE CONTAS 50330044842 LETICIA FARIAS O",
+    "credito": true,
+    "debito": false,
+    "valor": 506.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31701195836 LUANA CRISTINA DA SILV",
+    "credito": true,
+    "debito": false,
+    "valor": 2380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "SI02300",
+    "complemento": "TRANSF ENTRE CONTAS 37913881852 CYNTHIA TEIXEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 1077.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "",
+    "complemento": "TRANSF ENTRE CONTAS DG 35353809874 JAQUELINE AGU TRANSFDIG",
+    "credito": true,
+    "debito": false,
+    "valor": 1231.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38960685801 THALITA SIQUEIRA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 996.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 52317333854 Ketlyn Biork Novachi",
+    "credito": true,
+    "debito": false,
+    "valor": 1213.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2538.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "378983569",
+    "complemento": "SICREDI ANTEC MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 607.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "378983567",
+    "complemento": "SICREDI ANTECIPACAO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 10860.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/01/2023",
+    "documento": "COB000015",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 20.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "COB000015",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 6237.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "COB000013",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 06040342889 FRANCISCO PIO BENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00075970538 JILSON DA PAIXAO SAN",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 25978869804 RENATO GERALDO FERRE",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 18191228000171 PJBANK PAGAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 4017.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 29703806848 Flavio Bonilha Soares",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13612214000160 QUANTITY SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 536.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 531.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 857.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 271.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01294510000181 PLANALTO GAS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "COB000002",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2023",
+    "documento": "COB000026",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 35.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 187.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "COB000026",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 10212.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "COB000083",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 24.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 18821924866 GILBERTO ROMUALDO",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "SI01052",
+    "complemento": "TRANSF ENTRE CONTAS 38749471813 GUILHERME AUGUST",
+    "credito": true,
+    "debito": false,
+    "valor": 1116.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 11744.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 83.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1835.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "221000604",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 12970801000169",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 796.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 20396111858 ELIANE COQUEIRO PASS",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39798312805 Mariana Caroline Lopes",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39798312805 Mariana Caroline Lopes",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 11490832000150 SIDNEI RODRIGUES DE",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2089.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2353.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1628.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1205.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "COB000021",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 28.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "AOV000030",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "AOV000030",
+    "complemento": "DEVOL.CHEQUE MOT.11",
+    "credito": false,
+    "debito": true,
+    "valor": 3735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2023",
+    "documento": "ENC162",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 817.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "COB000021",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 9667.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "COB000002",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "380306900",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 230.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 25209185869 CLEIA F DA SILVA",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 50744056888 YASMIN DALETZKI CALD",
+    "credito": false,
+    "debito": true,
+    "valor": 465.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 10573660000115 LUIZ IVANILDO TAVEI",
+    "credito": true,
+    "debito": false,
+    "valor": 62.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 538.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 780.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 279.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 399.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 602.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CPFLPAULG",
+    "credito": true,
+    "debito": false,
+    "valor": 1292.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 389.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 575.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS SABESP-CX",
+    "credito": true,
+    "debito": false,
+    "valor": 321.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS SABESP-CX",
+    "credito": true,
+    "debito": false,
+    "valor": 214.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 514.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "",
+    "complemento": "CHEQUE DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 24975754878 TANIA MARA MOTTA NUN",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 24975754878 TANIA MARA MOTTA NUN",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "COB000006",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2023",
+    "documento": "COB000007",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 261.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4482.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "1",
+    "complemento": "INTEGR.CAPITAL SUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 773.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 867.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 710.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 277.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 10268665885 ALTAIR AUGUSTO DA SI",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 385.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00488371643 ESTER OLIVEIRA DOS S",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 18191228000171 PJBANK PAGAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 558.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "CX186850",
+    "complemento": "PAGAMENTO PIX SICREDI 38749471813 GUILHERME AUGU",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76826260891 EZEQUIEL GONCALVES",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "CX248976",
+    "complemento": "PAGAMENTO PIX SICREDI 38749471813 GUILHERME AUGU",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2023",
+    "documento": "COB000010",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "380950645",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 983.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "COB000010",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4378.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00075970538 Jilson da Paixão San",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 40846423120 RONILDA B BARRIOS DA",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1119.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00075970538 Jilson da Paixão San",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "COB000002",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2023",
+    "documento": "COB000007",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3330.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "COB000042",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 12.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 28748151874 ARCELINO GOMES SILVA",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 96419024820 ALIPIO LEMES DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "381760984",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 99.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 62159240834 WALTER ALVES MOREIRA F",
+    "credito": true,
+    "debito": false,
+    "valor": 3735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 44888162000183 ETIQUETAS ANCORA LT",
+    "credito": true,
+    "debito": false,
+    "valor": 293.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 02558157000162 TELEFONICA BRASIL S",
+    "credito": true,
+    "debito": false,
+    "valor": 161.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 02558157000162 TELEFONICA BRASIL S",
+    "credito": true,
+    "debito": false,
+    "valor": 240.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1266.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 238.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1191.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 374.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1230.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 360.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 416.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "5275724",
+    "complemento": "REEMBOLSO POS SICREDI",
+    "credito": false,
+    "debito": true,
+    "valor": 150.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 10252712897 ELISABETH AMARO RIBE",
+    "credito": false,
+    "debito": true,
+    "valor": 2900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "CX931463",
+    "complemento": "PAGAMENTO PIX SICREDI 47283339817 LETICIA VICENT",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 71884498000140 COOPERATIVA DE",
+    "credito": true,
+    "debito": false,
+    "valor": 567.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "SUSTACAO/REVOGACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "",
+    "complemento": "SUSTACAO/REVOGACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 41477461876 Mariana Fernandes de M",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "COB000006",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2023",
+    "documento": "AOV000031",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "COB000006",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2509.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 56206798534 ADILSON SILVA PEREIR",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 22318595801 JULIO CESAR TEOFILO",
+    "credito": true,
+    "debito": false,
+    "valor": 547.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 235.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO SP-G",
+    "credito": true,
+    "debito": false,
+    "valor": 136.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 195.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2023",
+    "documento": "COB000005",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "COB000005",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1743.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "385311404",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 8564.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "VE0783822",
+    "complemento": "COMPRAS NACIONAIS DROGAL PAULINEA PAULI",
+    "credito": true,
+    "debito": false,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 49011102843 Joao Pedro Lazarini",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2023",
+    "documento": "COB000004",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1760.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48488892000148 DIEGO SILVA VILELA",
+    "credito": true,
+    "debito": false,
+    "valor": 766.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "CX496795",
+    "complemento": "PAGAMENTO PIX SICREDI 38749471813 GUILHERME AUGU",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2023",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "COB000040",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "SI01618",
+    "complemento": "TRANSF ENTRE CONTAS 37913881852 CYNTHIA TEIXEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 646.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "SI01597",
+    "complemento": "TRANSF ENTRE CONTAS 06874493914 ADRIANA FLORENCI",
+    "credito": true,
+    "debito": false,
+    "valor": 559.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 44252106893 Jaqueline Santana Oliv",
+    "credito": true,
+    "debito": false,
+    "valor": 559.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "",
+    "complemento": "TRANSF ENTRE CONTAS DG 35353809874 JAQUELINE AGU TRANSFDIG",
+    "credito": true,
+    "debito": false,
+    "valor": 538.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "SI01692",
+    "complemento": "TRANSF ENTRE CONTAS 47283339817 LETICIA VICENTE",
+    "credito": true,
+    "debito": false,
+    "valor": 693.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 52317333854 Ketlyn Biork Novachi",
+    "credito": true,
+    "debito": false,
+    "valor": 733.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "SI01723",
+    "complemento": "TRANSF ENTRE CONTAS 50330044842 LETICIA FARIAS O",
+    "credito": true,
+    "debito": false,
+    "valor": 648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "383688475",
+    "complemento": "SICREDI ANTECIPACAO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 7749.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "383688480",
+    "complemento": "SICREDI ANTEC MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 3081.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "383688484",
+    "complemento": "SICREDI ANTEC ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 572.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 11246.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 3255.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "221014360",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 30130698000120 MICHELL",
+    "credito": true,
+    "debito": false,
+    "valor": 374.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1051.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06978451681 Guilherme Elias de Men",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2023",
+    "documento": "COB000020",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "COB000020",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 9157.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "COB000031",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 24821607824 Maria Bernardete Rod",
+    "credito": false,
+    "debito": true,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C10233375",
+    "complemento": "AMORTIZACAO CONTRATO",
+    "credito": true,
+    "debito": false,
+    "valor": 10820.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 15001175879 ROSILENE P DE O MENE",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C10233375",
+    "complemento": "AMORTIZACAO CONTRATO",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C30230716",
+    "complemento": "LIBERACAO CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 14402.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C30230716",
+    "complemento": "IOF S/ OPER. CREDITO PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 47.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C30230716",
+    "complemento": "IOF ADICIONAL PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 54.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "384701124",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "C10233375",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 7895.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "384301971",
+    "complemento": "SICREDI ANTEC ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 1034.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "COB000003",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "COB000007",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "AOV000032",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3735.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "AOV000026",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 5150.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2023",
+    "documento": "AOV000026",
+    "complemento": "DEVOL.CHEQUE MOT.11",
+    "credito": false,
+    "debito": true,
+    "valor": 5150.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2770.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "384548502",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 577.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "VE0391028",
+    "complemento": "COMPRAS NACIONAIS AKI TEM PAULINIA BAIRRO PAULI",
+    "credito": true,
+    "debito": false,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "384694495",
+    "complemento": "SICREDI ANTEC MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 1844.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38749471813 GUILHERME AUGUSTO LIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "",
+    "complemento": "CHEQUE DEVOLVIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2023",
+    "documento": "COB000005",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 678.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "COB000019",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "384947213",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1981.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "384947221",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 594.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 600.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1842.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 677.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 198.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 188.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 155.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 124.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 231.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "385111074",
+    "complemento": "SICREDI ANTEC ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 6541.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "385110982",
+    "complemento": "SICREDI ANTECIPACAO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 4672.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 01568077000125 STERICYCLE GEST",
+    "credito": true,
+    "debito": false,
+    "valor": 179.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 393.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1817.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1921.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38749471813 GUILHERME AUGUSTO LIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2023",
+    "documento": "COB000007",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1933.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "COB000007",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05822396000176 GRAFICA PRASS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 981.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1387.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 721.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 572.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 937.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 553.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 33423400889 Natalia Gonçalves Gesu",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 27104700803 RICARDO SILVA MARQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2023",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1039.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 34900502820 MARILENE VIEIRA DE S",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "VE0410843",
+    "complemento": "COMPRAS NACIONAIS PLANALTO GAS PAULI",
+    "credito": true,
+    "debito": false,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38749471813 GUILHERME AUGUSTO LIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2050.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2143.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "COB000001",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2023",
+    "documento": "COB000003",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1067.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "COB000019",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "386349381",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 3764.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 34512754000142 império das impress",
+    "credito": true,
+    "debito": false,
+    "valor": 640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 13329191000181 ANDAIMES CONSTRUSIL",
+    "credito": true,
+    "debito": false,
+    "valor": 336.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 398.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 47579025817 Ana Luiza de Sousa",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1605.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "COB000010",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2023",
+    "documento": "AOV000019",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 5250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "COB000008",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3011.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "COB000003",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "386847063",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 2287.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 16847521830 ADRIANA REGINA DE MA",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "CE0740039",
+    "complemento": "SAQUE CASH INTERAGENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 18821924866 GILBERTO ROMUALDO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 43784139000186 VIRTUOSA",
+    "credito": false,
+    "debito": true,
+    "valor": 336.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 26919304000140 PANIFICADORA MARI",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "384701027",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "384717829",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "384701035",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "384701043",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31701195836 LUANA CRISTINA DA SILV",
+    "credito": true,
+    "debito": false,
+    "valor": 2955.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1744.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2908.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1646.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1504.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 987.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 902.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 01104113902 MARISA SEVERA",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 42585212807 YNGRID COLLETE LUZ",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2023",
+    "documento": "COB000008",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.8,
+    "origem": "Extrato"
+  }
+]

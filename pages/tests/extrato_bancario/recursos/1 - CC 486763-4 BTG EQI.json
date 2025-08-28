@@ -1,0 +1,461 @@
+[
+  {
+    "data": "02/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:28/09/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 10908.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO PETR4 467)",
+    "credito": false,
+    "debito": true,
+    "valor": 0.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 467 PETR4)",
+    "credito": true,
+    "debito": false,
+    "valor": 0.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "",
+    "complemento": "004867634 - RESGATE DE COTAS NO FUNDO EQI",
+    "credito": false,
+    "debito": true,
+    "valor": 11975.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:02/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 16179.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 40886.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:03/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 39336.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "",
+    "complemento": "JUROS S/ CAPITAL s/ B3 ON NM - B3SA3",
+    "credito": false,
+    "debito": true,
+    "valor": 47.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "",
+    "complemento": "DIVIDENDOS s/ B3 ON NM - B3SA3",
+    "credito": false,
+    "debito": true,
+    "valor": 49.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO VALE3 2300)",
+    "credito": false,
+    "debito": true,
+    "valor": 0.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 2300 VALE3)",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 42213.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:06/10/2023",
+    "credito": false,
+    "debito": true,
+    "valor": 3577.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:05/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 33021.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 51465.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO VALE3 700)",
+    "credito": false,
+    "debito": true,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 700 VALE3)",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:06/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 52676.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 200)",
+    "credito": false,
+    "debito": true,
+    "valor": 6.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 200 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 4.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "004867634 - RESGATE DE COTAS NO FUNDO EQI",
+    "credito": false,
+    "debito": true,
+    "valor": 8972.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "",
+    "complemento": "ENVIO TRANSFERÊNCIA - TW ADMINISTRADORA DE",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:09/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 43074.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 61808.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:10/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 15864.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 1000)",
+    "credito": false,
+    "debito": true,
+    "valor": 34.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 0)",
+    "credito": false,
+    "debito": true,
+    "valor": 63.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 1000 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 22.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 1800 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 41.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 25723.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA SOBRE VALOR EM CUSTÓDIA",
+    "credito": false,
+    "debito": true,
+    "valor": 13.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:11/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 16909.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA SOBRE VALOR EM CUSTÓDIA TAXA",
+    "credito": true,
+    "debito": false,
+    "valor": 13.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 2000 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 2.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 2000)",
+    "credito": false,
+    "debito": true,
+    "valor": 4.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:13/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 76625.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 200 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 200)",
+    "credito": false,
+    "debito": true,
+    "valor": 0.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 103774.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:18/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 21549.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 6300)",
+    "credito": false,
+    "debito": true,
+    "valor": 6.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 6300 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 4.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:20/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 34628.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 5941 AESB3)",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO AESB3 5941)",
+    "credito": false,
+    "debito": true,
+    "valor": 0.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 1000)",
+    "credito": false,
+    "debito": true,
+    "valor": 10.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 1000 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 6.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (TAXA EMPRÉSTIMO TAEE11 1000)",
+    "credito": false,
+    "debito": true,
+    "valor": 33.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Corretagem BTC 1000 TAEE11)",
+    "credito": true,
+    "debito": false,
+    "valor": 21.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "",
+    "complemento": "RECEBIMENTO TRANSFERÊNCIA - Wyllian Dos Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 26270.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "",
+    "complemento": "LIQ BOLSA (Operacoes)- Pregão:27/10/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 31023.71,
+    "origem": "Extrato"
+  }
+]

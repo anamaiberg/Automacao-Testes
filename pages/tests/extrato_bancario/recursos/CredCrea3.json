@@ -1,0 +1,110 @@
+[
+  {
+    "data": "06/03/2020",
+    "documento": "0220",
+    "complemento": "TAR PCT SERV PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 36.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2020",
+    "documento": "19",
+    "complemento": "PG. PARC. EMP 017/048",
+    "credito": true,
+    "debito": false,
+    "valor": 149.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2020",
+    "documento": "02922670328",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 28.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2020",
+    "documento": "21290.892",
+    "complemento": "CREDITO TED",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2020",
+    "documento": "29226170316",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 28.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2020",
+    "documento": "18",
+    "complemento": "DB.APLIC.PROGRAMADA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2020",
+    "documento": "20.472.2",
+    "complemento": "TR.INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 621.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2020",
+    "documento": "33.313.1",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2020",
+    "documento": "32020070345",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 709.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2020",
+    "documento": "38596.192",
+    "complemento": "CREDITO TED",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2020",
+    "documento": "33.313.1",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2020",
+    "documento": "4435.654",
+    "complemento": "CREDITO TED",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 4.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Sispag  NEXT SH L I LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 964.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 2709.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  01/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 10407.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "LIS/Juros",
+    "credito": true,
+    "debito": false,
+    "valor": 6.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 14018.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2020",
+    "documento": "",
+    "complemento": "Tar Cobrança Mensal",
+    "credito": true,
+    "debito": false,
+    "valor": 52.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "TBI 9632.01853-8     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 185.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 61.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "TED 104.0698OTAVIO DASSI",
+    "credito": false,
+    "debito": true,
+    "valor": 64.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "Tar Conta Certa    08/20",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "Tar Negat Can 029217301",
+    "credito": true,
+    "debito": false,
+    "valor": 11.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 355.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 5.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 2813.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 2808.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 14858.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "TBI 0092.94416-4     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "INT TED D   522573",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Sispag Fornecedores TED",
+    "credito": true,
+    "debito": false,
+    "valor": 4806.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 293.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 40272.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "Parcela Giro    33/48",
+    "credito": true,
+    "debito": false,
+    "valor": 28000.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "TED 041.1009SILVIA C FUR",
+    "credito": false,
+    "debito": true,
+    "valor": 1411.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 863.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 25726.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 5.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "TBI 3838.20746-6     C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 2134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "TBI 3838.20746-6     C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 1535.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 3142.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 6806.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "TBI 0296.39471-1     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 94.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "TBI 0562.32610-8     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 155.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "TBI 0865.14348-1     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 643.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "INT TED  970902",
+    "credito": true,
+    "debito": false,
+    "valor": 19885.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "INT TED  970919",
+    "credito": true,
+    "debito": false,
+    "valor": 25592.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Int TED 085010900396222",
+    "credito": true,
+    "debito": false,
+    "valor": 10147.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Int TED 748071800954477",
+    "credito": true,
+    "debito": false,
+    "valor": 315.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 38.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 1126.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 55745.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "Int TED 104214100034336",
+    "credito": true,
+    "debito": false,
+    "valor": 498.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "Int TED 756400101114760",
+    "credito": true,
+    "debito": false,
+    "valor": 1642.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 4.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 1962.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 181.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2020",
+    "documento": "",
+    "complemento": "TED 213.0001BLU IP LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 416.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 970.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 1385.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 60.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "TBI 0237.83151-6     C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 4170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "TED 237.3380YAPAY PAG ON",
+    "credito": false,
+    "debito": true,
+    "valor": 2866.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "TED 748.0663ODECIO G FLO",
+    "credito": false,
+    "debito": true,
+    "valor": 1056.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 3349.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 11381.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 19.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 8333.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  16/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 13813.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "TBI 1585.06955-0     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 154.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "DOC Int 995650",
+    "credito": true,
+    "debito": false,
+    "valor": 786.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "INT TED D   995675",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "INT TED  995666",
+    "credito": true,
+    "debito": false,
+    "valor": 4541.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "TBI 0292.77312-4AL8",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  17/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 775.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 17707.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2020",
+    "documento": "",
+    "complemento": "Sispag Salários",
+    "credito": true,
+    "debito": false,
+    "valor": 1627.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2020",
+    "documento": "",
+    "complemento": "Sispag  RODRIGO B CONSTR",
+    "credito": false,
+    "debito": true,
+    "valor": 307.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 952.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 369.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 18.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "TBI 3838.20746-6     C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 3035.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "TED 213.0001BLU IP LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 499.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 7305.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 10821.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 53.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "Tar Negat Exc 029217301",
+    "credito": true,
+    "debito": false,
+    "valor": 11.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "Tar Negat Can 029217301",
+    "credito": true,
+    "debito": false,
+    "valor": 83.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "Giro Parcelado",
+    "credito": false,
+    "debito": true,
+    "valor": 595000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 149.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "Sispag  LENI T G ANT EIR",
+    "credito": false,
+    "debito": true,
+    "valor": 4269.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 599269.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 2.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "Ressarcimento Comercial",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 2927.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 7919.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2020",
+    "documento": "",
+    "complemento": "Tar Negat Ent 029217301",
+    "credito": true,
+    "debito": false,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "Int TED 237033001398822",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 12.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 10952.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  28/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 390.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 11.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Sispag  W W L LOG EVENT",
+    "credito": false,
+    "debito": true,
+    "valor": 1431.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "TED 237.2028TNT M CAR EN",
+    "credito": false,
+    "debito": true,
+    "valor": 152.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Transf  0292.18548-5",
+    "credito": false,
+    "debito": true,
+    "valor": 8241.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  29/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 685.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 10495.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2020",
+    "documento": "",
+    "complemento": "Tar Negat Exc 029217301",
+    "credito": true,
+    "debito": false,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  30/09S",
+    "credito": false,
+    "debito": true,
+    "valor": 908.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 907.61,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "data": "02/08/2021",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS JULHO / 2021",
+    "credito": true,
+    "debito": false,
+    "valor": 103.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 39730894000100",
+    "credito": false,
+    "debito": true,
+    "valor": 9385.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 9282.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2021",
+    "documento": "073215",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 30870439000136",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2021",
+    "documento": "000021",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ MT DAR",
+    "credito": true,
+    "debito": false,
+    "valor": 934.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2021",
+    "documento": "000015",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ MT DAR",
+    "credito": true,
+    "debito": false,
+    "valor": 13.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 8947.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "000048",
+    "complemento": "PAGAMENTO DE TRIBUTO PMSP INTERNET PM SAO PAULO",
+    "credito": true,
+    "debito": false,
+    "valor": 553.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 553.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2021",
+    "documento": "493639",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS 40106186000182",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT ALAN M BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2021",
+    "documento": "535746",
+    "complemento": "COMPRA CARTAO DEB MC 12/08 CASA DE BOLOS VILA",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2021",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 12/08/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2021",
+    "documento": "",
+    "complemento": "RESGATE AUT CONTAMAX EMPRESARIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2021",
+    "documento": "151273",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS 02460516983",
+    "credito": false,
+    "debito": true,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2021",
+    "documento": "",
+    "complemento": "PIX ENVIADO OUTRA INST - DIF TIT ALAN M BATISTA",
+    "credito": true,
+    "debito": false,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 35541732000173",
+    "credito": false,
+    "debito": true,
+    "valor": 9385.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2021",
+    "documento": "",
+    "complemento": "TED DIFERENTE TITULARIDADE CIP 39525632000104",
+    "credito": false,
+    "debito": true,
+    "valor": 9385.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2021",
+    "documento": "",
+    "complemento": "TARIFA EXTRATO INTELIGENTE 23/08/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2021",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 21/08/2021",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2021",
+    "documento": "",
+    "complemento": "APLICACAO AUT CONTAMAX EMPRESARIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 18747.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "data": "05/09/2022",
+    "documento": "366168",
+    "complemento": "LIQUI EMPRESTIM",
+    "credito": true,
+    "debito": false,
+    "valor": 423.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2022",
+    "documento": "29780",
+    "complemento": "Credito de transf erencia via SPB BARROS E MARTHA LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": "366168",
+    "complemento": "LIQUI EMPRESTIM",
+    "credito": true,
+    "debito": false,
+    "valor": 6321.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2022",
+    "documento": "108",
+    "complemento": "Dep bloqueado 24H em Cc",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2022",
+    "documento": "3",
+    "complemento": "Devolucao de cheque BASA",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "215130",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 8007.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "108215",
+    "complemento": "Debito de seguro",
+    "credito": false,
+    "debito": false,
+    "valor": 1429.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "180543",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 4786.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "190004",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 1409.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "29780",
+    "complemento": "Credito de transf erencia via SPB BARROS E MARTHA LTDA",
+    "credito": false,
+    "debito": false,
+    "valor": 16000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "108215",
+    "complemento": "Debito autorizado",
+    "credito": false,
+    "debito": false,
+    "valor": 204.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "22816",
+    "complemento": "TARI P SUPER PJ",
+    "credito": false,
+    "debito": false,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2022",
+    "documento": "4",
+    "complemento": "Estorno a Credito",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": "108223",
+    "complemento": "Debito de T itulo Capitalizacao",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  }
+]

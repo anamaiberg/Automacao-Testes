@@ -1,0 +1,3350 @@
+[
+  {
+    "data": "01/07/2020",
+    "documento": "COB000001",
+    "complemento": " Saldo Anterior   LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3745.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "COB000012",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 19794.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "252391",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 62721.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "I00575",
+    "complemento": "DEBITO TED/IB 08340179000138TSUYOSHI OI E OUTRO",
+    "credito": true,
+    "debito": false,
+    "valor": 22432.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "SAQUE AVULSO Caixa",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "I00566",
+    "complemento": "DEBITO TED/IB 72012048072LEANDRO CESAR FLECK",
+    "credito": true,
+    "debito": false,
+    "valor": 2120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "930750",
+    "complemento": "TED 07034862000184 MERCADOPAOLAZZI LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 555.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10081.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "202009650",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 5600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "201005487",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10081.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "SAQUE PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "COB000089",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 143.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "COB000026",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 56454.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "202015463",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 54450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "I00911",
+    "complemento": "DEBITO TED/IB 05654092120TEODOMIRO FAVARO",
+    "credito": true,
+    "debito": false,
+    "valor": 22000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "E6X----72",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 34570.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "COB000033",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 53.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1605.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "COB000038",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 78338.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 282.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "I00846",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 21281.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "SI01774",
+    "complemento": "TRANSF ENTRE CONTAS92077239000188 ANTONIO CARLO",
+    "credito": true,
+    "debito": false,
+    "valor": 25708.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "I00831",
+    "complemento": "DEBITO TED/IB 75399270897KAZUO HOSHINO E IRMÃOS",
+    "credito": true,
+    "debito": false,
+    "valor": 19442.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "I00836",
+    "complemento": "DEBITO TED/IB 75399270897KAZUO HOSHINO E IRMÃOS",
+    "credito": true,
+    "debito": false,
+    "valor": 23886.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "I00822",
+    "complemento": "DEBITO TED/IB 05654092120TEODOMIRO FAVARO",
+    "credito": true,
+    "debito": false,
+    "valor": 16203.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "852719",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 12952.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "853752",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 11146.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "851751",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 11811.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "853689",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 11112.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "I01447",
+    "complemento": "DEBITO TED/IB 22278549000185 MRCOMERCIO DE HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 8775.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "410391",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 10757.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "549884",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 7544.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "SI04354",
+    "complemento": "TRANSF ENTRE CONTAS89835672000120 OSMAR NICOLIN",
+    "credito": false,
+    "debito": true,
+    "valor": 29617.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "COB000009",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 45518.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "COB000021",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 43960.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "202015510",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 53750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10774.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "202015226",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 35195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "201005606",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "SI05809",
+    "complemento": "TRANSF ENTRE CONTAS81033117900 JUMAR APARECIDO",
+    "credito": true,
+    "debito": false,
+    "valor": 1765.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I02794",
+    "complemento": "DEBITO TED/IB 02787943942FABRICIO MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 24282.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I02830",
+    "complemento": "DEBITO TED/IB 72012048072LEANDRO CESAR FLECK",
+    "credito": true,
+    "debito": false,
+    "valor": 1256.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I02804",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 20544.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I02819",
+    "complemento": "DEBITO TED/IB 14414170877LEONEL BRAMBILA",
+    "credito": true,
+    "debito": false,
+    "valor": 14317.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03385",
+    "complemento": "DEBITO TED/IB 07620879000113MCN TRANSPORTES R L",
+    "credito": true,
+    "debito": false,
+    "valor": 10775.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03429",
+    "complemento": "DEBITO TED/IB 91594570078AILTON EUCHERIO SEVERO",
+    "credito": true,
+    "debito": false,
+    "valor": 2402.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03470",
+    "complemento": "DEBITO TED/IB 01337639001DANIEL JOSE SOARES",
+    "credito": true,
+    "debito": false,
+    "valor": 2029.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03515",
+    "complemento": "DEBITO TED/IB 02091170011 FELIPEPORTELLA KLEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2374.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03532",
+    "complemento": "DEBITO TED/IB 87707896068GUSTAVO TRINDADE TISSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1773.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03553",
+    "complemento": "DEBITO TED/IB 62878557034 JOSERODRIGUES DE CAMP",
+    "credito": true,
+    "debito": false,
+    "valor": 4036.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03622",
+    "complemento": "DEBITO TED/IB 71320176160OSCAR GERMAIN PEREZ SA",
+    "credito": true,
+    "debito": false,
+    "valor": 2039.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03639",
+    "complemento": "DEBITO TED/IB 01203333099CLAUDIA MARCHIONE GARC",
+    "credito": true,
+    "debito": false,
+    "valor": 1099.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I03690",
+    "complemento": "DEBITO TED/IB 02774350050RODRIGO DE PAULA",
+    "credito": true,
+    "debito": false,
+    "valor": 2096.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "I04654",
+    "complemento": "DEBITO TED/IB 22278549000185 MRCOMERCIO DE HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "E6X----82",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 76012.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 221.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 130.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 14985.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "COB000058",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 314051.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "I01848",
+    "complemento": "DEBITO TED/IB 08181460000175 EO DUARTE",
+    "credito": true,
+    "debito": false,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "I01879",
+    "complemento": "DEBITO TED/IB 48213268091OSMERIO LUIZ DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1694.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1035.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "I01992",
+    "complemento": "DEBITO TED/IB 22278549000185 MRCOMERCIO DE HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 68790.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "I01897",
+    "complemento": "DEBITO TED/IB 93270825000107NILSON CATTAPAN ME",
+    "credito": true,
+    "debito": false,
+    "valor": 24250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "000000633",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "SI05309",
+    "complemento": "TRANSF ENTRE CONTAS00107312026 EDERSON LUIZ PLO",
+    "credito": true,
+    "debito": false,
+    "valor": 1970.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4830.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "COB000094",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 151.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2406.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "COB000008",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 16773.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "000000633",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "202010179",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 7630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1891.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11038.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "202014939",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CORSANP-G",
+    "credito": true,
+    "debito": false,
+    "valor": 999.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10049.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "174318",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 93436.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "I02527",
+    "complemento": "DEBITO TED/IB 02787943942FABRICIO MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 22530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "I02537",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 20487.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "243426069",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 21679.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "341597",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "243426068",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 80166.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "341598",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "243426529",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 103018.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "341600",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "C00330834",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 17509.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 15024.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "COB000018",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 119424.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "I00609",
+    "complemento": "DEBITO TED/IB 34470022000137RENAN FERNANDO P. H",
+    "credito": true,
+    "debito": false,
+    "valor": 15070.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "I01024",
+    "complemento": "DEBITO TED/IB 75399270897KAZUO HOSHINO E IRMÃOS",
+    "credito": true,
+    "debito": false,
+    "valor": 17696.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "I01985",
+    "complemento": "DEBITO TED/IB 18448474899 SILVIOROBERTO VICENTE",
+    "credito": true,
+    "debito": false,
+    "valor": 25602.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "I02059",
+    "complemento": "DEBITO TED/IB 05580347000174BORG EXPRESS LOGIST",
+    "credito": true,
+    "debito": false,
+    "valor": 20105.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "E6X----91",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 21753.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "COB000048",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 77.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "COB000001",
+    "complemento": "TARIFA DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3020.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "COB000024",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 140664.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "938829",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 12669.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "939914",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 11579.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "950754",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 9211.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "071025",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 12006.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "I01186",
+    "complemento": "DEBITO TED/IB 37356293000154AGROALHO PRODUTOS A",
+    "credito": true,
+    "debito": false,
+    "valor": 298000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "181311",
+    "complemento": "TED 45543915000181 CARREFOURCOM E IND LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 140566.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "231910",
+    "complemento": "TED 34024175000150 CEREALISTAW HOPPER LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 35568.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "I02744",
+    "complemento": "DEBITO TED/IB 03711508000196INTECOMEX COMERCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 7250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "SI09483",
+    "complemento": "TRANSF ENTRE CONTAS63507579120 RICARDO DINIZ AL",
+    "credito": true,
+    "debito": false,
+    "valor": 39000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "231670",
+    "complemento": "TED 03476811000151 DIA BRASILSOCIEDADE LIMITADA",
+    "credito": false,
+    "debito": true,
+    "valor": 16591.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "146822",
+    "complemento": "DOC 45543915000181 CARREFOURCOM E IND LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 265.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "COB000005",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 43095.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "COB000017",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 74406.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10773.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "201005991",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "202016133",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 9600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "202010497",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 7630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "I02611",
+    "complemento": "DEBITO TED/IB 02787943942FABRICIO MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 29329.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "I02615",
+    "complemento": "DEBITO TED/IB 72012048072LEANDRO CESAR FLECK",
+    "credito": true,
+    "debito": false,
+    "valor": 1402.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "SI06649",
+    "complemento": "TRANSF ENTRE CONTAS01772681075 ROGERIO PLOHARSK",
+    "credito": true,
+    "debito": false,
+    "valor": 2487.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "I02621",
+    "complemento": "DEBITO TED/IB 48213268091OSMERIO LUIZ DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1574.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "I02689",
+    "complemento": "DEBITO TED/IB 75399270897KAZUO HOSHINO E IRMÃOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3361.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "I02678",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 19313.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 67.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "E6X----99",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 95221.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "COB000051",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 185173.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "032659",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 4700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 772.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "I00973",
+    "complemento": "DEBITO TED/IB 93270825000107NILSON CATTAPAN ME",
+    "credito": true,
+    "debito": false,
+    "valor": 21873.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "696595",
+    "complemento": "TED 93209765000117 WMSSUPERMERCADOS DO BRASIL L",
+    "credito": false,
+    "debito": true,
+    "valor": 113675.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS RGE SUL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 3730.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "201023014",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 400.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "I02367",
+    "complemento": "DEBITO TED/IB 37356293000154AGROALHO PRODUTOS A",
+    "credito": true,
+    "debito": false,
+    "valor": 190000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "I02455",
+    "complemento": "DEBITO TED/IB 07375531625OTAVIO RESENDE GUIMARA",
+    "credito": true,
+    "debito": false,
+    "valor": 60510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 189.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "342550",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "342551",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "342552",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "243753902",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 45810.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "243753884",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 69118.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "243753900",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 133735.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3951.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "COB000008",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 6977.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "434314",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 112285.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "I01201",
+    "complemento": "DEBITO TED/IB 71320176160OSCAR GERMAIN PEREZ SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1193.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "201006157",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "202015650",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 54850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "202016354",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 17325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "I01614",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 7310.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "I01604",
+    "complemento": "DEBITO TED/IB 65549147572VALDEMIR CESAR DE OLIV",
+    "credito": true,
+    "debito": false,
+    "valor": 49226.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "I01926",
+    "complemento": "DEBITO TED/IB 22278549000185 MRCOMERCIO DE HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "COB000110",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 177.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "COB000019",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 84452.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "189185",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "202016990",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 63766.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 328.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 46.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "E6X----11",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 34155.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 236.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "COB000022",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 101486.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO RS-G",
+    "credito": true,
+    "debito": false,
+    "valor": 716.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO RS-G",
+    "credito": true,
+    "debito": false,
+    "valor": 58.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "I00818",
+    "complemento": "DEBITO TED/IB 34470022000137RENAN FERNANDO P. H",
+    "credito": true,
+    "debito": false,
+    "valor": 15057.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "664855",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 75296.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "COB000049",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 78.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "COB000010",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 38854.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "COB000023",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 106043.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "B90332417",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 22333.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1444.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DEBITO GPS PAGTO GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 22944.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "202010942",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 9880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DEBITO GPS PAGTO GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 27864.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "202016559",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 45990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "DARF81COO",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 1138.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I01421",
+    "complemento": "DEBITO TED/IB 02787943942FABRICIO MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 40887.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I01883",
+    "complemento": "DEBITO TED/IB 07324499000131SWELL CONSULTORIA E",
+    "credito": true,
+    "debito": false,
+    "valor": 190543.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 39.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "016566",
+    "complemento": "TED 03476811000151 DIA BRASILSOCIEDADE LIMITADA",
+    "credito": false,
+    "debito": true,
+    "valor": 48371.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "E6X----18",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 88873.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03823",
+    "complemento": "DEBITO TED/IB 07209692800 TAKAOHOSHINO",
+    "credito": true,
+    "debito": false,
+    "valor": 35236.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03832",
+    "complemento": "DEBITO TED/IB 48213268091OSMERIO LUIZ DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 2208.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03814",
+    "complemento": "DEBITO TED/IB 65549147572VALDEMIR CESAR DE OLIV",
+    "credito": true,
+    "debito": false,
+    "valor": 13871.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03826",
+    "complemento": "DEBITO TED/IB 65549147572VALDEMIR CESAR DE OLIV",
+    "credito": true,
+    "debito": false,
+    "valor": 13871.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03839",
+    "complemento": "DEBITO TED/IB 72012048072LEANDRO CESAR FLECK",
+    "credito": true,
+    "debito": false,
+    "valor": 1917.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "I03879",
+    "complemento": "DEBITO TED/IB 16235533853IASHUMARO IOSHIDA E OU",
+    "credito": true,
+    "debito": false,
+    "valor": 49005.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "COB000017",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 27.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "028345",
+    "complemento": "DOC 45543915000181 CARREFOURCOM E IND LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 428.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "COB000056",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 262539.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "974408",
+    "complemento": "TED 65549147572 VALDEMIRCESAR DE OLIVEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 13871.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "219444",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 2150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "I00939",
+    "complemento": "DEBITO TED/IB 27971429851CRISTIANO NELSON GONCA",
+    "credito": true,
+    "debito": false,
+    "valor": 68524.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "893728",
+    "complemento": "TED 34024175000150 CEREALISTAW HOPPER LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 64432.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 511.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "E6X----21",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 29791.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10050.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "I02679",
+    "complemento": "DEBITO TED/IB 03711508000196INTECOMEX COMERCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "343607",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 129.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "244228001",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 113546.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 35017.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "COB000015",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 22240.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "226424",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 765.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "430189",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 124238.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 79344.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "202016710",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 39500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "SI02781",
+    "complemento": "TRANSF ENTRE CONTAS42330122853 CARLOS ALBERTO D",
+    "credito": true,
+    "debito": false,
+    "valor": 15809.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "343851",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 127.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "343852",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 127.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "244288299",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 24518.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "244288293",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 25093.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "COB000012",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 24060.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "208729",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 2250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 76194.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "I00509",
+    "complemento": "DEBITO TED/IB 22278549000185 MRCOMERCIO DE HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 44837.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "SI01278",
+    "complemento": "TRANSF ENTRE CONTAS01772681075 ROGERIO PLOHARSK",
+    "credito": true,
+    "debito": false,
+    "valor": 2462.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "202017008",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 63766.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "201000133",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "I01031",
+    "complemento": "DEBITO TED/IB 27971429851CRISTIANO NELSON GONCA",
+    "credito": true,
+    "debito": false,
+    "valor": 1126.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "E6X----30",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 43273.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "201000635",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 27464.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 16719.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "COB000027",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 58750.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "873617",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 1260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "318532",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 78840.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "COB000118",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 189.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 9325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "COB000017",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 84372.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "101704",
+    "complemento": "TED 34024175000150 CEREALISTAW. HOPPER LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 9375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "SI01512",
+    "complemento": "TRANSF ENTRE CONTAS26894557000107 CEBOLAS OSA E",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 59.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "202016826",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 19000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "202016877",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 651.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4899.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "202015668",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 54850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2161.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6443.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "202011442",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 2820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "202017644",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 80877.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9781.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "I01331",
+    "complemento": "DEBITO TED/IB 93270825000107NILSON CATTAPAN ME",
+    "credito": true,
+    "debito": false,
+    "valor": 17033.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "I01306",
+    "complemento": "DEBITO TED/IB 48213268091OSMERIO LUIZ DOS SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "I01324",
+    "complemento": "DEBITO TED/IB 72012048072LEANDRO CESAR FLECK",
+    "credito": true,
+    "debito": false,
+    "valor": 1626.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "E6X----37",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 73260.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "I03131",
+    "complemento": "DEBITO TED/IB 03254866037BIANCA DELLAMANA MAFFI",
+    "credito": true,
+    "debito": false,
+    "valor": 25690.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "I03135",
+    "complemento": "DEBITO TED/IB 25073005000175HORTIS AGRONEGOCIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 47000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 18271.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "COB000048",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 163327.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "055005",
+    "complemento": "TED 05265406000110 CEREALISTARIBEIRO LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 3010.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 706.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "202017202",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 35100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "I02055",
+    "complemento": "DEBITO TED/IB 08340179000138TSUYOSHI OI E OUTRO",
+    "credito": true,
+    "debito": false,
+    "valor": 13940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "I02074",
+    "complemento": "DEBITO TED/IB 50553828649HEITOR Y ARIKITA",
+    "credito": true,
+    "debito": false,
+    "valor": 56219.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "I02078",
+    "complemento": "DEBITO TED/IB 09759528894SADAO SUYAMA",
+    "credito": true,
+    "debito": false,
+    "valor": 12603.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "COB000068",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 109.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "COB000005",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 96083.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "COB000014",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 50308.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "287587",
+    "complemento": "TED 93209765000117 WMSSUPERMERCADOS DO BRASIL L",
+    "credito": false,
+    "debito": true,
+    "valor": 13932.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "528721",
+    "complemento": "TED 14344684000153 VICTOSALIMENTOS E LOGISTICA",
+    "credito": false,
+    "debito": true,
+    "valor": 89823.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 12265.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 180.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 337.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 12265.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "202011639",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 5215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "332296253",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "332376494",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "332376486",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "332376478",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "E6X----45",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 22230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "344827",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 128.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "244921123",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 105061.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "COB000020",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "COB000016",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 37987.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 342.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6330.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5830.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "202017016",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 63766.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "E6X----49",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 17495.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "COB000036",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 57.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "COB000025",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 43603.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "610463",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 12051.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "611328",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 12980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "604725",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 36629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "810717",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 24856.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "837167",
+    "complemento": "TED 07718633000189 UNIDASULDISTRIBUIDORA ALIMEN",
+    "credito": false,
+    "debito": true,
+    "valor": 2245.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "000000539",
+    "complemento": "RECIBO DE SAQUE C/ TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 49000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 531.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "I00716",
+    "complemento": "DEBITO TED/IB 87707896068GUSTAVO TRINDADE TISSO",
+    "credito": true,
+    "debito": false,
+    "valor": 3313.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "I01004",
+    "complemento": "DEBITO TED/IB 02774350050RODRIGO DE PAULA",
+    "credito": true,
+    "debito": false,
+    "valor": 2606.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "431072",
+    "complemento": "ESTORNO T.E.D.",
+    "credito": false,
+    "debito": true,
+    "valor": 2606.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "E6X----53",
+    "complemento": "PAGAMENTO FORNECEDOR PGLDISTRIBUICAO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 6946.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "I03014",
+    "complemento": "DEBITO TED/IB 02774350050RODRIGO DE PAULA",
+    "credito": true,
+    "debito": false,
+    "valor": 2606.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "SI06429",
+    "complemento": "TRANSF ENTRE CONTAS22046095000117 SAO LUIZ HORT",
+    "credito": true,
+    "debito": false,
+    "valor": 4680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "431072",
+    "complemento": "ESTORNO T.E.D.",
+    "credito": false,
+    "debito": true,
+    "valor": 2606.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "345382",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 130.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "245064432",
+    "complemento": "DEBITO DE CAMBIO",
+    "credito": true,
+    "debito": false,
+    "valor": 119864.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "COB000027",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 43.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "123119",
+    "complemento": "DOC 45543915000181 CARREFOURCOM E IND LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 31.69,
+    "origem": "Extrato"
+  }
+]

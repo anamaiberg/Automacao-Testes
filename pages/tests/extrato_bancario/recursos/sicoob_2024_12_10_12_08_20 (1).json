@@ -1,0 +1,758 @@
+[
+  {
+    "data": "02/02/2024",
+    "documento": "120",
+    "complemento": "DEV.CHQ DEPOSITADO 12-CHEQUES SEM FUNDOS - 2 APRESENTAÇÃO 000085",
+    "credito": true,
+    "debito": false,
+    "valor": 5200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "120",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 5200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEM.EMPRES",
+    "credito": true,
+    "debito": false,
+    "valor": 27.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX CUSTOMIZE IMPORTS LTDA 42.082.502 0001-59",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 326000200023 AUT.: 00035",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 326000200023 AUT.: 00036",
+    "credito": true,
+    "debito": false,
+    "valor": 310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "373328",
+    "complemento": "COMP MASTER MAESTRO I QUINELATO RODRIGUES CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "064454",
+    "complemento": "COMP MASTER MAESTRO PG *TON STILOS BARBE CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 57.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "394688",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX MARMORARIA CANAA LTDA 10.387.670 0001-66",
+    "credito": false,
+    "debito": true,
+    "valor": 1645.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2024",
+    "documento": "394859",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "562364",
+    "complemento": "COMP MASTER MAESTRO CIA DO PAO CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 31.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "19901486",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 90.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "19901516",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "245552",
+    "complemento": "COMP MASTER MAESTRO I QUINELATO RODRIGUES CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 31.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "846128",
+    "complemento": "COMP MASTER MAESTRO BRAVOS BBQ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "552594",
+    "complemento": "COMP MASTER MAESTRO PANIFICADORA IMPERIAL CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 34.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.393.237-**",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "049147",
+    "complemento": "COMP MASTER MAESTRO MULTI CALDO CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "830230",
+    "complemento": "COMP MASTER MAESTRO PERIM FIL 001 CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "933744",
+    "complemento": "COMP MASTER MAESTRO I QUINELATO RODRIGUES CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 38.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "853795",
+    "complemento": "COMP MASTER MAESTRO PG *TON ALTOS BARBEA CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "19943411",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: ADELMO PAULINO DE SOUZA TRANSFERÊNCIA PIX NOVATECH ABRASIVOS EIRELI 23.352.050 0001-33",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.172.267-**",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "890044",
+    "complemento": "COMP MASTER MAESTRO FARMAVIDA GUARAPARI BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 35.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 48.205.891 0001-49",
+    "credito": true,
+    "debito": false,
+    "valor": 87.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "563167",
+    "complemento": "COMP MASTER MAESTRO CIA DO PAO CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 326000200025 AUT.: 00110",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "093996",
+    "complemento": "COMP MASTER MAESTRO PERIM FIL 001 CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 54.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "087934",
+    "complemento": "COMP MASTER MAESTRO CHURRAS RIO GRANDE CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "300413",
+    "complemento": "COMP MASTER MAESTRO BIAZATTI MATERIAL CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "3003",
+    "complemento": "CRED.TR.CT.INTERCRE REM.: NOVATECH ABRASIVOS EIRELI TRANSFERÊNCIA PIX NOVATECH ABRASIVOS EIRELI 23.352.050 0001-33",
+    "credito": false,
+    "debito": true,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "129",
+    "complemento": "DEB PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 54.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "396111",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "19995552",
+    "complemento": "DÉB.TIT.COMPE.EFETI",
+    "credito": true,
+    "debito": false,
+    "valor": 473.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "102",
+    "complemento": "DEV.CHQ DEPOSITADO 11-CHEQUES SEM FUNDOS - 1 APRESENTAÇÃO 000379",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "102",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "396270",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "700499",
+    "complemento": "DEV.CHQ DEPOSITADO 11-CHEQUES SEM FUNDOS - 1 APRESENTAÇÃO 55",
+    "credito": true,
+    "debito": false,
+    "valor": 3746.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "000582",
+    "complemento": "DEV.CHQ DEPOSITADO 22-DIVERGÊNCIA OU INSUFICIÊNCIA ASSINATU 55",
+    "credito": true,
+    "debito": false,
+    "valor": 1239.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "55",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 4985.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "55",
+    "complemento": "LIBER.DEPÓSITO BLOQ C",
+    "credito": false,
+    "debito": true,
+    "valor": 1420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 32.589.171 0001-94",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "20019345",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: POSTO BRASIL CACHOEIRO LTDA TRANSFERÊNCIA PIX NOVATECH ABRASIVOS EIRELI 23.352.050 0001-33",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "396747",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "20020105",
+    "complemento": "DB.CONV.TR FD-RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 96.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX.EMIT.OUT IF-MSM PAGAMENTO PIX 23.352.050 0001-33",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.314.897-**",
+    "credito": true,
+    "debito": false,
+    "valor": 380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "582827",
+    "complemento": "COMP MASTER MAESTRO BERLINF*POSTO VALAO CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "171",
+    "complemento": "DEP.DINHEIRO NOME: NOVATECH ABRASIVOS EIRELI CPF CNPJ: 23.352.050 0001-33",
+    "credito": false,
+    "debito": true,
+    "valor": 17000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.819.367-**",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 42.082.502 0001-59",
+    "credito": true,
+    "debito": false,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "000379",
+    "complemento": "DEV.CHQ DEPOSITADO 70-SUSTAÇÃO REVOGAÇÃO TEMPORÁRIA RES. 39 19",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "19",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "396913",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 42.082.502 0001-59",
+    "credito": true,
+    "debito": false,
+    "valor": 7500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 326000200022 AUT.: 00103",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "700499",
+    "complemento": "DEV.CHQ DEPOSITADO 12-CHEQUES SEM FUNDOS - 2 APRESENTAÇÃO 76",
+    "credito": true,
+    "debito": false,
+    "valor": 3746.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "76",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 3746.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "959848",
+    "complemento": "COMP MASTER MAESTRO PANIFICADORA IMPERIAL CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 48.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "000379",
+    "complemento": "DEV.CHQ DEPOSITADO 12-CHEQUES SEM FUNDOS - 2 APRESENTAÇÃO 59",
+    "credito": true,
+    "debito": false,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "59",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 1330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "25",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 695.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "397225",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX CUSTOMIZE IMPORTS LTDA 42.082.502 0001-59",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 07.433.647 0001-56",
+    "credito": true,
+    "debito": false,
+    "valor": 1754.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "26",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 958.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "397861",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "6",
+    "complemento": "DEP.DINHEIRO CPF: 116.531.077-58 ENVELOPE: 1718028671",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.819.367-**",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "398043",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 13.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 44.914.992 0001-38",
+    "credito": true,
+    "debito": false,
+    "valor": 430.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "700080",
+    "complemento": "DEV.CHQ DEPOSITADO 11-CHEQUES SEM FUNDOS - 1 APRESENTAÇÃO 19",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "19",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "398214",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.531.077-**",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "398375",
+    "complemento": "COMP MASTER MAESTRO R.V.L.QUEIROZ CACHOEIRO DE BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "24",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  }
+]

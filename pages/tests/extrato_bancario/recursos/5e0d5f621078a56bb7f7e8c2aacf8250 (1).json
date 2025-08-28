@@ -1,0 +1,173 @@
+[
+  {
+    "data": "01/08/2022",
+    "documento": "IOF/1-8",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "IOF/1-8",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 91.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "LC-202207",
+    "complemento": "JUROS CONTA GARANTIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "244044732",
+    "complemento": "CRÉD.TED-STR ORAL UNIC IMPLANTES CAXIAS ODONTOLOGIA L 30.246.457 0001-41 CODIGO TED: T776832093 10/08/2022 000.083 CHEQUE COMPE NACIONAL 7.100,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 5906.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "67",
+    "complemento": "TARIFA PRÉ-DEPÓSITO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 1469.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 374.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS 15/08/2022 11863 DEP CH.CANAL ATEND.1D 9.923,92* SICOOB - CELULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 561.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "000227",
+    "complemento": "DEVOL.CHEQUE DEPOSITADO 11-CHEQUES SEM FUNDOS - 1 APRESENTAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "11863",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "11863",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 8323.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2022",
+    "documento": "RGE",
+    "complemento": "SUL DI DÉB.CONV.EN.ELÉTRICA E GÁS",
+    "credito": true,
+    "debito": false,
+    "valor": 368.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "245585681",
+    "complemento": "CRÉD.TED-STR ORAL UNIC IMPLANTES CAXIAS ODONTOLOGIA L 30.246.457 0001-41 CODIGO TED: T779962950 22/08/2022 11917 DEP CH.CANAL ATEND.1D 5.681,63* SICOOB - CELULAR",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2022",
+    "documento": "11917",
+    "complemento": "LIBERAÇÃO DEPÓSITO BLOQUEADO",
+    "credito": false,
+    "debito": true,
+    "valor": 5681.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "CLARO",
+    "complemento": "SA DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 351.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "00937657",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 29735.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "246280056",
+    "complemento": "CRÉD.TED-STR ORAL UNIC IMPLANTES CAXIAS ODONTOLOGIA L 30.246.457 0001-41 CODIGO TED: T781300743",
+    "credito": false,
+    "debito": true,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,2135 @@
+[
+  {
+    "data": "03/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 38.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "10857010593622",
+    "complemento": "Pix - Recebido 01/06 08:57 00046463269816 BRUNA MARCO",
+    "credito": false,
+    "debito": true,
+    "valor": 133.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "30857124731812",
+    "complemento": "Pix - Recebido 03/06 08:57 00010961949880 REGINALDO L",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "30918457184072",
+    "complemento": "Pix-Recebido QR Code 03/06 09:18 00094438560268 HELOUISE MA",
+    "credito": false,
+    "debito": true,
+    "valor": 153.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "31410048747492",
+    "complemento": "Pix-Recebido QR Code 03/06 14:10 00051487726899 KAMILA ALVE",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "101520900017228",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 874.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "174121647133731",
+    "complemento": "Pix-Recebido QR Code 03/06 07:56 10009654909 GABRIEL CAETAN",
+    "credito": false,
+    "debito": true,
+    "valor": 133.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "174438683829991",
+    "complemento": "Pix-Recebido QR Code 03/06 16:44 28971024895 JACKSON DA FON",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "174468250647461",
+    "complemento": "Pix-Recebido QR Code 03/06 17:33 51570462860 EDUARDO NOCI D",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "174490518410571",
+    "complemento": "Pix-Recebido QR Code 03/06 18:10 37229537827 KEZIA SILVA CO",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "154020",
+    "complemento": "Compra com Cartão 03/06 15:00 VAL BIKES",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "60301",
+    "complemento": "Pagamento de Boleto ESTAUTO ESTACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 215.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "60302",
+    "complemento": "Pix - Enviado 03/06 11:48 Jose Abdou",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 131.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 322.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "101550900024311",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 130.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "175137899155501",
+    "complemento": "Pix-Recebido QR Code 04/06 12:09 09354616631 Patrícia dos R",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "175198277354291",
+    "complemento": "Pix-Recebido QR Code 04/06 13:50 37777824830 MIRIAN PEREIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "175346757100421",
+    "complemento": "Pix-Recebido QR Code 04/06 17:57 46352072852 Marina Mariano",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "175349323473891",
+    "complemento": "Pix-Recebido QR Code 04/06 18:02 33336517850 JULIANA APAREC",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 131.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "197140472027",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 106.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "50741142735252",
+    "complemento": "Pix - Recebido 05/06 07:41 00021584459808 ANGRA REGIN",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "51600008645622",
+    "complemento": "Pix - Recebido 05/06 16:00 00020196093805 NADIA DE OL",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "101560900018112",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1092.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "175857280595131",
+    "complemento": "Pix-Recebido QR Code 05/06 08:08 03961164851 SALVADOR BRASI",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "175858893454021",
+    "complemento": "Pix - Recebido 05/06 08:11 03712542801 CELIA MATSUI B",
+    "credito": false,
+    "debito": true,
+    "valor": 104.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "175902019973321",
+    "complemento": "Pix-Recebido QR Code 05/06 09:23 92912893534 KELI FRANCO DO",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "146552",
+    "complemento": "Compra com Cartão 05/06 12:55 PRESENTES PERSONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 33.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "60501",
+    "complemento": "Pgto conta água SAAE JACAREI",
+    "credito": true,
+    "debito": false,
+    "valor": 597.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "60502",
+    "complemento": "Pagamento de Boleto UNIMED SAO LOURENCO COOPERATIV",
+    "credito": true,
+    "debito": false,
+    "valor": 806.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "60503",
+    "complemento": "Pix - Enviado 05/06 11:53 Bruna Catharine Teixeira B",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "60504",
+    "complemento": "Pix - Enviado 05/06 13:26 Fabricio Dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 97.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "60759365362912",
+    "complemento": "Pix - Recebido 06/06 07:59 00044203369860 PAMELA ALEX",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "61719376490702",
+    "complemento": "Pix-Recebido QR Code 06/06 17:19 00049805418871 CRISLAINE D",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "61749452994582",
+    "complemento": "Pix - Recebido 06/06 17:49 00043508815811 ESCARLETE O",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "101570900018262",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 580.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "177139564784471",
+    "complemento": "Pix - Recebido 06/06 19:45 27853279850 PATRICIA JUSTI",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "161813",
+    "complemento": "Compra com Cartão 06/06 17:10 FLORIDA SORVETES I",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "60601",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO HOLDING S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 707.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "60602",
+    "complemento": "Pagamento de Boleto SINDICATO DOS EMPREGADOS DE CL",
+    "credito": true,
+    "debito": false,
+    "valor": 13.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "60603",
+    "complemento": "Pix - Enviado 06/06 16:59 Kelly Cristina De Carvalho",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "60604",
+    "complemento": "Pix - Enviado 06/06 18:15 Fabricio Dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 107.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "197140472027",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 74.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "72104576975682",
+    "complemento": "Pix-Recebido QR Code 07/06 21:04 00038208344869 JUNIO GOMES",
+    "credito": false,
+    "debito": true,
+    "valor": 266.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "101580900018307",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 744.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "177779821693791",
+    "complemento": "Pix - Recebido 07/06 13:33 41094923869 Rafaela Ingrid",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "60701",
+    "complemento": "Pix - Enviado 07/06 15:14 Nyoman Budhiyasa",
+    "credito": true,
+    "debito": false,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "60702",
+    "complemento": "Pix - Enviado 07/06 17:10 Kaique Da Silva Carvalho H",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "60703",
+    "complemento": "Pix - Enviado 07/06 17:11 Flavia Cristina Dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 364.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "60705",
+    "complemento": "Pix - Enviado 07/06 17:13 Michelle Aparecida Soares",
+    "credito": true,
+    "debito": false,
+    "valor": 753.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "60706",
+    "complemento": "Pix - Enviado 07/06 17:37 Fernanda Jurema Aparecida",
+    "credito": true,
+    "debito": false,
+    "valor": 1163.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 136.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "101590900020606",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 859.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "101625581482612",
+    "complemento": "Pix-Recebido QR Code 10/06 16:25 00055161849835 KEILA CAMAR",
+    "credito": false,
+    "debito": true,
+    "valor": 168.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "101821552376002",
+    "complemento": "Pix-Recebido QR Code 10/06 18:21 00043422883894 JHENYFER LU",
+    "credito": false,
+    "debito": true,
+    "valor": 133.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "101828130250412",
+    "complemento": "Pix-Recebido QR Code 10/06 18:28 00006680157803 ELIZABETE L",
+    "credito": false,
+    "debito": true,
+    "valor": 133.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "101924443559022",
+    "complemento": "Pix-Recebido QR Code 10/06 19:24 00055530906877 DAVI HENRIQ",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "102114414719432",
+    "complemento": "Pix-Recebido QR Code 10/06 21:14 00023714621873 MONICA POLA",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "179681845897091",
+    "complemento": "Pix - Recebido 09/06 18:23 03184708888 ROSELI DE AZEV",
+    "credito": false,
+    "debito": true,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "180384891277461",
+    "complemento": "Pix - Recebido 10/06 13:54 12466818892 ANDREA MARCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 133.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "180386887974961",
+    "complemento": "Pix - Recebido 10/06 13:58 15957393860 Edna de Campos",
+    "credito": false,
+    "debito": true,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "180394734674601",
+    "complemento": "Pix - Recebido 10/06 14:11 12466818892 ANDREA MARCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "180460462837681",
+    "complemento": "Pix-Recebido QR Code 10/06 16:00 45698250871 LAVINIA RAMOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "180616094212691",
+    "complemento": "Pix-Recebido QR Code 10/06 20:20 39447001807 MONIQUE EVELIN",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61001",
+    "complemento": "Pix - Enviado 08/06 16:21 Marcelo Rodolpho Ribeiro S",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61002",
+    "complemento": "Pix - Enviado 10/06 08:54 Kelly Cristina De Carvalho",
+    "credito": true,
+    "debito": false,
+    "valor": 975.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61003",
+    "complemento": "Pix - Enviado 10/06 08:55 Karoline Pâmela Da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61004",
+    "complemento": "Pix - Enviado 10/06 10:57 Fabio Oliveira Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61005",
+    "complemento": "Pix - Enviado 10/06 11:34 Alisson Rafael De Sousa Tr",
+    "credito": true,
+    "debito": false,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "61006",
+    "complemento": "Pix - Enviado 10/06 13:15 Leidiane Aparecida Leite M",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 547.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 293.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "197140472027",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 275.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "101620900020186",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 159.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "111155536957452",
+    "complemento": "Pix - Recebido 11/06 11:55 00033102207880 CRISTINA DO",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "111659314168192",
+    "complemento": "Pix - Recebido 11/06 16:59 00023008010865 CAMILA DE A",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "111741568342422",
+    "complemento": "Pix-Recebido QR Code 11/06 17:41 00057192658804 GABRIEL LOP",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "181170157336361",
+    "complemento": "Pix - Recebido 11/06 11:43 42034400000168 STEEL PRIME",
+    "credito": false,
+    "debito": true,
+    "valor": 17039.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "181406734443211",
+    "complemento": "Pix-Recebido QR Code 11/06 18:17 82794898604 ADRIANO FERREI",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "181419313791521",
+    "complemento": "Pix-Recebido QR Code 11/06 18:38 43376346810 Mateus de Souz",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "130505",
+    "complemento": "Compra com Cartão 11/06 08:28 IVON UNIAO II",
+    "credito": true,
+    "debito": false,
+    "valor": 19.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "241184",
+    "complemento": "Compra com Cartão 11/06 11:26 ULISSES DE O F ME",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61101",
+    "complemento": "Pix - Enviado 11/06 09:24 Luis Gustavo Pires Da Rosa",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61102",
+    "complemento": "Pagamento conta luz edp sao paulo",
+    "credito": true,
+    "debito": false,
+    "valor": 2053.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61103",
+    "complemento": "Pagamento conta luz edp sao paulo",
+    "credito": true,
+    "debito": false,
+    "valor": 198.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61104",
+    "complemento": "Pix - Enviado 11/06 11:54 Lucas Carvalho Da Mata",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61105",
+    "complemento": "Pix - Enviado 11/06 11:55 Debora Aziz Quina De Sique",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "61106",
+    "complemento": "Pix - Enviado 11/06 12:28 Marcelo Rodolpho Ribeiro S",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 538.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 215.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "101630900018793",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 613.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "120801529533142",
+    "complemento": "Pix-Recebido QR Code 12/06 08:01 55116950000178 55.116.950",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "121318520597042",
+    "complemento": "Pix - Recebido 12/06 13:18 00033102216870 PAULA DOS S",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "121534299262862",
+    "complemento": "Pix - Recebido 12/06 15:34 00037164779821 ANDRESSA DE",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "181926855428501",
+    "complemento": "Pix-Recebido QR Code 12/06 08:44 41094923869 Rafaela Ingrid",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "181952142671781",
+    "complemento": "Pix - Recebido 12/06 09:26 47923604000173 47923604 JO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "181988436394341",
+    "complemento": "Pix-Recebido QR Code 12/06 10:27 37777824830 MIRIAN PEREIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "61201",
+    "complemento": "Pix - Enviado 12/06 10:15 Washington Rodrigo Pacheco",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "61202",
+    "complemento": "Pix - Enviado 12/06 10:15 José Valdemir De Moura",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "61203",
+    "complemento": "Pix - Enviado 12/06 10:17 Fabiano Nascimento Gramari",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "61204",
+    "complemento": "Pix - Enviado 12/06 10:18 Hesley Leite De Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 200.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 19.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "101640900017900",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 193.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "130917069172752",
+    "complemento": "Pix-Recebido QR Code 13/06 09:17 00002093599783 BIANCA CARL",
+    "credito": false,
+    "debito": true,
+    "valor": 79.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "131606557743702",
+    "complemento": "Pix-Recebido QR Code 13/06 16:06 00014468828889 ROBERTA RIB",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "131833006159912",
+    "complemento": "Pix-Recebido QR Code 13/06 18:33 00039502965817 MICHAEL ARA",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "132030359935262",
+    "complemento": "Pix - Recebido 13/06 20:30 00042253294888 GESSICA MAR",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "163419",
+    "complemento": "Compra com Cartão 13/06 17:36 VILELA FESTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 34.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "264130",
+    "complemento": "Compra com Cartão 13/06 17:48 CASA DE BOLOS",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "61301",
+    "complemento": "Pix - Enviado 13/06 09:28 Diego De Souza Gedzevicius",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "552513000118673",
+    "complemento": "Transferência recebida 14/06 07:26 RADIO MUSICAL FM DO VALE",
+    "credito": false,
+    "debito": true,
+    "valor": 2484.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 102.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "101650900012677",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1338.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "183595519840811",
+    "complemento": "Pix-Recebido QR Code 14/06 07:05 23707127000140 Conceicao M",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "183979103744481",
+    "complemento": "Pix-Recebido QR Code 14/06 17:45 27155610836 CARLOS JOSE FA",
+    "credito": false,
+    "debito": true,
+    "valor": 168.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "143785",
+    "complemento": "Compra com Cartão 14/06 12:09 VALE TUDO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "244121",
+    "complemento": "Compra com Cartão 14/06 12:15 ROMA.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "357731",
+    "complemento": "Compra com Cartão 14/06 16:02 HM PAPELARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "660903",
+    "complemento": "Compra com Cartão 14/06 16:55 HM PAPELARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "764610",
+    "complemento": "Compra com Cartão 14/06 17:56 MEGA SHOW VARIEDA",
+    "credito": true,
+    "debito": false,
+    "valor": 27.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "61401",
+    "complemento": "Pix - Enviado 14/06 11:21 Joao Paulo De Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "61402",
+    "complemento": "Pagamento de Boleto SALES DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 846.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "61403",
+    "complemento": "Pix - Enviado 14/06 19:28 Douglas Rafael Freitas",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 96.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "197140472027",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "101660900010916",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1201.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "170754121355032",
+    "complemento": "Pix - Recebido 17/06 07:54 00044018111860 CHRISTOFER",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "186262315815771",
+    "complemento": "Pix-Recebido QR Code 17/06 09:10 10036364894 MARISA AKIE SU",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "186533617221211",
+    "complemento": "Pix-Recebido QR Code 17/06 16:42 25278633883 FABRIZIO ALESS",
+    "credito": false,
+    "debito": true,
+    "valor": 133.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "186601235741401",
+    "complemento": "Pix-Recebido QR Code 17/06 18:35 47147208803 Rebecca Della",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "186623662474281",
+    "complemento": "Pix-Recebido QR Code 17/06 19:12 62088219323 Angela Maria A",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "164691",
+    "complemento": "Compra com Cartão 17/06 17:58 HM PAPELARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "839138",
+    "complemento": "Saque no Caixa 17/06 15:07 SOP-JACAREI",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "171454464288021",
+    "complemento": "Saque no TAA 17/06 14:54 SOP-JACAREI",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "171455224288021",
+    "complemento": "Saque no TAA 17/06 14:55 SOP-JACAREI",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61701",
+    "complemento": "Pix - Enviado 17/06 07:38 Flavia Renata Salgado De C",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61702",
+    "complemento": "Pix - Enviado 17/06 08:45 Henrique Angelo Da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61703",
+    "complemento": "Pix - Enviado 17/06 08:48 Joao Pacelli Rocha Filho",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61704",
+    "complemento": "Pix - Enviado 17/06 08:50 José Valdemir De Moura",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61705",
+    "complemento": "Pix - Enviado 17/06 08:51 Erico Amaral Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61706",
+    "complemento": "Pix - Enviado 17/06 08:53 Hesley Leite De Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 799.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61707",
+    "complemento": "Pix - Enviado 17/06 08:56 A B S Embalagens Do Vale L",
+    "credito": true,
+    "debito": false,
+    "valor": 164.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61708",
+    "complemento": "Pix - Enviado 17/06 09:26 Clarissa Carneiro",
+    "credito": true,
+    "debito": false,
+    "valor": 419.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61709",
+    "complemento": "Pagamento conta luz edp sao paulo",
+    "credito": true,
+    "debito": false,
+    "valor": 430.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61710",
+    "complemento": "Pagamento de Boleto EVO W12 INV TECNOLOGIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 546.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61711",
+    "complemento": "Pagamento de Boleto EVO W12 INV TECNOLOGIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "61712",
+    "complemento": "Pix - Enviado 17/06 17:46 Edson Chaves",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "41435",
+    "complemento": "Pagamento de Telefone ALGAR TELECOM",
+    "credito": true,
+    "debito": false,
+    "valor": 186.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "7307",
+    "complemento": "TED-Crédito em Conta 27059627000174 TOTAL PASS PAR",
+    "credito": false,
+    "debito": true,
+    "valor": 2182.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 351.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 215.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "181550522171772",
+    "complemento": "Pix-Recebido QR Code 18/06 15:50 60693835000104 BEDA E LUCA",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "187015164204501",
+    "complemento": "Pix-Recebido QR Code 18/06 06:05 48544301843 Ingrid de Oliv",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "61801",
+    "complemento": "Pix - Enviado 18/06 15:02 Reginaldo Aparecido Montei",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "811700700188769",
+    "complemento": "Tarifa Saque Pessoal Cobrança referente 17/06/2024",
+    "credito": true,
+    "debito": false,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 131.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "101700900017354",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 805.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "61901",
+    "complemento": "Pix - Enviado 19/06 14:48 Arley Andres Argaez Florez",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "61902",
+    "complemento": "Pix - Enviado 19/06 15:47 Reinaldo Pinto De Almeida",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "61903",
+    "complemento": "Pagamento de Boleto CONFEDERACAO NAC COOP CENTRAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 3464.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 97.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "101710900017994",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 429.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "188836517257911",
+    "complemento": "Pix-Recebido QR Code 20/06 08:40 46683247870 Ingridy Souza",
+    "credito": false,
+    "debito": true,
+    "valor": 138.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "188884592769021",
+    "complemento": "Pix - Recebido 20/06 10:01 22008287807 ana paula card",
+    "credito": false,
+    "debito": true,
+    "valor": 88.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "188899908851021",
+    "complemento": "Pix-Recebido QR Code 20/06 10:26 42234968836 Anderson Ribei",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "200844584205782",
+    "complemento": "Pix - Recebido 20/06 08:44 47923604000173 47923604 JO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "202029566947042",
+    "complemento": "Pix-Recebido QR Code 20/06 20:29 00006571331322 LUCAS COELH",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "62001",
+    "complemento": "Pix - Enviado 20/06 11:02 Martins Assessoria Em Medi",
+    "credito": true,
+    "debito": false,
+    "valor": 116.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "62002",
+    "complemento": "Pix - Enviado 20/06 11:02 Caixa Economica Federal",
+    "credito": true,
+    "debito": false,
+    "valor": 125.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "62003",
+    "complemento": "Pix - Enviado 20/06 11:03 Secretaria Da Receita Fede",
+    "credito": true,
+    "debito": false,
+    "valor": 639.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "62004",
+    "complemento": "Pix - Enviado 20/06 11:04 Secretaria Da Receita Fede",
+    "credito": true,
+    "debito": false,
+    "valor": 1369.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "841721100419939",
+    "complemento": "Tarifa Pacote de Serviços Cobrança referente 20/06/2024",
+    "credito": true,
+    "debito": false,
+    "valor": 54.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 298.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "101720900018133",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 183.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "189719962857411",
+    "complemento": "Pix - Recebido 21/06 09:13 25043955821 ANDREIA ROCHA",
+    "credito": false,
+    "debito": true,
+    "valor": 133.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "189824731716641",
+    "complemento": "Pix - Recebido 21/06 12:07 36160990802 FERNANDA CRIST",
+    "credito": false,
+    "debito": true,
+    "valor": 1750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "211813264025732",
+    "complemento": "Pix-Recebido QR Code 21/06 18:13 00035022880890 ALAN MARCEL",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "140125",
+    "complemento": "Compra com Cartão 21/06 11:08 AVLIS",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "255346",
+    "complemento": "Compra com Cartão 21/06 15:22 CASA DE BOLOS",
+    "credito": true,
+    "debito": false,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "62101",
+    "complemento": "Pix - Enviado 21/06 11:01 Karina Aparecida Vertu Mou",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 130.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "101730900017515",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 590.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "191435171851371",
+    "complemento": "Pix - Recebido 23/06 08:51 08461117808 FERNANDO DE SO",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "192286090547841",
+    "complemento": "Pix-Recebido QR Code 24/06 08:30 21892055813 Viviane Santos",
+    "credito": false,
+    "debito": true,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "192313619114331",
+    "complemento": "Pix-Recebido QR Code 24/06 09:16 35770395826 Samira Helena",
+    "credito": false,
+    "debito": true,
+    "valor": 97.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "192674695461851",
+    "complemento": "Pix-Recebido QR Code 24/06 19:17 55339490890 LUCAS GABRIEL",
+    "credito": false,
+    "debito": true,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "220949018522262",
+    "complemento": "Pix - Recebido 22/06 09:49 00022131332807 LUCIENE SAN",
+    "credito": false,
+    "debito": true,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "241327088457012",
+    "complemento": "Pix-Recebido QR Code 24/06 13:27 00014954670829 ALBERTINA F",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "241637061334702",
+    "complemento": "Pix-Recebido QR Code 24/06 16:37 00044689699895 GABRIELA SO",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "241824573621232",
+    "complemento": "Pix-Recebido QR Code 24/06 18:24 00042696223858 JOSE ANTONI",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "241920284329202",
+    "complemento": "Pix-Recebido QR Code 24/06 19:20 00037519483843 CARLOS EDUA",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "144021",
+    "complemento": "Compra com Cartão 22/06 12:13 DEPOSITO FLORIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 22.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62401",
+    "complemento": "Pix - Enviado 22/06 11:46 Paulo Sérgio Prudencio Lei",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62402",
+    "complemento": "Pix - Enviado 24/06 11:35 José Valdemir De Moura",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62403",
+    "complemento": "Pix - Enviado 24/06 11:36 Rubens Aparecido Jovino",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62404",
+    "complemento": "Pix - Enviado 24/06 11:37 Thiago Furtado Dias Piment",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62405",
+    "complemento": "Pix - Enviado 24/06 11:38 Hesley Leite De Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62406",
+    "complemento": "Pix - Enviado 24/06 11:39 Erico Amaral Oliveira",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62407",
+    "complemento": "Pix - Enviado 24/06 11:40 Henrique Angelo Da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62408",
+    "complemento": "Pix - Enviado 24/06 11:41 Joao Pacelli Rocha Filho",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62409",
+    "complemento": "Pix - Enviado 24/06 11:47 Alzis Da Silva Aquino Neto",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62410",
+    "complemento": "Pix - Enviado 24/06 11:59 Centro Social Catedral Da",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "62411",
+    "complemento": "Pix - Enviado 24/06 18:58 Laryssa Fernanda Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 273.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "193062222158691",
+    "complemento": "Pix-Recebido QR Code 25/06 06:03 39787976820 LUCAS WILLIAN",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "193222981065191",
+    "complemento": "Pix-Recebido QR Code 25/06 10:31 42823935215 VALDECIR O ESP",
+    "credito": false,
+    "debito": true,
+    "valor": 89.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "251128349267702",
+    "complemento": "Pix-Recebido QR Code 25/06 11:28 00029214721807 DEBORA APAR",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "139453",
+    "complemento": "Compra com Cartão 25/06 10:57 DEPOSITO NOVE DE JUL",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "62501",
+    "complemento": "Pagamento de Boleto ESTAUTO ESTACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 171.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "62502",
+    "complemento": "Pix - Enviado 25/06 15:36 Portoseg Sa Credito Fin E",
+    "credito": true,
+    "debito": false,
+    "valor": 2751.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "62503",
+    "complemento": "Pix - Enviado 25/06 16:53 Valdeis Lopes Campos-me",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "62504",
+    "complemento": "Pix - Enviado 25/06 22:20 Daniel Felix Da Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 107.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 107.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "101770900017194",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 324.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "194235623617621",
+    "complemento": "Pix-Recebido QR Code 26/06 14:39 07732000000125 SANDRO DA S",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "140435",
+    "complemento": "Compra com Cartão 26/06 11:13 CONSTRUDECOR S A",
+    "credito": true,
+    "debito": false,
+    "valor": 169.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "197140472002",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 131.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "101780900016725",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 19.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "195131587664551",
+    "complemento": "Pix - Recebido 27/06 15:32 26779808865 MARCIA SOARES",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "270603087784952",
+    "complemento": "Pix - Recebido 27/06 06:03 47923604000173 47923604 JO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "270746507895662",
+    "complemento": "Pix-Recebido QR Code 27/06 07:46 00035806921867 VALERIA SAN",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "271747210912462",
+    "complemento": "Pix-Recebido QR Code 27/06 17:47 00001911737899 MARIA LUCIA",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "62701",
+    "complemento": "Pix - Enviado 27/06 12:11 Kelly Cristina De Carvalho",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "197140472001",
+    "complemento": "Stone Pagamento Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 410.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "101790900017492",
+    "complemento": "Stone Pagamento Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 116.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "62801",
+    "complemento": "Pix - Enviado 28/06 10:27 Antonio Elc Xavier Constan",
+    "credito": true,
+    "debito": false,
+    "valor": 402.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "62802",
+    "complemento": "Pix - Enviado 28/06 21:16 Flavia Cristina Dos Santos",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,1289 @@
+[
+  {
+    "data": "01/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 28.609.306 0001-69 Gasolina",
+    "credito": true,
+    "debito": false,
+    "valor": 255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8682862",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: VALTER DIAS OLIVEIRA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.555.272-**",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8683013",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: AUTO PECAS AUTOCAR LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8687731",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: VALTEIR VAGMAKER GUILHERME Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8688913",
+    "complemento": "DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 179.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8690114",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 106.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.622.672-** Bolo amigao",
+    "credito": true,
+    "debito": false,
+    "valor": 68.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.014.032-**",
+    "credito": true,
+    "debito": false,
+    "valor": 84.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "8691120",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO Dh emprestado para fornecedor",
+    "credito": true,
+    "debito": false,
+    "valor": 7300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 01.779.708 0001-55",
+    "credito": true,
+    "debito": false,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8695227",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 3505.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8699952",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despezas",
+    "credito": false,
+    "debito": true,
+    "valor": 13427.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8700134",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 2482.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8700156",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 11.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.014.032-** Pousada e janta",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8700444",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 552.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "8700895",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: GM SCOLARO COMERCIO VAREJISTA DE A Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 32.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "DBAUTO",
+    "complemento": "VIS DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1425.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "8708044",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 246.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "8710380",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 80.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.068.252-**",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "8711480",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: GM SCOLARO COMERCIO VAREJISTA DE A Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 318.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.618.831-**",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.169.912-**",
+    "credito": true,
+    "debito": false,
+    "valor": 79.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "8717506",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despezas operacionais",
+    "credito": false,
+    "debito": true,
+    "valor": 22115.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.639.762-** Ref mobili. Desc 371 em promissoria",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "8721171",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO PR ismael",
+    "credito": true,
+    "debito": false,
+    "valor": 371.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.167.132-** Pag. Referente mes 22",
+    "credito": true,
+    "debito": false,
+    "valor": 1231.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.168.122-** Pag mes 22",
+    "credito": true,
+    "debito": false,
+    "valor": 1751.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.168.122-** dias",
+    "credito": true,
+    "debito": false,
+    "valor": 1232.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pagar colaborador",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "8723019",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 coca amigao. Pedido 1716949",
+    "credito": true,
+    "debito": false,
+    "valor": 18.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "CLARO",
+    "complemento": "SA DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 40.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pag. Colaborador",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pag colaborador",
+    "credito": true,
+    "debito": false,
+    "valor": 2322.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8727612",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 3482.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.600.532-**",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8734178",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 13721.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8734308",
+    "complemento": "DÉB.TÍTULO COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8734350",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 1651.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8734515",
+    "complemento": "DÉBITO CONV. FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 266.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.780.632-**",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "8736270",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 572.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.242.592-** Pag diarias mes 22",
+    "credito": true,
+    "debito": false,
+    "valor": 828.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pag. Colaborador",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2022",
+    "documento": "8745898",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 837.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2022",
+    "documento": "8753350",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 20484.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2022",
+    "documento": "8759497",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: VALTER DIAS OLIVEIRA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Papel crepon",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.026.982-**",
+    "credito": true,
+    "debito": false,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "SICOOB",
+    "complemento": "SEG DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 61.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "SICOOB",
+    "complemento": "SEG DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 42.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8769147",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 12211.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8771014",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 18229.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8771273",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 119.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8771284",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 79.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8774741",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: MODELO COMERCIO DE DERIVADOS DE PE Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Combustivel mes de julho",
+    "credito": true,
+    "debito": false,
+    "valor": 12214.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8775688",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: TALITA YURI DE OLIVEIRA DOS SANTOS Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Pag Wellinton",
+    "credito": true,
+    "debito": false,
+    "valor": 4604.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pagamento colaborador",
+    "credito": true,
+    "debito": false,
+    "valor": 962.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8776879",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 768.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "8777083",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 18.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.167.132-** Pag chapa PVC",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.014.032-**",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "8787498",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: TALITA YURI DE OLIVEIRA DOS SANTOS Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Pagamento de salario",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "8787660",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: PARAIBA COMERCIO IMPORTACAO E EXPO Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 149.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "8794019",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 9905.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "8794285",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 677.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.242.592-** Vale",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.663.410 0001-22 Pag rescisao do Adenilson",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "8804858",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: VALTER DIAS OLIVEIRA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "8804947",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 2076.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "8804968",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 6050.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "8811872",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 5893.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "8812018",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 5922.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "8817112",
+    "complemento": "DÉB.TRANSF.CONTAS MESMA TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 383.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "8818983",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS Documento transferência corolla",
+    "credito": true,
+    "debito": false,
+    "valor": 377.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "8820096",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2022",
+    "documento": "8821839",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 4144.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 15.883.796 0001-45",
+    "credito": true,
+    "debito": false,
+    "valor": 189.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 00.394.585 0001-71",
+    "credito": true,
+    "debito": false,
+    "valor": 122.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "8824652",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 4391.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "8829128",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: GM SCOLARO COMERCIO VAREJISTA DE A Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Gaz amigao",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.723.762-** Vale",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "8829854",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 14264.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.147.852-**",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2022",
+    "documento": "8830304",
+    "complemento": "DÉB.TÍTULO COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2022",
+    "documento": "8833821",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 221.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842169",
+    "complemento": "DÉB.CONV.SANEAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 110.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842208",
+    "complemento": "DÉB.CONV.SANEAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842216",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 1549.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842237",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 441.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842249",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 363.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842270",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 78.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8842312",
+    "complemento": "DÉB.CONV.ORGÃOS GOV.",
+    "credito": true,
+    "debito": false,
+    "valor": 5194.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8847045",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 6795.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "8848757",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: QUIRINO & SOUZA LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 pincel",
+    "credito": true,
+    "debito": false,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8859671",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: L M TEIXEIRA SANTANA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8859701",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: ATACADAO CEREJEIRA LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 18.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8863780",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 7181.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8863842",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TITULARIDADE FAV.: WELLINTON ANDRADE DOS SANTOS Vale",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8866420",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 6842.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.167.132-** Chapa",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "8866521",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: AUTO PECAS AUTOCAR LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 163.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 37.058.614 0001-34",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.167.132-**",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "8879082",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: DECAR COMERCIO E IMPORTACAO DE AUT Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "8879732",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TITULARIDADE FAV.: TALITA YURI COMERCIO DE ELETRONICO Seguro",
+    "credito": true,
+    "debito": false,
+    "valor": 390.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "8879880",
+    "complemento": "DÉB.TRANSF.POUPANÇA-INTERCREDIS FABIANO AMARO CHAVES",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "8880233",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF - MESMA TIT. Pagamento Pix 09.057.406 0001-85 Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 6372.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "8885633",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 7789.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.399.816-** Frete Guajara.. em dinheiro",
+    "credito": true,
+    "debito": false,
+    "valor": 3450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.242.592-** Vale",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "CLARO",
+    "complemento": "SA DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 40.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8888940",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 546.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8888968",
+    "complemento": "DÉB.TÍTULO COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 405.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8888978",
+    "complemento": "DÉB.TÍTULO COBRANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8889034",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8889065",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 1903.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 08.735.834 0001-57",
+    "credito": true,
+    "debito": false,
+    "valor": 57.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8893879",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 5459.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8893948",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 891.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8893976",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: NATANAEL JARDINETI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Amigao",
+    "credito": true,
+    "debito": false,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "8895210",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 9.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.441.582-**",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2022",
+    "documento": "8898934",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: VVT TRANSPORTES E LOGISTICA LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2022",
+    "documento": "8901522",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 502.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2022",
+    "documento": "8904082",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: G R RODRIGUES MAT PRA CONSTRUCAO E Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8906617",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: GM SCOLARO COMERCIO VAREJISTA DE A Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 42.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8911378",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT. INTERCREDIS FAV.: AUTO PECAS AUTOCAR LTDA Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix 01.779.708 0001-55",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8917110",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: ANTONIO VENTURA EIRELI Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 11.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8917273",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despesas",
+    "credito": false,
+    "debito": true,
+    "valor": 12421.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8917609",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 1380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8917732",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 939.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "8917746",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 231.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "000.002",
+    "complemento": "CHEQUE COMPE INTEGRADA",
+    "credito": true,
+    "debito": false,
+    "valor": 3300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2022",
+    "documento": "044764",
+    "complemento": "COMPRA VISA ELECTRON PAPELARIA UNIVERSO JI-PARANA BR",
+    "credito": true,
+    "debito": false,
+    "valor": 293.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "8932686",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 2407.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "8934266",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despezas",
+    "credito": false,
+    "debito": true,
+    "valor": 1314.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "8938110",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: TALITA YURI COMERCIO DE ELETRONICO Despeza",
+    "credito": false,
+    "debito": true,
+    "valor": 6316.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "8938264",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: TALITA YURI DE OLIVEIRA DOS SANTOS Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Rest. Pag ref mes",
+    "credito": true,
+    "debito": false,
+    "valor": 1622.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "8938313",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: WELLINTON ANDRADE DOS SANTOS Transferência Pix TALITA YURI COMERCIO DE ELETRONICOS E MA 09.057.406 0001-85 Pag rest. well",
+    "credito": true,
+    "debito": false,
+    "valor": 26.02,
+    "origem": "Extrato"
+  }
+]

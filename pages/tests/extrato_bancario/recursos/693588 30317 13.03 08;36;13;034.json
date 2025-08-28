@@ -1,0 +1,1019 @@
+[
+  {
+    "data": "01/08/2024",
+    "documento": "IOF/1-8",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "69",
+    "complemento": "TAR.MANUT.CTA ATIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.394.219-** REGUA TORNO",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.132.519-** ADIANTAMENTO RAFAEL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 TARUGO IDEAL",
+    "credito": true,
+    "debito": false,
+    "valor": 171.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "17627913",
+    "complemento": "DÉB.TIT.COMPE.EFETI SISTEMA BLING",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.346.149-** BOLSA ESTAGIO MATHEUS",
+    "credito": true,
+    "debito": false,
+    "valor": 761.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF Pagamento Pix 78.324.316 0001-26 Mesa ADESSO Kwm",
+    "credito": true,
+    "debito": false,
+    "valor": 846.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.705.369-** CARTAO VANESSA",
+    "credito": true,
+    "debito": false,
+    "valor": 706.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 04.991.437 0001-95 TUBO INOX",
+    "credito": true,
+    "debito": false,
+    "valor": 154.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "17643181",
+    "complemento": "DÉB.TIT.COMPE.EFETI CLAPPER",
+    "credito": true,
+    "debito": false,
+    "valor": 1641.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 01.554.285 0001-75",
+    "credito": true,
+    "debito": false,
+    "valor": 249.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 GASOLINA E PEDAGIOS MUELLER",
+    "credito": true,
+    "debito": false,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "1807428",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 14.883.109 0001-29 CHAPA INOX VEIGA",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "17662250",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: OXITINTAS COMERCIO DE TINTAS LTDA TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63 TINTA CANCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 35.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Recarga",
+    "complemento": "DEB.RECAR PRÉ-PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 GASOLINA",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.730.489-** SALARIO EMILIANO COMPETENCIA JULHO 2024",
+    "credito": true,
+    "debito": false,
+    "valor": 1902.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.554.849-** SALARIO JOSE COMPETENCIA JULHO 2024",
+    "credito": true,
+    "debito": false,
+    "valor": 1411.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.596.109-** MARMITAS SEMANA MECASUL",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "1804040",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "SICOOB SEG",
+    "complemento": "DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 52.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.261.479-** PARTE SALARIO RAFAEL",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "1814221",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "17717982",
+    "complemento": "DÉB.TIT.COMPE.EFETI MTC MANGUEIRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.261.479-** CIMELE",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 19.258.319 0001-40",
+    "credito": true,
+    "debito": false,
+    "valor": 15.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "1810945",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 MADERO",
+    "credito": true,
+    "debito": false,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.261.479-** ODAIR",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 CONEXAO JATO",
+    "credito": true,
+    "debito": false,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.706.369-** DIA LIDIO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX IBRAME INDUSTRIA BRASILEIRA DE METAIS 60.846.599 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX IBRAME INDUSTRIA BRASILEIRA DE METAIS 60.846.599 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 16930.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.803.529-** PROJETOS YAGO",
+    "credito": true,
+    "debito": false,
+    "valor": 1075.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 GASOLINA E PEDAGIOS TIMBO",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.468.809-** NICOLAS EDUARDO",
+    "credito": true,
+    "debito": false,
+    "valor": 8600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.554.849-** REBOBINAMENTO MOTOR SAMIR",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "17760458",
+    "complemento": "DÉB.PGTO.BOLETO INTERNET MECASUL",
+    "credito": true,
+    "debito": false,
+    "valor": 149.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.554.849-** ALMOCO IBRAME EMILIANO E JOSE",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 05.636.464 0001-02 PISTAO MESA ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 353.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "17750776",
+    "complemento": "TRANSF. PIX SICOOB FAV.: JULIANA ROSA TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63",
+    "credito": true,
+    "debito": false,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.596.109-** MARMITAS SEMANA",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "17749670",
+    "complemento": "DÉB.TIT.COMPE.EFETI SERRA JOINVILLE",
+    "credito": true,
+    "debito": false,
+    "valor": 290.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 19.258.319 0001-40",
+    "credito": true,
+    "debito": false,
+    "valor": 87.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.986.209-** GASOLINA CIVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "17742726",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: CEOPAG S.A. TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63",
+    "credito": true,
+    "debito": false,
+    "valor": 37.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.662.599-** FITA CANCELA IDEAL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "1821508",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.346.149-** FRETE GDC",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.946.231 0001-81 FECHAMENTO JULHO MI FERRAGENS",
+    "credito": true,
+    "debito": false,
+    "valor": 1477.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.699.029-** ERGONIO",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "17777394",
+    "complemento": "DÉB.TIT.COMPE.EFETI PAM VANESSA",
+    "credito": true,
+    "debito": false,
+    "valor": 910.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "1817858",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "17796805",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: SDS MANUTENCAO ELETRONICA LTDA TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63 CLP ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX NERI TERESINHA DE COSTA ***.241.800-**",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.356.329-** ALUGUEIS DRA LAURA",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 MERCADO E MARMITA JOSE",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 78.324.316 0001-26 SERVICO ECOEFICIENCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 128.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 30.972.783 0001-36 MATERIAL SERVICO TAF",
+    "credito": true,
+    "debito": false,
+    "valor": 278.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 18.586.391 0001-33 UNIFORMES E FRETE",
+    "credito": true,
+    "debito": false,
+    "valor": 1041.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.705.379-** GASOLINA E PADARIA PROGRAMACAO ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 VERSATIL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "1825760",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.132.519-** VALE RAFAEL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.986.209-**",
+    "credito": true,
+    "debito": false,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.272.219-** PASTA LIMPEZA MAOS",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "17806001",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: CEOPAG S.A. TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63",
+    "credito": true,
+    "debito": false,
+    "valor": 49.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "17805268",
+    "complemento": "TRANSF. PIX SICOOB FAV.: LANCHERIA E RESTAURANTE SITIO LTDA TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.346.149-** RESCISAO ESTAGIO MATHEUS FRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 416.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX CIMELE MACHADO ***.261.479-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "01118332",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1595.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "1822652",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.705.379-** LANCHE ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 SALGADO ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.705.379-**",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.651.010-** MONTADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.955.819-** COLETA MATERIAL FH",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.989.969-** CELULAR ALEXANDRE",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.955.819-** PISTAO SUCATA AVENTUREIRO",
+    "credito": true,
+    "debito": false,
+    "valor": 311.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "310909617",
+    "complemento": "CRÉD.TED-STR G D C ALIMENTOS 02.279.324 0001-36 CODIGO TED: T930928367",
+    "credito": false,
+    "debito": true,
+    "valor": 852.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 83.940.429 0001-96 VALGRI",
+    "credito": true,
+    "debito": false,
+    "valor": 22.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 85.108.314 0001-65 ROLAMENTO FORNO SAMIR",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEB.OUTRA IF RECEBIMENTO PIX ALEXANDRE DA COSTA MARTINS ***.705.379-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.261.479-**",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "1835948",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 19.324.314 0001-78 MATERIAL TAF ELETROPOLL",
+    "credito": true,
+    "debito": false,
+    "valor": 119.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.446.359-** MOTOR DESCADOR JONAS",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 85.279.644 0001-13 CORREIA A15 ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.845.191-** NASCIMENTO REF ADESSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.705.379-**",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 01.021.504 0001-50 ACRILICO SERVICO TAF",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 45.538.046 0001-05",
+    "credito": true,
+    "debito": false,
+    "valor": 101.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "1833150",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1855.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "1837676",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 19.258.319 0001-40",
+    "credito": true,
+    "debito": false,
+    "valor": 176.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 GASOLINA CIVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 13.732.501 0001-04 PLAQUETAS MUELLER",
+    "credito": true,
+    "debito": false,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "1835087",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 01.112.133 0007-08 ORCAMENTO 13833",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 45.771.175 0001-30",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.596.109-** MARMITAS QUINZENA",
+    "credito": true,
+    "debito": false,
+    "valor": 345.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 80.451.289 0001-02",
+    "credito": true,
+    "debito": false,
+    "valor": 12.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85",
+    "credito": true,
+    "debito": false,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX 49.701.944 0001-85 GIOVANA",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.955.819-** COLETA COMFER",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "1845098",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "11194",
+    "complemento": "LIBER.DEPÓSITO BLOQ",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "17956432",
+    "complemento": "DB.TR.C.DIF.TIT.INT FAV.: CEOPAG S.A. TRANSFERÊNCIA PIX MECASUL SOLUCAO MANUTENCAO LTDA 37.116.875 0001-63",
+    "credito": true,
+    "debito": false,
+    "valor": 113.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMIT.OUTRA IF PAGAMENTO PIX ***.699.029-** ARGONIO",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "1842555",
+    "complemento": "CRÉD.LIQ.COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1455.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "17966169",
+    "complemento": "DÉB.TIT.COMPE.EFETI UNIFORMES",
+    "credito": true,
+    "debito": false,
+    "valor": 498.45,
+    "origem": "Extrato"
+  }
+]

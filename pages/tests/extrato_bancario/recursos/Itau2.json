@@ -1,0 +1,191 @@
+[
+  {
+    "data": "03/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 03/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 2380.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 04/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 6065.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 05/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 2637.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": "",
+    "complemento": "TAR CONTA CERTA 01/20",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2020",
+    "documento": "",
+    "complemento": "TAR CTA CERTA EXCED01/20",
+    "credito": true,
+    "debito": false,
+    "valor": 1193.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 06/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 10400.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 07/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 3367.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 10/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 1670.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 11/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 2758.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 12/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 4336.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 13/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 1747.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 14/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 2383.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2020",
+    "documento": "",
+    "complemento": "RESSARCIMENTO COMERCIAL",
+    "credito": false,
+    "debito": true,
+    "valor": 2686.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 17/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 3795.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 18/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 5685.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 19/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 788.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 20/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 9903.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 21/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 946.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 27/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 4027.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 28/02S",
+    "credito": false,
+    "debito": true,
+    "valor": 1239.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2020",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 03/03S",
+    "credito": false,
+    "debito": true,
+    "valor": 5478.24,
+    "origem": "Extrato"
+  }
+]

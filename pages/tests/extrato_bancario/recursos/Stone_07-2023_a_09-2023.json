@@ -1,0 +1,5609 @@
+[
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Gilberto Galvao Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Gilberto Galvao Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Vitor Rafael de Oliveira Cavalcante Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Vitor Rafael de Oliveira Cavalcante Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Eliden De Navasquez Mendes Teixeira 45573995847 Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Moises Caetano Tomazoni Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 556.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "MELISSA SIRTOLI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "MANOEL ANTONIO EUZEBIO JUNIOR Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 297.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 265.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 941.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 884.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1730.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1038.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "BARBRA DE MELO ROLEMBERG Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "VORNE SERVICOS AUTOMOTIVOS LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 158.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 446.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1316.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1613.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 89.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1507.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 70.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "DANIELLE QUEIROZ GUSSO DE MENEZES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Arthur Henrique Guimbala Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 47.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 577.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1659.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 348.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 123.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 73.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 232.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 42.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1218.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3814.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2759.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2322.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 410.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 3.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "MAURICI MAIER NICOLETTO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 616.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1233.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 368.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1070.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Joice de Fátima Gonçalves Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 2099.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Hipercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 100.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1355.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 378.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 290.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 211.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1458.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 216.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 360.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "DEBORAH CAVALHEIRO APOLUCENO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 468.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 207.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 67.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 101.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 422.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Anderson Alves Birnecker Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 27.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 370.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 236.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 269.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": null,
+    "complemento": "GILBERTO LUIZ RODRIGUES FARIAS JUNIOR Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 116.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 946.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 386.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Caroline De Cassia Strapasson Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 5.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Luiz Carlos Brehmer Junior Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Halin José Trabulsi Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 65.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Halin José Trabulsi Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 494.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 92.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 604.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 37.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Filipe Mateus da Silveira Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 96.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "GILSON NUNES FERREIRA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 536.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "CARLA ZIMMERMANN Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2034.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2470.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 987.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 246.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 515.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 294.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1676.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 790.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 407.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1580.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 2964.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 85.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1005.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "RHAVILA BUCAR DINIZ LOPES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 41.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 117.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 43.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 350.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 95.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "FERNANDO HELIO M FILHO EIRELI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 136.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 529.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 560.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 974.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 37.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 368.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Maria Danielle Nette Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 144.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 526.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 97.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 51.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 631.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 85.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1304.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "HELAYNE MARIA DA SILVA MEDEIROS TEIXEIRA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 88.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Cachacaria reinert ltda Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 7620.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Cachacaria Reinert Ltda Você recebeu uma devolução Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2620.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Cachacaria Reinert Ltda Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2620.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 429.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 48.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 64.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 376.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1349.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 822.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "GONCALVES MIGUEL ALIMEN Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Selma Sobreira Regis Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Daniella Fernanda Peixer Pereira Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 516.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 71.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1249.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 306.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 160.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1004.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "DANIELA TERCEIRO J VIANA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "ARTHUR CEZAR LOURENCO DE SOUZA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Maria Clara Dutra Paim Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1867.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2954.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 392.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 561.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3371.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Caroline Soares Do Nascimento Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 137.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "SILVIA LETICIA ABREU Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 154.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1260.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 141.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 2332.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 2577.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 99.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1589.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "JOSIVALDO M RODRIGUES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 87.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 9668.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 398.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 75.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 175.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 372.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 286.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "LICIA SILVEIRA MOELLWALD Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Caroline Rangel Morine Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "JHOVER ASEVEDO SANTOS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 150.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 90.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 754.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 216.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 232.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1416.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 329.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 48.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 492.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 425.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 155.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1367.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 192.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 343.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 340.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 583.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "SUZENIR JOSE DA SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Roseanne de Fátima Paiva Bernal Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 146.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "MONIQUE MINCHIO BAPTISTA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Anderson Alves Birnecker Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "JAMILLE MOURA DOS SANTOS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 96.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 148.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 655.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 235.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 673.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 355.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "MK CLINICA MEDICA CIRURGICA LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1505.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 81.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 646.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 4071.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 4243.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 322.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT TED Banco Bradesco S.A. Agência 1854 Conta 35890-8",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Devolução | TED Banco Bradesco S.A. Agência 1854 Conta 3589-0",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT TED Banco Bradesco S.A. Agência 1854 Conta 3589-0",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1206.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 324.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 606.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1334.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1103.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 64.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 14.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 72.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 671.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1564.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "JOSE S. DOS SANTOS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "THULA RAFAELA DA CONCEICAO DOS ANJOS PENHA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 788.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 170.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 100.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 143.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 378.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1118.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "FABIO SOARES DE ALMEIDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 147.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 73.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 4.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 810.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 193.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 94.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Diego De Souza Oliveira Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 491.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 280.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 370.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 757.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Daniela Rosiana Steuck Karsten Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 312.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 236.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 292.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 839.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 57.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Jóici Felaço Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "PANIFICADORA TROPICAL LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "ARYANNE RESENDE MELO MOURA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "HERMELINO HERMOGENES TEIXEIRA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "SILVESTRE REPRESENTACOES LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 187.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "JEAN SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 319.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1795.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1528.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 130.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 132.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1114.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 116.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 625.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Aline Venturi Passos Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5535.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 2034.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 939.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 959.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 449.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 122.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 2337.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1143.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "EDEN PAIVA GONCALVES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "SILVIO DE CAMPOS JUNIOR Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 243.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Gabriel De Sa Carvalho Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "FRANCISCO BRASIL DOS SANTOS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 213.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 139.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 82.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 324.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 117.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "TEREZA RAQUEL BIBIANA DE SOUZA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 93.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 353.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 108.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 585.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 455.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 921.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 641.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1184.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1685.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 341.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 48.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 148.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 175.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 221.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 135.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 178.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 434.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "PAULA HELOIZE CHAICOSKI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "MAYCO MICHEL DA SILVA COELHO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "NILDO RAFAEL DE JESUS DA SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 106.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "ISAEL DANIEL DOS SANTOS 06499863939 Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1049.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 47.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 97.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 511.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 471.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 598.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 436.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Antonio Lucas Perdonsin Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 277.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 984.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1495.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1023.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 339.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "ALINE JULIA SANTOS LIMA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 390.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 529.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 538.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1519.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 186.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 358.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 174.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "SARAH REICHMANN SASSI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 224.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 7317.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 196.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 270.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 40.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 312.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 763.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "ANTONIO CARLOS GONCALVES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 430.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "SCHEILA PALLAORO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 108.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 288.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 431.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 71.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 42.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Amelia Cristina Reinert Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 752.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "LEUGIM LUCAS CANTON Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 263.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 3.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Valdelir Carriel Bueno Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 738.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Honorato Moveis Eireli Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 777.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Andre De Santiago Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "PRISCILA PIAOTQUEVICZ Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1506.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 362.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1227.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 228.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1399.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 248.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 2139.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "ANDERSON ALVES BIRNECKER Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Larissa Cavalcante Arlindo Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "CARLICI DE SOUZA 70865809968 Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "IVAN DE SOUZA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "D A E SANTOS LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Rudinei Ulbriki Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2837.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 135.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 937.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 4625.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1051.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 592.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "VALTAIR VELHO DA SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 93.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Beatriz Luiz da Silva Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1663.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 697.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3547.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 387.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 255.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3120.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 264.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1522.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 4915.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 182.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 713.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1821.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Tarifa do boleto",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": null,
+    "complemento": "Agropecuária Caique Ltda Me Recebimento de pagamento por boleto",
+    "credito": false,
+    "debito": true,
+    "valor": 944.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2086.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 48.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 139.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 111.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 152.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 3.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 94.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 621.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 520.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "AMAURI G VIEIRA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 39.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 201.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 191.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 181.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "ANDREIA APARECIDA DEVEGILI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "MARIA CLARA FALCAO MOURA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "MARIA CLARA FALCAO MOURA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "NEYSE APARECIDA M SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 6142.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 655.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 816.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1082.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 84.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1063.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 184.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Paulo Henrique Dos Santos Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Maria Eduarda Vasconcelos De Oliveira Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "MAISA CASTRO DE MATOS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "JUVANI DOS SANTOS ALVES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "DOUGLAS DE OLIVEIRA IALAMOV Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 4.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "WESTPHAL NETO SERVICOS ADMINISTRATIVOS LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "IASSER WOLLSTEIN CORREIA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "EMILLY GABRIELLY FRANCA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "ROSIANE DE FATIMA CARDOZO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 57.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 127.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 779.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 25.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1952.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 103.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Leonardo De Sa Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "JUSCELIA FIUZA DE ALMEIDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 798.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1084.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1075.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 665.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 177.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Michel Da Costa Santos Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "NADIR CECHINEL FONTANA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "MARLENE FONTANA MARTINS Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 410.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 336.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1098.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1250.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": null,
+    "complemento": "FABIANO MAZZI Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 4363.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1150.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "YASMIM BASTOS BISPO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 167.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 117.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 192.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 42.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1032.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1732.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": null,
+    "complemento": "bianor emanuel caroso lima Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 420.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 585.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "OTAVIO FREITAS WERNER Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 182.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "ANA CAROLINE CORREA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 302.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 341.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 92.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 43.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1092.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 427.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 131.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 685.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 86.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1211.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 713.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 949.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Carlos Matthies Bertoldi Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "MARCELO SIMIAO DA SILVA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Leonardo Vinicius Vieira Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 370.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 679.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1020.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 74.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 640.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos SA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 788.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "RAIMUNDA DE BRITO COELHO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 7514.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "AMELIA CRISTINA REINERT Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 586.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 693.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 213.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1271.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 937.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. American Express - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 142.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 205.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 229.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 28.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 368.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1226.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "WEDNEY HENRIQUE MORAIS MARQUES Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 394.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 282.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 27.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 557.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 590.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 1014.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 140.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 132.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 280.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "FRANCINETE ALESSANDRA SARINHO DE SOUSA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "NORMA SUELY SILVA MELO XAVIER Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "LENNON OSVANIR VERGINIO DA SILVA 07538341978 Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Maestro - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 143.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa Electron - Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 281.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Visa - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 329.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S.A. Mastercard - Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 529.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "LIVIA JANAINA M LEODIDO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 31.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Tarifa",
+    "credito": true,
+    "debito": false,
+    "valor": 0.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "WALTER CARLOS ADRIANO Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 109.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S/A Transferência STONE INSTITUIÇÃO DE PAGAMENTO S.A. Agência 0001 Conta 30772-8",
+    "credito": false,
+    "debito": true,
+    "valor": 184.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S/A Transferência STONE INSTITUIÇÃO DE PAGAMENTO S.A. Agência 0001 Conta 30772-8",
+    "credito": false,
+    "debito": true,
+    "valor": 527.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S/A Transferência STONE INSTITUIÇÃO DE PAGAMENTO S.A. Agência 0001 Conta 30772-8",
+    "credito": false,
+    "debito": true,
+    "valor": 941.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2023",
+    "documento": null,
+    "complemento": "Stone Pagamentos S/A Transferência STONE INSTITUIÇÃO DE PAGAMENTO S.A. Agência 0001 Conta 30772-8",
+    "credito": false,
+    "debito": true,
+    "valor": 99.07,
+    "origem": "Extrato"
+  }
+]

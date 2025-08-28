@@ -1,0 +1,47 @@
+[
+  {
+    "data": "04/05/2020",
+    "documento": "011630",
+    "complemento": "CRED TEV",
+    "credito": false,
+    "debito": true,
+    "valor": 1650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "000214",
+    "complemento": "AP CDB FLX",
+    "credito": true,
+    "debito": false,
+    "valor": 52000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "111122",
+    "complemento": "CRED TEV",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "042020",
+    "complemento": "DB CEST PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 69.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "261420",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  }
+]

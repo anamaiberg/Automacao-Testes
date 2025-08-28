@@ -1,0 +1,128 @@
+[
+  {
+    "data": "03/06/2024",
+    "documento": "69",
+    "complemento": "TARIFA MANUT.CONTA ATIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "41",
+    "complemento": "- 33 RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "16832634",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "16832658",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "16832675",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF LOGISTICA SA APOLO FILIAL 9",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF POSTOS APOLO LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 4047.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF",
+    "credito": true,
+    "debito": false,
+    "valor": 1412.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "41",
+    "complemento": "- 35 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 1435.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "17051684",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 26.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "17051700",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 121.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2024",
+    "documento": "41",
+    "complemento": "- 34 RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 147.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "17132572",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TITULARIDADE SERVICOS DE APOIO ADMINISTRATI",
+    "credito": true,
+    "debito": false,
+    "valor": 237.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "41",
+    "complemento": "- 34 RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 237.0,
+    "origem": "Extrato"
+  }
+]

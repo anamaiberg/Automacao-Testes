@@ -1,0 +1,587 @@
+[
+  {
+    "data": "05/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 52.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 22800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": "9999999",
+    "complemento": "00851 TARIFA DE CONTA ATIVA Origem: 00485/0000000794 - Ref:6/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 99.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": "n9Euun1",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 22000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1122.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 161000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "CeF8fTc",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 160000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 270000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": "bDnw7lk",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 270000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 230.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 86000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": "yY0VygN",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 86000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 26000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 68.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 51000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 932.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "fvfiHAa",
+    "complemento": "01691 PIX ENVIADOS Cp: 31872495-1-84626631- 71628382000140 71628382000140",
+    "credito": true,
+    "debito": false,
+    "valor": 3054.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "R26mNrO",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-11852771- 38280233000168 38280233000168",
+    "credito": true,
+    "debito": false,
+    "valor": 3217.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "WTqYmu7",
+    "complemento": "01691 PIX ENVIADOS Cp: 00000000-4861-80101- 10942106000168 10942106000168",
+    "credito": true,
+    "debito": false,
+    "valor": 3467.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "pJBLXbE",
+    "complemento": "01691 PIX ENVIADOS Cp: 00360305-0425- 37020000007389855518- 14005095000 14005095000140",
+    "credito": true,
+    "debito": false,
+    "valor": 3506.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "8pm9uG4",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-8416028- 01336491000109 01336491000109",
+    "credito": true,
+    "debito": false,
+    "valor": 3570.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "nmiNtIA",
+    "complemento": "01691 PIX ENVIADOS Cp: 08044854-3337-44806- 17489156000180 17489156000180",
+    "credito": true,
+    "debito": false,
+    "valor": 3842.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "Km6n5Hh",
+    "complemento": "01691 PIX ENVIADOS Cp: 60701190-1646-00533339- 12309084000129 12309084000129",
+    "credito": true,
+    "debito": false,
+    "valor": 3914.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "7ZKxkMX",
+    "complemento": "01691 PIX ENVIADOS Cp: 00360305-4827- 00030000000000010288- 38026151000 38026151000191",
+    "credito": true,
+    "debito": false,
+    "valor": 4239.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "qlhkMXD",
+    "complemento": "01691 PIX ENVIADOS Cp: 60746948-2201-1022059- 18203630000129 18203630000129",
+    "credito": true,
+    "debito": false,
+    "valor": 4454.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "AxzyEgu",
+    "complemento": "01691 PIX ENVIADOS Cp: 90400888-3311- 00000000000130045126- 26960201000 26960201000124",
+    "credito": true,
+    "debito": false,
+    "valor": 4522.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "nQBFJNY",
+    "complemento": "01691 PIX ENVIADOS Cp: 32467086-3003-1151339- 31758535000150 31758535000150",
+    "credito": true,
+    "debito": false,
+    "valor": 4681.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "zBCDRu3",
+    "complemento": "01691 PIX ENVIADOS Cp: 60701190-0248-00352148- 03227472000170 03227472000170",
+    "credito": true,
+    "debito": false,
+    "valor": 4909.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "kcS7s08",
+    "complemento": "01691 PIX ENVIADOS Cp: 60746948-3162-4715845- 00971776000159 00971776000159",
+    "credito": true,
+    "debito": false,
+    "valor": 5067.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "Cr9xgFR",
+    "complemento": "01691 PIX ENVIADOS Cp: 60746948-1599-112011- 70180401000156 70180401000156",
+    "credito": true,
+    "debito": false,
+    "valor": 5208.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "cT85W8A",
+    "complemento": "01691 PIX ENVIADOS Cp: 00000000-3674-288705- XXX085730XX 23708573072",
+    "credito": true,
+    "debito": false,
+    "valor": 5275.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "SOjjEoj",
+    "complemento": "01691 PIX ENVIADOS Cp: 90608712-0167-780610- 30591753000180 30591753000180",
+    "credito": true,
+    "debito": false,
+    "valor": 5796.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "ej4X5vk",
+    "complemento": "01691 PIX ENVIADOS Cp: 22724710-3173-489042- 12412478000108 12412478000108",
+    "credito": true,
+    "debito": false,
+    "valor": 5798.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "iW3mJnM",
+    "complemento": "01691 PIX ENVIADOS Cp: 66402207-3171-381160- 15086518000167 15086518000167",
+    "credito": true,
+    "debito": false,
+    "valor": 5876.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "nuNCIeo",
+    "complemento": "01691 PIX ENVIADOS Cp: 90400888-4013- 00000000000130019037- 22604222000 22604222000156",
+    "credito": true,
+    "debito": false,
+    "valor": 5959.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "LySgp9w",
+    "complemento": "01691 PIX ENVIADOS Cp: 60746948-1565-1288911- 87729554000102 87729554000102",
+    "credito": true,
+    "debito": false,
+    "valor": 6307.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "aHX1772",
+    "complemento": "01691 PIX ENVIADOS Cp: 00360305-0116- 00030000000000018002- 11375307000 11375307000193",
+    "credito": true,
+    "debito": false,
+    "valor": 7715.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "YUFG432",
+    "complemento": "01691 PIX ENVIADOS Cp: 31872495-1-84626631- 71628382000140 71628382000140",
+    "credito": true,
+    "debito": false,
+    "valor": 1714.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "t88GzNU",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6831621- 17380596000103 17380596000103",
+    "credito": true,
+    "debito": false,
+    "valor": 12153.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "BinUFsG",
+    "complemento": "01691 PIX ENVIADOS Cp: 90400888-4591- 00000000000130002254- 34378992000 34378992000107",
+    "credito": true,
+    "debito": false,
+    "valor": 26474.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "gF31Lxz",
+    "complemento": "01691 PIX ENVIADOS Cp: 31872495-1-74421514- 19182588000170 19182588000170",
+    "credito": true,
+    "debito": false,
+    "valor": 11704.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "DvLOwY5",
+    "complemento": "01691 PIX ENVIADOS Cp: 00416968-0001-189019263- 44669640000164 44669640000164",
+    "credito": true,
+    "debito": false,
+    "valor": 1321.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "ZxM6HQy",
+    "complemento": "01691 PIX ENVIADOS Cp: 31872495-1-272117544- 44623265000111 44623265000111",
+    "credito": true,
+    "debito": false,
+    "valor": 962.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 271646.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": "rvgycxK",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 190000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 348.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 166000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": "xnJLHAm",
+    "complemento": "01691 PIX ENVIADOS Cp: 60746948-3708-11029- 12910463000170 12910463000170",
+    "credito": true,
+    "debito": false,
+    "valor": 169702.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 197000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": "YB4eF57",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 195000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "808",
+    "complemento": "00042 TRANSF.CONF.AUT. 00485 0000000808 CLASSE TEXTIL LTDA 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": "NU1CDyF",
+    "complemento": "01691 PIX ENVIADOS Cp: 82639451-101-6481809- 04643564000101 04643564000101",
+    "credito": true,
+    "debito": false,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "dsJeLIb",
+    "complemento": "01690 PIX RECEBIDO Cp: 81607046-3039-1408194- 04643564000101 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": "13",
+    "complemento": "00133 DESPESA DE REG. DE CARTÓRIO PMT290788 PRINCIPAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2854.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "134483",
+    "complemento": "00038 DEBITO PARCELA CONTRATO PMT29078-8/001",
+    "credito": true,
+    "debito": false,
+    "valor": 27467.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": "rEZR4hx",
+    "complemento": "01690 PIX RECEBIDO Cp: 81607046-3039-1408194- 04643564000101 04643564000101",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "",
+    "complemento": "00058 TAR TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": "",
+    "complemento": "00083 TARIFA PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "",
+    "complemento": "00081 TAR COB TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": "",
+    "complemento": "00083 TARIFA PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.97,
+    "origem": "Extrato"
+  }
+]

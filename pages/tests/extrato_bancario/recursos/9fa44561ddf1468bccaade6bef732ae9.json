@@ -1,0 +1,4394 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1503.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "67321.238",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "10011.611",
+    "complemento": "PG.P/INTERNET - BELSINOS FUNDO DE INVESTIMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 11902.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "101.004",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 1684.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 10.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "247355.216",
+    "complemento": "DEBITO PIX - PRINTSET PULSEIRAS E INGRESSOS",
+    "credito": true,
+    "debito": false,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.207",
+    "complemento": "PG.P/INTERNET - ZANOTTI INDUSTRIA E COMERCIO L",
+    "credito": true,
+    "debito": false,
+    "valor": 940.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.238",
+    "complemento": "PG.P/INTERNET - FALCON INDUST COM TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1777.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.179",
+    "complemento": "PG.P/INTERNET - CONSULTORIA EMPRESARIAL ULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.194",
+    "complemento": "PG.P/INTERNET - TRACO CERTO",
+    "credito": true,
+    "debito": false,
+    "valor": 717.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.189",
+    "complemento": "PG.P/INTERNET - JAMEF TRANSPORTES . EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1009.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.195",
+    "complemento": "PG.P/INTERNET - SANCRIS LINHAS E FIOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 444.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.222",
+    "complemento": "PG.P/INTERNET - TRANSPORTES E LOC MAQ ALBERI L",
+    "credito": true,
+    "debito": false,
+    "valor": 1514.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10021.230",
+    "complemento": "PG.P/INTERNET - SOCKSTIL MEIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1083.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "10022.182",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 3352.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "8047.690.2",
+    "complemento": "TR.INTERNET - EMPRESA DE TRANSPORTES E TURISMO",
+    "credito": true,
+    "debito": false,
+    "valor": 9793.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "8.401",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "8.244",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 22.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.522",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.522",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 574.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.197",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.197",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1834.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.208",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.208",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1046.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.193",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.193",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 812.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "72657.305",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 38000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "00020439706",
+    "complemento": "DB.PORTO SEG.",
+    "credito": true,
+    "debito": false,
+    "valor": 489.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 14.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "72878.183",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 19000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.900",
+    "complemento": "PG.P/INTERNET - REGIBRAS LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 583.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.919",
+    "complemento": "PG.P/INTERNET - MOVIDA LOCACAO DE VEICULOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2490.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.939",
+    "complemento": "PG.P/INTERNET - HERVAL I M C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1427.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.888",
+    "complemento": "PG.P/INTERNET - TEC MAIS SOLUCOES INTELIGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.945",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 4573.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.907",
+    "complemento": "PG.P/INTERNET - ATELIER DO ZIPER",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.928",
+    "complemento": "PG.P/INTERNET - POLLIBOXSUL ECOADESIVOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3245.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.970",
+    "complemento": "PG.P/INTERNET - ADVANCE IND TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3802.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10088.023",
+    "complemento": "PG.P/INTERNET - LABINK SUBLIMACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 137.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10088.045",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 939.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10088.020",
+    "complemento": "PG.P/INTERNET - ELASTAN INDUSTRIA E COMERCIO L",
+    "credito": true,
+    "debito": false,
+    "valor": 7348.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.955",
+    "complemento": "PG.P/INTERNET - TOP CUT INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1806.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.963",
+    "complemento": "PG.P/INTERNET - INDUSTRIA E COMERCIO DE MALHAS",
+    "credito": true,
+    "debito": false,
+    "valor": 3233.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10087.986",
+    "complemento": "PG.P/INTERNET - EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 316.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10088.005",
+    "complemento": "PG.P/INTERNET - ADVANCE INDUSTRIA TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3101.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "10088.036",
+    "complemento": "PG.P/INTERNET - AVIAMENTOS BRUSQUE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 518.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6978.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "248523.219",
+    "complemento": "CREDITO PIX - PHOENIX BIKE SHOP COMERCIO DE",
+    "credito": false,
+    "debito": true,
+    "valor": 802.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "248569.697",
+    "complemento": "CREDITO PIX - SERRA BIKE SHOP LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 3330.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.546",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 38.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "248667.520",
+    "complemento": "DEBITO PIX - PRAIA COMPRIDA HOTEL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 274.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "248745.577",
+    "complemento": "CREDITO PIX - ELLEN ELIZABETH SILVEIRA NUNES",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.580",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 238.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.640",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 13.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "8.641",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 13.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1077.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 21.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 38000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "18.757.7",
+    "complemento": "CR.TRF.INTERC -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249070.775",
+    "complemento": "DEBITO PIX - GREGORY EDUARDO COSTA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 1282.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249071.716",
+    "complemento": "DEBITO PIX - BILL MAX DA COSTA SCHULDT",
+    "credito": true,
+    "debito": false,
+    "valor": 4121.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249072.702",
+    "complemento": "DEBITO PIX - SIND TRABINDFIACAOTECELAGEM",
+    "credito": true,
+    "debito": false,
+    "valor": 678.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "770.875.0",
+    "complemento": "TR.INTERNET - JAIRO LUIZ DA COSTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1339.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "3.007",
+    "complemento": "FOLHA DE PAGT",
+    "credito": true,
+    "debito": false,
+    "valor": 69987.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "76482.353",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "76589.865",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "10061.435",
+    "complemento": "PG.P/INTERNET - ASIMAT . COMUNICACAO VISUAL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 1159.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "10061.421",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 4264.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1077.004.6",
+    "complemento": "TR.INTERNET - DANIELI CRISTINA WESSLER BOTH -",
+    "credito": true,
+    "debito": false,
+    "valor": 5510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249166.852",
+    "complemento": "CREDITO PIX - A AMARAL S C B ACESSORIOS",
+    "credito": false,
+    "debito": true,
+    "valor": 16993.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8611.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.610",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 1.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.610",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 16993.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "249488.327",
+    "complemento": "CREDITO PIX - A BOSA COMERCIO DE BICICLETAS E",
+    "credito": false,
+    "debito": true,
+    "valor": 10618.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.670",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.614",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 19.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.278",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.321",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "8.706",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1997.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2293.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 16.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 1.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "864.643.0",
+    "complemento": "TR.INTERNET - ULTRACORE DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10032.719",
+    "complemento": "PG.P/INTERNET - fgts",
+    "credito": true,
+    "debito": false,
+    "valor": 7516.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.520",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMPORTACAO E EXPORTAC",
+    "credito": true,
+    "debito": false,
+    "valor": 1511.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.527",
+    "complemento": "PG.P/INTERNET - BLUMEMAQ ELETRONICA INDUSTRIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 415.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.479",
+    "complemento": "PG.P/INTERNET - BELSINOS FUNDO DE INVESTIMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.512",
+    "complemento": "PG.P/INTERNET - IMPRESSORA MAYER LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 144.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.545",
+    "complemento": "PG.P/INTERNET - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.443",
+    "complemento": "PG.P/INTERNET - ROSSET CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4005.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.491",
+    "complemento": "PG.P/INTERNET - DALGAS IND COM EQUIP AUTOM LT",
+    "credito": true,
+    "debito": false,
+    "valor": 886.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.505",
+    "complemento": "PG.P/INTERNET - CONCEITUAL DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 109.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.535",
+    "complemento": "PG.P/INTERNET - TRIF ASSESSORIA",
+    "credito": true,
+    "debito": false,
+    "valor": 778.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.809",
+    "complemento": "PG.P/INTERNET - TIM",
+    "credito": true,
+    "debito": false,
+    "valor": 1042.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.464",
+    "complemento": "PG.P/INTERNET - ADINA INDUSTRIA, COMERCIO, IMP",
+    "credito": true,
+    "debito": false,
+    "valor": 894.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "10034.468",
+    "complemento": "PG.P/INTERNET - BLUMOB C TRANSP URB BLUMENAU",
+    "credito": true,
+    "debito": false,
+    "valor": 122.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "79646.764",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "1",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 526.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "1477.532",
+    "complemento": "CR.DESC. DE TITULO",
+    "credito": false,
+    "debito": true,
+    "valor": 100962.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "8.205",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "8.591",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 18.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "8.709",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2266.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.584",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.584",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1076.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "77485.536",
+    "complemento": "DEB. TED - JVC INDUSTRIA COMERCIO E SERVIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "77485.536",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1477532",
+    "complemento": "TAR.BORD.TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 20.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "81804.101",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.039",
+    "complemento": "PG.P/INTERNET - RR  PACK EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1063.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.079",
+    "complemento": "PG.P/INTERNET - ASIMAT LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 937.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.001",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 2076.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.013",
+    "complemento": "PG.P/INTERNET - TRIF ASSESSORIA",
+    "credito": true,
+    "debito": false,
+    "valor": 932.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.061",
+    "complemento": "PG.P/INTERNET - WORK RECICLOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.090",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 2031.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "250988.618",
+    "complemento": "DEBITO PIX - PINTURAS DE VEICULOS LULI LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.010",
+    "complemento": "PG.P/INTERNET - ETAX IND ETIQUETAS ROTULOS LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 342.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.027",
+    "complemento": "PG.P/INTERNET - AVIAMENTOS BRUSQUE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 497.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.118",
+    "complemento": "PG.P/INTERNET - CERVEJARIA SCHORNSTEIN LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 369.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.053",
+    "complemento": "PG.P/INTERNET - KRAFT TECNOLOGIA EM SEG",
+    "credito": true,
+    "debito": false,
+    "valor": 586.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.070",
+    "complemento": "PG.P/INTERNET - NVK TECNOLOGIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 869.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10102.104",
+    "complemento": "PG.P/INTERNET - JAMEF TRANSPORTES . EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 980.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "10106.014",
+    "complemento": "PG.P/INTERNET - DESPACHANTE ROLF GOEDE",
+    "credito": true,
+    "debito": false,
+    "valor": 322.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1059.999.1",
+    "complemento": "TR.INTERNET - FABIANE SOLANGE NUNES",
+    "credito": true,
+    "debito": false,
+    "valor": 4992.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "496.091",
+    "complemento": "SAQ. CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.637",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 20.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.716",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.463",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 33.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.531",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 2.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "8.702",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3390.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.446",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.446",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1686.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.468",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.468",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 877.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.303",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.303",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 573.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 61000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "83890.074",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 27.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 33000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "270.603.2",
+    "complemento": "TR.INTERNET - LUCILENE TELLES DE ABREU",
+    "credito": true,
+    "debito": false,
+    "valor": 3080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "675.112.1",
+    "complemento": "TR.INTERNET - JANDIRA LUIZ DA COSTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "877.542.7",
+    "complemento": "TR.INTERNET - RAOUL RINVIL",
+    "credito": true,
+    "debito": false,
+    "valor": 92.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1663.322.9",
+    "complemento": "TRANSF.INTERC - 50272182 FATIMA RODRIGUES ROCHA",
+    "credito": true,
+    "debito": false,
+    "valor": 7359.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "84246.251",
+    "complemento": "CREDITO TED - TICKET AGORA LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252361.755",
+    "complemento": "DEBITO PIX - RICARDO BASTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3709.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252362.654",
+    "complemento": "DEBITO PIX - SILVIO AZEVEDO",
+    "credito": true,
+    "debito": false,
+    "valor": 1859.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.691",
+    "complemento": "PG.P/INTERNET - KRAJEWSKI IMOBILIARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1970.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.715",
+    "complemento": "PG.P/INTERNET - PAYCARD ADMINISTRADORA DE CONV",
+    "credito": true,
+    "debito": false,
+    "valor": 412.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.769",
+    "complemento": "PG.P/INTERNET - HERVAL INDUSTRIA DE MOVEIS COL",
+    "credito": true,
+    "debito": false,
+    "valor": 1677.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.786",
+    "complemento": "PG.P/INTERNET - EXCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 6861.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.813",
+    "complemento": "PG.P/INTERNET - EXCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 418.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.862",
+    "complemento": "PG.P/INTERNET - ROSANE RADUENZ ROCHA 565983359",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.652",
+    "complemento": "PG.P/INTERNET - KRAJEWSKI IMOBILIARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.663",
+    "complemento": "PG.P/INTERNET - OG CRED FUNDO DE INVESTIMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 3348.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.678",
+    "complemento": "PG.P/INTERNET - GRUPO IDEAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.898",
+    "complemento": "PG.P/INTERNET - HERVAL I M C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1426.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.699",
+    "complemento": "PG.P/INTERNET - FARMALAN COMERCIO DE PRODUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1717.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.727",
+    "complemento": "PG.P/INTERNET - PJBANK PAGAMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 12344.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.670",
+    "complemento": "PG.P/INTERNET - BELLABOX EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 479.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.747",
+    "complemento": "PG.P/INTERNET - PJBANK PAGAMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 6787.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.825",
+    "complemento": "PG.P/INTERNET - EXCIA",
+    "credito": true,
+    "debito": false,
+    "valor": 211.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.839",
+    "complemento": "PG.P/INTERNET - TJ ENGENHARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.874",
+    "complemento": "PG.P/INTERNET - EXCIM IMPORTACAO E EXPORTACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1695.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.884",
+    "complemento": "PG.P/INTERNET - GRUPO IDEAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.909",
+    "complemento": "PG.P/INTERNET - CERVEJARIA SCHORNSTEIN LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 369.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10186.928",
+    "complemento": "PG.P/INTERNET - UOOU SOLUTIONS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "18.757.7",
+    "complemento": "CR.TRF.INTERC -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1068.801.3",
+    "complemento": "TR.INTERNET - GIULIANO FELIPE DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1346.196.6",
+    "complemento": "TR.INTERNET - FAMCOS ADMINISTRADORA DE BENS",
+    "credito": true,
+    "debito": false,
+    "valor": 10625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252478.306",
+    "complemento": "DEBITO PIX - PANIFICADORA RIPAO LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 435.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252480.694",
+    "complemento": "DEBITO PIX - ALEX ALAN DA COSTA",
+    "credito": true,
+    "debito": false,
+    "valor": 160.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "10230.320",
+    "complemento": "PG.P/INTERNET - BANCO COOPERATIVO SICOOB SA",
+    "credito": true,
+    "debito": false,
+    "valor": 7318.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252489.457",
+    "complemento": "DEBITO PIX - JOAO PAULO RODRIGUES JUNIOR - ME",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10046.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "864.643.0",
+    "complemento": "TR.INTERNET - ULTRACORE DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "252623.500",
+    "complemento": "CREDITO PIX - Eloizy Camilla Rodrigues Pessoa",
+    "credito": false,
+    "debito": true,
+    "valor": 635.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.719",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.730",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.722",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.434",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 5.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.563",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.673",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 23.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "8.228",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 2.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 13605.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3014.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 1047.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "8.652",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "8.652",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1555.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 27.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "18.757.7",
+    "complemento": "CR.TRF.INTERC -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 62000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "252827.049",
+    "complemento": "DEBITO PIX - OFFEN SOLUCOES IMOBILIARIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "10031.381",
+    "complemento": "PG.P/INTERNET - MARAZUL MALHAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1965.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "10031.389",
+    "complemento": "PG.P/INTERNET - FALCON INDUST COM TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2052.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "10035.411",
+    "complemento": "PG.P/INTERNET - LABINK SUBLIMACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "77498.537",
+    "complemento": "DEB. TED - JVC IND COM E SERV EIELI EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "77498.537",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "252980.955",
+    "complemento": "DEBITO PIX - TRI HOTEL CRICIUMA",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "8.201",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "8.698",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "8.698",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1411.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "8.674",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "8.674",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 777.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "253256.435",
+    "complemento": "DEBITO PIX - HOTEL DALMORO",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 4.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4999.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10063.684",
+    "complemento": "PG.P/INTERNET - SOCKSTIL MEIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1208.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10063.691",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMP E EXP PRO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 907.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10063.700",
+    "complemento": "PG.P/INTERNET - RMC TRANSP E AGENCIAMENTO DE C",
+    "credito": true,
+    "debito": false,
+    "valor": 567.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10063.714",
+    "complemento": "PG.P/INTERNET - SMART TAG  TRANSFER",
+    "credito": true,
+    "debito": false,
+    "valor": 886.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10063.734",
+    "complemento": "PG.P/INTERNET - LEAF COMERCIO DE PAPEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 94.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "10065.726",
+    "complemento": "PG.P/INTERNET - TOP CUT INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2603.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "253478.985",
+    "complemento": "DEBITO PIX - ALEX ALAN DA COSTA",
+    "credito": true,
+    "debito": false,
+    "valor": 3867.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 2252.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2406.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "01010040002",
+    "complemento": "LIQUI.BOLETO CARTORIO",
+    "credito": false,
+    "debito": true,
+    "valor": 1548.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "89116.597",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 3.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253747.407",
+    "complemento": "DEBITO PIX - RICARDO BASTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1508.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253747.963",
+    "complemento": "DEBITO PIX - R D PARIS",
+    "credito": true,
+    "debito": false,
+    "valor": 802.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253748.484",
+    "complemento": "DEBITO PIX - Fabio Santana de Franca",
+    "credito": true,
+    "debito": false,
+    "valor": 3738.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253749.825",
+    "complemento": "DEBITO PIX - CARLOS ALBERTO LIMA DEMASI FILHO",
+    "credito": true,
+    "debito": false,
+    "valor": 1660.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253749.393",
+    "complemento": "DEBITO PIX - ZEN   SILVA REPRESENTACOES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5574.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3025.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2725.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "77507.391",
+    "complemento": "DEB. TED - JVC INDUSTRIA COMERCIO E SERVIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "77507.391",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253787.631",
+    "complemento": "DEBITO PIX - POMERLAND PRESTADORA DE SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253964.065",
+    "complemento": "CREDITO PIX - FARMAPAULA LTDA EPP",
+    "credito": false,
+    "debito": true,
+    "valor": 1028.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "253985.495",
+    "complemento": "DEBITO PIX - ESTRUTURA MANEQUINS E EQUIPAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 68.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.343",
+    "complemento": "PG.P/INTERNET - IND COM DE MALHAS R V B LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2263.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.360",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSP URGENTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 32.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.366",
+    "complemento": "PG.P/INTERNET - MERCOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1512.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.350",
+    "complemento": "PG.P/INTERNET - TRACO CERTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1138.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.354",
+    "complemento": "PG.P/INTERNET - INGRAM MICRO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 754.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.359",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSP URGENTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1896.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.362",
+    "complemento": "PG.P/INTERNET - JAMEF TRANSPORTES . EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "10003.339",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2121.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "254202.017",
+    "complemento": "DEBITO PIX - BRUNA JUNG",
+    "credito": true,
+    "debito": false,
+    "valor": 1519.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "21201000000",
+    "complemento": "DB.HDI SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 2632.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 3.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "77512.412",
+    "complemento": "DEB. TED - JVC INDUSTRIA COMERCIO E SERVIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "77512.412",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "254423.463",
+    "complemento": "CREDITO PIX - LEONARDO ANTUNES OLIVEIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 1239.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "8.736",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "8.238",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 11.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2918.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.726",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.726",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1249.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.215",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.215",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1024.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 12.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.016",
+    "complemento": "PG.P/INTERNET - IND COM DE MALHAS R V B LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 775.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.032",
+    "complemento": "PG.P/INTERNET - ADVANCE INDUSTRIA TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1074.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.069",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 5985.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.051",
+    "complemento": "PG.P/INTERNET - SOCKSTIL MEIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1083.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.077",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 7207.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.036",
+    "complemento": "PG.P/INTERNET - HERVAL INDUSTRIA DE MOVEIS COL",
+    "credito": true,
+    "debito": false,
+    "valor": 1676.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.040",
+    "complemento": "PG.P/INTERNET - EXPRESSO SAO MIGUEL S A",
+    "credito": true,
+    "debito": false,
+    "valor": 706.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.045",
+    "complemento": "PG.P/INTERNET - TEC MAIS SOLUCOES INTELIGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 3083.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.071",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1346.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.060",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMP E EXP PRO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 906.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.076",
+    "complemento": "PG.P/INTERNET - HERVAL I M C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1426.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "10122.085",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMP E EXP PRO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1511.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "255431.820",
+    "complemento": "DEBITO PIX - NATALIA FERRARI",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "255432.442",
+    "complemento": "DEBITO PIX - PINTURAS DE VEICULOS LULI LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8136.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "93594.225",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.348",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.457",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.287",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.431",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "8.396",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 5136.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1945.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255678.825",
+    "complemento": "CREDITO PIX - PAGHIPER SERV ONLINE EIRELI...",
+    "credito": false,
+    "debito": true,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "18.757.7",
+    "complemento": "CR.TRF.INTERC -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "94409.089",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5242.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "8.234",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "8.234",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1684.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "8.224",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "8.224",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1043.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "643.035",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255718.427",
+    "complemento": "CREDITO PIX - Thamir Da Silva Auad",
+    "credito": false,
+    "debito": true,
+    "valor": 609.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "63",
+    "complemento": "DB.APLIC.PROGRAMADA",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 23.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.844",
+    "complemento": "PG.P/INTERNET - ZANOTTI INDUSTRIA E COMERCIO L",
+    "credito": true,
+    "debito": false,
+    "valor": 377.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.868",
+    "complemento": "PG.P/INTERNET - TRIF ASSESSORIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1085.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.859",
+    "complemento": "PG.P/INTERNET - SOCKSTIL MEIAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3633.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.865",
+    "complemento": "PG.P/INTERNET - ADVANCE INDUSTRIA TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3644.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.911",
+    "complemento": "PG.P/INTERNET - EXCIA CONSULTORIA E SISTEMAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1575.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.884",
+    "complemento": "PG.P/INTERNET - CONCEITUAL DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 156.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.892",
+    "complemento": "PG.P/INTERNET - SKYTEX IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 659.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.879",
+    "complemento": "PG.P/INTERNET - NS IMPORTACAO E COMERCIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 353.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10087.905",
+    "complemento": "PG.P/INTERNET - RAIMAQ MAQUINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10088.836",
+    "complemento": "PG.P/INTERNET - inss e ir",
+    "credito": true,
+    "debito": false,
+    "valor": 43450.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10088.821",
+    "complemento": "PG.P/INTERNET - csrf",
+    "credito": true,
+    "debito": false,
+    "valor": 269.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10088.829",
+    "complemento": "PG.P/INTERNET - irrf",
+    "credito": true,
+    "debito": false,
+    "valor": 75.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 53000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10090.349",
+    "complemento": "PG.P/INTERNET - ICMS",
+    "credito": true,
+    "debito": false,
+    "valor": 102.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10090.360",
+    "complemento": "PG.P/INTERNET - fundo social",
+    "credito": true,
+    "debito": false,
+    "valor": 1964.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10090.364",
+    "complemento": "PG.P/INTERNET - CONDOMINIO RESIDENCIAL ALICE X",
+    "credito": true,
+    "debito": false,
+    "valor": 231.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "10090.356",
+    "complemento": "PG.P/INTERNET - ICMS",
+    "credito": true,
+    "debito": false,
+    "valor": 29903.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1077.004.6",
+    "complemento": "TR.INTERNET - DANIELI CRISTINA WESSLER BOTH -",
+    "credito": true,
+    "debito": false,
+    "valor": 4872.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "864.643.0",
+    "complemento": "TR.INTERNET - ULTRACORE DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "255910.923",
+    "complemento": "CREDITO PIX - PEDIVELA BIKE WEAR",
+    "credito": false,
+    "debito": true,
+    "valor": 203.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "8.391",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 31.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 33746.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "256232.172",
+    "complemento": "CREDITO PIX - PAGHIPER SERV ONLINE EIRELI...",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "256272.739",
+    "complemento": "CREDITO PIX - Edson Kenji Tsunoda",
+    "credito": false,
+    "debito": true,
+    "valor": 2484.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10048.006",
+    "complemento": "PG.P/INTERNET - GUGA INSTALACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1236.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10047.979",
+    "complemento": "PG.P/INTERNET - DIKLATEX NE GESTAO FINANCEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 532.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10047.995",
+    "complemento": "PG.P/INTERNET - ETAX IND ETIQUETAS ROTULOS LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 1344.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10047.983",
+    "complemento": "PG.P/INTERNET - TRIF ASSESSORIA",
+    "credito": true,
+    "debito": false,
+    "valor": 778.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10048.000",
+    "complemento": "PG.P/INTERNET - ASIMAT . COMUNICACAO VISUAL LT",
+    "credito": true,
+    "debito": false,
+    "valor": 1737.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10048.001",
+    "complemento": "PG.P/INTERNET - ECT DEGER . DR 72 SPM",
+    "credito": true,
+    "debito": false,
+    "valor": 12443.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "10047.993",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 2296.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "1",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 646.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "1489.817",
+    "complemento": "CR.DESC. DE TITULO",
+    "credito": false,
+    "debito": true,
+    "valor": 132202.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "8.417",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 40.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "8.567",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "8.567",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1318.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "62023075147",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 38979.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "1489817",
+    "complemento": "TAR.BORD.TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.624",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMP E EXP PRO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1511.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.631",
+    "complemento": "PG.P/INTERNET - TRIF ASSESSORIA",
+    "credito": true,
+    "debito": false,
+    "valor": 932.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.635",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 432.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.629",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2386.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.639",
+    "complemento": "PG.P/INTERNET - BELSINOS FUNDO DE INVESTIMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 1245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.646",
+    "complemento": "PG.P/INTERNET - AVIAMENTOS BRUSQUE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 567.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.891",
+    "complemento": "PG.P/INTERNET - SAMAE",
+    "credito": true,
+    "debito": false,
+    "valor": 242.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "10045.895",
+    "complemento": "PG.P/INTERNET - SAMAE",
+    "credito": true,
+    "debito": false,
+    "valor": 117.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "864.643.0",
+    "complemento": "TR.INTERNET - ULTRACORE DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "256859.302",
+    "complemento": "DEBITO PIX - DIPROTEC COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 11938.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "01010020002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 625.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1738.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.621",
+    "complemento": "PG.P/INTERNET - NVK TECNOLOGIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 869.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.632",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 2725.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.638",
+    "complemento": "PG.P/INTERNET - DESPACHANTE ROLF GOEDE",
+    "credito": true,
+    "debito": false,
+    "valor": 615.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.640",
+    "complemento": "PG.P/INTERNET - TOP CUT INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1576.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.625",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 1043.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.619",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 3406.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.622",
+    "complemento": "PG.P/INTERNET - ASIMAT LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 937.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.627",
+    "complemento": "PG.P/INTERNET - SKYTEX IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.628",
+    "complemento": "PG.P/INTERNET - ETIQUETAS DALLA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 612.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.645",
+    "complemento": "PG.P/INTERNET - JAMEF TRANSPORTES . EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 1988.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.648",
+    "complemento": "PG.P/INTERNET - LABINK SUBLIMACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 72.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.770",
+    "complemento": "PG.P/INTERNET - pis",
+    "credito": true,
+    "debito": false,
+    "valor": 5896.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "10001.772",
+    "complemento": "PG.P/INTERNET - cofins",
+    "credito": true,
+    "debito": false,
+    "valor": 27213.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "975.369.9",
+    "complemento": "TR.INTERNET - HENRIQUE WEIDGENANT CAMPELO",
+    "credito": true,
+    "debito": false,
+    "valor": 3754.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 12.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 7276.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 17000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "4",
+    "complemento": "PG. PARC. EMP 006/060",
+    "credito": true,
+    "debito": false,
+    "valor": 29910.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "5",
+    "complemento": "PG. PARC. EMP 006/060",
+    "credito": true,
+    "debito": false,
+    "valor": 14397.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "6",
+    "complemento": "PG. PARC. EMP 00/00",
+    "credito": true,
+    "debito": false,
+    "valor": 7522.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "7",
+    "complemento": "PG. PARC. EMP 006/060",
+    "credito": true,
+    "debito": false,
+    "valor": 2138.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "8",
+    "complemento": "PG. PARC. EMP 005/060",
+    "credito": true,
+    "debito": false,
+    "valor": 5919.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "8.345",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "8.345",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 851.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "374.475",
+    "complemento": "CREDITO TED - PAGHIPER INSTITUICAO DE PAGAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 23000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "397.191",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 5.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "258110.805",
+    "complemento": "DEBITO PIX - HOTEL AVENIDA JK LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 39694.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.362",
+    "complemento": "PG.P/INTERNET - HERVAL INDUSTRIA DE MOVEIS COL",
+    "credito": true,
+    "debito": false,
+    "valor": 1676.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.366",
+    "complemento": "PG.P/INTERNET - ADVANCE INDUSTRIA TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3010.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.380",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 606.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.384",
+    "complemento": "PG.P/INTERNET - ZOOP BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.391",
+    "complemento": "PG.P/INTERNET - HERVAL I M C E LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1426.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.401",
+    "complemento": "PG.P/INTERNET - ROSSET E CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 5084.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.403",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 105.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.395",
+    "complemento": "PG.P/INTERNET - AVIAMENTOS BRUSQUE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 365.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "10123.351",
+    "complemento": "PG.P/INTERNET - ADVANCE IND TEXTIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4803.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "258252.062",
+    "complemento": "DEBITO PIX - MARISETE MEZACASA",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1458.186.8",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "8.578",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 26.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "8.502",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 4.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "101.002",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 12371.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2540.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "1798.121",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 24000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "4",
+    "complemento": "PREST.EMPREST 017/08",
+    "credito": true,
+    "debito": false,
+    "valor": 22041.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.464",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.464",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1455.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.450",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.450",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1335.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.291",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.291",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 954.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.631",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.631",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 877.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.309",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.309",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 605.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "258437.121",
+    "complemento": "CREDITO PIX - PAGHIPER SERV ONLINE EIRELI...",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 18.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "349.141",
+    "complemento": "SAQUE AVULSO",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "258521.573",
+    "complemento": "DEBITO PIX - HOTEL CALIFORNIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 139.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "10041.511",
+    "complemento": "PG.P/INTERNET - CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 6876.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "10041.505",
+    "complemento": "PG.P/INTERNET - ADINA INDUSTRIA, COMERCIO, IMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1737.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "10041.515",
+    "complemento": "PG.P/INTERNET - TOP CUT INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2010.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "10041.512",
+    "complemento": "PG.P/INTERNET - GOLDEN WOLVES INDUSTRIA E COME",
+    "credito": true,
+    "debito": false,
+    "valor": 1245.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.496",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 0.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "8.163",
+    "complemento": "CR.DESC.TIT.PAG.MAIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 24.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1482.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 5.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "",
+    "complemento": "TARIFA CANC.INST.PROT",
+    "credito": true,
+    "debito": false,
+    "valor": 3.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "258912.231",
+    "complemento": "CREDITO PIX - PAGHIPER SERV ONLINE EIRELI...",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "258993.075",
+    "complemento": "DEBITO PIX - ARCARI, FERRONATTO   CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 107.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.238",
+    "complemento": "PG.P/INTERNET - INGRAM MICRO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 464.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.241",
+    "complemento": "PG.P/INTERNET - LABINK SUBLIMACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.227",
+    "complemento": "PG.P/INTERNET - BLUTRADE IMPORTACAO E EXPORTAC",
+    "credito": true,
+    "debito": false,
+    "valor": 1511.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.229",
+    "complemento": "PG.P/INTERNET - IND COM DE MALHAS BENVENUTI",
+    "credito": true,
+    "debito": false,
+    "valor": 3674.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.233",
+    "complemento": "PG.P/INTERNET - TOP CUT INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2603.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "10043.235",
+    "complemento": "PG.P/INTERNET - IND COM DE MALHAS R V B LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3528.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.141",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.141",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 602.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.136",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.136",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 246.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.331",
+    "complemento": "IOF S/ DESC.TIT",
+    "credito": true,
+    "debito": false,
+    "valor": 0.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "8.331",
+    "complemento": "PGTO. DESC. TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 968.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "CR. INTERNET -  JVC INDUSTRIA COMERCIO E",
+    "credito": false,
+    "debito": true,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "259196.007",
+    "complemento": "CREDITO PIX - ADRIANO OLECH SANTOS",
+    "credito": false,
+    "debito": true,
+    "valor": 81.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "259234.293",
+    "complemento": "DEBITO PIX - FERNANDO A. SENA METALURGICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "4352.256",
+    "complemento": "CREDITO TED - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": false,
+    "debito": true,
+    "valor": 46000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "10002.270",
+    "complemento": "PG.P/INTERNET - INDUSTRIA E COMERCIO DE MALHAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1226.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "10002.276",
+    "complemento": "PG.P/INTERNET - JAMEF TRANSPORTES . EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 993.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "10002.277",
+    "complemento": "PG.P/INTERNET - SERVMED CLINICA DE MEDICINA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "10002.278",
+    "complemento": "PG.P/INTERNET - CAMILA MUNCH EIRELI ME",
+    "credito": true,
+    "debito": false,
+    "valor": 922.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "10002.274",
+    "complemento": "PG.P/INTERNET - RMC TRANSP E AGENCIAMENTO DE C",
+    "credito": true,
+    "debito": false,
+    "valor": 239.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "864.643.0",
+    "complemento": "TR.INTERNET - ULTRACORE DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "TARIFA BOLETO CART.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 14.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "372.191",
+    "complemento": "SAQUE AVULSO",
+    "credito": true,
+    "debito": false,
+    "valor": 1314.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "8.592",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "1359.344.7",
+    "complemento": "TR.INTERNET - JVC INDUSTRIA COMERCIO E SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.820",
+    "complemento": "PG.P/INTERNET - SERVMED CLINICA DE MEDICINA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 448.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.816",
+    "complemento": "PG.P/INTERNET - ELASTAN",
+    "credito": true,
+    "debito": false,
+    "valor": 1239.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.822",
+    "complemento": "PG.P/INTERNET - SILICOTEX",
+    "credito": true,
+    "debito": false,
+    "valor": 2397.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.814",
+    "complemento": "PG.P/INTERNET - SANCRIS LINHAS E FIOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 444.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.823",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 65.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.841",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 1525.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10002.836",
+    "complemento": "PG.P/INTERNET - BRASPRESS TRANSPORTES URGENTES",
+    "credito": true,
+    "debito": false,
+    "valor": 91.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10003.213",
+    "complemento": "PG.P/INTERNET - refis",
+    "credito": true,
+    "debito": false,
+    "valor": 328.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259661.145",
+    "complemento": "DEBITO PIX - NIRCEIA REGINA LOPES",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "10003.216",
+    "complemento": "PG.P/INTERNET - refis",
+    "credito": true,
+    "debito": false,
+    "valor": 925.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259663.506",
+    "complemento": "DEBITO PIX - TERRAPLANAGEM KNOPF LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1702.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "1480.256.2",
+    "complemento": "TR.INTERNET - GRUPO FORCE HOLDING LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2221.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "259762.476",
+    "complemento": "CREDITO PIX - TERRAPLANAGEM KNOPF LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 28.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "8.571",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 1.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "8.606",
+    "complemento": "RENDA PGTO ANTECIPADO",
+    "credito": false,
+    "debito": true,
+    "valor": 9.4,
+    "origem": "Extrato"
+  }
+]

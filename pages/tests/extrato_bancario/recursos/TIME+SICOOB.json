@@ -1,0 +1,551 @@
+[
+  {
+    "data": "05/03/2025",
+    "documento": "30115545",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 72.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "04353042",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1352.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CHUANG YU MIN 33.898.437 0001-43",
+    "credito": false,
+    "debito": true,
+    "valor": 53.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "30152143",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO COPAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 406.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "30152182",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO WEBFEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 254.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 7400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 23.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "IOF/5-3",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 5.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2025",
+    "documento": "IOF/5-3",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 68.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SEI SOLUCOES 40.676.969 0001-00 MANUTENCAO DEVOLUCAO DA SALA",
+    "credito": false,
+    "debito": true,
+    "valor": 652.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.444.389-** FERNANDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1863.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2025",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 303901700008 AUT.: 00042",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 1550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2025",
+    "documento": "LC-202502",
+    "complemento": "JUROS CONTA GARANTIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 233.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "28685866",
+    "complemento": "DÉB.CONV.PREFEITURA IPTU 3/10",
+    "credito": true,
+    "debito": false,
+    "valor": 200.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "30152277",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 377.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "30152299",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ANCEV",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "30152318",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO AJORPEME",
+    "credito": true,
+    "debito": false,
+    "valor": 115.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.976.502-** JARDIM",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "05323396",
+    "complemento": "DÉB.EMPRÉSTIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 1992.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "0003ATM",
+    "complemento": "SAQUE NA AGENCIA TERMINAL.: 303901700008 AUT.: 00059",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX COMPANY HERO LTDA 20.240.272 0001-76 6047   JOINVILLE   PIX  VIA API",
+    "credito": false,
+    "debito": true,
+    "valor": 4976.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "79488",
+    "complemento": "DEB.PARCELAS SUBSC./INTEGR.",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2025",
+    "documento": "79488",
+    "complemento": "DEB.PARCELAS SUBSC./INTEGR.",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2025",
+    "documento": "MASTERCARD",
+    "complemento": "DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1511.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2025",
+    "documento": "30299855",
+    "complemento": "DÉB.TRANSF.CONTASDIF.TITULARIDADE FAV.: LUCIANA DE MATTOS LEMOS WELTER SAQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2025",
+    "documento": "30152368",
+    "complemento": "DÉB.TIT. COBRANÇA EFETIVADO MATERIAL CONSTRUÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 311.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2025",
+    "documento": "29311552",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO TX LIXO 2",
+    "credito": true,
+    "debito": false,
+    "valor": 59.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2025",
+    "documento": "CLARO",
+    "complemento": "SA - DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 159.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2025",
+    "documento": "30365732",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CERTIFICADO DIGITAL",
+    "credito": true,
+    "debito": false,
+    "valor": 219.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GAZANIGA MANUTENCAO DE MAQUINAS INDUSTRI 39.655.685 0001-40",
+    "credito": false,
+    "debito": true,
+    "valor": 267.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX GAZANIGA MANUTENCAO DE MAQUINAS INDUSTRI 39.655.685 0001-40",
+    "credito": false,
+    "debito": true,
+    "valor": 82.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.157.649-** SAQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.470.223-** MANUTENCAO TELHADO",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2025",
+    "documento": "30365744",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO AMIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1390.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.669.932-** PINTURQ",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.976.502-** JARDIM",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2025",
+    "documento": "TPA",
+    "complemento": "TELECO DÉB.CONV.TELECOMUNICAÇÕES",
+    "credito": true,
+    "debito": false,
+    "valor": 266.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2025",
+    "documento": "30355294",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB IMPOSTO",
+    "credito": true,
+    "debito": false,
+    "valor": 5047.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2025",
+    "documento": "30434436",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 326.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2025",
+    "documento": "30463936",
+    "complemento": "CRÉD.TRANSF.CONTAS REM.: LUCIANA DE MATTOS LEMOS WELTER TIME",
+    "credito": false,
+    "debito": true,
+    "valor": 5400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 2110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2025",
+    "documento": "30521531",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 40.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2025",
+    "documento": "30521544",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO AGS DETIZAÇÃO",
+    "credito": true,
+    "debito": false,
+    "valor": 260.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2025",
+    "documento": "30365752",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CELESC",
+    "credito": true,
+    "debito": false,
+    "valor": 2520.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 07.226.794 0001-55",
+    "credito": true,
+    "debito": false,
+    "valor": 163.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 2115.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 13.347.016 0001-17 FACEBOOK",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX TIME COWORKING 06.916.013 0001-91",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2025",
+    "documento": "30599294",
+    "complemento": "Déb",
+    "credito": true,
+    "debito": true,
+    "valor": 666.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2025",
+    "documento": "30599382",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO COPAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 386.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2025",
+    "documento": "30600621",
+    "complemento": "DÉB.CONV.PREFEITURA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2025",
+    "documento": "30600662",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB",
+    "credito": true,
+    "debito": false,
+    "valor": 33.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2025",
+    "documento": "30625022",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CONEXA",
+    "credito": true,
+    "debito": false,
+    "valor": 254.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2025",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF Pagamento Pix ***.303.359-**",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  }
+]

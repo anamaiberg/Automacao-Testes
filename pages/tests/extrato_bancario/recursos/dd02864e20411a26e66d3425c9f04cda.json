@@ -1,0 +1,749 @@
+[
+  {
+    "data": "01/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1969.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 161.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 270.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / EDNALDO BUGILA ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Adriane De Oliveira Bueno ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 147.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 169.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / CLEIDE T F NOSTRE ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 4900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Luis Cesar Stockler ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Luis Cesar Stockler ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 209.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 967.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / ZELIA HALICKI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 485.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 613.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / CARMEN ANTONIA SANCHES ITO ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 14600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 393.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 513.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE TITULO - IB ( Doc.: 0174173700 / autentica ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 190.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 246.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 48.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 7068.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Angelo Moss Neto ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 393.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 392.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 224.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1103.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 393.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 468.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 192.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 451.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / CRISTIANO BERALDO MENON ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 3450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Marciana Rosa Rossoni ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / GUSTAVO EDUARDO ROCHA MEISTER ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "ARRECADAÇÃO DE CONVÊNIOS ( Doc.: Convênio / iss ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 2532.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "ARRECADACAO DE CONVENIOS ( Doc.: Convênio / pis ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 379.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "ARRECADACAO DE CONVENIOS ( Doc.: Convênio / cofins ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 1750.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "ARRECADACAO DE CONVENIOS ( Doc.: Convênio / irpj ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 2531.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2024",
+    "documento": "",
+    "complemento": "ARRECADACAO DE CONVENIOS ( Doc.: Convênio / csll ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 2476.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2855.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 482.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2513.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2024",
+    "documento": "",
+    "complemento": "DEBITO TRANSFERENCIA PIX ( Doc.: DEB PIX / Diego Santos Matras ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1839.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 611.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Grazielle do Carmo Barboza Freier ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 246.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 217.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 225.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Geraldo Beusso Fanchin ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 4824.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 393.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 225.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE TITULO - IB ( Doc.: 0174173700 / 1/3gam4374272 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 4858.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE TITULO - IB ( Doc.: 0174173700 / 2/3gam4374272 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 4858.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE TITULO - IB ( Doc.: 0174173700 / 3/3gam4374272 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 4858.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / GERSON LUIZ ZYCH ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "",
+    "complemento": "DEBITO TRANSFERENCIA PIX ( Doc.: DEB PIX / GRAZIELLE FREIER IVASSESSEN ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 3770.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / ",
+    "credito": false,
+    "debito": true,
+    "valor": 2668.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "",
+    "complemento": "C1Stone Pagamentos S )RECEBIMENTO DE TED D ( Doc.: 891541 / SANTA CASA DE MISERI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1323.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 225.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 169.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2550.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 288.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 699.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 218.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / ZELIA HALICKI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "",
+    "complemento": "ARRECADAÇÃO DE CONVÊNIOS ( Doc.: Convênio / bombeiros ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 254.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 388.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 891541 / SANTA CASA DE MISERI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 5135.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 891541 / SANTA CASA DE MISERI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 7852.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 891541 / SANTA CASA DE MISERI ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 4746.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 245.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1880.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 137.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "",
+    "complemento": "TRANSFERENCIA TEF PIX ( Doc.: 474690 / THIAGO SUMIKAWA ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 17342.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2807.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO DEBITO ( Doc.: DomDeb / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 295.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / LARA B ANTUNES LUZ ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2024",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / ",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "",
+    "complemento": "Dos Santos Bernardi Le )CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 388.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "",
+    "complemento": "CRED DOM – ARRANJO CREDITO ( Doc.: DomCred / C1Stone Pagamentos S ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 791.2,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "data": "02/09/2024",
+    "documento": "90201",
+    "complemento": "Pix - Enviado 02/09 17:19 Astor Vasques Lopes Junior",
+    "credito": true,
+    "debito": false,
+    "valor": 7100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2024",
+    "documento": "100921334556432",
+    "complemento": "Pix - Recebido 10/09 09:21 27252044000165 B E F NEGOC",
+    "credito": false,
+    "debito": true,
+    "valor": 7990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2024",
+    "documento": "111012081182472",
+    "complemento": "Pix - Recebido 11/09 10:12 27252044000165 B E F NEGOC",
+    "credito": false,
+    "debito": true,
+    "valor": 9667.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2024",
+    "documento": "91301",
+    "complemento": "Pix - Enviado 13/09 08:56 Astor Vasques Lopes Junior",
+    "credito": true,
+    "debito": false,
+    "valor": 17700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2024",
+    "documento": "266636519221471",
+    "complemento": "Pix - Recebido 18/09 09:47 27252044000165 B E F NEGOC",
+    "credito": false,
+    "debito": true,
+    "valor": 10058.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "91901",
+    "complemento": "Pix - Enviado 19/09 09:07 Astor Vasques Lopes Junior",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2024",
+    "documento": "268688951170751",
+    "complemento": "Pix - Recebido 20/09 18:48 10249812000129 SL DE LOREN",
+    "credito": false,
+    "debito": true,
+    "valor": 2910.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2024",
+    "documento": "92301",
+    "complemento": "Pix - Enviado 23/09 08:30 Astor Vasques Lopes Junior",
+    "credito": true,
+    "debito": false,
+    "valor": 2900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2024",
+    "documento": "822690801714017",
+    "complemento": "Tarifa Renovação Cadastro Cobrança referente 05/09/2024",
+    "credito": true,
+    "debito": false,
+    "valor": 64.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "277148239155081",
+    "complemento": "Pix - Recebido 30/09 13:47 27252044000165 B E F NEGOC",
+    "credito": false,
+    "debito": true,
+    "valor": 7050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2024",
+    "documento": "93001",
+    "complemento": "Pix - Enviado 30/09 15:01 Astor Vasques Lopes Junior",
+    "credito": true,
+    "debito": false,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  }
+]

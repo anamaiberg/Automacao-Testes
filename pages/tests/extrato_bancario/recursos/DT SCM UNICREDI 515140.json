@@ -1,0 +1,317 @@
+[
+  {
+    "data": "01/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTICIPACOES E HOLDING LTDA ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "",
+    "complemento": "IOF ( Doc.: 2024001008 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2024001008 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 216.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "",
+    "complemento": "AMORTIZACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 93.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "",
+    "complemento": "IOF ( Doc.: SALDO DEV ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 2.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / Felipe Berlato Torres da Silva ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "",
+    "complemento": "AMORTIZACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 196.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTICIPACOES E HOLDING LTDA ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 825.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "",
+    "complemento": "AMORTIZACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 824.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 2296713 / TVSBT CANAL 5 DE POR ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2501.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "",
+    "complemento": "AMORTIZACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 2501.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTIC HOLDING ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 243698 / DT PARTIC HOLDING ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D ( Doc.: 243698 / DT PARTIC HOLDING ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 17642.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2024001008 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 11312.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "IOF ( Doc.: 2024001008 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2021002524 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 3323.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "",
+    "complemento": "AMORTIZACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 21.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTICIPACOES E HOLDING LTDA ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "",
+    "complemento": "ENVIO TED D STR - IB/ATM ( Doc.: Alcenira H / Alcenira Hoffmann Da ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "",
+    "complemento": "RECEBIMENTO DE TED D STR ( Doc.: 243698 / DT PARTIC HOLDING ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1131305.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE TITULO DE EMPRESTIMO ( Doc.: 2023001710 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 1131305.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTIC HOLDING ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 11100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE PARCELA DE EMPRESTIMO ( Doc.: 2024001008 ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 11097.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "",
+    "complemento": "CREDITO RECEBIMENTO DE PIX ( Doc.: CRED PIX / DT PARTICIPACOES E HOLDING LTDA ) ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "",
+    "complemento": "ENVIO TED D STR - IB/ATM ( Doc.: Aldo Gomes / Aldo Gomes Dos Reis ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "",
+    "complemento": "ENVIO TED D STR - IB/ATM ( Doc.: OLEGARIO H / OLEGARIO HENRIQUE RO ) ",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2021002524 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 9.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2023001710 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 169.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2023001710 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 169.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2021002524 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 9.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2024001008 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 91.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "",
+    "complemento": "SEGURO PRESTAMISTA ( Doc.: 2024001008 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 91.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "",
+    "complemento": "JUROS ADIANTAMENTO A DEPOSITANTE ( Doc.: 0 ) -",
+    "credito": true,
+    "debito": false,
+    "valor": 3.61,
+    "origem": "Extrato"
+  }
+]

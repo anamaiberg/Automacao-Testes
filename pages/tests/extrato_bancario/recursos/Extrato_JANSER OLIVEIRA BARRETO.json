@@ -1,0 +1,83 @@
+[
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Resgate BB CDB DI",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Resgate BB CDB DI",
+    "credito": false,
+    "debito": true,
+    "valor": 323.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Resgate BB CDB DI",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Resgate BB CDB DI",
+    "credito": false,
+    "debito": true,
+    "valor": 177.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Transferência enviada 10/04 16:25 LAIS SANTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1053.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Pix - Enviado 10/04 13:41 Janser Oliveira Barreto",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Pagto cartão crédito OUROCARD FACIL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 1653.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "Seguro de Vida SEGURO DE VIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "Aplicação CDB",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "data": "02/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "SALDO ANTERIOR 35.259,03 RECEBIMENTO PIX 17200140000106 IKE MOVEIS",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "498685178",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 386.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "232027967",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 14638686000155 BASSANO",
+    "credito": true,
+    "debito": false,
+    "valor": 222.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 70569584000 ELIANA LOVATTO",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 276.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "",
+    "complemento": "IOF BASICO CH PJ Iof.BAsic",
+    "credito": true,
+    "debito": false,
+    "valor": 1.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE Iof.ADic.",
+    "credito": true,
+    "debito": false,
+    "valor": 48.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 87112736000130 SERVICO DE APOI",
+    "credito": true,
+    "debito": false,
+    "valor": 191.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 331788000119 AIR LIQUIDE BRASI",
+    "credito": true,
+    "debito": false,
+    "valor": 57.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "233061339",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 00459224000166 LC COME",
+    "credito": true,
+    "debito": false,
+    "valor": 1020.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "233057595",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 00459224000166 LC COME",
+    "credito": true,
+    "debito": false,
+    "valor": 399.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 20.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 54.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 15.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 79.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 01461539013 MARIANE KOPROVSKI OL",
+    "credito": false,
+    "debito": true,
+    "valor": 1170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00399149090 LARISSA BUASZCZYK",
+    "credito": false,
+    "debito": true,
+    "valor": 1820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 2985836000118 CALIONI BAVARESC",
+    "credito": true,
+    "debito": false,
+    "valor": 4084.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 02329205082 MARCOS DAL MORO",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "NCX000488",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "NCX000482",
+    "complemento": "DEP CHEQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "29555749",
+    "complemento": "DEP CHEQUE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 455.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "500527086",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 415.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 14290620000117 JOLVANI BETINARDI",
+    "credito": false,
+    "debito": true,
+    "valor": 1950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "232045659",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 12474998000145 CENTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 1957839000185 ADICEL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 538.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 331788000119 AIR LIQUIDE BRASI",
+    "credito": true,
+    "debito": false,
+    "valor": 832.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "241000685",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 39342649000126 JRA CER",
+    "credito": true,
+    "debito": false,
+    "valor": 209.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "232702220",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 02664051000143 VENETO",
+    "credito": true,
+    "debito": false,
+    "valor": 881.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 4952221000110 SERVICE CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "232348030",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 04952221000110 SERVICE",
+    "credito": true,
+    "debito": false,
+    "valor": 625.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 14947024000167 PORTALTEC DIGIT D",
+    "credito": false,
+    "debito": true,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 18.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "501836520",
+    "complemento": "SICREDI CREDITO AMEX",
+    "credito": false,
+    "debito": true,
+    "valor": 163.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "CX265403",
+    "complemento": "RECEBIMENTO PIX SICREDI 80658709020 ROGERIO DE C",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00813903009 ROVANIR DA ROSA",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "CX264491",
+    "complemento": "RECEBIMENTO PIX SICREDI 69253285087 MARCIANO LUI",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 94927170004 RODRIGO VICARI",
+    "credito": false,
+    "debito": true,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 23663580000100 LEVTECK TECNOLO",
+    "credito": true,
+    "debito": false,
+    "valor": 1061.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 31565104002110 PEPSICO DO BRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 240.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 6061646000165 ADYL NET TELECOM",
+    "credito": true,
+    "debito": false,
+    "valor": 149.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "214956115",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 94015757000100 SOLDA A",
+    "credito": true,
+    "debito": false,
+    "valor": 621.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 01681644002 Pâmela Defendi",
+    "credito": false,
+    "debito": true,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "CX218147",
+    "complemento": "RECEBIMENTO PIX SICREDI 13347645000147 RESTAURAN",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 09285070841 JOSE ANTONIO FIRMINO",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "502833898",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 412.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "C20331542",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 10709.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "CX163144",
+    "complemento": "RECEBIMENTO PIX SICREDI 08408092000155 MERCADO A",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 02144986037 MARCIA ROSSONI DE CO",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "231000288",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 15070627000196 ADEKOL",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 15583748000131 WORDPRINT SERVI",
+    "credito": true,
+    "debito": false,
+    "valor": 995.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "232022009",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 11568891000101 CASA LI",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "600001550",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 41264012000100 FARE SE",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "232695851",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 02664051000143 VENETO",
+    "credito": true,
+    "debito": false,
+    "valor": 22650.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "38391e67",
+    "complemento": "DEPOSITO CX ELETRONICO 01472707079 GUILHERME DE",
+    "credito": false,
+    "debito": true,
+    "valor": 2510.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "26f02473",
+    "complemento": "DEPOSITO CX ELETRONICO 01472707079 GUILHERME DE",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "431551090",
+    "complemento": "DEP CHEQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "",
+    "complemento": "RECEBIMENTO PIX SICREDI 02348475065 FABRICIO DE PIX_CRE",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "233064737",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 00459224000166 LC COME",
+    "credito": true,
+    "debito": false,
+    "valor": 1822.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 37843058000107 MALBEC COMERCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "241000034",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 15424710000116 ENGCONS",
+    "credito": true,
+    "debito": false,
+    "valor": 620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 331788000119 AIR LIQUIDE BRASI",
+    "credito": true,
+    "debito": false,
+    "valor": 486.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 54.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 201.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 15.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 61186888000193 SPAL IND BRAS D",
+    "credito": true,
+    "debito": false,
+    "valor": 407.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS 02016440000162 RGE SUL-G RGE SUL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 923.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "241000075",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 29666854000193 INOVAR",
+    "credito": true,
+    "debito": false,
+    "valor": 782.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 23663580000100 LEVTECK TECNOLO",
+    "credito": true,
+    "debito": false,
+    "valor": 2071.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO 00394460005887",
+    "credito": true,
+    "debito": false,
+    "valor": 883.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 33904286000199 CERVEJARIA LUPULO",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "505322578",
+    "complemento": "SICREDI CREDITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 372.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "505591497",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 297.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "505591510",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 250.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "505591503",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 63.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "232022360",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 11568891000101 CASA LI",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 18191228000171 PJBANK PAGAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 358.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "241000340",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 04761633000173 RADIO V",
+    "credito": true,
+    "debito": false,
+    "valor": 197.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "",
+    "complemento": "DEBITO ARRECADACAO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 12907.99,
+    "origem": "Extrato"
+  }
+]

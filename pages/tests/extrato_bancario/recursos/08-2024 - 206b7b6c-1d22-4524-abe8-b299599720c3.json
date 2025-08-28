@@ -1,0 +1,1415 @@
+[
+  {
+    "data": "01/08/2024",
+    "documento": "000131",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000131",
+    "credito": false,
+    "debito": true,
+    "valor": 25.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "000130",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000130",
+    "credito": false,
+    "debito": true,
+    "valor": 8.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "000081",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000081",
+    "credito": false,
+    "debito": true,
+    "valor": 109.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "000217",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000217",
+    "credito": false,
+    "debito": true,
+    "valor": 32.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "000216",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000216",
+    "credito": false,
+    "debito": true,
+    "valor": 43.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "000215",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000215",
+    "credito": false,
+    "debito": true,
+    "valor": 160.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "013221",
+    "complemento": "IOF ADICIONAL AD – DOC: 013221",
+    "credito": true,
+    "debito": false,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "014216",
+    "complemento": "IOF ADIANTAMENTO DEPOSITANTE – DOC: 014216",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2024",
+    "documento": "014221",
+    "complemento": "IOF ADICIONAL AD – DOC: 014221",
+    "credito": true,
+    "debito": false,
+    "valor": 3.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "",
+    "complemento": "RESTAURANTE E PIZZAR — FORMOSA CRED CIELO VENDA A CRE OUTROS – DOC: 000115",
+    "credito": false,
+    "debito": true,
+    "valor": 85.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "000114",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000114",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "000076",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000076",
+    "credito": false,
+    "debito": true,
+    "valor": 275.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "000224",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000224",
+    "credito": false,
+    "debito": true,
+    "valor": 51.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2024",
+    "documento": "000223",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000223",
+    "credito": false,
+    "debito": true,
+    "valor": 229.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2024",
+    "documento": "301997",
+    "complemento": "COMPRA MAESTRO – DOC: 301997",
+    "credito": true,
+    "debito": false,
+    "valor": 137.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "000274",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000274",
+    "credito": false,
+    "debito": true,
+    "valor": 359.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "000273",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000273",
+    "credito": false,
+    "debito": true,
+    "valor": 548.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "000272",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000272",
+    "credito": false,
+    "debito": true,
+    "valor": 760.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "000131",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000131",
+    "credito": false,
+    "debito": true,
+    "valor": 43.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "000082",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000082",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": "272776",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 272776",
+    "credito": true,
+    "debito": false,
+    "valor": 155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000150",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000150",
+    "credito": false,
+    "debito": true,
+    "valor": 564.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000149",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000149",
+    "credito": false,
+    "debito": true,
+    "valor": 689.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000091",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000091",
+    "credito": false,
+    "debito": true,
+    "valor": 1101.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000206",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000206",
+    "credito": false,
+    "debito": true,
+    "valor": 192.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000205",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000205",
+    "credito": false,
+    "debito": true,
+    "valor": 294.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000204",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000204",
+    "credito": false,
+    "debito": true,
+    "valor": 478.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/08/2024",
+    "documento": "000248",
+    "complemento": "DEBITO DE CHEQUE COMPENSADO – DOC: 000248",
+    "credito": true,
+    "debito": false,
+    "valor": 1543.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000210",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000210",
+    "credito": false,
+    "debito": true,
+    "valor": 74.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000209",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000209",
+    "credito": false,
+    "debito": true,
+    "valor": 410.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000208",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000208",
+    "credito": false,
+    "debito": true,
+    "valor": 214.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000102",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000102",
+    "credito": false,
+    "debito": true,
+    "valor": 5.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000101",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000101",
+    "credito": false,
+    "debito": true,
+    "valor": 764.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": "000071",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000071",
+    "credito": false,
+    "debito": true,
+    "valor": 737.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000221",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000221",
+    "credito": false,
+    "debito": true,
+    "valor": 82.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000220",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000220",
+    "credito": false,
+    "debito": true,
+    "valor": 206.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000219",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000219",
+    "credito": false,
+    "debito": true,
+    "valor": 219.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000121",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000121",
+    "credito": false,
+    "debito": true,
+    "valor": 22.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000120",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000120",
+    "credito": false,
+    "debito": true,
+    "valor": 575.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000074",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000074",
+    "credito": false,
+    "debito": true,
+    "valor": 554.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO CDB/RDB – DOC: 000000",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000236",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000236",
+    "credito": false,
+    "debito": true,
+    "valor": 46.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000235",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000235",
+    "credito": false,
+    "debito": true,
+    "valor": 132.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000234",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000234",
+    "credito": false,
+    "debito": true,
+    "valor": 189.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000132",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000132",
+    "credito": false,
+    "debito": true,
+    "valor": 14.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000131",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000131",
+    "credito": false,
+    "debito": true,
+    "valor": 11.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000079",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000079",
+    "credito": false,
+    "debito": true,
+    "valor": 129.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 CE DE E J E ADU QUAL — 0103",
+    "credito": false,
+    "debito": true,
+    "valor": 669.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000293",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000293",
+    "credito": false,
+    "debito": true,
+    "valor": 73.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000292",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000292",
+    "credito": false,
+    "debito": true,
+    "valor": 6337.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000291",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000291",
+    "credito": false,
+    "debito": true,
+    "valor": 215.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000076",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000076",
+    "credito": false,
+    "debito": true,
+    "valor": 35.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "514349",
+    "complemento": "PAGAMENTO COBRANCA BRB – DOC: 514349",
+    "credito": true,
+    "debito": false,
+    "valor": 767.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 ROSANE ALVES OLIVEIR — 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 326.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": "000604",
+    "complemento": "DEBITO POUPANCA PROGRAMADA – DOC: 000604",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "000216",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000216",
+    "credito": false,
+    "debito": true,
+    "valor": 21.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "000215",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000215",
+    "credito": false,
+    "debito": true,
+    "valor": 10.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "000214",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000214",
+    "credito": false,
+    "debito": true,
+    "valor": 199.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "000165",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000165",
+    "credito": false,
+    "debito": true,
+    "valor": 175.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "000095",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000095",
+    "credito": false,
+    "debito": true,
+    "valor": 156.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "301997",
+    "complemento": "COMPRA MAESTRO – DOC: 301997 FREE CORNER 304 SU — FREE CORNE",
+    "credito": true,
+    "debito": false,
+    "valor": 237.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": "301997",
+    "complemento": "COMPRA MAESTRO – DOC: 301997 CESAR MODESTO RESTAU — BRASILIA",
+    "credito": true,
+    "debito": false,
+    "valor": 56.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000209",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000209",
+    "credito": false,
+    "debito": true,
+    "valor": 74.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000208",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000208",
+    "credito": false,
+    "debito": true,
+    "valor": 31.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000207",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000207",
+    "credito": false,
+    "debito": true,
+    "valor": 113.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000093",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000093",
+    "credito": false,
+    "debito": true,
+    "valor": 59.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000091",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000091",
+    "credito": false,
+    "debito": true,
+    "valor": 369.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "000068",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000068",
+    "credito": false,
+    "debito": true,
+    "valor": 378.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/08/2024",
+    "documento": "825645",
+    "complemento": "PAGAMENTO COBRANCA BRB – DOC: 825645",
+    "credito": true,
+    "debito": false,
+    "valor": 175.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "000227",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000227",
+    "credito": false,
+    "debito": true,
+    "valor": 153.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "000226",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000226",
+    "credito": false,
+    "debito": true,
+    "valor": 107.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "000125",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000125",
+    "credito": false,
+    "debito": true,
+    "valor": 76.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2024",
+    "documento": "000082",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000082",
+    "credito": false,
+    "debito": true,
+    "valor": 44.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000223",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000223",
+    "credito": false,
+    "debito": true,
+    "valor": 51.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000222",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000222",
+    "credito": false,
+    "debito": true,
+    "valor": 33.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000221",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000221",
+    "credito": false,
+    "debito": true,
+    "valor": 109.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000123",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000123",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000122",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000122",
+    "credito": false,
+    "debito": true,
+    "valor": 3.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "000076",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000076",
+    "credito": false,
+    "debito": true,
+    "valor": 156.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/08/2024",
+    "documento": "705158",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 705158",
+    "credito": true,
+    "debito": false,
+    "valor": 1053.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/08/2024",
+    "documento": "301997",
+    "complemento": "COMPRA MAESTRO – DOC: 301997 POSTO CALIFORNIA — FORMOSA",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000284",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000284",
+    "credito": false,
+    "debito": true,
+    "valor": 25.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000283",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000283",
+    "credito": false,
+    "debito": true,
+    "valor": 138.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000282",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000282",
+    "credito": false,
+    "debito": true,
+    "valor": 114.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000155",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000155",
+    "credito": false,
+    "debito": true,
+    "valor": 26.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000092",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000092",
+    "credito": false,
+    "debito": true,
+    "valor": 56.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "668681",
+    "complemento": "PAGAMENTO SIMPLES NACIONAL – DOC: 668681 4120",
+    "credito": true,
+    "debito": false,
+    "valor": 277.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 244.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "670077",
+    "complemento": "PAGAMENTO TRIBUTO FEDERAL – DOC: 670077 4120",
+    "credito": true,
+    "debito": false,
+    "valor": 543.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 MARILIA CESARIO DA S — 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": "000400",
+    "complemento": "DEBITO DE CHEQUE COMPENSADO – DOC: 000400",
+    "credito": true,
+    "debito": false,
+    "valor": 618.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000203",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000203",
+    "credito": false,
+    "debito": true,
+    "valor": 35.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000202",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000202",
+    "credito": false,
+    "debito": true,
+    "valor": 170.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000167",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000167",
+    "credito": false,
+    "debito": true,
+    "valor": 23.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000166",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000166",
+    "credito": false,
+    "debito": true,
+    "valor": 159.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000099",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000099",
+    "credito": false,
+    "debito": true,
+    "valor": 173.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 CENTRO DE BELEZA E E — 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 ORLANDO CERQUEIRA DE — 0103",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/08/2024",
+    "documento": "202912",
+    "complemento": "DEBITO BANCORBRAS – DOC: 202912",
+    "credito": true,
+    "debito": false,
+    "valor": 648.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "000222",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000222",
+    "credito": false,
+    "debito": true,
+    "valor": 86.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "000221",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000221",
+    "credito": false,
+    "debito": true,
+    "valor": 25.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "000220",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000220",
+    "credito": false,
+    "debito": true,
+    "valor": 77.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "000097",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000097",
+    "credito": false,
+    "debito": true,
+    "valor": 11.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "000068",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000068",
+    "credito": false,
+    "debito": true,
+    "valor": 96.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "561293",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 561293",
+    "credito": true,
+    "debito": false,
+    "valor": 270.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "562519",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 562519",
+    "credito": true,
+    "debito": false,
+    "valor": 338.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": "563908",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 563908",
+    "credito": true,
+    "debito": false,
+    "valor": 306.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "000210",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000210",
+    "credito": false,
+    "debito": true,
+    "valor": 17.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "000209",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000209",
+    "credito": false,
+    "debito": true,
+    "valor": 22.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "000122",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000122",
+    "credito": false,
+    "debito": true,
+    "valor": 6.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "000078",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000078",
+    "credito": false,
+    "debito": true,
+    "valor": 33.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2024",
+    "documento": "301997",
+    "complemento": "COMPRA MAESTRO – DOC: 301997 NALVAMARIADAROCHA — BRASILIA",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000228",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000228",
+    "credito": false,
+    "debito": true,
+    "valor": 4.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000227",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000227",
+    "credito": false,
+    "debito": true,
+    "valor": 24.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000226",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000226",
+    "credito": false,
+    "debito": true,
+    "valor": 60.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000112",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000112",
+    "credito": false,
+    "debito": true,
+    "valor": 28.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000077",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000077",
+    "credito": false,
+    "debito": true,
+    "valor": 81.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "708500",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 708500",
+    "credito": true,
+    "debito": false,
+    "valor": 254.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": "000000",
+    "complemento": "PACOTE EMPRESA 2 – DOC: 000000",
+    "credito": true,
+    "debito": false,
+    "valor": 46.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000284",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000284",
+    "credito": false,
+    "debito": true,
+    "valor": 37.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000283",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000283",
+    "credito": false,
+    "debito": true,
+    "valor": 165.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000282",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000282",
+    "credito": false,
+    "debito": true,
+    "valor": 171.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000153",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000153",
+    "credito": false,
+    "debito": true,
+    "valor": 63.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000086",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000086",
+    "credito": false,
+    "debito": true,
+    "valor": 131.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 JOAO BATISTA PEREIRA — 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "476898",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 476898",
+    "credito": true,
+    "debito": false,
+    "valor": 263.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "478246",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 478246",
+    "credito": true,
+    "debito": false,
+    "valor": 129.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO CDB/RDB – DOC: 000000",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000202",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000202",
+    "credito": false,
+    "debito": true,
+    "valor": 31.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000201",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000201",
+    "credito": false,
+    "debito": true,
+    "valor": 132.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000149",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000149",
+    "credito": false,
+    "debito": true,
+    "valor": 30.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000148",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000148",
+    "credito": false,
+    "debito": true,
+    "valor": 76.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000095",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000095",
+    "credito": false,
+    "debito": true,
+    "valor": 54.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "525077",
+    "complemento": "TRANSF ELETRONICA DE POUPANCA – DOC: 525077",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 RECEBE DIGITAL EVENT — 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 49.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000212",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000212",
+    "credito": false,
+    "debito": true,
+    "valor": 65.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000211",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000211",
+    "credito": false,
+    "debito": true,
+    "valor": 67.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000101",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000101",
+    "credito": false,
+    "debito": true,
+    "valor": 24.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000100",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000100",
+    "credito": false,
+    "debito": true,
+    "valor": 61.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000062",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000062",
+    "credito": false,
+    "debito": true,
+    "valor": 52.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "000000",
+    "complemento": "CREDITO PIX – DOC: 000000 0103",
+    "credito": false,
+    "debito": true,
+    "valor": 155.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2024",
+    "documento": "238512",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 238512",
+    "credito": true,
+    "debito": false,
+    "valor": 338.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000201",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000201",
+    "credito": false,
+    "debito": true,
+    "valor": 19.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000200",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000200",
+    "credito": false,
+    "debito": true,
+    "valor": 40.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000199",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000199",
+    "credito": false,
+    "debito": true,
+    "valor": 152.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000119",
+    "complemento": "CRED CIELO VENDA A CRE OUTROS – DOC: 000119",
+    "credito": false,
+    "debito": true,
+    "valor": 24.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000118",
+    "complemento": "CRED CIELO VENDA A CRE VISA – DOC: 000118",
+    "credito": false,
+    "debito": true,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2024",
+    "documento": "000078",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000078",
+    "credito": false,
+    "debito": true,
+    "valor": 65.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000213",
+    "complemento": "CRED CIELO VENDA A DEB OUTROS – DOC: 000213",
+    "credito": false,
+    "debito": true,
+    "valor": 31.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000212",
+    "complemento": "CRED CIELO VENDA A DEB VISA – DOC: 000212",
+    "credito": false,
+    "debito": true,
+    "valor": 22.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000211",
+    "complemento": "CRED CIELO VENDA A DEB MASTER – DOC: 000211",
+    "credito": false,
+    "debito": true,
+    "valor": 172.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000072",
+    "complemento": "CRED CIELO VENDA A CRE MASTER – DOC: 000072",
+    "credito": false,
+    "debito": true,
+    "valor": 213.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000000",
+    "complemento": "DEBITO PIX – DOC: 000000 0103",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "260448",
+    "complemento": "DEBITO COBRANCA OUTRO BANCO – DOC: 260448",
+    "credito": true,
+    "debito": false,
+    "valor": 625.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/08/2024",
+    "documento": "000247",
+    "complemento": "DEBITO DE CHEQUE COMPENSADO – DOC: 000247",
+    "credito": true,
+    "debito": false,
+    "valor": 1398.37,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "data": "05/07/2022",
+    "documento": "366168",
+    "complemento": "LIQUI EMPRESTIM",
+    "credito": true,
+    "debito": false,
+    "valor": 473.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "366168",
+    "complemento": "LIQUI EMPRESTIM",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "29780",
+    "complemento": "Credito de transf erencia via SPB BARROS E MARTHA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "108215",
+    "complemento": "Debito de seguro",
+    "credito": false,
+    "debito": false,
+    "valor": 1429.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "108215",
+    "complemento": "Debito de T itulo Capitalizacao",
+    "credito": false,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "29780",
+    "complemento": "Credito de transf erencia via SPB BARROS E MARTHA LTDA",
+    "credito": false,
+    "debito": false,
+    "valor": 23200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "190004",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 1509.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "108215",
+    "complemento": "Debito autorizado",
+    "credito": false,
+    "debito": false,
+    "valor": 204.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "180543",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 7175.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "366168",
+    "complemento": "LIQUI EMPRESTIM",
+    "credito": false,
+    "debito": false,
+    "valor": 1296.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2022",
+    "documento": "215130",
+    "complemento": "DEB PARC FOMENT",
+    "credito": false,
+    "debito": false,
+    "valor": 11035.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2022",
+    "documento": "29884",
+    "complemento": "Debito de transf erencia SPB via STR008 BARROS E MARTHA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 36000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2022",
+    "documento": "108",
+    "complemento": "Cred. Transf erencia Eletronica VALBER PESCADOS EIRE",
+    "credito": false,
+    "debito": true,
+    "valor": 36619.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "108225",
+    "complemento": "Debito de T itulo Capitalizacao",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  }
+]

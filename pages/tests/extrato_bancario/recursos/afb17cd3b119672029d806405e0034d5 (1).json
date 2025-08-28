@@ -1,0 +1,110 @@
+[
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "IOF CHEQUE ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "ENC EXCESSO LIMITE",
+    "credito": true,
+    "debito": false,
+    "valor": 1.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2023",
+    "documento": "",
+    "complemento": "JUROS CHEQUE ESP",
+    "credito": true,
+    "debito": false,
+    "valor": 109.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/11/2023",
+    "documento": "1457024610",
+    "complemento": "PAGAMENTO DE PARCELA-CO1457024610",
+    "credito": true,
+    "debito": false,
+    "valor": 1383.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO-PREST S JUND TRANSP SERV LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 15730.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2023",
+    "documento": "",
+    "complemento": "TRANSF ENVIADA PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "IOF CHEQUE ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2023",
+    "documento": "",
+    "complemento": "JUROS CHEQUE ESP",
+    "credito": true,
+    "debito": false,
+    "valor": 4.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2023",
+    "documento": "1457024610",
+    "complemento": "PGTO PARC PARCELA-CO1457024610",
+    "credito": true,
+    "debito": false,
+    "valor": 813.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO-SANDRO GIZZI FIGUEIREDO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "1457024610",
+    "complemento": "PAGAMENTO DE MULTA-CO1457024610",
+    "credito": true,
+    "debito": false,
+    "valor": 11.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2023",
+    "documento": "1457024610",
+    "complemento": "PARC ATRASO CRED PES-CO1457024610",
+    "credito": true,
+    "debito": false,
+    "valor": 558.3,
+    "origem": "Extrato"
+  }
+]

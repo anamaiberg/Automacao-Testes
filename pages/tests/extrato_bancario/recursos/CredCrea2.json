@@ -1,0 +1,1055 @@
+[
+  {
+    "data": "02/09/2019",
+    "documento": "499",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2019",
+    "documento": "235.6",
+    "complemento": "CHEQUE COMP.",
+    "credito": true,
+    "debito": false,
+    "valor": 1630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2019",
+    "documento": "99999.323",
+    "complemento": "IOF S/ C-C",
+    "credito": true,
+    "debito": false,
+    "valor": 39.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2019",
+    "documento": "99999.938",
+    "complemento": "JUROS LIM.CRD",
+    "credito": true,
+    "debito": false,
+    "valor": 80.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2838.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2019",
+    "documento": "655",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2296.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "557",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "558",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1673.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "735.178.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 4293.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2019",
+    "documento": "268.172.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 132.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2019",
+    "documento": "03001629336",
+    "complemento": "DB. SULAMERICA SEGUR.",
+    "credito": true,
+    "debito": false,
+    "valor": 606.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 10552.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2019",
+    "documento": "702",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2019",
+    "documento": "26.647.7",
+    "complemento": "TR.INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2019",
+    "documento": "26.647.7",
+    "complemento": "TR.INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2019",
+    "documento": "05317434264",
+    "complemento": "DB.LIBERTY SE",
+    "credito": true,
+    "debito": false,
+    "valor": 97.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2019",
+    "documento": "969.296.7",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1093.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2019",
+    "documento": "397.209.7",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1648.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 2529.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "928",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "714.325.7",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "10003.077",
+    "complemento": "PG.P/INTERNET - IPVA F1000",
+    "credito": true,
+    "debito": false,
+    "valor": 131.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "10003.078",
+    "complemento": "PG.P/INTERNET - ipva c4",
+    "credito": true,
+    "debito": false,
+    "valor": 151.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "10003.079",
+    "complemento": "PG.P/INTERNET - ipva captiva",
+    "credito": true,
+    "debito": false,
+    "valor": 285.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2019",
+    "documento": "70910154107",
+    "complemento": "CARTAO DEBITO - RESTAURANTE 25",
+    "credito": true,
+    "debito": false,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2325.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2019",
+    "documento": "1.079",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2019",
+    "documento": "10003.716",
+    "complemento": "PG.P/INTERNET - MKRAFT COMERCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 966.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2019",
+    "documento": "10003.717",
+    "complemento": "PG.P/INTERNET - ART 7091800-1",
+    "credito": true,
+    "debito": false,
+    "valor": 85.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "559",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "10002.681",
+    "complemento": "PG.P/INTERNET - COMERCIAL DE MO",
+    "credito": true,
+    "debito": false,
+    "valor": 208.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "10002.682",
+    "complemento": "PG.P/INTERNET - SEGURA SEGURANC",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "10002.683",
+    "complemento": "PG.P/INTERNET - FUNDACAO UNIVER",
+    "credito": true,
+    "debito": false,
+    "valor": 372.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "10002.684",
+    "complemento": "PG.P/INTERNET - REI DOS CARTUCH",
+    "credito": true,
+    "debito": false,
+    "valor": 153.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "10002.685",
+    "complemento": "PG.P/INTERNET - TONHO GAS",
+    "credito": true,
+    "debito": false,
+    "valor": 302.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "1045.722.4",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 665.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2019",
+    "documento": "3",
+    "complemento": "PREST.EMPREST 018/024",
+    "credito": true,
+    "debito": false,
+    "valor": 1097.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2019",
+    "documento": "50913113542",
+    "complemento": "SAQ. BANCO 24H",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2019",
+    "documento": "95781000000",
+    "complemento": "DB.HDI SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 358.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2019",
+    "documento": "96578000000",
+    "complemento": "DB.HDI SEGURO",
+    "credito": true,
+    "debito": false,
+    "valor": 365.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2019",
+    "documento": "617.881.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 4990.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "525",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "903170.938",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 23.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "10000.539",
+    "complemento": "PG.P/INTERNET - SIND TRAB INDS",
+    "credito": true,
+    "debito": false,
+    "valor": 113.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "10000.540",
+    "complemento": "PG.P/INTERNET - BORRACHARIA 7",
+    "credito": true,
+    "debito": false,
+    "valor": 232.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "10000.541",
+    "complemento": "PG.P/INTERNET - SIND TRAB INDS",
+    "credito": true,
+    "debito": false,
+    "valor": 77.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "10000.542",
+    "complemento": "PG.P/INTERNET - SESVALE  ASS. E",
+    "credito": true,
+    "debito": false,
+    "valor": 358.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "10000.543",
+    "complemento": "PG.P/INTERNET - CENTAURO VIDA E",
+    "credito": true,
+    "debito": false,
+    "valor": 152.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "194.494.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2019",
+    "documento": "773.141.8",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1097.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 11956.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "92019070915",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 3220.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "420",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "10001.462",
+    "complemento": "PG.P/INTERNET - UNIMED BLUMENAU",
+    "credito": true,
+    "debito": false,
+    "valor": 2038.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "10001.463",
+    "complemento": "PG.P/INTERNET - Celesc",
+    "credito": true,
+    "debito": false,
+    "valor": 141.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "1045.722.4",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 770.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "10001.464",
+    "complemento": "PG.P/INTERNET - IR Funcionarios",
+    "credito": true,
+    "debito": false,
+    "valor": 97.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "70919160053",
+    "complemento": "CARTAO DEBITO - TIP TIM LANCHES",
+    "credito": true,
+    "debito": false,
+    "valor": 68.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "238.0",
+    "complemento": "CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2019",
+    "documento": "493.6",
+    "complemento": "TR.INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 2600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2019",
+    "documento": "10002.817",
+    "complemento": "PG.P/INTERNET - POSTO BAILER",
+    "credito": true,
+    "debito": false,
+    "valor": 2459.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2019",
+    "documento": "26.647.7",
+    "complemento": "TR.INTERNET",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2019",
+    "documento": "4",
+    "complemento": "PREST.EMPREST 021/036",
+    "credito": true,
+    "debito": false,
+    "valor": 675.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2364.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "154824",
+    "complemento": "TAR.DESC.CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "622",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "10001.085",
+    "complemento": "PG.P/INTERNET - Telefone",
+    "credito": true,
+    "debito": false,
+    "valor": 222.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "804.497.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 816.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3127.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "445",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "446",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 930.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "952.946.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "969.296.7",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2019",
+    "documento": "10001.635",
+    "complemento": "PG.P/INTERNET - 08 2019",
+    "credito": true,
+    "debito": false,
+    "valor": 1069.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2019",
+    "documento": "492",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2019",
+    "documento": "892.238.1",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2019",
+    "documento": "60926162225",
+    "complemento": "CARTAO DEBITO - RESTAURANTE 25",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3769.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "429",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "617.881.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "10001.434",
+    "complemento": "PG.P/INTERNET - Samae Rafael",
+    "credito": true,
+    "debito": false,
+    "valor": 114.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "10001.435",
+    "complemento": "PG.P/INTERNET - COND RES BELIZE",
+    "credito": true,
+    "debito": false,
+    "valor": 565.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2019",
+    "documento": "10001.436",
+    "complemento": "PG.P/INTERNET - 08 2019",
+    "credito": true,
+    "debito": false,
+    "valor": 2133.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "106.060",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 2923.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "80928175227",
+    "complemento": "CARTAO DEBITO - FARMACIA PRECO POPULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 28.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "441",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 1.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.779",
+    "complemento": "PG.P/INTERNET - OFICINA MECANIC",
+    "credito": true,
+    "debito": false,
+    "valor": 159.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.780",
+    "complemento": "PG.P/INTERNET - BLUMOB CONC TRA",
+    "credito": true,
+    "debito": false,
+    "valor": 193.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.781",
+    "complemento": "PG.P/INTERNET - SEGURA SEGURANC",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.782",
+    "complemento": "PG.P/INTERNET - dpvat c4",
+    "credito": true,
+    "debito": false,
+    "valor": 16.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "3.457",
+    "complemento": "PG.P/INTERNET - GPS - IDENTIFICADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 590.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.784",
+    "complemento": "PG.P/INTERNET - dpvat captiva",
+    "credito": true,
+    "debito": false,
+    "valor": 16.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "975.693.0",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "928.136.3",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "926.542.2",
+    "complemento": "TRANSF.INTERC",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "10001.785",
+    "complemento": "PG.P/INTERNET - PARCELA 30",
+    "credito": true,
+    "debito": false,
+    "valor": 352.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2019",
+    "documento": "239.9",
+    "complemento": "CHEQUE COMP.",
+    "credito": true,
+    "debito": false,
+    "valor": 327.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "data": "01/12/2020",
+    "documento": "COB000001",
+    "complemento": " Saldo Anterior   LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 327.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2020",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1612.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2020",
+    "documento": "VE0884243",
+    "complemento": "COMPRAS NACIONAIS DERMAVITABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 818.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2020",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 26653800059 ANAREGINA RIGO SANDRI",
+    "credito": true,
+    "debito": false,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 214.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "167323382",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 505.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "167323390",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 502.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "VE0607991",
+    "complemento": "COMPRAS NACIONAIS MILIUMBRUSQUE BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 31.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "I01812",
+    "complemento": "DEBITO TED/IB 18943755000195ALCIR DE OLIVEIRA M",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "202122",
+    "complemento": "ESTORNO T.E.D.",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "VE0780815",
+    "complemento": "COMPRAS NACIONAIS SALADARIABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "VE0858291",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 59.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "VE0174253",
+    "complemento": "COMPRAS NACIONAIS TRUFFA DICACAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2020",
+    "documento": "SI01405",
+    "complemento": "TRANSF ENTRE CONTAS00985788984 CAMILA MAZIERO",
+    "credito": false,
+    "debito": true,
+    "valor": 1671.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "167521662",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 1297.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "167521667",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 492.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "SI00792",
+    "complemento": "TRANSF ENTRE CONTAS18797393000171 BOCA MOTORS C",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 01834664039MARCELE DE MATTOS KN",
+    "credito": false,
+    "debito": true,
+    "valor": 1391.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 97025739049GRACIELA ZANKOSKI",
+    "credito": false,
+    "debito": true,
+    "valor": 884.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "",
+    "complemento": "TRANSF ENTRE CONTAS DGTRANSF ENTRE CONTAS DG TRANSFDIG",
+    "credito": false,
+    "debito": true,
+    "valor": 483.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "I02609",
+    "complemento": "DEBITO TED/IB 09686378000165LINHARES FISIOTERAP",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 07963127965MARIANA SALOMAO TOZZ",
+    "credito": false,
+    "debito": true,
+    "valor": 117.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/12/2020",
+    "documento": "191002660",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 482.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "167783445",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 976.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "167783451",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 337.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4740.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 5005.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "167973557",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 881.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "I00671",
+    "complemento": "DEBITO TED/IB 01666869058GABRIELI BORTOLI DALCI",
+    "credito": true,
+    "debito": false,
+    "valor": 9681.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS SKYSERT-C",
+    "credito": true,
+    "debito": false,
+    "valor": 475.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "VE0653222",
+    "complemento": "COMPRAS NACIONAIS FARMACIADEHON BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 434.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "VE0951483",
+    "complemento": "COMPRAS NACIONAIS SALADARIABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 42.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "VE0991456",
+    "complemento": "COMPRAS NACIONAIS SALADARIABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 21.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "VE0146221",
+    "complemento": "COMPRAS NACIONAIS DALCENTERMATERIAL HOS BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 87.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 199.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "201004130",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 1504.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "CX839946",
+    "complemento": "RECEBIMENTO PIX SICREDI02064526080 LETICIA FARI",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "I06471",
+    "complemento": "DEBITO TED/IB 04470103000176BIOTECNO INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 145.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "VE0780071",
+    "complemento": "COMPRAS NACIONAIS ESPETINHODO XIRU BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 47.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2020",
+    "documento": "COB000002",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01666869058GABRIELI BORTOLI DALCI",
+    "credito": true,
+    "debito": false,
+    "valor": 970.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1504.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "COB000003",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0968253",
+    "complemento": "COMPRAS NACIONAIS CASAS DAAGUA BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 12.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0999253",
+    "complemento": "COMPRAS NACIONAIS SA TINTASBRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0247407",
+    "complemento": "COMPRAS NACIONAIS SA TINTASBRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 39.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0147583",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 74.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0475235",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 50.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "168154045",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 372.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "168154052",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 728.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "TARIFA CHEQUE CUSTODIA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "168419549",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 308.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "168419546",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 3763.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "PLANO INT CAPITAL COTA",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "I01682",
+    "complemento": "DEBITO TED/IB 13790918000123CENTRO DE ESTETICA",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0842309",
+    "complemento": "COMPRAS NACIONAIS MAGNACLINICA DE VAC BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0958993",
+    "complemento": "COMPRAS NACIONAIS POSTO MIME05 BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 8.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS TIMCEL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 66.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 936.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "SI04327",
+    "complemento": "TRANSF ENTRE CONTAS01513005006 LUCIARA BORCHART",
+    "credito": false,
+    "debito": true,
+    "valor": 402.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "I06087",
+    "complemento": "DEBITO TED/IB 95940120059 JACINTABEATRIZ DA SIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1669.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0552293",
+    "complemento": "COMPRAS NACIONAIS ANASTACIODIETRICH BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 159.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0567762",
+    "complemento": "COMPRAS NACIONAIS GRIPA BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0728523",
+    "complemento": "COMPRAS NACIONAIS TRUFFA DICACAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "CE2606037",
+    "complemento": "SAQUE TERMINAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0832214",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 94.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2020",
+    "documento": "VE0836750",
+    "complemento": "COMPRAS NACIONAIS RAIA 373BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 215.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "168582459",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 489.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "COB000005",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 8124.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2434.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "168762455",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 1089.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "VE0154715",
+    "complemento": "COMPRAS NACIONAIS BETOCHAVEIRO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "I03176",
+    "complemento": "DEBITO TED/IB 01666869058GABRIELI BORTOLI DALCI",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "VE0652644",
+    "complemento": "COMPRAS NACIONAIS CASABRANCA BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "VE0674837",
+    "complemento": "COMPRAS NACIONAIS FA LANCHESBrusq",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 470.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "COB000004",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 6.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "VE0897190",
+    "complemento": "COMPRAS NACIONAIS LIVR PAPGRAF BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 15.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "VE0917608",
+    "complemento": "COMPRAS NACIONAIS JUSSARASBARDELATI WIL BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 6.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "VE0938007",
+    "complemento": "COMPRAS NACIONAIS POSTO RRPADRAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 12.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2020",
+    "documento": "VE0963890",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 69.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "VE0433579",
+    "complemento": "COMPRAS NACIONAIS POSTO RRPADRAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "VE0456716",
+    "complemento": "COMPRAS NACIONAIS SALADARIABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 112.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "192224573",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 146.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 24380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2020",
+    "documento": "VE0294296",
+    "complemento": "COMPRAS NACIONAISBESTBURGUER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 118.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3347.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "169736712",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 118.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "VE0490648",
+    "complemento": "COMPRAS NACIONAIS POSTO MIME05 BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 8.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 95480242091DENI NEUHAUS",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "VE0109330",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 32.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ALGARTE G",
+    "credito": true,
+    "debito": false,
+    "valor": 177.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94062137020MARCELO RIGO SANDRI",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "COB000006",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2020",
+    "documento": "AOV000163",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 1137.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2829.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 539.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0759837",
+    "complemento": "COMPRAS NACIONAIS ACOUGUEARMAZEM D BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 57.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0947911",
+    "complemento": "COMPRAS NACIONAIS ZARA BRASIL6937 BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 239.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0957063",
+    "complemento": "COMPRAS NACIONAIS CROCSBALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0976823",
+    "complemento": "COMPRAS NACIONAIS SHOPPINGPARK BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0984132",
+    "complemento": "COMPRAS NACIONAIS P AVENIDADAS FLO BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 10.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0063240",
+    "complemento": "COMPRAS NACIONAIS QUEIJOCOMPANHIA BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 43.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0074625",
+    "complemento": "COMPRAS NACIONAIS RAIA 373BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 17.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0077149",
+    "complemento": "COMPRAS NACIONAISBRUSKENTINHO Brusq",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "169931911",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 303.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "169931944",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 851.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "884793579",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 26095.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "I00861",
+    "complemento": "DEBITO TED/IB 01666869058GABRIELI BORTOLI DALCI",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "NCX000293",
+    "complemento": "DEP DINHEIRO 13790918000123CENTRO DE ESTETICA S",
+    "credito": false,
+    "debito": true,
+    "valor": 22500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0455330",
+    "complemento": "COMPRAS NACIONAIS GRUPO TAKAITAKAI BR BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 54.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0498642",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 9.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3899.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 299.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3076.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 87.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 102.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "CE2606073",
+    "complemento": "SAQUE TERMINAL",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "VE0815998",
+    "complemento": "COMPRAS NACIONAIS TRUFFA DICACAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 09334781947YASMIN ALMEIDA KLAS",
+    "credito": false,
+    "debito": true,
+    "valor": 372.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "170366315",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 93.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ID000004003005946 SUL AMERICA SULAMERIC",
+    "credito": true,
+    "debito": false,
+    "valor": 281.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2642.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3156.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "170547944",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 2921.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "VE0400143",
+    "complemento": "COMPRAS NACIONAIS DALCENTERMATERIAL HOS BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 112.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "VE0600225",
+    "complemento": "COMPRAS NACIONAIS AROMASBRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 42.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "VE0624690",
+    "complemento": "COMPRAS NACIONAIS ESTACAOMULHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 99.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "SI02081",
+    "complemento": "TRANSF ENTRE CONTAS18797393000171 BOCA MOTORS C",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2020",
+    "documento": "VE0143228",
+    "complemento": "COMPRAS NACIONAIS TRUFFA DICACAO BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "170685989",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 220.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "170685978",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1374.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 820.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "324887256",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "442710135",
+    "complemento": "DEP CHEQUE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "VE0347310",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCARCHER BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 71.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2020",
+    "documento": "COB000020",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "171020280",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 147.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "171207121",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 990.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "171207126",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 1181.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "VE0604816",
+    "complemento": "COMPRAS NACIONAIS PET CENTERBRUSQUE BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 37.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "VE0634588",
+    "complemento": "COMPRAS NACIONAIS BISTEKSUPERMERCADOS BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "VE0640378",
+    "complemento": "COMPRAS NACIONAIS BISTEKSUPERMERCADOS BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 154.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "VE0803205",
+    "complemento": "COMPRAS NACIONAIS SALADARIABRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 199.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "SI05381",
+    "complemento": "TRANSF ENTRE CONTAS18797393000171 BOCA MOTORS C",
+    "credito": true,
+    "debito": false,
+    "valor": 23000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 286.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2020",
+    "documento": "COB000003",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 6156.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "VE0796270",
+    "complemento": "COMPRAS NACIONAIS OSNILRUFINO DE SIQU BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "VE0802337",
+    "complemento": "COMPRAS NACIONAIS LOJASOUTLET BRASIL BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 62.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "VE0849783",
+    "complemento": "COMPRAS NACIONAIS GRUPO TAKAITAKAI BR BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94062137020MARCELO RIGO SANDRI",
+    "credito": true,
+    "debito": false,
+    "valor": 252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00947595961BARBARA PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 84.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "SI01769",
+    "complemento": "TRANSF ENTRE CONTAS18797393000171 BOCA MOTORS C",
+    "credito": false,
+    "debito": true,
+    "valor": 6824.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "VE0216354",
+    "complemento": "COMPRAS NACIONAIS ZENDRONMULTIMARCAS BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4780.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4907.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "202300137",
+    "complemento": "LIQ.BLOQUETOS - SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "DEBITO GPS PAGTO GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 130.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "PAGAMENTO CONVENIO DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 6554.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 658.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 100.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "",
+    "complemento": "DEBITO GPS PAGTO GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 30.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "CE2606074",
+    "complemento": "SAQUE TERMINAL",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2020",
+    "documento": "VE0885539",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI BRUSQ",
+    "credito": true,
+    "debito": false,
+    "valor": 41.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1129.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 02593942037EDUARDO ANDRES",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "171735293",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 981.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "171735289",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1024.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "B90631766",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 1164.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "172023787",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 117.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3482.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "SI05060",
+    "complemento": "TRANSF ENTRE CONTAS43571131991 CAROLINA DESPLAN",
+    "credito": true,
+    "debito": false,
+    "valor": 329.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "397984731",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "397984774",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 876.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "AOV000144",
+    "complemento": "DEBITO CHEQUE",
+    "credito": true,
+    "debito": false,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "465752730",
+    "complemento": "DEP CHEQUE",
+    "credito": false,
+    "debito": true,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "VE0764287",
+    "complemento": "COMPRAS NACIONAIS POSTOTIARAJU SANTO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "AOV000172",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 203.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2020",
+    "documento": "AOV000170",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 422.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2020",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1994.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2020",
+    "documento": "397988788",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2020",
+    "documento": "COB000003",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2020",
+    "documento": "AOV000168",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DE BLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 299.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2020",
+    "documento": "374042",
+    "complemento": "TED 24366480000 MARIA C CUOZZO",
+    "credito": false,
+    "debito": true,
+    "valor": 2950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2020",
+    "documento": "331287307",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2020",
+    "documento": "465749119",
+    "complemento": "DEP CHEQUE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 1890.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2020",
+    "documento": "SI00013",
+    "complemento": "TRANSF ENTRE CONTAS23472669004 DORA MARIA DORNE",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00023804041EDUARDO RIGO SANDRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2020",
+    "documento": "V74270352",
+    "complemento": "DEP.CUST.BLOQ.24HS",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00023804041EDUARDO RIGO SANDRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "I00285",
+    "complemento": "DEBITO TED/IB 06428170906 DAIANASEBASTIANA SILV",
+    "credito": true,
+    "debito": false,
+    "valor": 1260.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00023804041EDUARDO RIGO SANDRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "331306581",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "331306611",
+    "complemento": "DEP DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2020",
+    "documento": "AOV000153",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 3043.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2020",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 699.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00023804041EDUARDO RIGO SANDRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2020",
+    "documento": "COB000001",
+    "complemento": "TARIFA SERV.COBR.TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2020",
+    "documento": "174323928",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1069.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2020",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 462.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2020",
+    "documento": "198369",
+    "complemento": "TED 00711106070 JAQUELINE DELIMA KASPPER",
+    "credito": false,
+    "debito": true,
+    "valor": 232.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2020",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 00023804041EDUARDO RIGO SANDRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  }
+]

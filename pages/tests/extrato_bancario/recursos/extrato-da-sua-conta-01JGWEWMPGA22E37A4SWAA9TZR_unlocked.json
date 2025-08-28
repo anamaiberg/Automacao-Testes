@@ -1,0 +1,335 @@
+[
+  {
+    "data": "01/12/2024",
+    "documento": "",
+    "complemento": "Debito De Cartao",
+    "credito": true,
+    "debito": false,
+    "valor": 208.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2024",
+    "documento": "",
+    "complemento": "Debito De Cartao",
+    "credito": true,
+    "debito": false,
+    "valor": 47.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "",
+    "complemento": "Pix enviado para CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 111.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "Debito De Cartao",
+    "credito": true,
+    "debito": false,
+    "valor": 110.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de DIANA BORSATTO",
+    "credito": false,
+    "debito": true,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "CRED LOJ - CARTAO CR",
+    "credito": false,
+    "debito": true,
+    "valor": 323.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2024",
+    "documento": "",
+    "complemento": "Debito De Cartao",
+    "credito": true,
+    "debito": false,
+    "valor": 124.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2024",
+    "documento": "",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2024",
+    "documento": "",
+    "complemento": "Pix enviado para 53 372 509 FRANCINI EDINA SANTOS PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 460.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 90.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 443.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido c6 de TECNUTRIS",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "Debito De Cartao",
+    "credito": true,
+    "debito": false,
+    "valor": 95.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de JOICE PEREIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de PATRICIA KAULING RIZZETO",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de Laura Roberta Moreira",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "PGTO FAT CARTAO C6",
+    "credito": true,
+    "debito": false,
+    "valor": 123.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de DAYANE DE SOUZA SOUZA SCHWARTZ",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "SEGURO CONTA C6",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de ANGELA SEIFERT",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 29.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 135.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 437.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 98.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 91.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 164.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 779.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 75.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 139.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de Maria Eduarda Herzog Coutinho",
+    "credito": false,
+    "debito": true,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "Pix enviado para IMOBILIARIA E ADVOCACIA NITZ SC LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2365.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": "",
+    "complemento": "Pix recebido de Maria Eduarda Herzog Coutinho",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": "",
+    "complemento": "PGTO DE BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 445.54,
+    "origem": "Extrato"
+  }
+]

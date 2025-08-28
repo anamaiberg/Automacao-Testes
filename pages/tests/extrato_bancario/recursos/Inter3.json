@@ -1,0 +1,659 @@
+[
+  {
+    "data": "01/09/2022",
+    "documento": null,
+    "complemento": "Barril 514 Moema Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": null,
+    "complemento": "Luiz Carlos Gomes Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2022",
+    "documento": null,
+    "complemento": "Gbancas Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2022",
+    "documento": null,
+    "complemento": "Pao Da Praca Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 48.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/09/2022",
+    "documento": null,
+    "complemento": "Hilaria Aparecida Bento Feliciano",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2022",
+    "documento": null,
+    "complemento": "Kero Kero Lanches Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 51.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 8.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": null,
+    "complemento": "Minas Shopping Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 8.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2022",
+    "documento": null,
+    "complemento": "Restaurante E Churrasc Nova Era Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2022",
+    "documento": null,
+    "complemento": "Horizont Bra  Clube Do Acai Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/09/2022",
+    "documento": null,
+    "complemento": "Minas Master Alimentac Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": null,
+    "complemento": "Pagamento CEMIG CEMIG DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 336.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": null,
+    "complemento": "Pagamento Prefeitura de BH PM BELO HORIZONTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1051.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": null,
+    "complemento": "UNIAO BRASILEIRA DE EDUCACAO E ENSINO",
+    "credito": true,
+    "debito": false,
+    "valor": 1482.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": null,
+    "complemento": "CONDOMINIO RESIDENCIAL CASTANHEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 857.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 8.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": null,
+    "complemento": "Minas Master Alimentac Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 16.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": null,
+    "complemento": "Restaurante Trevo I Bom Jesus Do Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 26.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": null,
+    "complemento": "Tharic Caldeira Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Pag*elainemariados Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 73.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Horizont Bra  Estapar Clube Minas Te Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Minas Master Alimentac Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 64.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Minas Master Alimentac Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 63.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Leandro Jakson Gomes",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/09/2022",
+    "documento": null,
+    "complemento": "Tharic Caldeira Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2022",
+    "documento": null,
+    "complemento": "Minas Master Alimentac Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 55.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2022",
+    "documento": null,
+    "complemento": "Pag*soulcaipicomercio Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2022",
+    "documento": null,
+    "complemento": "Saque Banco 24 horas",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2022",
+    "documento": null,
+    "complemento": "Pao Da Praca Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 23.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": null,
+    "complemento": "Vipseg Seguranca E Monitoramento E. Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 1650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": null,
+    "complemento": "E C Pereira Empreendimentos",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": null,
+    "complemento": "Fatura cartão Inter",
+    "credito": true,
+    "debito": false,
+    "valor": 5143.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": null,
+    "complemento": "CONDOMINIO DO EDIFICIO OXIDIANA",
+    "credito": true,
+    "debito": false,
+    "valor": 1017.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2022",
+    "documento": null,
+    "complemento": "Cashback Cartão de crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 12.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": null,
+    "complemento": "MINAS TENIS CLUBE",
+    "credito": true,
+    "debito": false,
+    "valor": 1426.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2022",
+    "documento": null,
+    "complemento": "Leonardo De Castro Carmo",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2022",
+    "documento": null,
+    "complemento": "Drogaria Mafra Ipatinga Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2022",
+    "documento": null,
+    "complemento": "Parada Facil V.do Aco Ipatinga Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2022",
+    "documento": null,
+    "complemento": "Luiz Carlos Gomes Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2022",
+    "documento": null,
+    "complemento": "Sorveteria Salada Ipatinga Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 47.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/09/2022",
+    "documento": null,
+    "complemento": "Elisandro Aparecido Freitas Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 411.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2022",
+    "documento": null,
+    "complemento": "Cimas Comercio De Alim Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 105.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": null,
+    "complemento": "Alianca Vila 2000 Volta Redonda Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": null,
+    "complemento": "Eydher Antonio Paulo Queiroz Freitas",
+    "credito": true,
+    "debito": false,
+    "valor": 525.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": null,
+    "complemento": "CULTURA INGLESA MG LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 361.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": null,
+    "complemento": "DARF NUMERADO",
+    "credito": true,
+    "debito": false,
+    "valor": 543.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": null,
+    "complemento": "Hydac Tecnologia Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 13940.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": null,
+    "complemento": "Tharic Caldeira Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": null,
+    "complemento": "DARF NUMERADO",
+    "credito": true,
+    "debito": false,
+    "valor": 375.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2022",
+    "documento": null,
+    "complemento": "Moog Do Brasil Controles Ltda",
+    "credito": false,
+    "debito": true,
+    "valor": 14948.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": null,
+    "complemento": "Tharic Caldeira Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": null,
+    "complemento": "Bristol Hotel Santo Andre Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": null,
+    "complemento": "DARF NUMERADO",
+    "credito": true,
+    "debito": false,
+    "valor": 273.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": null,
+    "complemento": "DARF NUMERADO",
+    "credito": true,
+    "debito": false,
+    "valor": 1261.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2022",
+    "documento": null,
+    "complemento": "Pag*adailtonjosedos Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 23.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2022",
+    "documento": null,
+    "complemento": "Estapar Clube Minas Te Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/09/2022",
+    "documento": null,
+    "complemento": "Clube Do Acai Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2022",
+    "documento": null,
+    "complemento": "Pag*mepayﬁnancial Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2022",
+    "documento": null,
+    "complemento": "Minas Tenis Nautico Nova Lima Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2022",
+    "documento": null,
+    "complemento": "Pag*mepayﬁnancial Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 83.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2022",
+    "documento": null,
+    "complemento": "Pag*mepayﬁnancial Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Mercado Central Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Saque Banco 24 horas",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Loja Da Katia Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 26.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Central Das Pimentas Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 86.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Agencia W M O Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": null,
+    "complemento": "Drogaria Araujo F 152 Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 38.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2022",
+    "documento": null,
+    "complemento": "Sheila Mundim Decoracao De Interiores",
+    "credito": true,
+    "debito": false,
+    "valor": 404.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2022",
+    "documento": null,
+    "complemento": "E C Pereira Empreendimentos",
+    "credito": true,
+    "debito": false,
+    "valor": 9999.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2022",
+    "documento": null,
+    "complemento": "Drogaria Araujo F 152 Belo Horizont Bra",
+    "credito": true,
+    "debito": false,
+    "valor": 33.33,
+    "origem": "Extrato"
+  }
+]

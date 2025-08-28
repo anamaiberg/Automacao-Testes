@@ -1,3 +1,8 @@
+import os
+import json
+import time
+import glob
+import pytest
 from playwright.sync_api import Page, expect
 
 from pages.extrato_bancario.automation_page import AutomationPage
@@ -16,53 +21,120 @@ def carregar_extrato_bancario(page: Page, extrato: str):
     extrato_bancario_page.executar()
     extrato_bancario_page.esperar_lancamento()
 
+# Parâmetro: cada PDF vira 1 teste!
+base = os.path.dirname(__file__)
+recursos = os.path.join(base, "recursos")
+arquivos_pdf = [
+    f for f in os.listdir(recursos) if f.endswith(".pdf")
+]
 
-def test_access_extrato_bancario(page: Page):
+@pytest.mark.parametrize("pdf_file", arquivos_pdf)
+def test_access_extrato_bancario(page, pdf_file):
+    pdf_path = os.path.join(recursos, pdf_file)
+    json_path = pdf_path.replace(".pdf", ".json")
 
-    dados_esperados = [
-        ["01/11/2024", "", "51", 32.02, "92137463482", "Pagamento com QR Pix BUSCH CONVENIENCIA", "Extrato"],
-        ["02/11/2024", "", "51", 10.80, "91872709809", "Transferência Pix enviada LEONARDO SCHUTZ NETO", "Extrato"],
-        ["02/11/2024", "", "51", 26.93, "92217801842", "Pagamento com QR Pix BUSCH CONVENIENCIA", "Extrato"],
-        ["04/11/2024", "", "51", 89.01, "91687919980", "Pagamento com código QR Pix cancelado Igor LeÃ§a da Paz", "Extrato"],
-        ["05/11/2024", "", "51", 920.00, "92123827001", "Transferência Pix enviada GRAZIELA FLONISIA SCHUTZ", "Extrato"],
-        ["05/11/2024", "", "51", 400.00, "92514549550", "Transferência Pix enviada JULIANE OLIVEIRA BARRETO", "Extrato"],
-        ["08/11/2024", "", "51", 624.06, "92772965048", "Pagamento de contas Confederação Nacional das Cooperativas Centrais Unicred Ltda –...", "Extrato"],
-        ["09/11/2024", "", "51", 430.00, "92895212530", "Transferência Pix enviada Suze Maria Pedro", "Extrato"],
-        ["10/11/2024", "", "51", 27.00, "92998918714", "Pagamento com QR Pix Kiwify Pagamentos, Tecnologia e Servicos Ltda", "Extrato"],
-        ["12/11/2024", "", "51", 280.00, "92811506491", "Transferência Pix enviada BAZIL E SILVA COMERCIO E LOCACAO DE QUADRA LTDA", "Extrato"],
-        ["12/11/2024", "", "51", 10.00, "93139664552", "Transferência Pix enviada I C DOS SANTOS ALMEIDA LTDA", "Extrato"],
-        ["12/11/2024", "51", "", 27.00, "92998918714", "Transferência cancelada Kiwify Pagamentos, Tecnologia e Servicos Ltda", "Extrato"],
-        ["12/11/2024", "", "51", 500.00, "92876429925", "Transferência Pix enviada ELANE DE OLIVEIRA PEREIRA", "Extrato"],
-        ["14/11/2024", "", "51", 67.00, "93088672653", "Pagamento com QR Pix Kiwify Pagamentos, Tecnologia e Servicos Ltda", "Extrato"],
-        ["17/11/2024", "", "51", 750.00, "93649460420", "Transferência Pix enviada JANSER OLIVEIRA BARRETO", "Extrato"],
-        ["19/11/2024", "", "51", 170.00, "93840441288", "Transferência Pix enviada CRISTOVAM SIQUEIRA", "Extrato"],
-        ["21/11/2024", "51", "", 67.00, "93088672653", "Transferência cancelada", "Extrato"],
-        ["22/11/2024", "", "51", 40.00, "93807442857", "Pagamento com QR Pix NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC BR", "Extrato"]
-    ]
+    assert os.path.exists(json_path), f"JSON de comparação não encontrado para {pdf_file}"
 
-    with page.expect_response(
-            lambda response: "/api/extratos-bancarios/ler-extrato" in response.url and response.status == 200) as resp_info:
-            carregar_extrato_bancario(page, "pages/tests/extrato_bancario/recursos/Extrato mercado pago.pdf")
+    with open(json_path, encoding="utf-8") as f:
+        dados_esperados = json.load(f)
+
+    # Captura a resposta real ao abrir o extrato
+    with page.expect_response(lambda r: "/api/extratos-bancarios/ler-extrato" in r.url and r.status == 200) as resp_info:
+        carregar_extrato_bancario(page, pdf_path)
 
     response = resp_info.value
     json_data = response.json()
     lancamentos = json_data["dadosTelaExtratos"]
 
-    assert len(lancamentos) == len(dados_esperados), f"Esperava {len(dados_esperados)} lançamentos, mas vieram {len(lancamentos)}"
+    assert len(lancamentos) == len(dados_esperados), f"Qtd diferente: esperado {len(dados_esperados)}, veio {len(lancamentos)}"
 
     for i, esperado in enumerate(dados_esperados):
         item = lancamentos[i]
+        assert item["data"] == esperado["data"]
+        assert item["documento"] == esperado["documento"]
+        assert item["complemento"] == esperado["complemento"]
+        assert (item["credito"] is not None) == esperado["credito"]
+        assert (item["debito"] is not None) == esperado["debito"]
+        assert float(item["valor"]) == float(esperado["valor"])
+        assert item["origem"] == esperado["origem"]
 
-        assert item["data"] == esperado[0], f"Linha {i + 1} Data: esperado '{esperado[0]}', obtido '{item['data']}'"
-        if item["debito"] is not None:
-            assert esperado[1] == "51", f"Linha {i + 1} deveria ter débito"
-            assert esperado[2] == "", f"Linha {i + 1} não deveria ter crédito"
-        elif item["credito"] is not None:
-            assert esperado[1] == "", f"Linha {i + 1} não deveria ter débito"
-            assert esperado[2] == "51", f"Linha {i + 1} deveria ter crédito"
-        else:
-            raise AssertionError(f"Linha {i + 1} não tem débito nem crédito!")
-        assert item["valor"] == esperado[3], f"Linha {i + 1} Documento: esperado '{esperado[3]}', obtido '{item['documento']}'"
-        assert item["documento"] == esperado[4], f"Linha {i + 1} Documento: esperado '{esperado[4]}', obtido '{item['documento']}'"
-        assert item["complemento"] == esperado[5], f"Linha {i + 1} Documento: esperado '{esperado[5]}', obtido '{item['documento']}'"
-        assert item["origem"] == esperado[6], f"Linha {i + 1} Origem: esperado '{esperado[6]}', obtido '{item['origem']}'"
+        #comparação dos lançamentos do início, meio e fim da grid com os dados esperados
+        # === Validação dos lançamentos no grid ===
+
+'''
+        quantidade_ui = page.locator("span", has_text="Quantidade").inner_text()
+        quantidade_ui_num = int(quantidade_ui.split(":")[1].strip())
+        assert quantidade_ui_num == len(lancamentos), f"Quantidade exibida: {quantidade_ui_num} != {len(lancamentos)}"
+
+        linhas_locator = page.locator("//tbody/tr[contains(@class, 'dx-data-row')]")
+        assert linhas_locator.count() > 0, "A grid não tem linhas!"
+        scrollable = page.locator("#extrato-grid-lancamentos .dx-scrollable-container")
+
+        total_linhas = linhas_locator.count()
+        blocos = [
+            range(0, 5),
+            range(total_linhas // 2, total_linhas // 2 + 5),
+            range(total_linhas - 5, total_linhas)
+        ]
+
+        for bloco in blocos:
+            for idx_bloco in bloco:
+                linha = linhas_locator.nth(idx_bloco)
+
+                try:
+                    linha.scroll_into_view_if_needed(timeout=2000)
+                except:
+                    # fallback: scroll manual na div, caso precise
+                    page.eval_on_selector(
+                        "#extrato-grid-lancamentos .dx-scrollable-container",
+                        f"(el) => el.scrollTop = {idx_bloco * 34}"  
+                    )
+                    time.sleep(0.2)  
+
+                colunas = linha.locator("td")
+
+                data_ui = colunas.nth(1).inner_text().strip()
+                debito_ui = colunas.nth(2).inner_text().strip()
+                credito_ui = colunas.nth(3).inner_text().strip()
+                valor_ui = colunas.nth(4).inner_text().strip()
+                documento_ui = colunas.nth(5).inner_text().strip()
+                complemento_ui = colunas.nth(6).inner_text().strip()
+                origem_ui = colunas.nth(7).inner_text().strip()
+
+                # Faz o match dinâmico
+                candidatos = [
+                    e for e in dados_esperados if e[0] == data_ui and e[5] == complemento_ui
+                ]
+                assert candidatos, f"Nenhum lançamento esperado bate com data '{data_ui}' e complemento '{complemento_ui}'"
+                esperado = candidatos[0]
+
+                # Valida campos
+                assert data_ui == esperado[0], f"Grid Linha {idx_bloco + 1}: Data esperado '{esperado[0]}', obtido '{data_ui}'"
+
+                if debito_ui:
+                    assert esperado[1] == "51", f"Grid Linha {idx_bloco + 1}: deveria ter débito"
+                    assert esperado[2] == "", f"Grid Linha {idx_bloco + 1}: não deveria ter crédito"
+                elif credito_ui:
+                    assert esperado[1] == "", f"Grid Linha {idx_bloco + 1}: não deveria ter débito"
+                    assert esperado[2] == "51", f"Grid Linha {idx_bloco + 1}: deveria ter crédito"
+                else:
+                    raise AssertionError(f"Grid Linha {idx_bloco + 1}: Nenhum débito/crédito")
+
+                # Valor: parse exato!
+                valor_float = float(
+                    valor_ui.replace("R$", "")
+                    .replace("\xa0", "")
+                    .replace(".", "")
+                    .replace(",", ".")
+                    .strip()
+                )
+                assert valor_float == esperado[
+                    3], f"Grid Linha {idx_bloco + 1}: Valor esperado '{esperado[3]}', obtido '{valor_float}'"
+
+                assert documento_ui == esperado[
+                    4], f"Grid Linha {idx_bloco + 1}: Documento esperado '{esperado[4]}', obtido '{documento_ui}'"
+                assert complemento_ui == esperado[
+                    5], f"Grid Linha {idx_bloco + 1}: Complemento esperado '{esperado[5]}', obtido '{complemento_ui}'"
+                assert origem_ui == esperado[
+                    6], f"Grid Linha {idx_bloco + 1}: Origem esperado '{esperado[6]}', obtido '{origem_ui}'"
+'''

@@ -1,0 +1,794 @@
+[
+  {
+    "data": "01/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "XXX855669",
+    "complemento": "Crédito Pix - JOAO PEDRO CLIVATI D",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "Suprível",
+    "complemento": "Liq. Eletrônica IB - SUPRIVEL PAPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 282.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2024",
+    "documento": "Contabilid",
+    "complemento": "Liq. Eletrônica IB - ABRILCON CONTA",
+    "credito": true,
+    "debito": false,
+    "valor": 597.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2024",
+    "documento": "XXX680639",
+    "complemento": "Crédito Pix - MARLLON PILLA HARTER",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "02558157",
+    "complemento": "Pagamento Pix - SM OTORRINOLARINGOL",
+    "credito": true,
+    "debito": false,
+    "valor": 82.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "76535764",
+    "complemento": "Pagamento Pix - OI S.A. - EM RECUPE",
+    "credito": true,
+    "debito": false,
+    "valor": 147.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "00360305",
+    "complemento": "Pagamento Pix - CAIXA ECONOMICA FED",
+    "credito": true,
+    "debito": false,
+    "valor": 475.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "Nutricard",
+    "complemento": "Liq. Eletrônica IB - NUTRICARD A B",
+    "credito": true,
+    "debito": false,
+    "valor": 1366.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "Cond",
+    "complemento": "Liq. Eletrônica IB - CONDOMINIO EDI",
+    "credito": true,
+    "debito": false,
+    "valor": 805.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "Estéril e",
+    "complemento": "Liq. Eletrônica IB - STERILE SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 271.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "XXX609669",
+    "complemento": "Débito Pix - Flávia Naiane Schere",
+    "credito": true,
+    "debito": false,
+    "valor": 1922.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "XXX255809",
+    "complemento": "Débito Pix - LUANA VANESSA PADILH",
+    "credito": true,
+    "debito": false,
+    "valor": 3976.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "XXX428429",
+    "complemento": "Déb Pix entre ctas - LEANDRO PESSI",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2024",
+    "documento": "XXX413409",
+    "complemento": "Débito Pix - Maria da Conceição A",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "435228",
+    "complemento": "Ted - CONSORCIO INTERMUNIC",
+    "credito": false,
+    "debito": true,
+    "valor": 497.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 637.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "XXX513759",
+    "complemento": "Crédito Pix - AMILTON PEREIRA DA S",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "XXX537339",
+    "complemento": "Crédito Pix - MARCOS CEZAR DEOTTI",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "XXX020010",
+    "complemento": "Crédito Pix - Roselaine Rien Casti",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2024",
+    "documento": "XXX764310",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Mastercard Créd",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "78105475",
+    "complemento": "Crédito Pix - ASSOCIACAO DE MICRO",
+    "credito": false,
+    "debito": true,
+    "valor": 545.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "201820",
+    "complemento": "Transf entre C/C - CAROLINA FERRAZ",
+    "credito": true,
+    "debito": false,
+    "valor": 8602.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "XXX260209",
+    "complemento": "Crédito Pix - Noemi Mori Menegotto",
+    "credito": false,
+    "debito": true,
+    "valor": 18525.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2024",
+    "documento": "18851177",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 1271.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 475.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Maestro Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2024",
+    "documento": "00959046",
+    "complemento": "Débito Pix - OTT MEDICAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2779.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "0000078944",
+    "complemento": "Pgto Copel - COPEL_DEB AUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 518.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Mastercard Créd",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "XXX609669",
+    "complemento": "Débito Pix - Flávia Naiane Schere",
+    "credito": true,
+    "debito": false,
+    "valor": 255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2024",
+    "documento": "247855",
+    "complemento": "Crédito Transf C/C - FUNDACAO ASSIS",
+    "credito": false,
+    "debito": true,
+    "valor": 4800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "24996933",
+    "complemento": "Crédito Pix - Clinica Medica Gabri",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "XXX985366",
+    "complemento": "Crédito Pix - CAMILA FAJARDO PEREI",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "XXX403789",
+    "complemento": "Crédito Pix - VANESSA CAPRA KLOECK",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "29945828",
+    "complemento": "Crédito Pix - F. ANDRADE",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "XXX816109",
+    "complemento": "Crédito Pix - Giulia Angelina Bone",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2024",
+    "documento": "XXX985366",
+    "complemento": "Crédito Pix - CAMILA FAJARDO PEREI",
+    "credito": false,
+    "debito": true,
+    "valor": 74.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "Amplimed",
+    "complemento": "Liq. Eletrônica IB - AMPLISOFTWARE",
+    "credito": true,
+    "debito": false,
+    "valor": 481.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "SM ORL",
+    "complemento": "Liq. Eletrônica IB - ASSOCIACAO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 60.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "Iss",
+    "complemento": "Liq. Eletrônica IB - MUNICIPIO DE C",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2024",
+    "documento": "Isqn",
+    "complemento": "Liq. Eletrônica IB - MUNICIPIO DE C",
+    "credito": true,
+    "debito": false,
+    "valor": 812.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Mastercard Créd",
+    "credito": false,
+    "debito": true,
+    "valor": 238.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2024",
+    "documento": "XXX816109",
+    "complemento": "Crédito Pix - Giulia Angelina Bone",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2024",
+    "documento": "508",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Mastercard Créd",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 343.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "78116670",
+    "complemento": "Pagamento Pix - FESTVAL",
+    "credito": true,
+    "debito": false,
+    "valor": 127.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "275530",
+    "complemento": "Crédito Transf C/C - FUNDACAO HOSP",
+    "credito": false,
+    "debito": true,
+    "valor": 1562.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "XXX985079",
+    "complemento": "Crédito Pix - Kaline Carla Reineri",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "02558157",
+    "complemento": "Pagamento Pix - TELEFONICA BRASIL S",
+    "credito": true,
+    "debito": false,
+    "valor": 115.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/10/2024",
+    "documento": "XXX984849",
+    "complemento": "Crédito Pix - JULIANO MAFEI SCAPIN",
+    "credito": false,
+    "debito": true,
+    "valor": 5500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Visa Electron Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "XXX858829",
+    "complemento": "Crédito Pix - AMAURI GAVA",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "Segurança",
+    "complemento": "Liq. Eletrônica IB - RR SEGURANCA D",
+    "credito": true,
+    "debito": false,
+    "valor": 415.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "Darf",
+    "complemento": "Débito Darf - Darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2599.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "Cofins",
+    "complemento": "Débito Darf - Cofins",
+    "credito": true,
+    "debito": false,
+    "valor": 855.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "Pis",
+    "complemento": "Débito Darf - Pis",
+    "credito": true,
+    "debito": false,
+    "valor": 185.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2024",
+    "documento": "Períodico",
+    "complemento": "Liq. Eletrônica IB - RR SEGURANCA D",
+    "credito": true,
+    "debito": false,
+    "valor": 70.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Mastercard Créd",
+    "credito": false,
+    "debito": true,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "7837",
+    "complemento": "Fat cartão Sisprime - 10/2024",
+    "credito": true,
+    "debito": false,
+    "valor": 621.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "XXX704919",
+    "complemento": "Crédito Pix - GIANDERLEI CANAVIER",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "XXX352919",
+    "complemento": "Crédito Pix - ANDREA ROSA FONSECA",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2024",
+    "documento": "XXX490569",
+    "complemento": "Crédito Pix - NELSON BACARIN",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Visa Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 1287.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Antecipação Venda - Elo Crédito",
+    "credito": false,
+    "debito": true,
+    "valor": 286.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Maestro Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "SUMUP SOLU",
+    "complemento": "Venda Débito - Elo Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 490.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "XXX117319",
+    "complemento": "Crédito Pix - Monica Conrado",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "XXX227399",
+    "complemento": "Crédito Pix - DAYANE CRISTINA DA S",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "XXX227399",
+    "complemento": "Crédito Pix - DAYANE CRISTINA DA S",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "911",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2024",
+    "documento": "XXX749299",
+    "complemento": "Crédito Pix - RODRIGO JOSE SEGATTO",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "IRPJ",
+    "complemento": "Débito Darf - IRPJ",
+    "credito": true,
+    "debito": false,
+    "valor": 1292.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "CSLL",
+    "complemento": "Débito Darf - CSLL",
+    "credito": true,
+    "debito": false,
+    "valor": 928.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "911",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "9800302005",
+    "complemento": "Aplicação RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 157.0,
+    "origem": "Extrato"
+  }
+]

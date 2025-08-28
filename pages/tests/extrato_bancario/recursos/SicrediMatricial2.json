@@ -1,0 +1,4943 @@
+[
+  {
+    "data": "03/01/2022",
+    "documento": "VE0321715",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 140.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 357.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2022",
+    "documento": "VE0912150",
+    "complemento": "COMPRAS NACIONAIS PAG HamburgueriaBeppl    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 45.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2022",
+    "documento": "VE0927756",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 19.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "VE0921020",
+    "complemento": "COMPRAS NACIONAIS QINGQIANG LI             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "VE0053459",
+    "complemento": "COMPRAS NACIONAIS RSS ALIMENTOS            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2022",
+    "documento": "VE0992206",
+    "complemento": "COMPRAS NACIONAIS DONA MARIA               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2022",
+    "documento": "VE0592416",
+    "complemento": "COMPRAS NACIONAIS FLORIPA AIRPORT          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 02215689056 GREICE PINTO MEIRELES",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2022",
+    "documento": "VE0925293",
+    "complemento": "COMPRAS NACIONAIS PAG Alternativa          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 44.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "383651",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 17568.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 71246053772 EDUARDO ALEXANDRE TESS",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 25497812015 JUSSARA PEDROSO BRYS",
+    "credito": true,
+    "debito": false,
+    "valor": 305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05321290911 VALERIA PIRES DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 4597.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 8600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2022",
+    "documento": "VE0807493",
+    "complemento": "COMPRAS NACIONAIS PIZZAS DELIVERY          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2022",
+    "documento": "VE0236625",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 526.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2022",
+    "documento": "VE0193567",
+    "complemento": "COMPRAS NACIONAIS HERING STORE             SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 862.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2022",
+    "documento": "VE0682533",
+    "complemento": "COMPRAS NACIONAIS MERCADO CONRADI          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 40.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2022",
+    "documento": "VE0615066",
+    "complemento": "COMPRAS NACIONAIS ALTERO DESIGN            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 18.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 34530018000117 JULY RAMOS DA CUNHA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48010103934 OSMARINO CARDOSO",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "363763",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 13216.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "VE0194226",
+    "complemento": "COMPRAS NACIONAIS SAO PATRICIO PIZZAS      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 11953422000106 MOVEIS DOLVINO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05321290911 VALERIA PIRES DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 4138.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2022",
+    "documento": "VE0448427",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS IMP        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2022",
+    "documento": "VE0450111",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS IMP        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "VE0865318",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 1592.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2022",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 0.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2022",
+    "documento": "389304",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 13648.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 83416706072 RAQUEL DA SILVA CORREA",
+    "credito": true,
+    "debito": false,
+    "valor": 1650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05321290911 VALERIA PIRES DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 4023.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 25497812015 JUSSARA PEDROSO BRYS",
+    "credito": true,
+    "debito": false,
+    "valor": 255.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0308679",
+    "complemento": "COMPRAS NACIONAIS LOJAS AMERICANAS         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 68.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0315581",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 451.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0318369",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0435209",
+    "complemento": "COMPRAS NACIONAIS PAG MariaSalvadoraF      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0512166",
+    "complemento": "COMPRAS NACIONAIS ZHU RESTAURANTE          PALHO",
+    "credito": true,
+    "debito": false,
+    "valor": 44.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0682507",
+    "complemento": "COMPRAS NACIONAIS COTIRO L12 ES            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 36.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0684323",
+    "complemento": "COMPRAS NACIONAIS COTIRO L12 ES            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2022",
+    "documento": "VE0271416",
+    "complemento": "COMPRAS NACIONAIS H B ALIMENTOS NATURAIS   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 17.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2022",
+    "documento": "427502",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2022",
+    "documento": "VE0962664",
+    "complemento": "COMPRAS NACIONAIS PEIXARIA GOLFINHO        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 223.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05321290911 VALERIA PIRES DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 4603.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "VE0299847",
+    "complemento": "COMPRAS NACIONAIS MANDALA BAR              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 78.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "VE0446585",
+    "complemento": "COMPRAS NACIONAIS BANCA DA BRUNA           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 0.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 651.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "VE0480723",
+    "complemento": "COMPRAS NACIONAIS TUDO DEZ                 FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "VE0192522",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09321666958 Bryam Dutra Leal",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "VE0827029",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 36.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "VE0917231",
+    "complemento": "COMPRAS NACIONAIS CENTRO UTIL              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 91.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "VIVOPR-CX",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 80.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "369885",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 4696.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "VE0419822",
+    "complemento": "COMPRAS NACIONAIS PAG PontoDoPaoServico    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 42.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "VE0525272",
+    "complemento": "COMPRAS NACIONAIS CENTRO UTIL              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "VE0543094",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 729.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "VE0545201",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 63.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 71246053772 EDUARDO ALEXANDRE TESS",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "VE0078378",
+    "complemento": "COMPRAS NACIONAIS PAG AnaTessalah          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 39.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "RST2021CP",
+    "complemento": "DISTRIBUICAO RESULTADOS",
+    "credito": false,
+    "debito": true,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "SOBRAS_CP",
+    "complemento": "APLICACAO POUPANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2022",
+    "documento": "VE0128259",
+    "complemento": "COMPRAS NACIONAIS ASSADOS VO MARCILIA      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 58.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 6840.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 76612589000140 CASA FLORES ARTE SE",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 83000539000178 JOEL JOSE DE SIMAS",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06290424971 AIRTON RIBEIRO JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 5050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 132.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2022",
+    "documento": "VE0526757",
+    "complemento": "COMPRAS NACIONAIS MANOEL GUIMARAES NETO    SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 140.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2022",
+    "documento": "VE0692507",
+    "complemento": "COMPRAS NACIONAIS CASA DE ANA CAMPECHE     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2022",
+    "documento": "VE0177968",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2022",
+    "documento": "VE0698680",
+    "complemento": "COMPRAS NACIONAIS CASA DE ANA CAMPECHE     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 228.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2022",
+    "documento": "VE0077383",
+    "complemento": "COMPRAS NACIONAIS PAG FAIMARPESCADOS       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 35.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2022",
+    "documento": "VE0082773",
+    "complemento": "COMPRAS NACIONAIS BOX 34 35 C F VERDURA    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 11.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2022",
+    "documento": "VE0084248",
+    "complemento": "COMPRAS NACIONAIS MANIA DA ILHA            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 8.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2022",
+    "documento": "VE0138306",
+    "complemento": "COMPRAS NACIONAIS FALAH COFFEE  STORE      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 42.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2022",
+    "documento": "VE0463347",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 35.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2022",
+    "documento": "VE0476398",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 89.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 08531776000140 BT MEDIACAO DE PAGA",
+    "credito": true,
+    "debito": false,
+    "valor": 44.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 67202756072 DOUGLAS PEDROSO STEINM",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2022",
+    "documento": "VE0492612",
+    "complemento": "COMPRAS NACIONAIS LANCHONETE UNIAO         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2022",
+    "documento": "VE0847458",
+    "complemento": "COMPRAS NACIONAIS HOTEL SAN SILVEST        TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2022",
+    "documento": "VE0431815",
+    "complemento": "COMPRAS NACIONAIS ESPACO OLIVEIRA REST     TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 20.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2022",
+    "documento": "VE0739890",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2022",
+    "documento": "VE0613357",
+    "complemento": "COMPRAS NACIONAIS DELICIAS DO CAMPOS       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2022",
+    "documento": "342742",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 3572.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2022",
+    "documento": "CLARSP11G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 298.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2022",
+    "documento": "VE0958336",
+    "complemento": "COMPRAS NACIONAIS CDA COMERCIO LTDA        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 60.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2022",
+    "documento": "VE0096246",
+    "complemento": "COMPRAS NACIONAIS PAG PontoDoPaoServico    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 66.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2022",
+    "documento": "VE0353032",
+    "complemento": "COMPRAS NACIONAIS SIMONE                   Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 28.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2022",
+    "documento": "VE0394891",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 21.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/05/2022",
+    "documento": "VE0999163",
+    "complemento": "COMPRAS NACIONAIS CASSOL CENTER LAR        SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 79.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 7410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "VE0240009",
+    "complemento": "COMPRAS NACIONAIS YU RESTAURANTE LT        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 37.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "CELESC-G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 193.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "CELESC-G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 128.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 71246053772 EDUARDO ALEXANDRE TESS",
+    "credito": true,
+    "debito": false,
+    "valor": 1760.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 1.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2022",
+    "documento": "VE0710664",
+    "complemento": "COMPRAS NACIONAIS RICARDO MACHADO          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 33.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06290424971 AIRTON RIBEIRO JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 47.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07804942000171 DUATTO CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 650.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2022",
+    "documento": "VE0035225",
+    "complemento": "COMPRAS NACIONAIS PALACIO CHINA            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 47.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2022",
+    "documento": "VE0110083",
+    "complemento": "COMPRAS NACIONAIS BOUTIQUE FLORIANOPOLIS   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 82892282000143 IPTU 2022",
+    "credito": true,
+    "debito": false,
+    "valor": 383.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 82892282000143 TCRS 2022",
+    "credito": true,
+    "debito": false,
+    "valor": 329.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0164845",
+    "complemento": "COMPRAS NACIONAIS RECANTO GAUCHO TARUMA    CURIT",
+    "credito": true,
+    "debito": false,
+    "valor": 87.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0255276",
+    "complemento": "COMPRAS NACIONAIS PAG Atelieboutiqcreat    SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0396167",
+    "complemento": "COMPRAS NACIONAIS PAG TubasBarE            CURIT",
+    "credito": true,
+    "debito": false,
+    "valor": 49.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0411870",
+    "complemento": "COMPRAS NACIONAIS PAG MarioFranciscoRom    GUARA",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0466320",
+    "complemento": "COMPRAS NACIONAIS HAVAN BARIGUI CURITIBA   CURIT",
+    "credito": true,
+    "debito": false,
+    "valor": 36.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0683755",
+    "complemento": "COMPRAS NACIONAIS DAS ARABIAS              CURIT",
+    "credito": true,
+    "debito": false,
+    "valor": 38.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2022",
+    "documento": "VE0776834",
+    "complemento": "COMPRAS NACIONAIS CASA BARONA   CARIDADE   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2022",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00830865950 ROBSON DE JESUS HUGEN",
+    "credito": true,
+    "debito": false,
+    "valor": 4093.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2022",
+    "documento": "VE0773224",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 36.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2022",
+    "documento": "VE0722965",
+    "complemento": "COMPRAS NACIONAIS MERCADO FREITAS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 70.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2022",
+    "documento": "VE0519814",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 26.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2022",
+    "documento": "394038",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 4293.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2022",
+    "documento": "VE0243964",
+    "complemento": "COMPRAS NACIONAIS GLOSS ESTETICA           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 75308106000156 CONSELHO REGION",
+    "credito": true,
+    "debito": false,
+    "valor": 372.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2022",
+    "documento": "VE0017419",
+    "complemento": "COMPRAS NACIONAIS MARINA NUNES MEND        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 44.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2022",
+    "documento": "VE0261566",
+    "complemento": "COMPRAS NACIONAIS REI DO MDF               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 83.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2022",
+    "documento": "VE0301053",
+    "complemento": "COMPRAS NACIONAIS PAGUE NA WEB             SAO P",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2022",
+    "documento": "VE0129921",
+    "complemento": "COMPRAS NACIONAIS CENTRO UTIL              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2022",
+    "documento": "VE0143857",
+    "complemento": "COMPRAS NACIONAIS CASA CHINA               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2022",
+    "documento": "VE0158025",
+    "complemento": "COMPRAS NACIONAIS MILIUM TEM DE TUD        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 136.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2022",
+    "documento": "VE0968797",
+    "complemento": "COMPRAS NACIONAIS MILIUM TEM DE TUD        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 185.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "VE0595647",
+    "complemento": "COMPRAS NACIONAIS MAIS1 CAFE SC FLORIANO   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 21.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "VE0919589",
+    "complemento": "COMPRAS NACIONAIS PAG PontoDoPaoServico    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 52.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "VE0024210",
+    "complemento": "COMPRAS NACIONAIS LUZ DA LUA CENTRO FLOR   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 284.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "VE0034674",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 199.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "VE0704281",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 17192451000170 BANCO ITAUCARD",
+    "credito": true,
+    "debito": false,
+    "valor": 481.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07804942000171 DUATTO CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 399.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 02206577000180 LUIZACRED S/A S",
+    "credito": true,
+    "debito": false,
+    "valor": 581.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 1.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "VE0109007",
+    "complemento": "COMPRAS NACIONAIS SIMONE                   Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 42.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 71246053772 EDUARDO ALEXANDRE TESS",
+    "credito": true,
+    "debito": false,
+    "valor": 1680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "VE0337418",
+    "complemento": "COMPRAS NACIONAIS LSHOES                   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "VE0101497",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "VE0200208",
+    "complemento": "COMPRAS NACIONAIS JULIANA BUDELON          SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2022",
+    "documento": "VE0775421",
+    "complemento": "COMPRAS NACIONAIS PEDRAS E INCENSOS        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 17.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2022",
+    "documento": "VE0489418",
+    "complemento": "COMPRAS NACIONAIS CASA DO POVO             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 26.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2022",
+    "documento": "VE0606401",
+    "complemento": "COMPRAS NACIONAIS SAO PATRICIO PIZZAS      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0521034",
+    "complemento": "COMPRAS NACIONAIS SIMONE                   Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 22.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0522307",
+    "complemento": "COMPRAS NACIONAIS PAGUE MENOS 1159         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 22.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0088529",
+    "complemento": "COMPRAS NACIONAIS KANSAS GRILL             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0827308",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 79.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0899606",
+    "complemento": "COMPRAS NACIONAIS IL MERCATO               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 36.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "VE0658754",
+    "complemento": "COMPRAS NACIONAIS SEU BELISCO              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 38.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2022",
+    "documento": "VE0054496",
+    "complemento": "COMPRAS NACIONAIS PAG KleberRogerio        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 29.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 25497812015 JUSSARA PEDROSO BRYS",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2022",
+    "documento": "VE0191284",
+    "complemento": "COMPRAS NACIONAIS SALAD                    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2022",
+    "documento": "VE0104150",
+    "complemento": "COMPRAS NACIONAIS JULIANA BUDELON          SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 74.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2022",
+    "documento": "VE0038800",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 19.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2022",
+    "documento": "VE0534529",
+    "complemento": "COMPRAS NACIONAIS LANCHONETE FABIANO       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "320175",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 4304.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 92702067000196 BANRISUL SA CAR",
+    "credito": true,
+    "debito": false,
+    "valor": 179.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "VE0254022",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 75.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "VE0996386",
+    "complemento": "COMPRAS NACIONAIS O TAO SUSHI BAR          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 97.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2022",
+    "documento": "VE0014859",
+    "complemento": "COMPRAS NACIONAIS uber    UBER    TRIP     SAO P",
+    "credito": true,
+    "debito": false,
+    "valor": 11.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "VE0182748",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 46.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 79274502000160 ALTHOFF COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 94.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39648398000102 ZHU RESTAURANTE FLO",
+    "credito": true,
+    "debito": false,
+    "valor": 35.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 07900208000106 ZZAB COMERCIO DE CA",
+    "credito": true,
+    "debito": false,
+    "valor": 514.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39361219000151 CFS COMERCIO DE DOC",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 82892282000143 TCRS 2022",
+    "credito": true,
+    "debito": false,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2022",
+    "documento": "VE0449511",
+    "complemento": "COMPRAS NACIONAIS SETOR 1                  FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 17.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2022",
+    "documento": "VE0951415",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 98.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2022",
+    "documento": "VE0711918",
+    "complemento": "COMPRAS NACIONAIS MERCEARIA BONS GRAOS     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 96.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07900208000106 ZZAB COMERCIO D",
+    "credito": true,
+    "debito": false,
+    "valor": 164.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2022",
+    "documento": "VE0139180",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 16.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2022",
+    "documento": "VE0226655",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 28.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2022",
+    "documento": "VE0385039",
+    "complemento": "COMPRAS NACIONAIS MERCADO FREITAS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 77.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2022",
+    "documento": "VE0415708",
+    "complemento": "COMPRAS NACIONAIS PAG BryamDutraLeal       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2022",
+    "documento": "VE0283012",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2022",
+    "documento": "VE0594101",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2022",
+    "documento": "VE0610033",
+    "complemento": "COMPRAS NACIONAIS MILIUM LJ 12             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 56.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 21365012832 Rodrigo Da Cruz Rodrig",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01936465000111 HIPPO SUPERMERCADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 39.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VE0368142",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 35.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VE0640849",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VE0812852",
+    "complemento": "COMPRAS NACIONAIS LSHOES                   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 170.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VE0507682",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 17.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "CELESC-G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 104.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VIVOPR-CX",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 80.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06290424971 AIRTON RIBEIRO JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "VE0323481",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 23.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 1.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 08786765973 Isadora Bruchado de Sß",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 78821501000126 CONDOMINIO CONJ",
+    "credito": true,
+    "debito": false,
+    "valor": 441.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "VE0615379",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 8.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2022",
+    "documento": "VE0701773",
+    "complemento": "COMPRAS NACIONAIS ACOUGUE AURINO           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 40.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 17192451000170 BANCO ITAUCARD",
+    "credito": true,
+    "debito": false,
+    "valor": 753.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 01554285000175 CERTISIGN CERT",
+    "credito": true,
+    "debito": false,
+    "valor": 214.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "VE0687770",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2022",
+    "documento": "VE0833926",
+    "complemento": "COMPRAS NACIONAIS CONFEITARIA AKITUTES     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 74.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "VE0293380",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 29.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "VE0313224",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 1042.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "VE0315381",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 205.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "VE0370661",
+    "complemento": "COMPRAS NACIONAIS MAIS1 CAFE SC FLORIANO   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 11.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/08/2022",
+    "documento": "VE0255150",
+    "complemento": "COMPRAS NACIONAIS PIZZAS DELIVERY          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 144.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "VE0628839",
+    "complemento": "COMPRAS NACIONAIS LANCHONETE UNIAO         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "VE0896175",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 83.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 12.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2022",
+    "documento": "VE0595768",
+    "complemento": "COMPRAS NACIONAIS PAG SapatariaRapida      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/08/2022",
+    "documento": "VE0604368",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS IMP        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 1199.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 28979546000155 PARTNERBANK INS",
+    "credito": true,
+    "debito": false,
+    "valor": 878.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/08/2022",
+    "documento": "VE0895574",
+    "complemento": "COMPRAS NACIONAIS VIRTUAL SERVICOS         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 34.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "VE0158808",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2022",
+    "documento": "VE0665279",
+    "complemento": "COMPRAS NACIONAIS VERA CRUZ AVIAMEN        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "VE0512746",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "VE0412461",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 28.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/08/2022",
+    "documento": "VE0281002",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06290424971 AIRTON RIBEIRO JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 11.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39361219000151 CFS COMERCIO DE DOC",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2022",
+    "documento": "VE0929211",
+    "complemento": "COMPRAS NACIONAIS EMPRESA UNIAO DE         ARARA",
+    "credito": true,
+    "debito": false,
+    "valor": 59.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2022",
+    "documento": "VE0221018",
+    "complemento": "COMPRAS NACIONAIS KERUS LANCHES PIZZARIA   TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 30.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "VE0821232",
+    "complemento": "COMPRAS NACIONAIS ESPACO OLIVEIRA REST     TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 43.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "394326",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 3816.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "VE0046273",
+    "complemento": "COMPRAS NACIONAIS EMBUTIDOS CAMPEIRO       Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 42.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "VE0052908",
+    "complemento": "COMPRAS NACIONAIS PAG JunkesHammes         ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/08/2022",
+    "documento": "VE0053939",
+    "complemento": "COMPRAS NACIONAIS PAG GabrielRichartz      ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 30.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "VE0737458",
+    "complemento": "COMPRAS NACIONAIS CDA COMERCIO LTDA        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 13.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2022",
+    "documento": "VE0368246",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 58.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "VE0437370",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "VE0548889",
+    "complemento": "COMPRAS NACIONAIS AGUA NA BOCA             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "VE0704564",
+    "complemento": "COMPRAS NACIONAIS IL MERCATO               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 34.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "VE0524224",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 106.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06290424971 AIRTON RIBEIRO JUNIOR",
+    "credito": true,
+    "debito": false,
+    "valor": 82.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "VIVOPR-CX",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 88.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/08/2022",
+    "documento": "CELESC-G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 97.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "VE0131241",
+    "complemento": "COMPRAS NACIONAIS PAG PontoDoPaoServico    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 92.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "VE0617699",
+    "complemento": "COMPRAS NACIONAIS CASA DO POVO             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "VE0627485",
+    "complemento": "COMPRAS NACIONAIS EMBUTIDOS CAMPEIRO       Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 21.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2022",
+    "documento": "VE0763160",
+    "complemento": "COMPRAS NACIONAIS PAG BryamDutraLeal       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0787555",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0787555",
+    "complemento": "ESTORNO DE LANCAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0788231",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0788972",
+    "complemento": "COMPRAS NACIONAIS SIMONE                   Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0058690",
+    "complemento": "COMPRAS NACIONAIS MACEDONIA TECIDOS        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 9.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0505591",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 38.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0705257",
+    "complemento": "COMPRAS NACIONAIS RSS ALIMENTOS            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 82892282000143 TCRS 2022",
+    "credito": true,
+    "debito": false,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06632011950 LUIZ GUSTAVO CIPRIANO",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 18987375000152 ZENAIDE GAMILEIRA 1",
+    "credito": true,
+    "debito": false,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2022",
+    "documento": "VE0482786",
+    "complemento": "COMPRAS NACIONAIS AZ COMERCIO DE PRODUTO   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 3350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": "VE0674688",
+    "complemento": "COMPRAS NACIONAIS CASA BARONA   CARIDADE   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 23.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03527132759 CRISTINA PAULUCI",
+    "credito": true,
+    "debito": false,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": "VE0013689",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 84.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/09/2022",
+    "documento": "VE0023062",
+    "complemento": "COMPRAS NACIONAIS UM CAFEZINHO CAFE        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 28979546000155 PARTNERBANK INS",
+    "credito": true,
+    "debito": false,
+    "valor": 943.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2022",
+    "documento": "VE0939845",
+    "complemento": "COMPRAS NACIONAIS FLORIANOPOLIS CENTRAL    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 53.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2022",
+    "documento": "VE0697569",
+    "complemento": "COMPRAS NACIONAIS CASA RIVIE ES            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 40.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2022",
+    "documento": "VE0042744",
+    "complemento": "COMPRAS NACIONAIS CLINICA DOS PES          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 170.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 08754125000119 ATHOS ATENDIMENTO H",
+    "credito": true,
+    "debito": false,
+    "valor": 57.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2022",
+    "documento": "VE0845008",
+    "complemento": "COMPRAS NACIONAIS HAVAN RIO BRANCO FLORIP  FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 171.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2022",
+    "documento": "VE0037968",
+    "complemento": "COMPRAS NACIONAIS IN JOY FLORIPA           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 27.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2022",
+    "documento": "VE0516425",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2022",
+    "documento": "VE0770590",
+    "complemento": "COMPRAS NACIONAIS MIRANTE RESTAURANTE      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 55.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/09/2022",
+    "documento": "VE0369283",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "VE0808978",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 32.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "VE0979852",
+    "complemento": "COMPRAS NACIONAIS PAG SapatariaRapida      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "VE0974105",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 229.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00006427979 GISELE PERIN GUIMARAES",
+    "credito": true,
+    "debito": false,
+    "valor": 122.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "VE0062567",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2022",
+    "documento": "VE0077283",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 220.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": "VE0043549",
+    "complemento": "COMPRAS NACIONAIS GIASSI SUPERMERCA        TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 30.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06632011950 LUIZ GUSTAVO CIPRIANO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 40432544000147 CLARO",
+    "credito": true,
+    "debito": false,
+    "valor": 112.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2022",
+    "documento": "VE0946981",
+    "complemento": "COMPRAS NACIONAIS SALAD                    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2022",
+    "documento": "VE0221292",
+    "complemento": "COMPRAS NACIONAIS BOUTIQUE FLORIANOPOLIS   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2022",
+    "documento": "336641",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 4912.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09321666958 Bryam Dutra Leal",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2022",
+    "documento": "VE0416211",
+    "complemento": "COMPRAS NACIONAIS STARBUCKS                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": "VE0578021",
+    "complemento": "COMPRAS NACIONAIS AEROPORTO GUARULHOS      GUARU",
+    "credito": true,
+    "debito": false,
+    "valor": 28.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2022",
+    "documento": "VE0594936",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 162.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2022",
+    "documento": "VE0234528",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 54.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2022",
+    "documento": "VIVOPR-CX",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 88.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 31591399000156 BB ADMINISTRADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 08980783930 Lidiane de Aguiar Paza",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 83646984000100 A  ANGELONI   CIA",
+    "credito": true,
+    "debito": false,
+    "valor": 37.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2022",
+    "documento": "VE0445582",
+    "complemento": "COMPRAS NACIONAIS PIZZAS DELIVERY          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 116.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0625267",
+    "complemento": "COMPRAS NACIONAIS PAG SapatariaRapida      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0653627",
+    "complemento": "COMPRAS NACIONAIS FEIRA BARRACA 05         AGUAS",
+    "credito": true,
+    "debito": false,
+    "valor": 16.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0658303",
+    "complemento": "COMPRAS NACIONAIS BARRACA DO FRANCISCO     SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 57.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0072561",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0668103",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 81.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0693332",
+    "complemento": "COMPRAS NACIONAIS PEZTO PIZZA              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/09/2022",
+    "documento": "VE0710695",
+    "complemento": "COMPRAS NACIONAIS PAG Farmacia             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "VE0859985",
+    "complemento": "COMPRAS NACIONAIS PRIMAVERA GARDEN         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "VE0066117",
+    "complemento": "COMPRAS NACIONAIS SEPIA GASTRONOMIA        SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 121.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00104319003 ALINE NUNES STEINMETZ",
+    "credito": true,
+    "debito": false,
+    "valor": 1080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "CLARSP11G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 459.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 06632011950 LUIZ GUSTAVO CIPRIANO",
+    "credito": true,
+    "debito": false,
+    "valor": 275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "VE0161632",
+    "complemento": "COMPRAS NACIONAIS FABIO CESAR DORIA        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "VE0476574",
+    "complemento": "COMPRAS NACIONAIS PEZTO PIZZA              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "VE0514267",
+    "complemento": "COMPRAS NACIONAIS FORMULA BASICA           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 35.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 02206577000180 LUIZACRED S/A S",
+    "credito": true,
+    "debito": false,
+    "valor": 1208.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 25497812015 JUSSARA PEDROSO BRYS",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 118.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "VE0674097",
+    "complemento": "COMPRAS NACIONAIS MUNDO VERDE FLORIPA      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 60.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "VE0694892",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "VE0696862",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 135.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "VE0108921",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 36.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 17192451000170 BANCO ITAUCARD",
+    "credito": true,
+    "debito": false,
+    "valor": 747.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2022",
+    "documento": "VE0645893",
+    "complemento": "COMPRAS NACIONAIS SESI FARMACIA FM         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 47.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 13481512856 REGINA C  KARSOKAS PAV",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00104319003 ALINE NUNES STEINMETZ",
+    "credito": true,
+    "debito": false,
+    "valor": 525.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05317911907 DANUSA ALVES DE FREITA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94497680053 Luis Fernando Christof",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 67202756072 DOUGLAS PEDROSO STEINM",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 27338292892 EMANUELLE LANDI",
+    "credito": true,
+    "debito": false,
+    "valor": 121.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 07804942000171 DUATTO CONTABILIDAD",
+    "credito": true,
+    "debito": false,
+    "valor": 399.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94497680053 Luis Fernando Christof",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05828003909 RICARDO CESAR RAMOS",
+    "credito": true,
+    "debito": false,
+    "valor": 435.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00104319003 ALINE NUNES STEINMETZ",
+    "credito": true,
+    "debito": false,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2022",
+    "documento": "CLARSP11G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 108.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2022",
+    "documento": "VE0124421",
+    "complemento": "COMPRAS NACIONAIS HAVAN RIO BRANCO FLORIP  FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 36.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2022",
+    "documento": "VE0376679",
+    "complemento": "COMPRAS NACIONAIS ITAGUACU                 SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2022",
+    "documento": "373916",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 3320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2022",
+    "documento": "VE0933706",
+    "complemento": "COMPRAS NACIONAIS CAFE RIVIE               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 23735627000196 SALAO DE BELEZA VM",
+    "credito": true,
+    "debito": false,
+    "valor": 63.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2022",
+    "documento": "VE0394628",
+    "complemento": "COMPRAS NACIONAIS CONVENIENCIA EXPRESS     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 11.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48135116000164 AIRTON RIBEIRO JUNI",
+    "credito": true,
+    "debito": false,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "VE0076927",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 56.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 34185185000178 CLINICA MEDICA MSVJ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2022",
+    "documento": "VE0623407",
+    "complemento": "COMPRAS NACIONAIS HIPPO COQUEIROS          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 60.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 02206577000180 LUIZACRED S/A S",
+    "credito": true,
+    "debito": false,
+    "valor": 1030.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13236697000146 EBANX LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 127.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2022",
+    "documento": "VE0459715",
+    "complemento": "COMPRAS NACIONAIS PAYGO SAO PATRICIO PIZ   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 18.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9777.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "VE0644429",
+    "complemento": "COMPRAS NACIONAIS MINIMERCADO FRONZA       SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 11.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 0.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2022",
+    "documento": "VE0102303",
+    "complemento": "COMPRAS NACIONAIS ZHU RESTAURANTE          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 46.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/11/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07804942000171 DUATTO CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 407.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "VE0332236",
+    "complemento": "COMPRAS NACIONAIS CASA DO POVO             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 106.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "VE0644601",
+    "complemento": "COMPRAS NACIONAIS CONFEITARIA MARRAKECH    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 9.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00104319003 ALINE NUNES STEINMETZ",
+    "credito": true,
+    "debito": false,
+    "valor": 655.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "VE0169178",
+    "complemento": "COMPRAS NACIONAIS CAFE RIVIE               FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "VE0175901",
+    "complemento": "COMPRAS NACIONAIS PADOKA                   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 3.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "VE0986883",
+    "complemento": "COMPRAS NACIONAIS PIZZAS DELIVERY          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2022",
+    "documento": "REP029",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 2.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2022",
+    "documento": "VE0194492",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 80.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2022",
+    "documento": "VE0296547",
+    "complemento": "COMPRAS NACIONAIS PAG PadariaE             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 7.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2022",
+    "documento": "VE0315154",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2022",
+    "documento": "VE0318178",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 273.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/11/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00104319003 ALINE NUNES STEINMETZ",
+    "credito": true,
+    "debito": false,
+    "valor": 144.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/11/2022",
+    "documento": "VE0787899",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 39.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2022",
+    "documento": "VE0489739",
+    "complemento": "COMPRAS NACIONAIS GIASSI SUPERMERCA        TUBAR",
+    "credito": true,
+    "debito": false,
+    "valor": 54.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2022",
+    "documento": "VE0793737",
+    "complemento": "COMPRAS NACIONAIS PAG MixFriends           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2022",
+    "documento": "VE0996041",
+    "complemento": "COMPRAS NACIONAIS BERLINF AC DIAS VELHO    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 24.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/11/2022",
+    "documento": "VE0489052",
+    "complemento": "COMPRAS NACIONAIS ARQUIPELAGO SUSHI BAR    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 74.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 73595934091 MARCIO LOPES SOARES",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "325750",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 2864.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "VE0481161",
+    "complemento": "COMPRAS NACIONAIS DUDA LOTERICA            Flori",
+    "credito": true,
+    "debito": false,
+    "valor": 67.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "VE0495007",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 41.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "VE0830922",
+    "complemento": "COMPRAS NACIONAIS PAG DameskoCalcados      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 143.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "VE0844299",
+    "complemento": "COMPRAS NACIONAIS BV PAPELARIA             FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 24.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "VE0063887",
+    "complemento": "COMPRAS NACIONAIS LSHOES                   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 94.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01936465000111 HIPPO SUPERMERCADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 45.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2022",
+    "documento": "VE0775193",
+    "complemento": "COMPRAS NACIONAIS CANTINA VO JOAO          PALHO",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2022",
+    "documento": "VE0082321",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 27.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/11/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00776574000156 Americanas.comA",
+    "credito": true,
+    "debito": false,
+    "valor": 204.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/11/2022",
+    "documento": "VE0661477",
+    "complemento": "COMPRAS NACIONAIS CACAU SHOW RIO BR        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2022",
+    "documento": "VE0944575",
+    "complemento": "COMPRAS NACIONAIS ABN PRODUTOS NATU        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 42.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2022",
+    "documento": "VE0948879",
+    "complemento": "COMPRAS NACIONAIS KRAVCHYCHYN E RIB        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 6.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "VE0012728",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 64.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 23735627000196 SALAO DE BELEZA VM",
+    "credito": true,
+    "debito": false,
+    "valor": 101.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "VE0618420",
+    "complemento": "COMPRAS NACIONAIS MERCADOPAGO ACOUGUEAURINOFLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 41.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "VE0734934",
+    "complemento": "COMPRAS NACIONAIS STUDIO Z                 SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 92.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "VE0812006",
+    "complemento": "COMPRAS NACIONAIS VANDRESSA GARDEN CIA     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 119.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "VE0010819",
+    "complemento": "COMPRAS NACIONAIS BOKAS I                  FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 212.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 52880230934 LUIZ EDUARDO WAGNER",
+    "credito": true,
+    "debito": false,
+    "valor": 169.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2022",
+    "documento": "VE0106231",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 53.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2022",
+    "documento": "VE0761914",
+    "complemento": "COMPRAS NACIONAIS HIPPO ALVIN              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 46.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48135116000164 AIRTON RIBEIRO JUNI",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9746.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48135116000164 AIRTON RIBEIRO JUNI",
+    "credito": true,
+    "debito": false,
+    "valor": 83.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00979828902 RODRIGO SOARES",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 64151689087 PATRICIA PEDROSO STEIN",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "VE0326866",
+    "complemento": "COMPRAS NACIONAIS STUDIO Z                 FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 49.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "VE0383266",
+    "complemento": "COMPRAS NACIONAIS ABN PRODUTOS NATU        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 33.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "Iof.ADic.",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE",
+    "credito": true,
+    "debito": false,
+    "valor": 1.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "Iof.BAsic",
+    "complemento": "IOF BASICO CH PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "VE0613443",
+    "complemento": "COMPRAS NACIONAIS PAG FarmaciaPreco        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 31.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "VE0629975",
+    "complemento": "COMPRAS NACIONAIS LOPES CALCADOS           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "VE0635132",
+    "complemento": "COMPRAS NACIONAIS PAG NathanRubens         SAO J",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0315576",
+    "complemento": "COMPRAS NACIONAIS SACOLAO PETRY            ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 54.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0620618",
+    "complemento": "COMPRAS NACIONAIS TUDO DEZ                 FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0747610",
+    "complemento": "COMPRAS NACIONAIS COMERCIO DE TECID        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0783499",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 916.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0788060",
+    "complemento": "COMPRAS NACIONAIS LOJAS RENNER FL 4        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 134.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0594273",
+    "complemento": "COMPRAS NACIONAIS GALETO DA MAMMA          FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07804942000171 DUATTO CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 408.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 10087053900 ANA PAULA STEIMBACH SI",
+    "credito": true,
+    "debito": false,
+    "valor": 71.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 08336783000190 CELESC DISTRIBU",
+    "credito": true,
+    "debito": false,
+    "valor": 20.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 73595934091 MARCIO LOPES SOARES",
+    "credito": true,
+    "debito": false,
+    "valor": 29.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 97420352020 ANA CRISTINA PAVANATTO",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09842177971 BRENDHA CONCEICAO PERE",
+    "credito": true,
+    "debito": false,
+    "valor": 434.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "VE0590347",
+    "complemento": "COMPRAS NACIONAIS PAG FLORIPACHAVES        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 8.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 28979546000155 PARTNERBANK INS",
+    "credito": true,
+    "debito": false,
+    "valor": 1059.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0757074",
+    "complemento": "COMPRAS NACIONAIS CIA SUCOS                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 29.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0759701",
+    "complemento": "COMPRAS NACIONAIS CIA SUCOS                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0758833",
+    "complemento": "COMPRAS NACIONAIS HIPPO ALVIN              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "VE0990700",
+    "complemento": "COMPRAS NACIONAIS POSTO CENTRAL            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "VE0990700",
+    "complemento": "ESTORNO DE LANCAMENTO",
+    "credito": false,
+    "debito": true,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "VE0990734",
+    "complemento": "COMPRAS NACIONAIS POSTO CENTRAL            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94497680053 Luis Fernando Christof",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 83000539000178 JOEL JOSE DE SIMAS",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48979228015 claudia rosa ferreira",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "VE0004441",
+    "complemento": "COMPRAS NACIONAIS RSS ALIMENTOS LTDA       FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 71.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 94497680053 Luis Fernando Christof",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48135116000164 AIRTON RIBEIRO JUNI",
+    "credito": true,
+    "debito": false,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "374559",
+    "complemento": "TED 15139677000182 SAPIEN CONSULTORIA EM SAUDE S",
+    "credito": false,
+    "debito": true,
+    "valor": 4408.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "VE0585904",
+    "complemento": "COMPRAS NACIONAIS PAG MrCheff              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 27.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "VE0648845",
+    "complemento": "COMPRAS NACIONAIS PALACIO CHINA            FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 19.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "VE0754143",
+    "complemento": "COMPRAS NACIONAIS RIACHUELO FILIAL         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 180.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "VE0858156",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 101.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "VE0807873",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 52.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04164282908 RAFAEL FREYGANG MENDES",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0334042",
+    "complemento": "COMPRAS NACIONAIS PAG SapatariaRapida      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0416065",
+    "complemento": "COMPRAS NACIONAIS PAGUE NA WEB             SAO P",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0431556",
+    "complemento": "COMPRAS NACIONAIS VALERIO KOERICH          ANTON",
+    "credito": true,
+    "debito": false,
+    "valor": 14.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0455024",
+    "complemento": "COMPRAS NACIONAIS PEIXARIA GOLFINHO 13     FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0467958",
+    "complemento": "COMPRAS NACIONAIS PESCADOS OLIVEIRA        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 328.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0498579",
+    "complemento": "COMPRAS NACIONAIS LIANDRA NAZARIO N        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 17.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0740452",
+    "complemento": "COMPRAS NACIONAIS ACOUGUE AURINO           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 62.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0784491",
+    "complemento": "COMPRAS NACIONAIS 2835 RAIA                FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 12.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09148903957 BARBARA STEINMETZ DICK",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09321666958 Bryam Dutra Leal",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "VE0342755",
+    "complemento": "COMPRAS NACIONAIS PAG FMuller              FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 23735627000196 SALAO DE BELEZA VM",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "VE0239595",
+    "complemento": "COMPRAS NACIONAIS SIMONE                   Anton",
+    "credito": true,
+    "debito": false,
+    "valor": 39.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "VE0306047",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS ANGELONI   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 36.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "VE0826907",
+    "complemento": "COMPRAS NACIONAIS HIPPO SUPERMERCADOS      FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 38.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04995736921 MAYCONEI BOAVENTURA",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 13481512856 REGINA C  KARSOKAS PAV",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 00006427979 GISELE PERIN GUIMARAES",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "VE0156842",
+    "complemento": "COMPRAS NACIONAIS CASA BARONA   CARIDADE   FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "VE0328691",
+    "complemento": "COMPRAS NACIONAIS MURAMAKI                 FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 52.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "VE0935221",
+    "complemento": "COMPRAS NACIONAIS O PADEIRO DE SEVI        FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 26.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "VE0577732",
+    "complemento": "COMPRAS NACIONAIS SALAD                    FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "VE0926654",
+    "complemento": "COMPRAS NACIONAIS MURAMAKI                 FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 46.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 76882612000117 CLINIPAM CLINICA",
+    "credito": false,
+    "debito": true,
+    "valor": 9784.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "VE0585323",
+    "complemento": "COMPRAS NACIONAIS MOKKA EMPORIUM           FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 78.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "VE0781799",
+    "complemento": "COMPRAS NACIONAIS SUPER IMPERATRIZ         FLORI",
+    "credito": true,
+    "debito": false,
+    "valor": 111.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04129996924 MIGUEL ESTEVAN PEDROSO",
+    "credito": true,
+    "debito": false,
+    "valor": 88.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12532958910  LAURA STEINMETZ DICKI",
+    "credito": true,
+    "debito": false,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09148903957 BARBARA STEINMETZ DICK",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 48135116000164 AIRTON RIBEIRO JUNI",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 23735627000196 SALAO DE BELEZA VM",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  }
+]

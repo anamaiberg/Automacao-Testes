@@ -1,0 +1,29 @@
+[
+  {
+    "data": "26/10/2021",
+    "documento": "",
+    "complemento": "LIQ CAMBIO",
+    "credito": false,
+    "debito": true,
+    "valor": 211843.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2021",
+    "documento": "",
+    "complemento": "TED ENVIADA",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2021",
+    "documento": "",
+    "complemento": "TED ENVIADA",
+    "credito": true,
+    "debito": false,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  }
+]

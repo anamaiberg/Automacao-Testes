@@ -1,0 +1,1199 @@
+[
+  {
+    "data": "04/05/2020",
+    "documento": "VE0368388",
+    "complemento": " Saldo Anterior   COMPRAS NACIONAIS COMPER SUPERMERCA BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 4408.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "122855686",
+    "complemento": "STONE CRED OUTRASBAND",
+    "credito": false,
+    "debito": true,
+    "valor": 25.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "122855681",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 127.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "122855677",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 373.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "122855672",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 197.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "123030880",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 352.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "123030915",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 613.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "123030882",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 2971.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 200.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 133.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/05/2020",
+    "documento": "481007",
+    "complemento": "TED 22741750000157ARMAZEM DA VILA",
+    "credito": false,
+    "debito": true,
+    "valor": 2.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "123148868",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 62.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "123148863",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 24.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "123204325",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 51.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "123204331",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 685.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "123204338",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 148.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/05/2020",
+    "documento": "",
+    "complemento": "CESTA DERELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "123371756",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "123371752",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 15.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "123415121",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 61.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "123415131",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 155.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "123415126",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 571.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 292.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "123605204",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 222.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "123605208",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 32.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "123660578",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 122.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "123660626",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 75.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "123660575",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 70.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2020",
+    "documento": "VE0936123",
+    "complemento": "COMPRAS NACIONAIS COMPER SUPERMERCA BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 582.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2020",
+    "documento": "123838474",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 297.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2020",
+    "documento": "123878581",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 93.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2020",
+    "documento": "123878604",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 673.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2020",
+    "documento": "123878593",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 239.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "124120100",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 264.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "124119940",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 142.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "124314082",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 726.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "124314078",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 1054.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "124314074",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 385.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 375.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 502.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 580.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "124452295",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 1101.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "124452288",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 129.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "124494092",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 482.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "124494087",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 130.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "124494081",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 23.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "I00153",
+    "complemento": "DEBITO TED/IB 47556897915 MAURI ELADIO DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/05/2020",
+    "documento": "312052",
+    "complemento": "ESTORNO T.E.D.",
+    "credito": false,
+    "debito": true,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2020",
+    "documento": "124674022",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 11.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2020",
+    "documento": "124722779",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 197.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2020",
+    "documento": "124722765",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 425.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2020",
+    "documento": "124722772",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 154.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "124908600",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 623.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "124908595",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 49.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "124962611",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 261.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "124962615",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 98.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "124962607",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 219.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 297.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2020",
+    "documento": "VE0322977",
+    "complemento": "COMPRAS NACIONAIS SUPERMERCADOS KOCH ITAPE",
+    "credito": true,
+    "debito": false,
+    "valor": 209.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2020",
+    "documento": "125141480",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 48.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2020",
+    "documento": "125141478",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 140.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2020",
+    "documento": "125184341",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 9.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2020",
+    "documento": "125184345",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 105.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2020",
+    "documento": "125184352",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 121.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125414218",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 163.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125414192",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 66.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125414212",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 199.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125608952",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 569.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125608947",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 426.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "125608942",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 147.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "785639350",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 377.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 404.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1535.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125728007",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 87.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125728014",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 147.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125728021",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125783866",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 195.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125783859",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 180.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/05/2020",
+    "documento": "125783854",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 6.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2020",
+    "documento": "125959120",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 86.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2020",
+    "documento": "125959122",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 204.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2020",
+    "documento": "126003446",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 183.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2020",
+    "documento": "126003438",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 123.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2020",
+    "documento": "1",
+    "complemento": "INTEGR.CAPITALSUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "126181736",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 12.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "126181739",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 27.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "126181741",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 11.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "126223552",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 77.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "126311038",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 244.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 421.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2020",
+    "documento": "126412105",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 37.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2020",
+    "documento": "126412096",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 45.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2020",
+    "documento": "126468706",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 273.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2020",
+    "documento": "126468736",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 29.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2020",
+    "documento": "126468701",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 212.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "VE0710295",
+    "complemento": "COMPRAS NACIONAIS COMPER SUPERMERCA BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 1190.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126691039",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 185.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126691051",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 127.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126691045",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 400.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126868195",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 752.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126868198",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 146.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "126868177",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 64.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 214.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1492.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "126987522",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 79.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "126987532",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 50.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "127044755",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 49.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "127044750",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 121.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 326.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "127202427",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 4.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "127202409",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 23.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "127202402",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 38.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "127260305",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 158.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "127260304",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 109.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 505.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 308.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "",
+    "complemento": "LIQUIDACAO DEBLOQUETOS",
+    "credito": true,
+    "debito": false,
+    "valor": 262.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELDIS-G",
+    "credito": true,
+    "debito": false,
+    "valor": 775.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "VE0165874",
+    "complemento": "COMPRAS NACIONAIS COMPER SUPERMERCA BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 403.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2020",
+    "documento": "VE0167713",
+    "complemento": "COMPRAS NACIONAIS COMPER SUPERMERCA BALNE",
+    "credito": true,
+    "debito": false,
+    "valor": 216.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127435497",
+    "complemento": "STONE CRED ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 9.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127435488",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 30.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127435495",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 200.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127573022",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 57.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127573014",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 134.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2020",
+    "documento": "127573007",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 16.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2020",
+    "documento": "127675413",
+    "complemento": "STONE CRED MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2020",
+    "documento": "127675408",
+    "complemento": "STONE CRED VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 120.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2020",
+    "documento": "127736560",
+    "complemento": "STONE DEB ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 184.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2020",
+    "documento": "127736568",
+    "complemento": "STONE DEB VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 45.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2020",
+    "documento": "127736556",
+    "complemento": "STONE DEB MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 67.4,
+    "origem": "Extrato"
+  }
+]

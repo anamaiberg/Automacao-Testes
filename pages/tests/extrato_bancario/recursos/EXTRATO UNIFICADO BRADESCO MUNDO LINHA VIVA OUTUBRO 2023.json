@@ -1,0 +1,821 @@
+[
+  {
+    "data": "02/10/2023",
+    "documento": "8649160",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Esp.santo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 9925.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "9200959",
+    "complemento": "Ted-transf Elet Dispon Remet.edificio Porto Real",
+    "credito": false,
+    "debito": true,
+    "valor": 294.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "6342135",
+    "complemento": "Transf Cc Para Cc Pj Setta Servicos e Locadora e Gera",
+    "credito": false,
+    "debito": true,
+    "valor": 1253.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "2995044",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 4318.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "9549168",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 148.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "1659016",
+    "complemento": "Transferencia Pix Rem: Bahia Seg 02/10",
+    "credito": false,
+    "debito": true,
+    "valor": 1660.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "0225534",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 17600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "2995044",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 9820.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "1350119",
+    "complemento": "Transferencia Pix Rem: Hopi Hari S A 03/10",
+    "credito": false,
+    "debito": true,
+    "valor": 5180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "0225554",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "2071824",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Sao Paulo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/10/2023",
+    "documento": "6202587",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 875.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0663361",
+    "complemento": "Transf Cc Para Cc Pj Rimaco Materiais de Seguranca e",
+    "credito": false,
+    "debito": true,
+    "valor": 397.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0500125",
+    "complemento": "Recebimento Fornecedor Cilasi Alimentos S/a",
+    "credito": false,
+    "debito": true,
+    "valor": 1720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "2995044",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 24882.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2023",
+    "documento": "0225950",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 27000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "5791364",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Esp.santo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 1483.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "2995044",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 16517.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2023",
+    "documento": "0225774",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 18000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "6903457",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "7074992",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Esp.santo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "7119783",
+    "complemento": "Ted-transf Elet Dispon Remet.andritz Construcoes",
+    "credito": false,
+    "debito": true,
+    "valor": 7425.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "2224344",
+    "complemento": "Transf Cc Para Cc Pj Cctec Manutencao e Instalacao El",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "1000125",
+    "complemento": "Recebimento Fornecedor Energisa Sul-sudeste Dist de Ene",
+    "credito": false,
+    "debito": true,
+    "valor": 32656.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0000174",
+    "complemento": "Pagto Eletron Cobranca 017046841800227001bradesco Admin",
+    "credito": true,
+    "debito": false,
+    "valor": 1876.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0022047",
+    "complemento": "Transf Cc Para Cc Pj Carlos Henrique Vieira Coelho",
+    "credito": true,
+    "debito": false,
+    "valor": 60.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0225556",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 64354.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/10/2023",
+    "documento": "0383614",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 25140.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1100125",
+    "complemento": "Recebimento Fornecedor Energisa Sul-sudeste Dist de Ene",
+    "credito": false,
+    "debito": true,
+    "valor": 54582.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "0225957",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 14800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/10/2023",
+    "documento": "1035861",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 39782.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746298",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 204.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746388",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "8746482",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 7480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "0225546",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2023",
+    "documento": "1785480",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 3074.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "0383614",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 25140.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1035861",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 32019.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "2995044",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 11964.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "6202587",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 875.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2023",
+    "documento": "1339096",
+    "complemento": "Ted D Cc Hbank* Dest. Mundo Linha Viva e e",
+    "credito": true,
+    "debito": false,
+    "valor": 70000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "2004233",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "1035861",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 4413.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/10/2023",
+    "documento": "0225910",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 14413.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "2736617",
+    "complemento": "Ted-transf Elet Dispon Remet.yokogawa America do",
+    "credito": false,
+    "debito": true,
+    "valor": 1056.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "3257379",
+    "complemento": "Transf Cc Para Cc Pj Materquip Informatica Ltda",
+    "credito": true,
+    "debito": false,
+    "valor": 310.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2023",
+    "documento": "3910278",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 746.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3225695",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Sao Paulo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 5584.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3551828",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "0125735",
+    "complemento": "Transf Cc Para Cc Pj Mundo Energia Equipamentos de SE",
+    "credito": false,
+    "debito": true,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1900125",
+    "complemento": "Recebimento Fornecedor Energisa Sul-sudeste Dist de Ene",
+    "credito": false,
+    "debito": true,
+    "valor": 8164.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "3484867",
+    "complemento": "Ted D Cc Hbank* Dest. Mundo Linha Viva e e",
+    "credito": true,
+    "debito": false,
+    "valor": 13000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "1217360",
+    "complemento": "Pagto Eletronico Tributo Net Empr Lic Elet Geh2h02",
+    "credito": true,
+    "debito": false,
+    "valor": 394.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5042023",
+    "complemento": "Pagto Eletronico Tributo Internet --sefaz MS",
+    "credito": true,
+    "debito": false,
+    "valor": 30.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5042023",
+    "complemento": "Pagto Eletronico Tributo Internet --sefaz MS",
+    "credito": true,
+    "debito": false,
+    "valor": 105.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "5194061",
+    "complemento": "Pagto Eletronico Tributo Internet --ms-detran/taxas",
+    "credito": true,
+    "debito": false,
+    "valor": 1173.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/10/2023",
+    "documento": "4488761",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 12454.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "4430335",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1035861",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 3350.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1785480",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 3074.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "3910278",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 746.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "4488761",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 12399.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1213635",
+    "complemento": "Pagto Eletronico Tributo Net Empr Lic Elet Ghh5e94",
+    "credito": true,
+    "debito": false,
+    "valor": 136.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "1213635",
+    "complemento": "Pagto Eletronico Tributo Net Empr Lic Elet Ghh5e94",
+    "credito": true,
+    "debito": false,
+    "valor": 833.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2023",
+    "documento": "0225431",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 23600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5218659",
+    "complemento": "Ted-transf Elet Dispon Remet.edp Sao Paulo Distri",
+    "credito": false,
+    "debito": true,
+    "valor": 9627.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5271324",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 28000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "0225544",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 27363.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/10/2023",
+    "documento": "5830190",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 10263.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "4488761",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 54.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "5830190",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 2434.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "0225642",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 1619.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2023",
+    "documento": "1907129",
+    "complemento": "Transf Cc Para Cc Pj W Bertolo Industria e Comercio e",
+    "credito": true,
+    "debito": false,
+    "valor": 870.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "6632254",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "5830190",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 1454.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/10/2023",
+    "documento": "0225695",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 51454.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7496538",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7560747",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7595931",
+    "complemento": "Ted-transf Elet Dispon Remet.rip Servicos Industr",
+    "credito": false,
+    "debito": true,
+    "valor": 17577.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "5780000",
+    "complemento": "Pagto Eletronico Tributo Internet --dar Trib Div Sefaz",
+    "credito": true,
+    "debito": false,
+    "valor": 6470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2023",
+    "documento": "7712205",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 21807.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "2224649",
+    "complemento": "Transf Cc Para Cc Pj Cctec Manutencao e Instalacao El",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "5830190",
+    "complemento": "Resgate Invest Facil",
+    "credito": false,
+    "debito": true,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2023",
+    "documento": "0225829",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9327725",
+    "complemento": "Ted-transf Elet Dispon Remet.energisa Sul-sudeste",
+    "credito": false,
+    "debito": true,
+    "valor": 86964.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9454212",
+    "complemento": "Ted-transf Elet Dispon Remet.mundo Linha Viva e e",
+    "credito": false,
+    "debito": true,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "0225030",
+    "complemento": "Transf Cc Para Cc Pj Lightbury e Comercio de Ar",
+    "credito": true,
+    "debito": false,
+    "valor": 35300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2023",
+    "documento": "9248102",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 81664.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1456436",
+    "complemento": "Transf Cc Para Cc Pj Eletro e Metalurgica Rovaris Ltd",
+    "credito": false,
+    "debito": true,
+    "valor": 10058.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "1213226",
+    "complemento": "Pagto Eletronico Tributo Net Empr Lic Elet Get8g15",
+    "credito": true,
+    "debito": false,
+    "valor": 7199.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2023",
+    "documento": "0182727",
+    "complemento": "Aplic.invest Facil",
+    "credito": true,
+    "debito": false,
+    "valor": 2858.54,
+    "origem": "Extrato"
+  }
+]

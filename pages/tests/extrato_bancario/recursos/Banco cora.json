@@ -1,0 +1,92 @@
+[
+  {
+    "data": "12/09/2024",
+    "documento": "42.435.866/0001-75",
+    "complemento": "Transf Pix recebida GONCALVES CONS…",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix MINISTERIO DA FAZ…",
+    "credito": true,
+    "debito": false,
+    "valor": 437.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix MINISTERIO DA FAZ…",
+    "credito": true,
+    "debito": false,
+    "valor": 39.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix RECEITA FEDERAL",
+    "credito": true,
+    "debito": false,
+    "valor": 183.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix RECEITA FEDERAL",
+    "credito": true,
+    "debito": false,
+    "valor": 437.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/10/2024",
+    "documento": "42.435.866/0001-75",
+    "complemento": "Transf Pix recebida GONCALVES CONS…",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/10/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix MINISTERIO DA FAZ…",
+    "credito": true,
+    "debito": false,
+    "valor": 186.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "",
+    "complemento": "Pagamento de imposto Darf - Sem Código D…",
+    "credito": true,
+    "debito": false,
+    "valor": 2481.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix MINISTERIO DA FAZ…",
+    "credito": true,
+    "debito": false,
+    "valor": 4046.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/10/2024",
+    "documento": "00.394.460/0058-87",
+    "complemento": "Pgto QR Code Pix MINISTERIO DA FAZ…",
+    "credito": true,
+    "debito": false,
+    "valor": 41.03,
+    "origem": "Extrato"
+  }
+]

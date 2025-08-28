@@ -1,0 +1,3827 @@
+[
+  {
+    "data": "15/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1039.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 217.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "791259",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 526.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 1322.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 119.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO 82639451/0101/00010996370",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 15/02/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 474.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 430.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "896806",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1902.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 198.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS W2W E COMMERCE DE VINHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1152.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO BLUMERCO TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 263.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 391.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 634.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 167.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 16/02/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 133.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 868.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 247.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SAUDE NATURAL COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 30.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "3221",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 845.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO SPAL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 232.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO SPAL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 364.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BCOITAUBBA PARKER M I B L",
+    "credito": true,
+    "debito": false,
+    "valor": 439.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 165.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO AUTO POSTO JULINHO",
+    "credito": true,
+    "debito": false,
+    "valor": 30.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 336.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 201.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 166.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 358.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 1429.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2151.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "124196",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 3797.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HEXTOR SISTEMAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 236.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 48.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BANCO VOTORANTIM S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1507.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 486.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OESA COMERCIO E REPRESENT",
+    "credito": true,
+    "debito": false,
+    "valor": 316.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1181.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CONTAINER PARK LOCACOES L",
+    "credito": true,
+    "debito": false,
+    "valor": 2288.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 1214.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 22/02/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 49.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 492.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "256986",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 707.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO COOPER",
+    "credito": true,
+    "debito": false,
+    "valor": 198.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 192.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CONFIANCA COMERCIO EXTERI",
+    "credito": true,
+    "debito": false,
+    "valor": 1415.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 469.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 508.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 317.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 13.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 223.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "351886",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 21.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1761.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 233.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MARCO AURELIO DUARTE FLOR",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 29.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO POSTO AVENIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO BAR DO JOCA",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2360.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 107.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 1260.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO POSTO AVENIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "461802",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 4225.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO LOJAS DE DEP MILIUM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 129.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MOCAM SUPERMERCADOS",
+    "credito": true,
+    "debito": false,
+    "valor": 64.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO AGROPECUARIA TRINCA FERRO",
+    "credito": true,
+    "debito": false,
+    "valor": 112.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO JEISON RAFAEL BORNHAUSEN",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO INOVE ESPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 6520.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO POSTO AVENIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 26.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PORTO A PORTO COM IMP EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 1440.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PORTO A PORTO COM IMP EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 729.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 890.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1235.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS QUIRINO JOSE SPENGLER",
+    "credito": true,
+    "debito": false,
+    "valor": 1785.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 217.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BCOITAUBBA PARKER M I B L",
+    "credito": true,
+    "debito": false,
+    "valor": 525.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO PARKER MIGLIORINI INTERNA",
+    "credito": true,
+    "debito": false,
+    "valor": 526.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO TRAMONTINA SUL SA",
+    "credito": true,
+    "debito": false,
+    "valor": 655.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ SC DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 274.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 8309.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 3.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 433.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 144.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 365.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "677658",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 871.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 168.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS W2W E COMMERCE DE VINHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1151.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS AMORA DISTRIBUICAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 320.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 172.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 861.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 118.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "781004",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1066.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1233.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 156.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 266.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 319.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 388.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 246.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 78.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "883317",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 2941.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1382.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PORTO A PORTO COM IMP EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 1295.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PORTO A PORTO COM IMP EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 726.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 138.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 949.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1406.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 142.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "988032",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 5771.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CAFE DA PRACA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CAFE DA PRACA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CAFE DA PRACA",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO ROMEU KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CAFE DA PRACA",
+    "credito": true,
+    "debito": false,
+    "valor": 19.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 7854.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS FUTURA COMERCIAL TRADING",
+    "credito": true,
+    "debito": false,
+    "valor": 1241.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1654.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS ESPACO PRIME C B D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 730.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 556.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BCOITAUBBA PARKER M I B L",
+    "credito": true,
+    "debito": false,
+    "valor": 525.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS AMORA DISTRIBUICAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 320.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 147.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 355.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 341.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 285.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS ZOOP BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 443.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO STATUS MODAS COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO ALAN VIEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 158.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 62.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 7665.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 216.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 11.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 13.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "200769",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 170.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 412.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 997.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 82.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 413.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "302771",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1121.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO RODRIGO ANTONIO REINERT S",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PORTO A PORTO COM IMP EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 726.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 1087.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1233.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 552.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 09/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 740.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 145.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 127.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "407010",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 699.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1712.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 105.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 287.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1990.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "520869",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 2661.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 5045.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 1595.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1654.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 453.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 599.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 164.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 4466.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 146.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 187.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO Evaldo da Silva filho",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "735722",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 385.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 219.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 15/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 131.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 49.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 433.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "838995",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 478.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1091.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 475.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 143.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "943907",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 173.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO Brian Eduardo Inacio Bert",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS FUTURA COMERCIAL TRADING",
+    "credito": true,
+    "debito": false,
+    "valor": 1237.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO CERTO REPRESENTACOES EIRE",
+    "credito": true,
+    "debito": false,
+    "valor": 2868.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 3432.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 2.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1684.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 26.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 661.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO COOPER",
+    "credito": true,
+    "debito": false,
+    "valor": 279.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "57796",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 3890.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO CONTA CELULAR EM CANAIS INTERNET TIM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 51.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 5929.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO ZANINI NUTRICAO ESPORTIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 1305.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO SPAL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 451.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO SPAL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 467.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 343.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 116.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 341.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 536.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BCOITAUBBA PARKER M I B L",
+    "credito": true,
+    "debito": false,
+    "valor": 522.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 194.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ SC DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 188.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO EMBALAGENS SETE DE SETEMB",
+    "credito": true,
+    "debito": false,
+    "valor": 594.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 5322.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 21/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 348.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 94.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 393.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "275919",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 527.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO UNIFORMES BLUMENAU LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 522.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 182.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 657.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 427.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 21.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "378466",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 788.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 279.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 941.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 528.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 510.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1010.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 95.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MARCO FLORIANI PESCADOS L",
+    "credito": true,
+    "debito": false,
+    "valor": 113.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 336.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "483252",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 863.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO Gisele Rebelo Medeiros",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS AGILITA CONTABILIDADE LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 563.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 806.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 45.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO FERNANDO NUNES",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS ARCHER S A",
+    "credito": true,
+    "debito": false,
+    "valor": 238.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 150.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 2350.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 779.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 134.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "596999",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 4973.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1377.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS QUIRINO JOSE SPENGLER",
+    "credito": true,
+    "debito": false,
+    "valor": 1785.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 301.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 836.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 343.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 535.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 339.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BCOITAUBBA PARKER M I B L",
+    "credito": true,
+    "debito": false,
+    "valor": 522.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 574.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 948.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 301.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1374.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 1535.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 25/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MARCO AURELIO DUARTE FLOR",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 142.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO Kemely Suptil Confeitaria",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 387.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 0.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 255.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 384.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "811698",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 492.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO JEISON RAFAEL BORNHAUSEN",
+    "credito": true,
+    "debito": false,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 197.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 384.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 29/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 491.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "913258",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1082.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 279.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ SC DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 188.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ SC DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 286.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08583082901",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1362.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/03/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 344.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 257.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 668.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 180.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 311.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "17810",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1623.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS FUTURA COMERCIAL TRADING",
+    "credito": true,
+    "debito": false,
+    "valor": 1237.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 835.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MARCO AURELIO DUARTE FLOR",
+    "credito": true,
+    "debito": false,
+    "valor": 113.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/03/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 232.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "TARIFA AVULSA ENVIO PIX 31/03/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 0.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1569.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 2248.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "132175",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 8155.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 11974.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 158.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 1553.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 740.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 420.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 536.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 522.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 340.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 249.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CERTO REPRESENTACOES EIRE",
+    "credito": true,
+    "debito": false,
+    "valor": 1317.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 298.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 400.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFRIOS COMERCIAL DE A",
+    "credito": true,
+    "debito": false,
+    "valor": 2003.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 8543.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 57.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 821.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "345831",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 768.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 210.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MUNICIPIO DE GASPAR",
+    "credito": true,
+    "debito": false,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1697.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 739.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO SPAL INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 420.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 684.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 2153.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 286.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 49.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 813.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "442061",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 2802.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "560847",
+    "complemento": "PIX ENVIADO MARIA ROGERIA DA SILVA",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 380.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 144.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 903.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 183.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 240.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 329.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1709.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO ALLAN FELIPE NUNES",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS MARCO / 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 33.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 115.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1951.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 480.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "556488",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 5565.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO COOPER",
+    "credito": true,
+    "debito": false,
+    "valor": 258.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO CONTA CELULAR EM CANAIS INTERNET TIM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 53.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO INOVE ESPORTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO BIANCHINI AGROPECUARIA E",
+    "credito": true,
+    "debito": false,
+    "valor": 153.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 2022.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BANCO VOTORANTIM S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1409.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 159.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 120.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PIZZATO VINHAS & VINHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 790.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS ZOOP BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 449.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DELICE INDUSTRIA E COMERC",
+    "credito": true,
+    "debito": false,
+    "valor": 630.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALAS ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 972.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 354.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 545.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO GG ART CONCEPT",
+    "credito": true,
+    "debito": false,
+    "valor": 1293.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO Conta Primaria",
+    "credito": true,
+    "debito": false,
+    "valor": 24.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 213.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 1531.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 339.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 425.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "780106",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 913.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 221.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 44.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 33.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SPAL IND BRAS DE BEBIDAS",
+    "credito": true,
+    "debito": false,
+    "valor": 327.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CERTO REPRESENTACOES EIRE",
+    "credito": true,
+    "debito": false,
+    "valor": 1195.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BERTOLUCCI . CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 684.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 827.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 318.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 92.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "882164",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 721.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 122.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1009.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 757.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 274.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO MARCO AURELIO DUARTE FLOR",
+    "credito": true,
+    "debito": false,
+    "valor": 260.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO SUPERMERCADOS KOCH",
+    "credito": true,
+    "debito": false,
+    "valor": 130.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "987078",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 745.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO GALEGAO SUPERMERCADO",
+    "credito": true,
+    "debito": false,
+    "valor": 17.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "PIX ENVIADO POSTO AVENIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 42.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 1326.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "211323",
+    "complemento": "PIX ENVIADO MARIA ALZIRA GOES VASCONC",
+    "credito": true,
+    "debito": false,
+    "valor": 3650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 342.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 346.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE CREDITO GETNET-MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 29.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 2930.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS OESA COMERCIO E REPRESENT",
+    "credito": true,
+    "debito": false,
+    "valor": 661.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 08583082901",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 249.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HEXTOR SISTEMAS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 235.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 845.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 35.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 239.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "317621",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 613.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 888.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 623.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 64.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 11.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "420318",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 1062.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 143.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUGALI CHOCOLATES IND E C",
+    "credito": true,
+    "debito": false,
+    "valor": 1142.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS SEGALA S ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 352.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS CONFIANCA COMERCIO EXTERI",
+    "credito": true,
+    "debito": false,
+    "valor": 681.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS NUTRIFIRIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 351.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 909.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 82.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 1140.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 622.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "540012",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 4766.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 6612.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DOLOMITI IMPORTADORA E DI",
+    "credito": true,
+    "debito": false,
+    "valor": 196.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PIZZATO VINHAS & VINHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 817.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 719.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 941.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO COPAL ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 827.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS FUTURA COMERCIAL TRADING",
+    "credito": true,
+    "debito": false,
+    "valor": 1840.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48360873000131",
+    "credito": false,
+    "debito": true,
+    "valor": 2611.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS HNK BR LOGISTICA E DIST L",
+    "credito": true,
+    "debito": false,
+    "valor": 177.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 2860.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS BLUMENAU LOGISTICA EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 177.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS 2R DISTRIBUIDORA DE ALIME",
+    "credito": true,
+    "debito": false,
+    "valor": 621.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6567.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "768194",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 555.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 555.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 69.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO CONTA CELULAR EM CANAIS INTERNET TIM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 53.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS DKIROS NET SERVICOS DE IN",
+    "credito": true,
+    "debito": false,
+    "valor": 155.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 140.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 248.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-ELO DEBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 24.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "607648",
+    "complemento": "PAGAMENTO CARTAO DE DEBITO GETNET-VISA ELECTR",
+    "credito": false,
+    "debito": true,
+    "valor": 71.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "974804",
+    "complemento": "ANTECIPACAO GETNET",
+    "credito": false,
+    "debito": true,
+    "valor": 181.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PGTO TRIBUTO ESTADUAL EM CANAIS INTERNET SEFAZ SC DARE",
+    "credito": true,
+    "debito": false,
+    "valor": 297.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48360873000131",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1378.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 48360873000131",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS PIZZATO VINHAS & VINHOS",
+    "credito": true,
+    "debito": false,
+    "valor": 811.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 262.64,
+    "origem": "Extrato"
+  }
+]

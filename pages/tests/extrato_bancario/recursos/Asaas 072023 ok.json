@@ -1,0 +1,4304 @@
+[
+  {
+    "data": "01/07/2023",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 2148 ",
+    "credito": true,
+    "debito": false,
+    "valor": 844.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 204967578 GW DISTRIBUIÇÃO LTDA. Notafiscal nr. 1492 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 204967578 GW DISTRIBUIÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 204967578 GW DISTRIBUIÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para TEREZA APARECIDA PEREIRA MEI ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 510.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Natali da Silva ",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Dafne Fix Arnaud ",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para LARISSA DE SOUZA CRISPIM ",
+    "credito": true,
+    "debito": false,
+    "valor": 2710.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Fernanda Martins Piazera ",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para CRISTINA HREISEMNOU RAIMUNDO ",
+    "credito": true,
+    "debito": false,
+    "valor": 2710.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para ANA JULIA DE FREITAS DA SILVA ",
+    "credito": true,
+    "debito": false,
+    "valor": 3260.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Leilanne Sarubi Mileo ",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Letícia Cristina da Conceição ",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Ana Luíza Alves ",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Cecília de Oliveira ",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para THAYS JACINTO HENRIQUE ",
+    "credito": true,
+    "debito": false,
+    "valor": 1301.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para JOANA HARDT ",
+    "credito": true,
+    "debito": false,
+    "valor": 1380.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1521 - fatura nr.211893401 - VERDE ADMINISTRAÇÃO E LOGÍSTICA AMBIENTAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de emissão da nota fiscal de serviço nr. 1522 - fatura nr. 138899180 - NASCH BRAS COMERCIO E ASSISTENCIA DE EQUIPAMENTOS REPROGRAFICOS E MATERIAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1523 - fatura nr.213448206 - UAU FILMES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1524 - fatura nr.214782330 - ELDORADO CARTAZES E LOCAÇÕES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1525 - fatura nr.207957744 - ANA PAULA DA SILVA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1526 - fatura nr.209701370 - VERSATIL COMERCIO E DISTRIBUIDORA DE ACO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1527 - fatura nr.209701036 - CHOPP CATARINENSE COMERCIO E EVENTOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1528 - fatura nr. 209701198 - MAES COMERCIO VAREJISTA DE ALIMENTOS CON ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1529 - fatura nr.209701039 - COMUNI SERVICOS ESPECIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1530 - fatura nr.209622494 - NECTAR ARTIGOS IMPORTADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1531 - fatura nr.215957494 - JOSÉ BENEVAL ROSA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1532 - fatura nr.209701042 - CR COMERCIO DE METAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1533 - fatura nr.209562741 - FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1534 - fatura nr.215957563 - SATES SERVICOS POSTAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1535 - fatura nr.213448168 - ROSSIL INDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1536 - fatura nr.209701150 - GERMANA SARAIVA DANCA.ARTE.SAUDE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1537 - fatura nr.210465844 - MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1538 - fatura nr.209701143 - FRANCO MAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1539 - fatura nr.209701271 - RODOVIÁRIO FENIX EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1540 - fatura nr.215957568 - TECNOBRIQ INDUSTRIA DE MAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1541 - fatura nr.209701178 - IDEAL INDUSTRIA E COMERCIO DE FERRAGENS ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1542 - fatura nr.209701326 - STEIL & STEIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1543 - fatura nr.209701268 - RISQUE-RABISQUE SERVICOS POSTAIS LTDA ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1544 - fatura nr.209701249 - MOSARA GORETI CRESTANI VENDRAMINI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1545 - fatura nr.209701194 - LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de emissão da nota fiscal de serviço nr. 1546 - fatura nr. 209701192 - KAMMOLDES SERVICOS DE USINAGEM, MOLDES E MATRIZES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1547 - fatura nr.209701232 - METALURGICA ASSIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1548 - fatura nr.209701236 - MOSAICO TELECOM LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1549 - fatura nr.209701302 - SCHREINER COM. DE MATER. DE CONSTR. ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1550 - fatura nr.209701022 - ADAMO RESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1551 - fatura nr.209701167 - GUERRILHA E-COMMERCE COMÉRCIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1552 - fatura nr.213447914 - DAYAN FRANCISCO DE SOUZA ANGELO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1553 - fatura nr.215957549 - MARLINDA DORNER ANACLETO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1554 - fatura nr.209622496 - SIPREVI INSTALACOES INDUSTRIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1555 - fatura nr.209701029 - COZINHA CANTINHO ITALIANO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1556 - fatura nr.209697531 - COLTEX INDUSTRIA TEXTIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1557 - fatura nr.215957544 - HW CONEXÕES EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1558 - fatura nr.209622495 - RAULINO JOÃO SCHMITZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1559 - fatura nr. 213448121 - MANI SOM E LUZ LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1560 - fatura nr.209701027 - BESEN COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1561 - fatura nr.210474138 - MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1562 - fatura nr.209701258 - RAFAEL ESTEVAM RAMOS ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1563 - fatura nr.209701282 - SANTOS DUMONT POSTAGENS LTDA EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1564 - fatura nr.209701031 - CASAFER COMERCIAL IMPORTADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1565 - fatura nr.209701140 - FORMPARTS INDUSTRIA METALURGICA EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1566 - fatura nr.213448159 - ROSANA BARCELOS DESORDI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1567 - fatura nr.215957551 - MBW INDUSTRIA DE MOLDES E INJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1568 - fatura nr.219000379 - ILUMINA MATERIAL DE CONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1569 - fatura nr.187048370 - TANIA REGINA LOPES ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de emissão da nota fiscal de serviço nr. 1570 - fatura nr.215957504 - FERRAMENTARIA FERMOLD LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1571 - fatura nr.205330586 - PANIFICADORA DA VILA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1572 - fatura nr.209701265 - RESTAURANTE GLORIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1573 - fatura nr.209701137 - COMERCIO DE FERRAGENS LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1574 - fatura nr.209701170 - HIDEFRAN - FERRAMENTARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1575 - fatura nr.209701227 - MECANICA DE TORNOS SCHULZ LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1576 - fatura nr.205330492 - EMPREGADOR LIMPEZA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1577 - fatura nr.209702750 - ESTACIONEARTE ESTACIONAMENTO E CAFE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1578 - fatura nr.213448139 - RAMON DANIELSKI EVENTOS EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1579 - fatura nr. 209613207 - FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1580 - fatura nr.213448067 - GASOLDA COMÉRCIO VAREJISTA DE OXIGÊNIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1581 - fatura nr.209701254 - PALINGUER COMERCIO MATERIAIS DE CONSTRUÇÃO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1582 - fatura nr.209701339 - TICIANE CRISTINE GAMBETTA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1583 - fatura nr.216484731 - COMERCIO DE FERRAGENS LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1584 - fatura nr. 215957556 - ORIGETEC PROJETOS DE MAQUINAS E SISTEMAS INDUSTRIAIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1585 - fatura nr.219629006 - BRIOVILLE COMÉRCIO DE MATERIAIS DE LIMPEZA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Estorno de transação via Pix ",
+    "credito": false,
+    "debito": true,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Dafne Fix Arnaud ",
+    "credito": true,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 187048370 TANIA REGINA LOPES. Notafiscal nr. 1569 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 187048370 TANIA REGINA LOPES ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 187048370 TANIA REGINA LOPES ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1721.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1721.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/07/2023",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 2148 ",
+    "credito": true,
+    "debito": false,
+    "valor": 291.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 205330586 PANIFICADORA DA VILA LTDA.Nota fiscal nr. 1571 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 205330586 PANIFICADORA DA VILA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 205330586 PANIFICADORA DA VILA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 205351174 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 205351174 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 205351174 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209622494 NECTAR ARTIGOSIMPORTADOS LTDA. Nota fiscal nr. 1530 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209622494 NECTAR ARTIGOS IMPORTADOSLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209622494 NECTAR ARTIGOSIMPORTADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 121.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 230055629 Rosa Maria Letzner ",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 230055629 Rosa Maria Letzner ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1589 - fatura nr. 205954181 - MBW INDUSTRIA DE MOLDES E INJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para THAYS JACINTO HENRIQUE ",
+    "credito": true,
+    "debito": false,
+    "valor": 21.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para LUCAS RAFAEL GONCALVES CORREACIDRAL ",
+    "credito": true,
+    "debito": false,
+    "valor": 27993.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Gabriel de Borba Schulz ",
+    "credito": true,
+    "debito": false,
+    "valor": 11868.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Guilherme Nader Marini ",
+    "credito": true,
+    "debito": false,
+    "valor": 10985.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Natali da Silva ",
+    "credito": true,
+    "debito": false,
+    "valor": 3572.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para MARIANA LEOPOLDO MONTINI ",
+    "credito": true,
+    "debito": false,
+    "valor": 605.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 205954181 MBW INDUSTRIA DE MOLDESE INJETADOS LTDA. Nota fiscal nr. 1589 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 205954181 MBW INDUSTRIA DE MOLDES EINJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 205954181 MBW INDUSTRIA DEMOLDES E INJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 3596.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 279.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 210387626 MARCO JUN TAKAHASHI ",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 210387626 MARCO JUN TAKAHASHI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 210387626 MARCO JUN TAKAHASHI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1590 - fatura nr. 205351174 - COMAI MANUTENCAO INDUSTRIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 231179285 Ademir Corrêa ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 231179285 Ademir Corrêa ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 138899180 NASCH BRAS COMERCIO E ASSISTENCIA DE EQUIPAMENTOS REPROGRAFICOS E MATERIAIS LTDA. Nota fiscal nr. 1522",
+    "credito": false,
+    "debito": true,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 138899180 NASCH BRAS COMERCIO EASSISTENCIA DE EQUIPAMENTOS REPROGRAFICOS E MATERIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701143 FRANCO MAQUINAS LTDA.Nota fiscal nr. 1538 ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701143 FRANCO MAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701143 FRANCO MAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 36.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 394.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 358.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 76.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 97.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 108.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 325.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 203.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 105.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Edilcea de Fátima Machado ",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para CASA DO ADS SOLUCOES GOOGLETREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 298.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1591 - fatura nr.210387626 - MARCO JUN TAKAHASHI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 209622495 RAULINO JOÃO SCHMITZ.Nota fiscal nr. 1558 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1366.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209622495 RAULINO JOÃO SCHMITZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209622495 RAULINO JOÃO SCHMITZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1592 - fatura nr.180354630 - 3R FERRAMENTARIA E USINAGEM LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1593 - fatura nr.180353369 - WINTER INDUSTRIAL LTDA EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1594 - fatura nr.180359195 - ACQUAPLANT QUIMICA DO BRASIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para TEREZA APARECIDA PEREIRA MEI ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1595 - fatura nr.226376437 - MBW INDUSTRIA DE MOLDES E INJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 190.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701031 CASAFER COMERCIAL IMPORTADORA LTDA. Nota fiscal nr. 1564",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701031 CASAFER COMERCIALIMPORTADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701031 CASAFER COMERCIALIMPORTADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701232 METALURGICA ASSIS LTDA.Nota fiscal nr. 1547 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701232 METALURGICA ASSIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701232 METALURGICA ASSIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701268 RISQUE-RABISQUE SERVICOSPOSTAIS LTDA ME. Nota fiscal nr. 1543 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701268 RISQUE-RABISQUE SERVICOSPOSTAIS LTDA ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701268 RISQUE-RABISQUE SERVICOSPOSTAIS LTDA ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701370 VERSATIL COMERCIO EDISTRIBUIDORA DE ACO. Nota fiscal nr. 1526 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701370 VERSATIL COMERCIO EDISTRIBUIDORA DE ACO ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701370 VERSATIL COMERCIO EDISTRIBUIDORA DE ACO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209613207 FURGOES JOINVILLE LTDA. Nota fiscal nr. 1579 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1726.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de boleto - fatura nr. 209613207 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209613207 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209697531 COLTEX INDUSTRIA TEXTILLTDA. Nota fiscal nr. 1556 ",
+    "credito": false,
+    "debito": true,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209697531 COLTEX INDUSTRIA TEXTIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209697531 COLTEX INDUSTRIA TEXTILLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209562741 FURGOES JOINVILLE LTDA.Nota fiscal nr. 1533 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1126.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209562741 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209562741 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209702750 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA. Nota fiscal nr. 1577 ",
+    "credito": false,
+    "debito": true,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209702750 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209702750 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701271 RODOVIÁRIO FENIX EIRELI.Nota fiscal nr. 1539 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701271 RODOVIÁRIO FENIX EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701271 RODOVIÁRIO FENIX EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701022 ADAMO RESTAURANTE LTDA.Nota fiscal nr. 1550 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701022 ADAMO RESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701022 ADAMO RESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701039 COMUNI SERVICOS ESPECIAISLTDA. Nota fiscal nr. 1529 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701039 COMUNI SERVICOS ESPECIAISLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701039 COMUNI SERVICOSESPECIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701194 LEANDRO E LEANDRO LTDA.Nota fiscal nr. 1545 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701194 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701194 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701137 COMERCIO DE FERRAGENSLEANDRO LTDA. Nota fiscal nr. 1573 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701137 COMERCIO DE FERRAGENSLEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de mensageria - fatura nr. 209701137 COMERCIO DE FERRAGENSLEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701265 RESTAURANTE GLORIA LTDA.Nota fiscal nr. 1572 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701265 RESTAURANTE GLORIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701265 RESTAURANTE GLORIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701042 CR COMERCIO DE METAISLTDA. Nota fiscal nr. 1532 ",
+    "credito": false,
+    "debito": true,
+    "valor": 4291.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701042 CR COMERCIO DE METAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701042 CR COMERCIO DE METAISLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701027 BESEN COMÉRCIO DEMATERIAIS DE CONSTRUÇÃO LTDA. Nota fiscal nr. 1560 ",
+    "credito": false,
+    "debito": true,
+    "valor": 3960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701027 BESEN COMÉRCIO DE MATERIAISDE CONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701027 BESEN COMÉRCIO DEMATERIAIS DE CONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701170 HIDEFRAN - FERRAMENTARIALTDA. Nota fiscal nr. 1574 ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701170 HIDEFRAN - FERRAMENTARIALTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701198 MAES COMERCIO VAREJISTADE ALIMENTOS CON. Nota fiscal nr. 1528 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701198 MAES COMERCIO VAREJISTA DEALIMENTOS CON ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701198 MAES COMERCIO VAREJISTADE ALIMENTOS CON ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701029 COZINHA CANTINHOITALIANO LTDA. Nota fiscal nr. 1555 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701029 COZINHA CANTINHO ITALIANOLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701029 COZINHA CANTINHOITALIANO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701258 RAFAEL ESTEVAM RAMOS ME.Nota fiscal nr. 1562 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701258 RAFAEL ESTEVAM RAMOS ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701258 RAFAEL ESTEVAM RAMOS ME ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209617449 SÉRGIO MARTINS DE OLIVEIRA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209617449 SÉRGIO MARTINS DE OLIVEIRA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209617449 SÉRGIO MARTINS DEOLIVEIRA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701227 MECANICA DE TORNOSSCHULZ LTDA. Nota fiscal nr. 1575 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de boleto - fatura nr. 209701227 MECANICA DE TORNOS SCHULZLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701227 MECANICA DE TORNOSSCHULZ LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701249 MOSARA GORETI CRESTANIVENDRAMINI. Nota fiscal nr. 1544 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701249 MOSARA GORETI CRESTANIVENDRAMINI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701249 MOSARA GORETI CRESTANIVENDRAMINI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701192 KAMMOLDES SERVICOS DEUSINAGEM, MOLDES E MATRIZES LTDA. Nota fiscal nr. 1546 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701192 KAMMOLDES SERVICOS DEUSINAGEM, MOLDES E MATRIZES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701192 KAMMOLDES SERVICOS DEUSINAGEM, MOLDES E MATRIZES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1596 - fatura nr.209617449 - SÉRGIO MARTINS DE OLIVEIRA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701236 MOSAICO TELECOM LTDA.Nota fiscal nr. 1548 ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701236 MOSAICO TELECOM LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701236 MOSAICO TELECOM LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701254 PALINGUER COMERCIO MATERIAIS DE CONSTRUÇÃO. Nota fiscal nr. 1581 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701254 PALINGUER COMERCIO MATERIAISDE CONSTRUÇÃO ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701254 PALINGUER COMERCIOMATERIAIS DE CONSTRUÇÃO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701036 CHOPP CATARINENSECOMERCIO E EVENTOS LTDA. Nota fiscal nr. 1527 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701036 CHOPP CATARINENSE COMERCIOE EVENTOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701036 CHOPP CATARINENSECOMERCIO E EVENTOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 192249594 JEFERSON LUIZ BRAZ ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 192249594 JEFERSON LUIZ BRAZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 192249594 JEFERSON LUIZ BRAZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 180354630 3R FERRAMENTARIA EUSINAGEM LTDA. Nota fiscal nr. 1592 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 180354630 3R FERRAMENTARIA E USINAGEMLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 180354630 3R FERRAMENTARIA EUSINAGEM LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 180353369 WINTER INDUSTRIAL LTDA EPP. Nota fiscal nr. 1593",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de boleto - fatura nr. 180353369 WINTER INDUSTRIAL LTDA EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 180353369 WINTER INDUSTRIAL LTDAEPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 180359195 ACQUAPLANT QUIMICA DOBRASIL LTDA. Nota fiscal nr. 1594 ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 180359195 ACQUAPLANT QUIMICA DO BRASILLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 180359195 ACQUAPLANT QUIMICA DOBRASIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701140 FORMPARTS INDUSTRIAMETALURGICA EIRELI. Nota fiscal nr. 1565 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701140 FORMPARTS INDUSTRIAMETALURGICA EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701140 FORMPARTS INDUSTRIAMETALURGICA EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701178 IDEAL INDUSTRIA ECOMERCIO DE FERRAGENS. Nota fiscal nr. 1541 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701178 IDEAL INDUSTRIA E COMERCIO DEFERRAGENS ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701178 IDEAL INDUSTRIA ECOMERCIO DE FERRAGENS ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701282 SANTOS DUMONT POSTAGENS LTDA EPP. Nota fiscal nr. 1563 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701282 SANTOS DUMONT POSTAGENSLTDA EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701282 SANTOS DUMONTPOSTAGENS LTDA EPP ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701302 SCHREINER COM. DE MATER.DE CONSTR.. Nota fiscal nr. 1549 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701302 SCHREINER COM. DE MATER. DECONSTR. ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701302 SCHREINER COM. DE MATER.DE CONSTR. ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 210290118 Marcos Holanda Amancio ",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 210290118 Marcos Holanda Amancio ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 210290118 Marcos Holanda Amancio ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 187997298 LAFFIN LOG TRANSPORTESLTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 187997298 LAFFIN LOG TRANSPORTES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 187997298 LAFFIN LOG TRANSPORTESLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 233418426 Aparecida Dolores Lenzi ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 233418426 Aparecida Dolores Lenzi ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 233647805 Gilmar Fulman De Oliveira ",
+    "credito": false,
+    "debito": true,
+    "valor": 329.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 233647805 Gilmar Fulman De Oliveira ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com dados manuais para HOLZ E CIDRALADVOGADOS ASSOCIADOS ",
+    "credito": true,
+    "debito": false,
+    "valor": 35000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213448168 ROSSIL INDUSTRIAL LTDA.Nota fiscal nr. 1535 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213448168 ROSSIL INDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448168 ROSSIL INDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701326 STEIL & STEIL LTDA. Notafiscal nr. 1542 ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701326 STEIL & STEIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701326 STEIL & STEIL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701167 GUERRILHA E-COMMERCECOMÉRCIO LTDA. Nota fiscal nr. 1551 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701167 GUERRILHA E-COMMERCECOMÉRCIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701167 GUERRILHA E-COMMERCECOMÉRCIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209275631 MARGARET STASSUN ",
+    "credito": false,
+    "debito": true,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209275631 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209275631 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 210465844 MARGARET STASSUN. Notafiscal nr. 1537 ",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 210465844 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 210465844 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213540597 MARGARET STASSUN ",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213540597 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213540597 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 210474138 MARGARET STASSUN. Notafiscal nr. 1561 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1634.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 210474138 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 210474138 MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 2148 ",
+    "credito": true,
+    "debito": false,
+    "valor": 241.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de emissão da nota fiscal de serviço nr. 1597 - fatura nr.187997298 - LAFFIN LOG TRANSPORTES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1598 - fatura nr.192249594 - JEFERSON LUIZ BRAZ ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para José Mauro Cidral ",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para LUCAS RAFAEL GONCALVES CORREA CIDRAL ",
+    "credito": true,
+    "debito": false,
+    "valor": 5688.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Gabriel de Borba Schulz ",
+    "credito": true,
+    "debito": false,
+    "valor": 84.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 205330492 EMPREGADOR LIMPEZA LTDA.Nota fiscal nr. 1576 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 205330492 EMPREGADOR LIMPEZA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 205330492 EMPREGADOR LIMPEZALTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 351.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 354.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 353.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 372.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 264.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 264.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 264.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 234307504 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 234307504 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 234307504 ESTACIONEARTEESTACIONAMENTO E CAFE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 229091836 FURGOES JOINVILLE LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 229091836 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 229091836 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 230969173 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 230969173 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 230969173 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1599 - fatura nr.230969173 - ABSOLUTA INCORPORACAO IMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Edilcea de Fátima Machado ",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para FORUS CONTABILIDADE EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 994.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 234945990 VERDE ADMINISTRAÇÃO ELOGÍSTICA AMBIENTAL LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 234945990 VERDE ADMINISTRAÇÃO E LOGÍSTICAAMBIENTAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1600 - fatura nr.180356200 - AMS SISTEMAS AVANCADOS DE MANUFATURA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2023",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 2148 ",
+    "credito": true,
+    "debito": false,
+    "valor": 58.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701150 GERMANA SARAIVA DANCA.ARTE.SAUDE LTDA. Nota fiscal nr. 1536 ",
+    "credito": false,
+    "debito": true,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701150 GERMANA SARAIVADANCA.ARTE.SAUDE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701150 GERMANA SARAIVADANCA.ARTE.SAUDE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957504 FERRAMENTARIA FERMOLDLTDA. Nota fiscal nr. 1570 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957504 FERRAMENTARIA FERMOLD LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957504 FERRAMENTARIA FERMOLDLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para TEREZA APARECIDA PEREIRA MEI ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1601 - fatura nr.209275631 - MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1602 - fatura nr.213540597 - MARGARET STASSUN ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1603 - fatura nr.210290118 - Marcos Holanda Amancio ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 269.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213448067 GASOLDA COMÉRCIOVAREJISTA DE OXIGÊNIO LTDA. Nota fiscal nr. 1580 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1338.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213448067 GASOLDA COMÉRCIO VAREJISTADE OXIGÊNIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448067 GASOLDA COMÉRCIOVAREJISTA DE OXIGÊNIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213448206 UAU FILMES LTDA. Nota fiscalnr. 1523 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de boleto - fatura nr. 213448206 UAU FILMES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448206 UAU FILMES LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 231504040 LEANDRO E LEANDRO LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 4342.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 231504040 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 231504040 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 231501683 LEANDRO E LEANDRO LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 2059.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 231501683 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 231501683 LEANDRO E LEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213489668 ANGELICO DE SOUZARESTAURANTE LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213489668 ANGELICO DE SOUZARESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213489668 ANGELICO DE SOUZARESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213448121 MANI SOM E LUZ LTDA. Notafiscal nr. 1559 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1338.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213448121 MANI SOM E LUZ LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448121 MANI SOM E LUZ LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 234529348 Comercial Agricola PolzinLtda ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 234529348 Comercial Agricola Polzin Ltda ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 223369013 LS FIRE SISTEMAS DECOMBATE A INCENDIO LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 223369013 LS FIRE SISTEMAS DE COMBATE AINCENDIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 223369013 LS FIRE SISTEMAS DECOMBATE A INCENDIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 233852068 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 233852068 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 233852068 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1604 - fatura nr.234529348 - Comercial Agricola Polzin Ltda ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1605 - fatura nr.223369013 - LS FIRE SISTEMAS DE COMBATE A INCENDIO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1606 - fatura nr. 233852068 - J.V. CONSTRUTORA E INCORPORADORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 213448139 RAMON DANIELSKI EVENTOSEIRELI. Nota fiscal nr. 1578 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213448139 RAMON DANIELSKI EVENTOSEIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448139 RAMON DANIELSKI EVENTOSEIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213448159 ROSANA BARCELOS DESORDI.Nota fiscal nr. 1566 ",
+    "credito": false,
+    "debito": true,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213448159 ROSANA BARCELOS DESORDI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213448159 ROSANA BARCELOS DESORDI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 180356200 AMS SISTEMAS AVANCADOSDE MANUFATURA LTDA. Nota fiscal nr. 1600 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 180356200 AMS SISTEMAS AVANCADOS DEMANUFATURA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 180356200 AMS SISTEMAS AVANCADOSDE MANUFATURA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 30951.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1607 - fatura nr.215957543 - HPRIME COMERCIO DE ACESSORIOS PARA TELEFONIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1608 - fatura nr. 225852240 - PRIMO'S FERRAMENTARIA E MANUTENCAO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209622496 SIPREVI INSTALACOESINDUSTRIAIS LTDA. Nota fiscal nr. 1554 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209622496 SIPREVI INSTALACOESINDUSTRIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209622496 SIPREVI INSTALACOESINDUSTRIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 3292.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2023",
+    "documento": null,
+    "complemento": "Taxa de pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 216496150 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 2640.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 216496150 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 216496150 COMAI MANUTENCAOINDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 216484731 COMERCIO DE FERRAGENSLEANDRO LTDA. Nota fiscal nr. 1583 ",
+    "credito": false,
+    "debito": true,
+    "valor": 8940.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 216484731 COMERCIO DE FERRAGENSLEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 216484731 COMERCIO DE FERRAGENSLEANDRO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Cobrança recebida - fatura nr. 197251933 DAYAN FRANCISCO DE SOUZAANGELO. Nota fiscal nr. 1472 ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 197251933 DAYAN FRANCISCO DE SOUZAANGELO ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 197251933 DAYAN FRANCISCO DESOUZA ANGELO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 213447914 DAYAN FRANCISCO DE SOUZAANGELO. Nota fiscal nr. 1552 ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 213447914 DAYAN FRANCISCO DE SOUZAANGELO ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 213447914 DAYAN FRANCISCO DESOUZA ANGELO ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 220852174 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 3502.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 220852174 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 220852174 J.V. CONSTRUTORA EINCORPORADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com dados manuais para CAROL ALVES ",
+    "credito": true,
+    "debito": false,
+    "valor": 356.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 229091838 FURGOES JOINVILLE LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 229091838 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 229091838 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957551 MBW INDUSTRIA DE MOLDESE INJETADOS LTDA. Nota fiscal nr. 1567 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957551 MBW INDUSTRIA DE MOLDES EINJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957551 MBW INDUSTRIA DEMOLDES E INJETADOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 225852240 PRIMO'S FERRAMENTARIA EMANUTENCAO LTDA. Nota fiscal nr. 1608 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 225852240 PRIMO'S FERRAMENTARIA EMANUTENCAO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 225852240 PRIMO'S FERRAMENTARIA EMANUTENCAO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957544 HW CONEXÕES EIRELI. Notafiscal nr. 1557 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957544 HW CONEXÕES EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957544 HW CONEXÕES EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957563 SATES SERVICOS POSTAISLTDA. Nota fiscal nr. 1534 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957563 SATES SERVICOS POSTAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de mensageria - fatura nr. 215957563 SATES SERVICOS POSTAISLTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957568 TECNOBRIQ INDUSTRIA DEMAQUINAS LTDA. Nota fiscal nr. 1540 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957568 TECNOBRIQ INDUSTRIA DEMAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957568 TECNOBRIQ INDUSTRIA DEMAQUINAS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957543 HPRIME COMERCIO DEACESSORIOS PARA TELEFONIA LTDA. Nota fiscal nr. 1607 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957543 HPRIME COMERCIO DEACESSORIOS PARA TELEFONIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957543 HPRIME COMERCIO DEACESSORIOS PARA TELEFONIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957556 ORIGETEC PROJETOS DEMAQUINAS E SISTEMAS INDUSTRIAIS LTDA. Nota fiscal nr. 1584 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957556 ORIGETEC PROJETOS DEMAQUINAS E SISTEMAS INDUSTRIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957556 ORIGETEC PROJETOS DEMAQUINAS E SISTEMAS INDUSTRIAIS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para ORDEM DOS ADVOGADOS DO BRASILSANTA CATARINA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1166.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Edilcea de Fátima Machado ",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para FORUS CONTABILIDADE EIRELI ",
+    "credito": true,
+    "debito": false,
+    "valor": 984.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 238102518 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 238102518 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 238102518 ABSOLUTA INCORPORACAOIMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para TEREZA APARECIDA PEREIRA MEI ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 215957494 JOSÉ BENEVAL ROSA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para ANA JULIA DE FREITAS DA SILVA ",
+    "credito": true,
+    "debito": false,
+    "valor": 515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 215957549 MARLINDA DORNERANACLETO. Nota fiscal nr. 1553 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 215957549 MARLINDA DORNER ANACLETO ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para SOCIALUPER PUBLICIDADE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com dados manuais para Silvia Maria Coleraus ",
+    "credito": true,
+    "debito": false,
+    "valor": 1723.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com dados manuais ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 261.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Fernanda Martins Piazera ",
+    "credito": true,
+    "debito": false,
+    "valor": 120.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Transação efetuada com o cartão Final 2148 ",
+    "credito": true,
+    "debito": false,
+    "valor": 322.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 240306858 VERDE ADMINISTRAÇÃO ELOGÍSTICA AMBIENTAL LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 240306858 VERDE ADMINISTRAÇÃO E LOGÍSTICA AMBIENTAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 219000379 ILUMINA MATERIAL DECONSTRUÇÃO LTDA. Nota fiscal nr. 1568 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1980.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 219000379 ILUMINA MATERIAL DECONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 219000379 ILUMINA MATERIAL DECONSTRUÇÃO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Camara De Dirigentes Lojistas DeJoinville ",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 211893401 VERDE ADMINISTRAÇÃO ELOGÍSTICA AMBIENTAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 180355552 A&C SERVICOSAUTOMOTIVOS LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 940.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa do Pix - fatura nr. 180355552 A&C SERVICOS AUTOMOTIVOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 180355552 A&C SERVICOSAUTOMOTIVOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 219629006 BRIOVILLE COMÉRCIO DEMATERIAIS DE LIMPEZA LTDA. Nota fiscal nr. 1585 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 219629006 BRIOVILLE COMÉRCIO DEMATERIAIS DE LIMPEZA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 219629006 BRIOVILLE COMÉRCIO DEMATERIAIS DE LIMPEZA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Pagamento de conta ",
+    "credito": true,
+    "debito": false,
+    "valor": 1050.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1610 - fatura nr.180355552 - A&C SERVICOS AUTOMOTIVOS LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1611 - fatura nr.213489668 - ANGELICO DE SOUZA RESTAURANTE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1612 - fatura nr.220852174 - J.V. CONSTRUTORA E INCORPORADORA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce alyne.aguiar Realce Taxa de emissão da nota fiscal de serviço nr. 1613 - fatura nr.216496150 - COMAI MANUTENCAO INDUSTRIAL LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2023",
+    "documento": null,
+    "complemento": "Taxa de emissão da nota fiscal de serviço nr. 1614 - fatura nr.238102518 - ABSOLUTA INCORPORACAO IMOBILIARIA LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 229091841 FURGOES JOINVILLE LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 229091841 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 229091841 FURGOES JOINVILLE LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 209701339 TICIANE CRISTINE GAMBETTA.Nota fiscal nr. 1582 ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 209701339 TICIANE CRISTINE GAMBETTA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 209701339 TICIANE CRISTINE GAMBETTA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para Edilcea de Fátima Machado ",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Cobrança recebida - fatura nr. 187946773 HIPERLAR MATERIAIS DECONSTRUCAO LTDA ",
+    "credito": false,
+    "debito": true,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Taxa de boleto - fatura nr. 187946773 HIPERLAR MATERIAIS DECONSTRUCAO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 1.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Taxa de mensageria - fatura nr. 187946773 HIPERLAR MATERIAIS DECONSTRUCAO LTDA ",
+    "credito": true,
+    "debito": false,
+    "valor": 0.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Transação via Pix com chave para TEREZA APARECIDA PEREIRA MEI ",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2023",
+    "documento": null,
+    "complemento": "Taxa para Pix com chave ",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  }
+]

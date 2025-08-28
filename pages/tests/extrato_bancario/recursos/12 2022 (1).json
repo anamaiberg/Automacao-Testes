@@ -1,0 +1,2522 @@
+[
+  {
+    "data": "01/12/2022",
+    "documento": "COB000010",
+    "complemento": "SALDO ANTERIOR -13.287,75 LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4074.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "COB000002",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "366698489",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 3406.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 44459484897 Vitória Diniz dos Sa",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 42869590822 Adriana R Ferraz Moren",
+    "credito": true,
+    "debito": false,
+    "valor": 2697.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE Iof.ADic.",
+    "credito": true,
+    "debito": false,
+    "valor": 246.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "",
+    "complemento": "IOF BASICO CH PJ Iof.BAsic",
+    "credito": true,
+    "debito": false,
+    "valor": 21.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/12/2022",
+    "documento": "COB000011",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 14.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "COB000011",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3245.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "367088592",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 495.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "367088598",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 643.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39559029860 Gabriela Cristina de S",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "CM384666",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 10898.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 45606596806 LARISSA LURI ALMEIDA A",
+    "credito": true,
+    "debito": false,
+    "valor": 2920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 22626133892 LILIAM TAMAMATI",
+    "credito": true,
+    "debito": false,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "C20239211",
+    "complemento": "LIBERACAO CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 94479.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "C20239211",
+    "complemento": "IOF S/ OPER. CREDITO PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 387.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "C20239211",
+    "complemento": "IOF ADICIONAL PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 359.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "COB000018",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2022",
+    "documento": "COB000007",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CPFLPAULG",
+    "credito": true,
+    "debito": false,
+    "valor": 2129.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 06003515000121 CHEIRO VERDE AM",
+    "credito": true,
+    "debito": false,
+    "valor": 279.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "122431190",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 75624932000104 GRAFICA",
+    "credito": true,
+    "debito": false,
+    "valor": 1273.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 18191228000171 PJBANK PAGAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 485.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 888.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 91.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 163.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 182.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 163.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 102.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 477.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1339.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 81.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 559.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 104.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 575.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 172.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 341.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 132.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 122.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 850.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 354.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 2047.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13612214000160 QUANTITY SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 764.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 11147517000124 GIGACONSULT C",
+    "credito": true,
+    "debito": false,
+    "valor": 511.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 20110153000107 PAGHIPER INSTIT",
+    "credito": true,
+    "debito": false,
+    "valor": 146.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 159.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 602.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO SP-G",
+    "credito": true,
+    "debito": false,
+    "valor": 55.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 576.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13612214000160 QUANTITY SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 522.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 03655884000100 VOLCANO INDUSTR",
+    "credito": true,
+    "debito": false,
+    "valor": 747.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 582.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2431.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "COB000031",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "COB000002",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 07070828000165 PERES SISTEMA D",
+    "credito": true,
+    "debito": false,
+    "valor": 602.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 606.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 17398760833 EDUARDO KRUPPA DE MENE",
+    "credito": true,
+    "debito": false,
+    "valor": 1665.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03656451176 Thiago Hellou de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 8400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03362962000189 PADARIA E CONFEITAR",
+    "credito": true,
+    "debito": false,
+    "valor": 292.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31372435808 NICKOLAS VINICIUS DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31372435808 NICKOLAS VINICIUS DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 14476.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "COB000057",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 28.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/12/2022",
+    "documento": "COB000011",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 14.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "COB000011",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3250.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 15111975000164 IUGU INSTITUICA",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 10239469000131 RODRIGO DAMASIO",
+    "credito": true,
+    "debito": false,
+    "valor": 10168.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 32610664000169 RD PROTESE DENTARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 12382055855 ODAIR PEREIRA DA SIL",
+    "credito": false,
+    "debito": true,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "C20239268",
+    "complemento": "LIBERACAO CREDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 78916.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "C20239268",
+    "complemento": "IOF S/ OPER. CREDITO PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 302.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "C20239268",
+    "complemento": "IOF ADICIONAL PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 299.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01565379829 LUCIANO CHACON",
+    "credito": true,
+    "debito": false,
+    "valor": 3234.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 50844843865 QUEZIA MENEZES DA SILV",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "COB000065",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 32.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/12/2022",
+    "documento": "COB000028",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 37.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "COB000025",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 11769.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 41508185840 PRISCILA BARON DE CAMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1974.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 13102632807 Edna Regina Machado al",
+    "credito": true,
+    "debito": false,
+    "valor": 2509.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0830183",
+    "complemento": "COMPRAS NACIONAIS LOJAS AMERICANAS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 23.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0847330",
+    "complemento": "COMPRAS NACIONAIS PONTO DOCE BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 19.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 21946500836 FLAVIA CRISTINA DINIZ",
+    "credito": true,
+    "debito": false,
+    "valor": 1773.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 42114940829 Brenda Luiza Silva",
+    "credito": true,
+    "debito": false,
+    "valor": 1975.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0868791",
+    "complemento": "COMPRAS NACIONAIS PONTO DOCE FESTAS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 42.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38412453824 BRUNA APARECIDA ANDRAD",
+    "credito": true,
+    "debito": false,
+    "valor": 1037.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 46780541893 Tainá Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 1845.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0010727",
+    "complemento": "COMPRAS NACIONAIS LOJAS AMERICANAS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 23.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 42199459000106 ECAD SOLUCOES E",
+    "credito": true,
+    "debito": false,
+    "valor": 403.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13612214000160 QUANTITY SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 709.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 941.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0189770",
+    "complemento": "COMPRAS NACIONAIS RODRIGO DAMASIO BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 221.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 44377526863 Barbara Fernanda Apare",
+    "credito": true,
+    "debito": false,
+    "valor": 432.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0625505",
+    "complemento": "COMPRAS NACIONAIS LOJA DO SOL BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "VE0941727",
+    "complemento": "COMPRAS NACIONAIS MEGA LUMIX SANTANDER BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 43.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "COB000098",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/12/2022",
+    "documento": "COB000012",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 16.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "COB000011",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3214.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "COB000009",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0575080",
+    "complemento": "COMPRAS NACIONAIS LOJAS AMERICANAS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 32.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0584636",
+    "complemento": "COMPRAS NACIONAIS LOJA DO SOL BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 14.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 993.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 560.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "VE0795333",
+    "complemento": "COMPRAS NACIONAIS TENDA ATACADO SA BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 265.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/12/2022",
+    "documento": "COB000016",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 21.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "COB000014",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4988.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "COB000002",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "369461225",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 79.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 43945075882 Monise Gabriela Longat",
+    "credito": true,
+    "debito": false,
+    "valor": 1034.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 45525292000114 ASSOCIACAO COME",
+    "credito": true,
+    "debito": false,
+    "valor": 149.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 152.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 256.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03362962000189 PADARIA E CONFEITAR",
+    "credito": true,
+    "debito": false,
+    "valor": 429.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 45516325000160 ASSOCIACAO ATLE",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 37985426000151 M VOLPE AGUERRI",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 70.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "CLARSP11G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 132.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 03741738000106 JOSE ANTONIO VI",
+    "credito": true,
+    "debito": false,
+    "valor": 224.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 20901568000190 ANGELICA SILVIN",
+    "credito": true,
+    "debito": false,
+    "valor": 9863.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 148.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 451.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 44090565000182 MEGA ESTAGIOS L",
+    "credito": true,
+    "debito": false,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "COB000025",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 12.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/12/2022",
+    "documento": "COB000010",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "VE0131741",
+    "complemento": "COMPRAS NACIONAIS PONTO DOCE BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 130.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "VE0226000",
+    "complemento": "COMPRAS NACIONAIS TRESKOS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 62.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "APLIC.FINANC.AVISO PREVIO CAPTACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "COB000010",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4105.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "COB000077",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 38.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 15436940000103 AMAZON SERVICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 569.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "369742566",
+    "complemento": "SICREDI CREDITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 249.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "369742575",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 122.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "C10232556",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 14151.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 481.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "360713339",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 5775.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 931.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "1",
+    "complemento": "INTEGR.CAPITAL SUBSCRITO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 32.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "S18312",
+    "complemento": "DEBITO T.E.D.",
+    "credito": true,
+    "debito": false,
+    "valor": 166.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "S18311",
+    "complemento": "DEBITO T.E.D.",
+    "credito": true,
+    "debito": false,
+    "valor": 276.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "",
+    "complemento": "DOC/TED PESSOAL PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "COB000026",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/12/2022",
+    "documento": "COB000050",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 67.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "370573458",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 2276.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "COB000049",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 18274.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39081523805 Luan Alves de Araújo",
+    "credito": true,
+    "debito": false,
+    "valor": 7715.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 2032.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 24080493000185 Ebanx Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 218.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "COB000052",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 26.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/12/2022",
+    "documento": "COB000011",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 14.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "COB000011",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3280.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 159.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "COB000009",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "COB000005",
+    "complemento": "CUSTAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 43.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "COB000005",
+    "complemento": "TARIFA DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/12/2022",
+    "documento": "COB000006",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 8.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "COB000006",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2684.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "COB000026",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 39559029860 Gabriela Cristina de S",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 22626133892 LILIAM TAMAMATI",
+    "credito": true,
+    "debito": false,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31644418860 ANA CAROLINA MANDALITI",
+    "credito": true,
+    "debito": false,
+    "valor": 1600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 45606596806 LARISSA LURI ALMEIDA A",
+    "credito": true,
+    "debito": false,
+    "valor": 1460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03656451176 Thiago Hellou de Souza",
+    "credito": true,
+    "debito": false,
+    "valor": 8050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 46780541893 Tainá Pereira",
+    "credito": true,
+    "debito": false,
+    "valor": 1287.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 58685421000183 RADIO CLUBE DE",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 38412453824 BRUNA APARECIDA ANDRAD",
+    "credito": true,
+    "debito": false,
+    "valor": 2092.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31372435808 NICKOLAS VINICIUS DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 5993.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 39527975000108 LPNET SERVI OS",
+    "credito": true,
+    "debito": false,
+    "valor": 104.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 51515922000172 VS PROPAGANDA E",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 740.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "COB000003",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/12/2022",
+    "documento": "COB000010",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": "COB000010",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2915.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": "COB000003",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": "371861013",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1981.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 40065442865 EVERTON BRUNO SILVA DA",
+    "credito": true,
+    "debito": false,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2022",
+    "documento": "COB000009",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "COB000007",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2485.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "COB000003",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "372172433",
+    "complemento": "SICREDI CREDITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 464.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "372172449",
+    "complemento": "SICREDI CREDITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 68.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "372172440",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 613.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "372374423",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 495.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "372374430",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 148.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS SABESP-CX",
+    "credito": true,
+    "debito": false,
+    "valor": 231.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "360713339",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 5775.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "VE0399082",
+    "complemento": "COMPRAS NACIONAIS RB MOVEIS BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "COB000015",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2022",
+    "documento": "COB000017",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "COB000017",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 6058.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "COB000049",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 24.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "373015333",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 445.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "373015328",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 49.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 178.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 13612214000160 QUANTITY SERVIC",
+    "credito": true,
+    "debito": false,
+    "valor": 760.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 03094944000163 CONTABILIDADE S",
+    "credito": true,
+    "debito": false,
+    "valor": 1352.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 26426710000171 ORAL UNIC FRANQ",
+    "credito": true,
+    "debito": false,
+    "valor": 6311.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 06003515000121 CHEIRO VERDE AM",
+    "credito": true,
+    "debito": false,
+    "valor": 218.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "5063918",
+    "complemento": "REEMBOLSO POS SICREDI",
+    "credito": false,
+    "debito": true,
+    "valor": 104.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1756.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 47717764822 MARCELA APARECIDA NU",
+    "credito": false,
+    "debito": true,
+    "valor": 374.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "VE0007005",
+    "complemento": "COMPRAS NACIONAIS CONFIANCA BOTUCAT BOTUC",
+    "credito": true,
+    "debito": false,
+    "valor": 208.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "COB000004",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "COB000019",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 25.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2022",
+    "documento": "ENC023",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 661.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "COB000018",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 8177.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "COB000004",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "373539843",
+    "complemento": "SICREDI DEBITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 990.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "373539848",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 990.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "373539837",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 643.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "C20239268",
+    "complemento": "LIQUIDACAO DE PARCELA",
+    "credito": true,
+    "debito": false,
+    "valor": 205.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03282942842 MARIA DONIZETH ENUMO",
+    "credito": true,
+    "debito": false,
+    "valor": 210.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 39718342800 Marcus Vinicius Nyki",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 468.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 05795802883 ILAN APARECIDO HONOR",
+    "credito": false,
+    "debito": true,
+    "valor": 770.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "CM611019",
+    "complemento": "ESTORNO FAT. CARTAO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 5775.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 12003214801 Sandra Regina da Cruz",
+    "credito": true,
+    "debito": false,
+    "valor": 1130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 78817390704 JOSE LUIZ D BASTOS CRU",
+    "credito": true,
+    "debito": false,
+    "valor": 2483.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "COB000014",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/12/2022",
+    "documento": "COB000009",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 12.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000009",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 3257.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000006",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "373928478",
+    "complemento": "SICREDI DEBITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 171.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "373928486",
+    "complemento": "SICREDI DEBITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 247.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 100.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 18191228000171 PJBANK PAGAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 369.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 14190675000155 DENTAL CREMER P",
+    "credito": true,
+    "debito": false,
+    "valor": 1060.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 348.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000015",
+    "complemento": "TARIFA BAIXA DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000002",
+    "complemento": "CUSTAS DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 17.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000002",
+    "complemento": "TARIFA DE PROTESTO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/12/2022",
+    "documento": "COB000005",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 866.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CPFLPAULG",
+    "credito": true,
+    "debito": false,
+    "valor": 3013.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS VIVO MS-G",
+    "credito": true,
+    "debito": false,
+    "valor": 43.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 26426710000171 ORAL UNIC FRANQ",
+    "credito": true,
+    "debito": false,
+    "valor": 1803.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 58685421000183 RADIO CLUBE DE",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 80.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 551.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "DARF81COO",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 426.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2022",
+    "documento": "COB000005",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "COB000005",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1364.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "COB000021",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 10.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "374694591",
+    "complemento": "SICREDI CREDITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 147.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "374694596",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 68.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "374694608",
+    "complemento": "SICREDI CREDITO ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 66.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2022",
+    "documento": "COB000008",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "COB000008",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2496.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 336.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 131.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 00489050000184 JJGC INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 582.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "122431203",
+    "complemento": "LIQUIDACAO BOLETO SICREDI 75624932000104 GRAFICA",
+    "credito": true,
+    "debito": false,
+    "valor": 1258.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 11147517000124 GIGACONSULT C",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2022",
+    "documento": "COB000005",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "375658666",
+    "complemento": "SICREDI CREDITO VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 1184.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1501.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 04740876000125 ALELO",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/12/2022",
+    "documento": "COB000004",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ID PARC21100012002075983722 DAR DARF DB",
+    "credito": true,
+    "debito": false,
+    "valor": 547.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "376097160",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 344.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1751.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "COB000001",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO 04740876000125 ALELO",
+    "credito": true,
+    "debito": false,
+    "valor": 1113.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/12/2022",
+    "documento": "COB000003",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "376521367",
+    "complemento": "SICREDI CREDITO MASTER",
+    "credito": false,
+    "debito": true,
+    "valor": 431.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 587.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "COB000030",
+    "complemento": "MANUTENCAO DE TITULOS",
+    "credito": true,
+    "debito": false,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 45606596806 LARISSA LURI ALMEIDA A",
+    "credito": true,
+    "debito": false,
+    "valor": 730.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 22626133892 LILIAM TAMAMATI",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31372435808 NICKOLAS VINICIUS DE P",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 31644418860 ANA CAROLINA MANDALITI",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  }
+]

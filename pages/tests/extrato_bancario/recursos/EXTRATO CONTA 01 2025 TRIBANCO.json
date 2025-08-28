@@ -1,0 +1,272 @@
+[
+  {
+    "data": "03/01/2025",
+    "documento": "50703715",
+    "complemento": "TARIFA DE TED -TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2025",
+    "documento": "",
+    "complemento": "TED D ENVIADA-TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 7000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 326.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 76.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 4344.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "50718948",
+    "complemento": "TARIFA DE TED -TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "",
+    "complemento": "TED D ENVIADA-TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 4800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-TICKET",
+    "credito": false,
+    "debito": true,
+    "valor": 4855.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-TICKET",
+    "credito": false,
+    "debito": true,
+    "valor": 3535.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/01/2025",
+    "documento": "198",
+    "complemento": "MENSAL CONCILIADOR-LANC. EXTR",
+    "credito": true,
+    "debito": false,
+    "valor": 345.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 1053.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 210.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 4261.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2025",
+    "documento": "50750182",
+    "complemento": "TARIFA DE TED -TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/01/2025",
+    "documento": "",
+    "complemento": "TED D ENVIADA-TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2025",
+    "documento": "",
+    "complemento": "TAR MANUTENCAO C/C-REF.01/2025",
+    "credito": true,
+    "debito": false,
+    "valor": 20.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-TICKET",
+    "credito": false,
+    "debito": true,
+    "valor": 2278.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE INSTITUICAO D",
+    "credito": false,
+    "debito": true,
+    "valor": 192.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 357.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 4056.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 1012.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "50777548",
+    "complemento": "TARIFA DE TED -TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/01/2025",
+    "documento": "",
+    "complemento": "TED D ENVIADA-TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 4700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-TICKET",
+    "credito": false,
+    "debito": true,
+    "valor": 2623.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/01/2025",
+    "documento": "854665",
+    "complemento": "DEBITO EMPRESTIMO FUNCAO-854665-5",
+    "credito": true,
+    "debito": false,
+    "valor": 2995.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 4184.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 237.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2025",
+    "documento": "",
+    "complemento": "TED C RECEBIDA-PLUXEE BENEFICIOS BR",
+    "credito": false,
+    "debito": true,
+    "valor": 46.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2025",
+    "documento": "50805046",
+    "complemento": "TARIFA DE TED -TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 11.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/01/2025",
+    "documento": "",
+    "complemento": "TED D ENVIADA-TRBONLINE",
+    "credito": true,
+    "debito": false,
+    "valor": 7200.0,
+    "origem": "Extrato"
+  }
+]

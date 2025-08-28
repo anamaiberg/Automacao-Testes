@@ -1,0 +1,1451 @@
+[
+  {
+    "data": "01/02/2022",
+    "documento": "VE0133980",
+    "complemento": "SALDO ANTERIOR -8.646,69 COMPRAS NACIONAIS MERCADO RUBENS CAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "VE0353768",
+    "complemento": "COMPRAS NACIONAIS RESTAURANTE E LANCHONE Campo",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1991.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 966.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "VE0859643",
+    "complemento": "COMPRAS NACIONAIS COMERCIO M C STEIL LTDA JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 19.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "",
+    "complemento": "IOF ADICIONAL PJ-CH. ESPE Iof.ADic.",
+    "credito": true,
+    "debito": false,
+    "valor": 107.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2022",
+    "documento": "",
+    "complemento": "IOF BASICO CH PJ Iof.BAsic",
+    "credito": true,
+    "debito": false,
+    "valor": 2.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "VE0367361",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 322.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "366472",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 1738.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 86.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "14BRTEC-G",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 169.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 134.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "VE0804644",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 204.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2022",
+    "documento": "ENC036",
+    "complemento": "JUROS UTILIZ.CH.ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 217.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "",
+    "complemento": "RESG.APLIC.FIN.AVISO PREV",
+    "credito": false,
+    "debito": true,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS AGUASSFSC",
+    "credito": true,
+    "debito": false,
+    "valor": 146.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 05595735619 IRLANE RAMALHO PEREIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 82183414987 JARBAS ALEXANDRE CAETA",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "CX493912",
+    "complemento": "RECEBIMENTO PIX SICREDI 40015440915 DARIO BERGEM",
+    "credito": false,
+    "debito": true,
+    "valor": 958.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "CX500964",
+    "complemento": "RECEBIMENTO PIX SICREDI 40015440915 DARIO BERGEM",
+    "credito": false,
+    "debito": true,
+    "valor": 430.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 94832552953 FABIANO LADEWIG",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 04700493402 DANIEL MELO BERNARDE",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "VE0542182",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 295.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "CE2602051",
+    "complemento": "SAQUE TERMINAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03176741960 NELCI DE FATIMA KRUPIN",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03874492303 PEDRO CONCEICAO DA SIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09139655962 Eduardo Barbosa",
+    "credito": true,
+    "debito": false,
+    "valor": 950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "",
+    "complemento": "PLANO INT CAPITAL COTA",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "360713",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 913.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 11396984941 Tainara Schneider",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "222158448",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 877.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 431.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "221000094",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "222156097",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "FGTS",
+    "complemento": "DEBITO CONVENIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2321.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2022",
+    "documento": "ADV001215",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2449.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03850411958 JULIANO THEODORO RIBEI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2022",
+    "documento": "VE0291535",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 304.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 93614152987 EVERSON JEAN CRUZ",
+    "credito": false,
+    "debito": true,
+    "valor": 1160.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 38289288972 OCLAUDIO JACQUES",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 22492518000 WALTER RAMAO LEMA GA",
+    "credito": false,
+    "debito": true,
+    "valor": 6688.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 313.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "VE0881268",
+    "complemento": "COMPRAS NACIONAIS FORT ATACADISTA L JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 71.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1125.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2022",
+    "documento": "VE0201239",
+    "complemento": "COMPRAS NACIONAIS KI VERDE JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 364.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 09564420000175 A C A INCORPORADO",
+    "credito": false,
+    "debito": true,
+    "valor": 965.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "369727",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 1736.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS TIMCEL-G",
+    "credito": true,
+    "debito": false,
+    "valor": 29.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "192673690",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 1265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 168.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "218547827",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 129.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1004.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1004.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1216.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1546.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS NET.SER-G",
+    "credito": true,
+    "debito": false,
+    "valor": 209.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "222031708",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 328.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 82.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "222016940",
+    "complemento": "LIQUIDACAO BOLETO SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 568.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 9.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 09564420000175 A C A INCORPORADO",
+    "credito": false,
+    "debito": true,
+    "valor": 965.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1463.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 06780522988 JEAN THEISS",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 242.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 286.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 277.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 305.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 224.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 209.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 1109.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 302.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 435.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 242.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 1367.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 36871246819 Aparecida Patrícia Cor",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 81321952000109 CONTRUTORA CAPP L",
+    "credito": false,
+    "debito": true,
+    "valor": 2280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "VE0157148",
+    "complemento": "COMPRAS NACIONAIS CENTAURO SHOP JOINVILLE JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 339.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ID 0098635283435818000164 ADM.C CONSORCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 413.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "367488",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 447.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "VE0732962",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 334.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 03653368901 Rafael Oku Fernandes",
+    "credito": false,
+    "debito": true,
+    "valor": 4194.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "SI00194",
+    "complemento": "TRANSF ENTRE CONTAS 08197768000109 WESTERWALD PA",
+    "credito": false,
+    "debito": true,
+    "valor": 6580.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 123.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 788.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 49728733968 ELIETE MIRANDA SCHWA",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2022",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "COB000002",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2598.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 04675159990 Daiane Aparecida Marqu",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 10731039000132 SUMMIT FITNESS CENT",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 06776245908 EDUARDO ALVES KOCH",
+    "credito": false,
+    "debito": true,
+    "valor": 817.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "CE2602051",
+    "complemento": "SAQUE TERMINAL",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "VE0646498",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 337.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 21.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS CELESC-G",
+    "credito": true,
+    "debito": false,
+    "valor": 236.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1266.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS PMJOINV-C",
+    "credito": true,
+    "debito": false,
+    "valor": 2.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2953.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03850411958 JULIANO THEODORO RIBEI",
+    "credito": true,
+    "debito": false,
+    "valor": 1700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 09139655962 Eduardo Barbosa",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 36871246819 Aparecida Patrícia Cor",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1336.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "337096",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 1885.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 09353709000145 HC CONSTRUCOES",
+    "credito": false,
+    "debito": true,
+    "valor": 1940.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 68513143987 ANTONIO SERGIO ANGEL",
+    "credito": false,
+    "debito": true,
+    "valor": 1277.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 38073587904 WALMIR BERRI",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2022",
+    "documento": "VE0949995",
+    "complemento": "COMPRAS NACIONAIS PAG MonilainePescaEPr JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 87.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2022",
+    "documento": "443892",
+    "complemento": "TED 05634681901 ARNALDO BERTINATO WOLF JUNIOR",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 11396984941 Tainara Schneider",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "383463",
+    "complemento": "TED 83435818000164 Fabrica de Calhas Lar Ltda Me",
+    "credito": false,
+    "debito": true,
+    "valor": 1011.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "VE0455225",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 248.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "DARFC0385",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2744.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "DARFC0064",
+    "complemento": "DEBITO ARRECADACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 33.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/02/2022",
+    "documento": "ADV001220",
+    "complemento": "CHEQUE COMPE SICREDI",
+    "credito": true,
+    "debito": false,
+    "valor": 8227.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "V187100",
+    "complemento": "DEP.CUST.BLOQ.24HS",
+    "credito": false,
+    "debito": true,
+    "valor": 4013.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2120.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 03176741960 NELCI DE FATIMA KRUPIN",
+    "credito": true,
+    "debito": false,
+    "valor": 175.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "5000",
+    "complemento": "CHEQUE A PARTIR",
+    "credito": true,
+    "debito": false,
+    "valor": 8.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ID 0115019783435818000164 ADM.C CONSORCIO",
+    "credito": true,
+    "debito": false,
+    "valor": 915.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "VE0695600",
+    "complemento": "COMPRAS NACIONAIS PG RESTAURANTE ANCORA SAO F",
+    "credito": true,
+    "debito": false,
+    "valor": 78.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "VE0827175",
+    "complemento": "COMPRAS NACIONAIS PRAIANA MATERIAIS SAO F",
+    "credito": true,
+    "debito": false,
+    "valor": 211.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 49728733968 ELIETE MIRANDA SCHWA",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 506.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 567.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1229.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 431.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "",
+    "complemento": "DEBITO ARRECADACAO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2372.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2022",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2022",
+    "documento": "VE0228463",
+    "complemento": "COMPRAS NACIONAIS POSTO CS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 309.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "VE0916220",
+    "complemento": "COMPRAS NACIONAIS POSTO MADALENA JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 252.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "VE0933728",
+    "complemento": "COMPRAS NACIONAIS FIXAVILLE PARAFUS JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 27.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 50819208949 CASSIO LUIZ BOETTCHE",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "357678",
+    "complemento": "TED 05768244000132 SALVANGRIL INDUSTRIA E COMERC",
+    "credito": false,
+    "debito": true,
+    "valor": 12680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 05590575982 ANA PAULA SOARES REH",
+    "credito": false,
+    "debito": true,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 62265016934 Nilo Alexandre de Ca",
+    "credito": false,
+    "debito": true,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "VE0072143",
+    "complemento": "COMPRAS NACIONAIS PG RESTAURANTE ANCORA SAO F",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "831729",
+    "complemento": "TED 65703359953 DALMIRO BETINELLI",
+    "credito": false,
+    "debito": true,
+    "valor": 4597.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 590.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 280.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 18658960803 LUIZ ANTONIO NARDINI J",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2022",
+    "documento": "VE0876868",
+    "complemento": "COMPRAS NACIONAIS CONFORTO LAVANDERIA JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 01072346000168 PEDRA BOA COM.DE FE",
+    "credito": true,
+    "debito": false,
+    "valor": 1114.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "VE0295192",
+    "complemento": "COMPRAS NACIONAIS POSTO MARQUES DE OLIND JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 309.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "VE0624534",
+    "complemento": "COMPRAS NACIONAIS FORT ATACADISTA L JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 143.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "",
+    "complemento": "DEBITO CONVENIOS ULTRAGAZ",
+    "credito": true,
+    "debito": false,
+    "valor": 134.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "",
+    "complemento": "LIQUIDACAO BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 341.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "VE0638133",
+    "complemento": "COMPRAS NACIONAIS MILIUM LJ 08 JOINV",
+    "credito": true,
+    "debito": false,
+    "valor": 299.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 10553728903 Lucas Freitas Koning",
+    "credito": true,
+    "debito": false,
+    "valor": 252.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/02/2022",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 4.4,
+    "origem": "Extrato"
+  }
+]

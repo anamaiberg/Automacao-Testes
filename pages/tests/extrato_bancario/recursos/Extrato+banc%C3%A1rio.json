@@ -1,0 +1,4097 @@
+[
+  {
+    "data": "01/04/2025",
+    "documento": "1618393",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 15577.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "3751462",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 61546.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "4602430",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 196733.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1121065",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 262025.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1847502",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 143920.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1618393",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 2.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "3751462",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 5.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "4602430",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 15.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1193",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 17465.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1194",
+    "complemento": "PAGTO ELETRON COBRANCA KIAN IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10130.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1195",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1196",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4561.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1197",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 3020.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1198",
+    "complemento": "PAGTO ELETRON COBRANCA VIP LIMPEZA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2095.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1199",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 48332.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1200",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN SA",
+    "credito": true,
+    "debito": false,
+    "valor": 45648.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1201",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 25179.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1202",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 15200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1203",
+    "complemento": "PAGTO ELETRON COBRANCA SCHREIBER LOGISTICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 103.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1204",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3865.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1205",
+    "complemento": "PAGTO ELETRON COBRANCA ARMAZENS MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 38018.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1206",
+    "complemento": "PAGTO ELETRON COBRANCA BLUKIT INDUSTRIA DE PLASTICOS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 34442.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1207",
+    "complemento": "PAGTO ELETRON COBRANCA BANCO BOCOM BBM S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 34256.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1208",
+    "complemento": "PAGTO ELETRON COBRANCA BLUKIT INDUSTRIA DE PLASTICOS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 10353.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1209",
+    "complemento": "PAGTO ELETRON COBRANCA FIOLUX INDUSTRIA C LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 9184.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1210",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6413.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1211",
+    "complemento": "PAGTO ELETRON COBRANCA FRESNOMAQ INDUSTRIA DE MAQUINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 4536.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1212",
+    "complemento": "PAGTO ELETRON COBRANCA THOMPEL DISTRIBUIDORA DE PAPELAR",
+    "credito": true,
+    "debito": false,
+    "valor": 1586.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1213",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1521.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1214",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1289.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1215",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1289.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1216",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1104.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1217",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMOB CONCESSIONARIA DE TRANSPO",
+    "credito": true,
+    "debito": false,
+    "valor": 440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1218",
+    "complemento": "PAGTO ELETRON COBRANCA PAPELARIA RABISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 70.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1219",
+    "complemento": "PAGTO ELETRON COBRANCA PHILCO ELETRONICOS S",
+    "credito": true,
+    "debito": false,
+    "valor": 10125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1220",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7057.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1221",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2003.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1222",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14006.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1223",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9155.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1224",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 149229.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1225",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 91833.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1226",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 21702.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1227",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12483.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1228",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10522.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2025",
+    "documento": "1918262",
+    "complemento": "TRANSFERENCIA PIX DES: JM SERVICOS E ACESS 01/04",
+    "credito": true,
+    "debito": false,
+    "valor": 22000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "1121561",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 32155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "1238529",
+    "complemento": "TRANSFERENCIA PIX REM: JORDAN CONSULTORIA E 02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "1409541",
+    "complemento": "TRANSFERENCIA PIX REM: DENIS ANDRE PASSOLD 02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "1749124",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 83372.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "1751508",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 16433.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2025",
+    "documento": "6773113",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 132186.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "4602430",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 58927.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "6717394",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 141533.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1928271",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 122269.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "4602430",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 6.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "6717394",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 11.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "224604",
+    "complemento": "PAGAMENTO FUNCIONARIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 30293.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1229",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 16529.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1230",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8956.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1231",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 183436.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1232",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 16506.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1233",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13317.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1234",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6682.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1235",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5208.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1236",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 15687.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1237",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11574.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1238",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9514.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1239",
+    "complemento": "PAGTO ELETRON COBRANCA FLASH TEC E PAGAMENTOS LTDA.",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1240",
+    "complemento": "PAGTO ELETRON COBRANCA VIP LIMPEZA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1777.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1241",
+    "complemento": "PAGTO ELETRON COBRANCA CELCOIN INSTITUICAO DE PAGAMEN",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1242",
+    "complemento": "PAGTO ELETRON COBRANCA IRIS SEGURANCA INTELIGENTE EIREL",
+    "credito": true,
+    "debito": false,
+    "valor": 293.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2025",
+    "documento": "1243",
+    "complemento": "PAGTO ELETRON COBRANCA PONTO SC RELOGIO PONTO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "6717394",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 40435.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "9632539",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 41862.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "1128458",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 53042.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "1209057",
+    "complemento": "TRANSFERENCIA PIX REM: ARTHUR WEISS MARTINS 04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 124.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "1853397",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 124796.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "6717394",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "9632539",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 1.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "1244",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 260100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "1245",
+    "complemento": "PAGTO ELETRON COBRANCA FLASH TEC E PAGAMENTOS LTDA.",
+    "credito": true,
+    "debito": false,
+    "valor": 167.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "621008",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 203641.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "9632539",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 13464.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1209548",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49022.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1819293",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 271154.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1931479",
+    "complemento": "TRANSFERENCIA PIX REM: MARIA LUISA PERSUHN H 07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "621008",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 10.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "9632539",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1246",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 11790.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1247",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5116.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1248",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4862.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1249",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3645.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1250",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 37261.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1251",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 18897.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1252",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 12835.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1253",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 9602.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1254",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7451.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1255",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7042.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1256",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6984.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1257",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6632.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1258",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4214.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1259",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3353.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1260",
+    "complemento": "PAGTO ELETRON COBRANCA FIOLUX INDUSTRIA C LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 3274.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1261",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3197.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1262",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2849.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1263",
+    "complemento": "PAGTO ELETRON COBRANCA GERMANO MARCOS SCOTTINI LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1264",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 840.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1265",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 44932.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1266",
+    "complemento": "PAGTO ELETRON COBRANCA BANCO SOFISA S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 42999.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1267",
+    "complemento": "PAGTO ELETRON COBRANCA BANCO DAYCOVAL SA",
+    "credito": true,
+    "debito": false,
+    "valor": 24589.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1268",
+    "complemento": "PAGTO ELETRON COBRANCA MK NE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17992.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1269",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 17246.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1270",
+    "complemento": "PAGTO ELETRON COBRANCA FRESNOMAQ INDUSTRIA DE MAQUINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1271",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 48332.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1272",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 39842.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1273",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 37100.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1274",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17608.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1275",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 14560.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1276",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11120.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1277",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6535.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1278",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6535.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1279",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 6493.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1280",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6015.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1281",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5835.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1282",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5565.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1283",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5478.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1284",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2149.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1285",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2048.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1286",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1948.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1287",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1815.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1288",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1044.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1289",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1044.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1290",
+    "complemento": "PAGTO ELETRON COBRANCA CORSUL COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 644.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1291",
+    "complemento": "PAGTO ELETRON COBRANCA FRESNOMAQ INDUSTRIA DE MAQUINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 453.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1292",
+    "complemento": "PAGTO ELETRON COBRANCA PAPELARIA RABISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1293",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14846.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2025",
+    "documento": "1294",
+    "complemento": "PAGTO ELETRON COBRANCA YELUM SEGUROS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 429.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "621008",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 146580.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1118051",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 88362.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "2308237",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 106144.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "621008",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 9.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1295",
+    "complemento": "PAGTO ELETRON COBRANCA FRESNOMAQ INDUSTRIA DE MAQUINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 39230.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1296",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17608.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1297",
+    "complemento": "PAGTO ELETRON COBRANCA CLAMPER INDUSTRIA E COMERCIO S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 10098.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1298",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1299",
+    "complemento": "PAGTO ELETRON COBRANCA UNIMED BLUM COOP TRAB MEDICO",
+    "credito": true,
+    "debito": false,
+    "valor": 6511.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1300",
+    "complemento": "PAGTO ELETRON COBRANCA JL GESTAO EMPRESARIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1301",
+    "complemento": "PAGTO ELETRON COBRANCA SESVALE ASSESSORIA EM SAUDE EIRE",
+    "credito": true,
+    "debito": false,
+    "valor": 584.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1302",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 40334.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1303",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 35816.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1304",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 21355.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1305",
+    "complemento": "PAGTO ELETRON COBRANCA BRAFT DO BRASIL IMPORTACAO E EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 15376.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1306",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14792.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1307",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7439.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1308",
+    "complemento": "PAGTO ELETRON COBRANCA BRAFT DO BRASIL IMP E EXP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6347.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1309",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5441.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1310",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 20993.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1311",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4840.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1312",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4610.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1313",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3919.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1314",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2212.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1315",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2107.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1316",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1475.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1317",
+    "complemento": "PAGTO ELETRON COBRANCA SEGURA SEGURANCA PRIVADA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1111.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1318",
+    "complemento": "PAGTO ELETRON COBRANCA TRADEMASTER SERVICOS E PARTICIPA",
+    "credito": true,
+    "debito": false,
+    "valor": 50617.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1319",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 3895.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1320",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 2996.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1631166",
+    "complemento": "TRANSFERENCIA PIX DES: G4NET SOLUCOES 08/04",
+    "credito": true,
+    "debito": false,
+    "valor": 6523.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1654314",
+    "complemento": "TRANSFERENCIA PIX DES: SUELETE CIPRIANI 08/04",
+    "credito": true,
+    "debito": false,
+    "valor": 2180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2025",
+    "documento": "1631183",
+    "complemento": "PIX QR CODE DINAMICO DES: CAIXA ECONOMICA FEDER 08/04",
+    "credito": true,
+    "debito": false,
+    "valor": 96.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/04/2025",
+    "documento": "1135131",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 59774.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/04/2025",
+    "documento": "4470173",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 38774.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/04/2025",
+    "documento": "915503",
+    "complemento": "TRANSFERENCIA PIX DES: ART INVESTIMENTOS & P 09/04",
+    "credito": true,
+    "debito": false,
+    "valor": 21000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1815254",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 155184.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1822088",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50030.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1031",
+    "complemento": "PAGTO ELETRON COBRANCA 070445033100095500BRADESCO ADMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1097.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1032",
+    "complemento": "PAGTO ELETRON COBRANCA 070445033000095301BRADESCO ADMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1308.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1065",
+    "complemento": "PAGTO ELETRON COBRANCA 070445032900095201BRADESCO ADMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1319.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1070",
+    "complemento": "PAGTO ELETRON COBRANCA 070445028800095001BRADESCO ADMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 1015.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1321",
+    "complemento": "PAGTO ELETRON COBRANCA YELUM SEGUROS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 429.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1322",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12561.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1323",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9251.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1324",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7188.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1325",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 28837.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1326",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14505.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "1327",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8432.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2025",
+    "documento": "5443045",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 119268.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "621008",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 766.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "621008",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2025",
+    "documento": "224614",
+    "complemento": "PAGAMENTO FUNCIONARIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 766.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "621008",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 15446.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1977513",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 139831.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "3692734",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 27446.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1759396",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 363906.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "621008",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 2.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1977513",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 17.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "3692734",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 2.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1328",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1329",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1953.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1330",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1953.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1331",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1891.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1332",
+    "complemento": "PAGTO ELETRON COBRANCA SIFRA PLUS FIDC MULTISSEGMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 50617.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1333",
+    "complemento": "PAGTO ELETRON COBRANCA ARMAZENS MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 38018.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1334",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 16534.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1335",
+    "complemento": "PAGTO ELETRON COBRANCA MATSUYAMA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13481.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1336",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 31979.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1337",
+    "complemento": "PAGTO ELETRON COBRANCA UNIVERSIDADE MARKETPLACES CONSUL",
+    "credito": true,
+    "debito": false,
+    "valor": 21000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1338",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 17246.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1339",
+    "complemento": "PAGTO ELETRON COBRANCA JORDAN CONSULTORIA E CONTABILIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1340",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 3466.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1341",
+    "complemento": "PAGTO ELETRON COBRANCA CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1489.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1342",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 400.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1343",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 137750.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1344",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 103312.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1345",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17607.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1346",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14506.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1347",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11468.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1348",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11119.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1349",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10293.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1350",
+    "complemento": "PAGTO ELETRON COBRANCA SCHREIBER LOGISTICA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8720.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1351",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7511.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1352",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 7380.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1353",
+    "complemento": "PAGTO ELETRON COBRANCA MK NE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2229.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1354",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1815.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1355",
+    "complemento": "PAGTO ELETRON COBRANCA KALA COM E DIST LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1371.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1356",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1316.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1357",
+    "complemento": "PAGTO ELETRON COBRANCA THOMPEL DISTRIBUIDORA DE PAPELAR",
+    "credito": true,
+    "debito": false,
+    "valor": 1141.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1358",
+    "complemento": "PAGTO ELETRON COBRANCA IPTU",
+    "credito": true,
+    "debito": false,
+    "valor": 675.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2025",
+    "documento": "1359",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1297.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "715529",
+    "complemento": "TRANSFERENCIA PIX REM: 55540621 GUILHERME FH 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "1044233",
+    "complemento": "TRANSFERENCIA PIX REM: Paloma da Silva 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 45.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "1119544",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 153860.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "1719357",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 120738.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "10425",
+    "complemento": "TARIFA BANCARIA CESTA PJ FACIL 1",
+    "credito": true,
+    "debito": false,
+    "valor": 165.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "3990105",
+    "complemento": "GASTOS CARTAO DE CREDITO",
+    "credito": true,
+    "debito": false,
+    "valor": 11261.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "8822858",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 263317.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "3692734",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 80697.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1122133",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 47753.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1717028",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 96091.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1722079",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 74040.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "3692734",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 10.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1360",
+    "complemento": "PAGTO ELETRON COBRANCA CENTRAL DAS CHAVES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1361",
+    "complemento": "PAGTO ELETRON COBRANCA BLUKIT INDUSTRIA DE PLASTICOS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 20117.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1362",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17607.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1363",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14845.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1364",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13209.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1365",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10309.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1366",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4724.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1367",
+    "complemento": "PAGTO ELETRON COBRANCA OUROLUX COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1742.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1368",
+    "complemento": "PAGTO ELETRON COBRANCA MULTIPLIKE FIDC",
+    "credito": true,
+    "debito": false,
+    "valor": 47645.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1369",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 31979.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1370",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 20421.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1371",
+    "complemento": "PAGTO ELETRON COBRANCA FIOLUX INDUSTRIA C LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 8569.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1372",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4351.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1373",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4288.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1374",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2808.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1375",
+    "complemento": "PAGTO ELETRON COBRANCA THOMPEL DISTRIBUIDORA DE PAPELAR",
+    "credito": true,
+    "debito": false,
+    "valor": 1586.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1376",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1535.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1377",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN SA",
+    "credito": true,
+    "debito": false,
+    "valor": 40698.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1378",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 12880.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1379",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6413.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1380",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5542.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1381",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5336.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1382",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2576.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1383",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1163.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1384",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 232.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "5302303",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 13845.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "1618316",
+    "complemento": "PIX QR CODE DINAMICO DES: CAIXA ECONOMICA FEDER 16/04",
+    "credito": true,
+    "debito": false,
+    "valor": 3135.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "3692734",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 344311.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "4470173",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 38774.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "5443045",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 88732.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "6773113",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 132186.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1120369",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 46554.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "3692734",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 51.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "4470173",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 1.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "5443045",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "6773113",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 14.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1387",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN SA",
+    "credito": true,
+    "debito": false,
+    "valor": 33915.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1388",
+    "complemento": "PAGTO ELETRON COBRANCA PRIMEBRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 19533.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1389",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1297.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1390",
+    "complemento": "PAGTO ELETRON COBRANCA UNIFIQUE TELECOMUNICACOES S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 213.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1391",
+    "complemento": "PAGTO ELETRON COBRANCA UNIFIQUE TELECOMUNICACOES S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 69.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1392",
+    "complemento": "PAGTO ELETRON COBRANCA FIOLUX INDUSTRIA C LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 2941.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1393",
+    "complemento": "PAGTO ELETRON COBRANCA COOPERATIVA CENTRAL DE CREDITO U",
+    "credito": true,
+    "debito": false,
+    "valor": 55831.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1394",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17514.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1395",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 17246.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1396",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 9500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1397",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3669.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1398",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 3466.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1399",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3152.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1400",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2527.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1401",
+    "complemento": "PAGTO ELETRON COBRANCA EMPRESA BRASILEIRA DE CORREIOS E",
+    "credito": true,
+    "debito": false,
+    "valor": 605.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1038310",
+    "complemento": "PIX QR CODE DINAMICO DES: ELGIN 17/04",
+    "credito": true,
+    "debito": false,
+    "valor": 231062.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1349424",
+    "complemento": "PIX QR CODE DINAMICO DES: ELGIN 17/04",
+    "credito": true,
+    "debito": false,
+    "valor": 247206.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "1535428",
+    "complemento": "PIX QR CODE DINAMICO DES: RECEITA FEDERAL 17/04",
+    "credito": true,
+    "debito": false,
+    "valor": 876.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1522441",
+    "complemento": "TRANSFERENCIA PIX REM: 55540621 GUILHERME FH 22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1723564",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1404",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17607.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1405",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 16349.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1406",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 11119.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1407",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1815.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "1408",
+    "complemento": "PAGTO ELETRON COBRANCA EMBALAGENS VIVA IND E COM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1448.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2025",
+    "documento": "2320303",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 451757.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1120013",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 268588.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1720551",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 500000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1725264",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 60837.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1409",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMOB CONCESSIONARIA DE TRANSPO",
+    "credito": true,
+    "debito": false,
+    "valor": 77.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1410",
+    "complemento": "PAGTO ELETRON COBRANCA SIGMA TOOLS C M E ACESSORIOS L",
+    "credito": true,
+    "debito": false,
+    "valor": 55864.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1411",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 48512.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1412",
+    "complemento": "PAGTO ELETRON COBRANCA SB CREDITO SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 43085.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1413",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 24861.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1414",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 24278.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1415",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17607.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1416",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 15017.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1417",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14845.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1418",
+    "complemento": "PAGTO ELETRON COBRANCA PHILCO ELETRONICOS S",
+    "credito": true,
+    "debito": false,
+    "valor": 10125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1419",
+    "complemento": "PAGTO ELETRON COBRANCA CLAMPER INDUSTRIA E COMERCIO S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 10098.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1420",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 9345.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1421",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 8598.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1422",
+    "complemento": "PAGTO ELETRON COBRANCA DUCA MOVEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8311.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1423",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7513.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1424",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7009.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1425",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 6493.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1426",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6466.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1427",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 6343.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1428",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5635.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1429",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 5497.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1430",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4727.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1431",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4672.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1432",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4672.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1433",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3750.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1434",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 3515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "1435",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3429.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2025",
+    "documento": "3220801",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 469067.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "2320303",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 79572.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "5443045",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 30535.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "8822858",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 263317.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1120411",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 58469.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1705125",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 210628.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "2320303",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 0.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "5443045",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 2.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "8822858",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 8.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1436",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3352.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1437",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3262.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1438",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3238.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1439",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3233.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1440",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2736.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1441",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2576.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1442",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2576.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1443",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 2576.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1444",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1948.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1445",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1849.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1446",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1535.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1447",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1181.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1448",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1169.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1449",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1137.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1450",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1118.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1451",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1057.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1452",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 729.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1453",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 560.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1454",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 546.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1455",
+    "complemento": "PAGTO ELETRON COBRANCA MULTIPLIKE FIDC",
+    "credito": true,
+    "debito": false,
+    "valor": 47643.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1456",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 21598.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1457",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 20418.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1458",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 18428.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1459",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 14227.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1460",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13245.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1461",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 9610.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1462",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 8132.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1463",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 7736.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1464",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 7736.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1465",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5863.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1466",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 4008.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1467",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 3015.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1468",
+    "complemento": "PAGTO ELETRON COBRANCA TRADEMASTER SERVICOS E PARTICIPA",
+    "credito": true,
+    "debito": false,
+    "valor": 54312.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1469",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 40332.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1470",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 35816.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1471",
+    "complemento": "PAGTO ELETRON COBRANCA CARTAO DE COMPRA SUPPLIER",
+    "credito": true,
+    "debito": false,
+    "valor": 24631.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1472",
+    "complemento": "PAGTO ELETRON COBRANCA TRADEMASTER SERVICOS E PARTICIPA",
+    "credito": true,
+    "debito": false,
+    "valor": 4686.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1473",
+    "complemento": "PAGTO ELETRON COBRANCA CORREA MATERIAIS ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 390.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1474",
+    "complemento": "PAGTO ELETRON COBRANCA CORREA MATERIAIS ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 339.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1475",
+    "complemento": "PAGTO ELETRON COBRANCA CORREA MATERIAIS ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 191.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1476",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 9494.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1477",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5214.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1478",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2092.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1479",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 35741.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1480",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 19435.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1481",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 10502.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2025",
+    "documento": "1143347",
+    "complemento": "PIX QR CODE DINAMICO DES: KARCHER INDUSTRIA E C 24/04",
+    "credito": true,
+    "debito": false,
+    "valor": 181299.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2025",
+    "documento": "1107428",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 46253.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2025",
+    "documento": "1123438",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 44286.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2025",
+    "documento": "1657470",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 149940.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2025",
+    "documento": "5190250",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 240481.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "2320303",
+    "complemento": "RESGATE INVEST FACIL",
+    "credito": false,
+    "debito": true,
+    "valor": 333234.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1157209",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 52407.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1752045",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 289274.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "2320303",
+    "complemento": "RENTAB.INVEST FACILCRED*",
+    "credito": false,
+    "debito": true,
+    "valor": 5.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1163",
+    "complemento": "PAGTO ELETRON COBRANCA ODONTOPREV S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 759.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1483",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 4099.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1484",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 3895.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1485",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3413.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1486",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1961.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1487",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 1297.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1488",
+    "complemento": "PAGTO ELETRON COBRANCA CORREA MATERIAIS ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 66.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1489",
+    "complemento": "PAGTO ELETRON COBRANCA BLUKIT INDUSTRIA DE PLASTICOS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 34442.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1490",
+    "complemento": "PAGTO ELETRON COBRANCA CLAMPER INDUSTRIA E COMERCIO S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 29988.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1491",
+    "complemento": "PAGTO ELETRON COBRANCA SCHULZ COMPRESSORES S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 17530.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1492",
+    "complemento": "PAGTO ELETRON COBRANCA KIAN IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 16430.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1493",
+    "complemento": "PAGTO ELETRON COBRANCA BRAFT DO BRASIL IMPORTACAO E EXP",
+    "credito": true,
+    "debito": false,
+    "valor": 15376.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1494",
+    "complemento": "PAGTO ELETRON COBRANCA COLUMBIA COM FERR ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13716.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1495",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S A",
+    "credito": true,
+    "debito": false,
+    "valor": 11916.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1496",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 7254.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1497",
+    "complemento": "PAGTO ELETRON COBRANCA BRAFT DO BRASIL IMP E EXP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6347.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1498",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3627.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1499",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3627.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1500",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 1969.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1501",
+    "complemento": "PAGTO ELETRON COBRANCA CHIMAS INDUSTRIA E COMERCIO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 577.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1502",
+    "complemento": "PAGTO ELETRON COBRANCA FRIGELAR COMERCIO E INDUSTRIA LT",
+    "credito": true,
+    "debito": false,
+    "valor": 27215.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1503",
+    "complemento": "PAGTO ELETRON COBRANCA MATSUYAMA COMERCIAL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 13481.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1504",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 9690.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1505",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 3466.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1506",
+    "complemento": "PAGTO ELETRON COBRANCA KIAN IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1535.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1507",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMENAU ILUMINACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 25179.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1508",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 24256.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1509",
+    "complemento": "PAGTO ELETRON COBRANCA TRADEMASTER SERVICOS E PARTICIPA",
+    "credito": true,
+    "debito": false,
+    "valor": 21322.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1510",
+    "complemento": "PAGTO ELETRON COBRANCA ELGIN",
+    "credito": true,
+    "debito": false,
+    "valor": 16349.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1511",
+    "complemento": "PAGTO ELETRON COBRANCA BANCO BOCOM BBM S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 14702.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1512",
+    "complemento": "PAGTO ELETRON COBRANCA KIAN IMPORTACAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5985.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1513",
+    "complemento": "PAGTO ELETRON COBRANCA BRITANIA ELETRODOMES",
+    "credito": true,
+    "debito": false,
+    "valor": 3803.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1514",
+    "complemento": "PAGTO ELETRON COBRANCA FERRAGENS NEGRAO COMERCIAL LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 3470.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1515",
+    "complemento": "PAGTO ELETRON COBRANCA CLAMPER INDUSTR E COMERCIO S A",
+    "credito": true,
+    "debito": false,
+    "valor": 3451.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1516",
+    "complemento": "PAGTO ELETRON COBRANCA EMBALAGENS VIVA IND E COM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1448.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1517",
+    "complemento": "PAGTO ELETRON COBRANCA ID EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 546.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1518",
+    "complemento": "PAGTO ELETRON COBRANCA IRIS SEGURANCA INTELIGENTE EIREL",
+    "credito": true,
+    "debito": false,
+    "valor": 244.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1519",
+    "complemento": "PAGTO ELETRON COBRANCA TECNOPONTO TEC AVANCADA EM CONTR",
+    "credito": true,
+    "debito": false,
+    "valor": 234.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1520",
+    "complemento": "PAGTO ELETRON COBRANCA CORREA MATERIAIS ELET LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 80.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1521",
+    "complemento": "PAGTO ELETRON COBRANCA CARTOES CAIXA VISA PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 55121.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1522",
+    "complemento": "PAGTO ELETRON COBRANCA AUTO VIACAO RAINHA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 304.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2025",
+    "documento": "1523",
+    "complemento": "PAGTO ELETRON COBRANCA O V D IMP E DISTR LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 264730.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1045117",
+    "complemento": "TRANSFERENCIA PIX REM: O. V. D. IMPORTADORA 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 846.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1120331",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 130006.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1436141",
+    "complemento": "TRANSFERENCIA PIX REM: 55540621 GUILHERME FH 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1720110",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 66295.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1723251",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12052.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1524",
+    "complemento": "PAGTO ELETRON COBRANCA FLASH TEC E PAGAMENTOS LTDA.",
+    "credito": true,
+    "debito": false,
+    "valor": 15450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1525",
+    "complemento": "PAGTO ELETRON COBRANCA BLUMOB CONCESSIONARIA DE TRANSPO",
+    "credito": true,
+    "debito": false,
+    "valor": 693.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "7486146",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 192907.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "1309410",
+    "complemento": "TRANSFERENCIA PIX DES: 59384009 MIKAEL SILVA 29/04",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2025",
+    "documento": "7486146",
+    "complemento": "APLIC.INVEST FACIL",
+    "credito": true,
+    "debito": false,
+    "valor": 192907.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "1142341",
+    "complemento": "TRANSFERENCIA PIX REM: SHPP BRASIL INSTITUIC 30/04",
+    "credito": false,
+    "debito": true,
+    "valor": 35177.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "1709198",
+    "complemento": "TRANSFERENCIA PIX REM: BWINX COMERCIAL LTDA 30/04",
+    "credito": false,
+    "debito": true,
+    "valor": 98113.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "1712259",
+    "complemento": "TRANSFERENCIA PIX REM: Bwinx Comercial Ltda 30/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4463.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "5300681",
+    "complemento": "PAGTO ELETRONICO TRIBUTO INTERNET --RECEITA FEDERAL/SP",
+    "credito": true,
+    "debito": false,
+    "valor": 5148.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "300425",
+    "complemento": "APLIC.AUTOM.INVESTFACIL*",
+    "credito": true,
+    "debito": false,
+    "valor": 132606.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2025",
+    "documento": "1212048",
+    "complemento": "TRANSFERENCIA PIX REM: MARIA LUISA PERSUHN H 01/05",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  }
+]

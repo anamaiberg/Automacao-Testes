@@ -1,0 +1,236 @@
+[
+  {
+    "data": "03/01/2024",
+    "documento": "PIX_DEB",
+    "complemento": "SALDO ANTERIOR 43.101,25 PAGAMENTO PIX 15739151000133 JA1000TI",
+    "credito": true,
+    "debito": false,
+    "valor": 13101.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "COB000003",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "COB000004",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 6567.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "",
+    "complemento": "CESTA DE RELACIONAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 334.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "COB000002",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "COB000006",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 10.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "COB000008",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2532.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "PIX_CRED",
+    "complemento": "RECEBIMENTO PIX 39818732000129 COMMERCE DIGITA",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "PIX_DEB",
+    "complemento": "PAGAMENTO PIX 15739151000133 JA1000TI",
+    "credito": true,
+    "debito": false,
+    "valor": 19960.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 2113.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "0001",
+    "complemento": "PLANO INT CAPITAL",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "COB000003",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 5.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": "COB000003",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 8982.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": "716075390",
+    "complemento": "DEB.CTA.FATURA",
+    "credito": true,
+    "debito": false,
+    "valor": 1723.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 863.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": "COB000001",
+    "complemento": "TARIFA COM R LIQUIDACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "COB000001",
+    "complemento": "LIQ.COBRANCA SIMPLES",
+    "credito": false,
+    "debito": true,
+    "valor": 4508.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "CX581579",
+    "complemento": "PAGAMENTO PIX SICREDI 07421947957 JAMIL AHMAD AL",
+    "credito": true,
+    "debito": false,
+    "valor": 7600.0,
+    "origem": "Extrato"
+  }
+]

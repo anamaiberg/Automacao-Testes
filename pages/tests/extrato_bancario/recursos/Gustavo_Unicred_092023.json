@@ -1,0 +1,731 @@
+[
+  {
+    "data": "01/09/2023",
+    "documento": "Debora Tei",
+    "complemento": "ENV TED IB/ATM - Debora Teixeira Dos",
+    "credito": false,
+    "debito": false,
+    "valor": 215.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - EDUARDO CORDEIRO GUI",
+    "credito": true,
+    "debito": false,
+    "valor": 740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - OSWALDO CORREIA DOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "ESTORNO PIX PAGO - OSWALDO CORREIA DOS",
+    "credito": false,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - OSWALDO CORREIA DOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB - cartao Pj",
+    "credito": true,
+    "debito": false,
+    "valor": 4958.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1061701300",
+    "complemento": "DEBITO DE COBRANCA - cartao PF",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "Debora Tei",
+    "complemento": "ENV TED IB/ATM - Debora Teixeira Dos",
+    "credito": false,
+    "debito": false,
+    "valor": 4275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "R05820003",
+    "complemento": "DEP DINHEIRO - CASH",
+    "credito": false,
+    "debito": false,
+    "valor": 18050.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "Debora Tei",
+    "complemento": "TARIFA TED IB/ATM PJ",
+    "credito": false,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "Master",
+    "complemento": "DEB AUTORIZADO",
+    "credito": false,
+    "debito": false,
+    "valor": 1192.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "1061701300",
+    "complemento": "EST LIQ TITULOS - ESTORNO LANCAMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 4958.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "Debora Tei",
+    "complemento": "TARIFA TED IB/ATM PJ",
+    "credito": false,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "MASTER",
+    "complemento": "DEB AUTORIZADO",
+    "credito": false,
+    "debito": false,
+    "valor": 3765.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - INSTITUTO MARIA SCHM",
+    "credito": false,
+    "debito": true,
+    "valor": 12951.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Joceli Carlos Nazari",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSIANA AVILLA MACAR",
+    "credito": true,
+    "debito": false,
+    "valor": 185.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO P - Beto Carrero World",
+    "credito": true,
+    "debito": false,
+    "valor": 319.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - VF LOCACAO DE CARRIN",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - BETO CARRERO WORLD",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "2023240489",
+    "complemento": "LIQ PARCELA EMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 6904.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB",
+    "credito": true,
+    "debito": false,
+    "valor": 390.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB",
+    "credito": true,
+    "debito": false,
+    "valor": 541.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB",
+    "credito": true,
+    "debito": false,
+    "valor": 312.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB",
+    "credito": true,
+    "debito": false,
+    "valor": 402.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB",
+    "credito": true,
+    "debito": false,
+    "valor": 906.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "Aline keyt",
+    "complemento": "ENV TED IB/ATM - Aline keyty Xavier",
+    "credito": true,
+    "debito": false,
+    "valor": 7920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - RIMINI INDUSTRIA COM",
+    "credito": true,
+    "debito": false,
+    "valor": 69.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "Aline keyt",
+    "complemento": "TARIFA TED IB/ATM PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - XANDOKA BC",
+    "credito": true,
+    "debito": false,
+    "valor": 7.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - BOB'S BALNEARIO CAMB",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - SUPERMERCADOS SCHMIT",
+    "credito": true,
+    "debito": false,
+    "valor": 32.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PADARIA LARISSA",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Giovana Gochinski Si",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Joceli Carlos Nazari",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - gas",
+    "credito": true,
+    "debito": false,
+    "valor": 6.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - gas",
+    "credito": true,
+    "debito": false,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - gas",
+    "credito": true,
+    "debito": false,
+    "valor": 9.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - HAPPY KIDS",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - SUBWAI",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - GAM ADMINISTRADORA D",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - POSTO DISNEY IPIRANG",
+    "credito": true,
+    "debito": false,
+    "valor": 58.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - ART DO BOI",
+    "credito": true,
+    "debito": false,
+    "valor": 73.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - ENGENHO LANCHES",
+    "credito": true,
+    "debito": false,
+    "valor": 82.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - C. A. B. DE FREITAS",
+    "credito": true,
+    "debito": false,
+    "valor": 254.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PAG*Distribuidora",
+    "credito": true,
+    "debito": false,
+    "valor": 6.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PAG*Distribuidora",
+    "credito": true,
+    "debito": false,
+    "valor": 6.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - COLOR CENTER CINE FO",
+    "credito": true,
+    "debito": false,
+    "valor": 17.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - VIVARA CBU",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - FRIES FOOD",
+    "credito": true,
+    "debito": false,
+    "valor": 48.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - SUPERMERCADOS DE ANG",
+    "credito": true,
+    "debito": false,
+    "valor": 6.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - tim",
+    "credito": true,
+    "debito": false,
+    "valor": 284.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - MDM ACRILICOS",
+    "credito": true,
+    "debito": false,
+    "valor": 28.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PAG*NeideAparecida",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CHURRASCARIA PANORAM",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MICHELLY ANNAY VARNI",
+    "credito": false,
+    "debito": true,
+    "valor": 216.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - COISA QUERIDA RESTAU",
+    "credito": true,
+    "debito": false,
+    "valor": 52.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO P - IFOODCOM AGENCIA DE",
+    "credito": true,
+    "debito": false,
+    "valor": 31.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PAG*EmersomBiseski",
+    "credito": true,
+    "debito": false,
+    "valor": 55.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PAG*Distribuidora",
+    "credito": true,
+    "debito": false,
+    "valor": 12.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - SUPERMERCADOS DE ANG",
+    "credito": true,
+    "debito": false,
+    "valor": 20.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - imposto",
+    "credito": true,
+    "debito": false,
+    "valor": 906.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "1061701300",
+    "complemento": "LIQ TIT - IB - cartao pj",
+    "credito": true,
+    "debito": false,
+    "valor": 4706.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - JDN CLINICA MEDICA L",
+    "credito": false,
+    "debito": true,
+    "valor": 4004.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - JDN CLINICA MEDICA L",
+    "credito": false,
+    "debito": true,
+    "valor": 6757.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - AUTO POSTO DIPLOMATA",
+    "credito": true,
+    "debito": false,
+    "valor": 31.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "PGTO",
+    "complemento": "PIX DEBITO PAGAMENTO P - iFood",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - POSTO IRMAOS DE FAVE",
+    "credito": true,
+    "debito": false,
+    "valor": 27.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - MC DONALDS",
+    "credito": true,
+    "debito": false,
+    "valor": 81.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - PADARIA LARISSA",
+    "credito": true,
+    "debito": false,
+    "valor": 14.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - DANIELA MAGGIO DE OL",
+    "credito": true,
+    "debito": false,
+    "valor": 130.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "MAESTRO",
+    "complemento": "SAQUE–REDE EXTERNA - 00000000000000000000",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "Debora Tei",
+    "complemento": "ENV TED IB/ATM - Debora Teixeira Dos",
+    "credito": true,
+    "debito": false,
+    "valor": 4275.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - ZP*HAPPY KIDS",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - GAM ADMINISTRADORA D",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - ENGENHO LANCHES",
+    "credito": true,
+    "debito": false,
+    "valor": 127.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "Debora Tei",
+    "complemento": "TARIFA TED IB/ATM PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "MAESTRO",
+    "complemento": "COMPRA DEBITO - SHOPPING PARK",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "1061701300",
+    "complemento": "DEBITO DE COBRANCA - cartao Pf",
+    "credito": true,
+    "debito": false,
+    "valor": 11952.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - INSTITUTO MARIA SCHM",
+    "credito": false,
+    "debito": true,
+    "valor": 10361.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/10/2023",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - INSTITUTO MARIA SCHM",
+    "credito": false,
+    "debito": true,
+    "valor": 1464.06,
+    "origem": "Extrato"
+  }
+]

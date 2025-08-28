@@ -1,0 +1,5474 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "16.529.322",
+    "complemento": "656 CREDITO SERVICO CAMBIO",
+    "credito": false,
+    "debito": true,
+    "valor": 28.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "16.529.322",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 22339.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "9.135",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1634.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.101",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 71.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.102",
+    "complemento": "Pagamento de Boleto SDB COMERCIO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 92.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.103",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 181.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.104",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 183.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.105",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 183.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.106",
+    "complemento": "Pagamento de Boleto MULTIPLIKE SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 258.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.107",
+    "complemento": "Pagamento de Boleto DIST MULLER COM E REPR LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 262.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.108",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 281.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.109",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 288.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.110",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 446.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.111",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 467.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.112",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 505.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.113",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 524.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.114",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 707.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.115",
+    "complemento": "Pagamento de Boleto PROTESC SC ASSESSORIA EM SEGURANCA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 797.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.116",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 898.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.117",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.118",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1308.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.119",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 1498.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.120",
+    "complemento": "Pagamento de Boleto PJBANK PAGAMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 8149.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "60.121",
+    "complemento": "Pagamento de Boleto ANDRADE COMERCIO E REPRESENTACAO COMER",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "391.100.702",
+    "complemento": "Cobrança de I.O.F.",
+    "credito": true,
+    "debito": false,
+    "valor": 446.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "3.467.001.794",
+    "complemento": "Pix Recebido 02/06 17:45 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 14000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.201",
+    "complemento": "Pagamento de Boleto COMERCIO DE ALIMENTOS AHIKO UNE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 162.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.202",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 208.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.203",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 215.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.204",
+    "complemento": "Pagamento de Boleto SCPAR PORTO DE SAO FRANCISCO D",
+    "credito": true,
+    "debito": false,
+    "valor": 217.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.205",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 406.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.206",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 423.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.207",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.208",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 531.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.209",
+    "complemento": "Pagamento de Boleto BCO SAFRA S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 839.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.210",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1055.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.211",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1784.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.212",
+    "complemento": "Pagamento de Boleto BCO DO ESTADO DO RS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1823.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.213",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1914.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "60.214",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 1585.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "46.606.123.000.466",
+    "complemento": "BB Giro",
+    "credito": false,
+    "debito": true,
+    "valor": 80000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "236.349",
+    "complemento": "Compra com Cartão 03/06 18:05 IPM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "704.670",
+    "complemento": "Compra com Cartão 03/06 13:46 IPM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "13.328",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 16867.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "46.606.123.000.468",
+    "complemento": "BB Giro",
+    "credito": true,
+    "debito": false,
+    "valor": 1408.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.501",
+    "complemento": "Pix Enviado 05/06 11:22 FRIENDSHIP SERVICOS PORTUA",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.502",
+    "complemento": "Pagamento de Boleto HANARO IMPORTADORA E EXPORTADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2409.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.503",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2338.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.504",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.505",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 2459.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.506",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 483.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.507",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 512.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.508",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 524.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.509",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1583.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.510",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 312.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.511",
+    "complemento": "Pagamento de Boleto SCPAR PORTO DE SAO FRANCISCO D",
+    "credito": true,
+    "debito": false,
+    "valor": 217.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.512",
+    "complemento": "Pagamento de Boleto SCPAR PORTO DE SAO FRANCISCO D",
+    "credito": true,
+    "debito": false,
+    "valor": 217.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.513",
+    "complemento": "Pagamento de Boleto PANIFICADORA SAO FRANCISCO DO",
+    "credito": true,
+    "debito": false,
+    "valor": 251.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.514",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 440.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.515",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 1107.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.516",
+    "complemento": "Pagamento de Boleto MEGHA INSTALACAO E MANUTENCAO ELETRICA",
+    "credito": true,
+    "debito": false,
+    "valor": 672.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.517",
+    "complemento": "Pagamento de Boleto LACTALIS BR",
+    "credito": true,
+    "debito": false,
+    "valor": 162.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.518",
+    "complemento": "Pagamento de Boleto MULTIPLIKE SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 14062.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.519",
+    "complemento": "Pagamento de Boleto FT SEGURANCA E SERVICOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 251.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.520",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 338.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.521",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 483.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.522",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 491.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.523",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 3629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.524",
+    "complemento": "Pagamento de Boleto CONTABILISTA SUPR PARA ESCR SA",
+    "credito": true,
+    "debito": false,
+    "valor": 810.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.525",
+    "complemento": "Pagamento de Boleto HOSTIN INDUSTRIA C A LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1515.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.526",
+    "complemento": "Pagamento de Boleto SUZANA FLECK TELECOMUNICACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 119.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.527",
+    "complemento": "Pagamento de Boleto DATA SOLUTIONS BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1665.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "60.528",
+    "complemento": "Pagamento de Boleto ZANONI INDUSTRIA E COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 2812.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "811.560.700.062.339",
+    "complemento": "Tar Mensal Programa Relac Cobrança referente 31/05/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 3043.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "14.117",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 1472.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.601",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 169.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.602",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 275.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.603",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 311.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.604",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA MULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 323.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.605",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 365.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.606",
+    "complemento": "Pagamento de Boleto BDL LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 377.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.607",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 388.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.608",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 531.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.609",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 555.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.610",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 873.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.611",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 897.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.612",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.613",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 988.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.614",
+    "complemento": "Pagamento de Boleto DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1709.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "60.615",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 1954.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "871.571.200.365.542",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 05/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 3043.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.482",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 61790.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.526",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 6367.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.583",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 6414.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "550.405.000.020.827",
+    "complemento": "Transferência enviada 07/06 15:55 FABRICIO OLIVEIRA SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.482",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 97.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.482",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 293.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.526",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 9.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.526",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 27.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.583",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 6.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "16.532.583",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 18.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "231.585.461.931.057",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 1.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "231.585.599.231.031",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "231.585.701.731.107",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.701",
+    "complemento": "Impostos FGTS ARRECADACAO GRF",
+    "credito": true,
+    "debito": false,
+    "valor": 4941.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.702",
+    "complemento": "Pagamento de Boleto CONSERVAS ODERICH S A",
+    "credito": true,
+    "debito": false,
+    "valor": 3273.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.703",
+    "complemento": "Pagamento de Boleto CELESC DISTRIBUICAO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 6200.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.704",
+    "complemento": "Pagamento de Boleto BANCO COOPERATIVO DO BRASIL S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 19.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.705",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1975.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.706",
+    "complemento": "Pagamento de Boleto RUDNICK CIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 522.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.707",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2987.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.708",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 5442.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.709",
+    "complemento": "Pagamento de Boleto BONZAO INDUSTRIA DE PRODUTOS DE LIMPEZ",
+    "credito": true,
+    "debito": false,
+    "valor": 248.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.710",
+    "complemento": "Pagamento de Boleto MERCADO DAS EMBALAGENS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 528.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.711",
+    "complemento": "Pagamento de Boleto QUIMIDROL COMERCIO INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 575.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.712",
+    "complemento": "Pagamento de Boleto RUDIPEL RUDNICK PETROLEO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6820.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.713",
+    "complemento": "Pagamento de Boleto ATENA CONSULTORIA EM ERP E TI",
+    "credito": true,
+    "debito": false,
+    "valor": 9151.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.714",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 85.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.715",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 215.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.716",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 247.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.717",
+    "complemento": "Pagamento de Boleto BASSO FUNDO DE INVESTIMENTO EM DIREITO",
+    "credito": true,
+    "debito": false,
+    "valor": 256.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.718",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 266.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.719",
+    "complemento": "Pagamento de Boleto COMERCIO DE ALIMENTOS AHIKO UNE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.720",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 302.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.721",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 314.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.722",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA DE ALIMENTOS DEQ",
+    "credito": true,
+    "debito": false,
+    "valor": 333.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.723",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 405.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.724",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 434.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.725",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 451.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.726",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 454.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.727",
+    "complemento": "Pagamento de Boleto PRATICPAY PAGAMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 531.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.728",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 566.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.729",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 592.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.730",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 595.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.731",
+    "complemento": "Pagamento de Boleto ZIMTECH REFRIGERACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 602.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.732",
+    "complemento": "Pagamento de Boleto COMERCIO DE ALIMENTOS AHIKO UNE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 675.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.733",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1888.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.734",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 2315.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.735",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 4731.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "60.736",
+    "complemento": "Pagamento de Boleto ZIMTECH REFRIGERACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1806.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "46.607.226.000.238",
+    "complemento": "BB GIRO PRONAMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 6570.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "553.422.000.005.481",
+    "complemento": "Transferência recebida 09/06 14:18 OPEN MARKET COMERCIO EXT",
+    "credito": false,
+    "debito": true,
+    "valor": 20457.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "16.533.162",
+    "complemento": "656 CREDITO SERVICO CAMBIO",
+    "credito": false,
+    "debito": true,
+    "valor": 242955.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "550.259.000.044.466",
+    "complemento": "Transferência enviada 09/06 17:40 P P TRAN MARITIMOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 4300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.901",
+    "complemento": "Pix Enviado 09/06 11:01 Edevaldo Duarte Arguelho",
+    "credito": true,
+    "debito": false,
+    "valor": 153.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.902",
+    "complemento": "Pix Enviado 09/06 15:34 Armazem Tunis Distribuidor",
+    "credito": true,
+    "debito": false,
+    "valor": 667.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.903",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 188.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.904",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 189.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.905",
+    "complemento": "Pagamento de Boleto LB BORRACHAS",
+    "credito": true,
+    "debito": false,
+    "valor": 249.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.906",
+    "complemento": "Pagamento de Boleto MULTIPLIKE SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 258.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.907",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 285.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.908",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 288.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.909",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 312.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.910",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 507.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.911",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 524.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.912",
+    "complemento": "Pagamento de Boleto AMB COMERCIO D P LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 658.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.913",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 898.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.914",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.915",
+    "complemento": "Pagamento de Boleto AMB COMERCIO D P LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 1316.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.916",
+    "complemento": "Pagamento de Boleto AMB COMERCIO D P LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 1797.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.917",
+    "complemento": "Pagamento de Boleto ORCALI SERVICOS ESP LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2510.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.918",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 71.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.919",
+    "complemento": "Pagamento de Boleto AHGORA HCM SA",
+    "credito": true,
+    "debito": false,
+    "valor": 171.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.920",
+    "complemento": "Pagamento de Boleto DIST MULLER COM E REPR LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 262.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.921",
+    "complemento": "Pagamento de Boleto MATA FOGO P S C I SEGURANCA LT",
+    "credito": true,
+    "debito": false,
+    "valor": 307.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.922",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 446.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.923",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 505.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.924",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 707.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.925",
+    "complemento": "Pagamento de Boleto MINAMEL AGROINDUSTRIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1208.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.926",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1308.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.927",
+    "complemento": "Pagamento de Boleto HANARO IMPORTADORA E EXPORTADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.928",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 688.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.929",
+    "complemento": "Pagamento de Boleto RWR LOGISTICA E DISTRIBUICAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1002.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.930",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 4285.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.931",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 124.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.932",
+    "complemento": "Pagamento de Boleto SEARA ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 273.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.933",
+    "complemento": "Pagamento de Boleto ACEVILLE TRANSPORTES LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 328.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.934",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 369.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.935",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 423.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.936",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 440.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.937",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 607.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.938",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1784.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.939",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 2093.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.940",
+    "complemento": "Pagamento de Boleto HIDROMINERAL TERMAL DE ARMAZEM",
+    "credito": true,
+    "debito": false,
+    "valor": 4960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.941",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 304.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.942",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 431.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.943",
+    "complemento": "Pagamento de Boleto ZEUS DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 454.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.944",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 509.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.945",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1055.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.946",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 2273.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.947",
+    "complemento": "Pagamento de Boleto ITAUCARD S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 7568.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.948",
+    "complemento": "Pix Enviado 09/06 17:39 ESPACO CHATO COM CARRO LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.949",
+    "complemento": "Pix Enviado 09/06 17:41 EXPORTADORA SAO FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 95000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "60.950",
+    "complemento": "Pagamento de Boleto BRADESCO SAUDE S A",
+    "credito": true,
+    "debito": false,
+    "valor": 4743.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "821.600.801.895.822",
+    "complemento": "Comissão EXP ACC Cobrança referente 09/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 104544.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.201",
+    "complemento": "Pix Enviado 12/06 08:44 JAIME LUIZ DE CARVALHO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.202",
+    "complemento": "Pagamento de Boleto PROTESC SC ASSESSORIA EM SEGURANCA DO",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.203",
+    "complemento": "Pagamento de Boleto ASSOCIACAO EMPRESARIAL DE SAO",
+    "credito": true,
+    "debito": false,
+    "valor": 132.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.204",
+    "complemento": "Pagamento de Boleto HOSTIN INDUSTRIA C A LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 281.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.205",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 406.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.206",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 483.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.207",
+    "complemento": "Pagamento de Boleto PANIFICADORA SAO FRANCISCO DO",
+    "credito": true,
+    "debito": false,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.208",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 873.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.209",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1583.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.210",
+    "complemento": "Pagamento de Boleto DC SERVICOS CONTABEIS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 6023.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.211",
+    "complemento": "Pagamento de Boleto ATENA CONSULTORIA EM ERP E TI",
+    "credito": true,
+    "debito": false,
+    "valor": 8352.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.212",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 512.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.213",
+    "complemento": "Pagamento de Boleto MUNICIPIO DE SAO FRANCISCO DO SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.214",
+    "complemento": "Pagamento de Boleto GRUBAL BEBIDAS AMERICAN LATIN",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.215",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 312.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.216",
+    "complemento": "Pagamento de Boleto L. F SILVEIRA COMERCIO DE FERRAMENTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.217",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 338.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.218",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 483.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.219",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 491.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.220",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 676.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.221",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 721.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.222",
+    "complemento": "Pagamento de Boleto DESTRO BRASIL DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 773.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.223",
+    "complemento": "Pagamento de Boleto FORTE PESCADOS SC - EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 989.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.224",
+    "complemento": "Pagamento de Boleto MUNICIPIO DE SAO FRANCISCO DO SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 173.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.225",
+    "complemento": "Pix Enviado 12/06 14:33 LOW COST SERVICOS MARITIMO",
+    "credito": true,
+    "debito": false,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.226",
+    "complemento": "Pix Enviado 12/06 14:35 PASSOS CONSULTORIA TRIBUTA",
+    "credito": true,
+    "debito": false,
+    "valor": 1811.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.227",
+    "complemento": "TED Transf.Eletr.Disponiv 104 0424 014766014000125 PACHECO E CUN",
+    "credito": true,
+    "debito": false,
+    "valor": 2500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.228",
+    "complemento": "TED Transf.Eletr.Disponiv 341 0548 001115535000170 TESC - TERMIN",
+    "credito": true,
+    "debito": false,
+    "valor": 108.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "61.229",
+    "complemento": "Pix Enviado 12/06 17:41 EXPORTADORA SAO FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 35000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "81.255.645",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "138.126.925",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 6105.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "138.126.952",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 8055.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "156.627.764",
+    "complemento": "Pagto cartão crédito EMPRESARIAL VISA",
+    "credito": true,
+    "debito": false,
+    "valor": 1027.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "156.627.784",
+    "complemento": "Pagto cartão crédito EMPRESARIAL ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 6154.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "811.631.200.046.891",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 09/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 20.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "891.631.101.040.093",
+    "complemento": "Tarifa Pacote de Serviços Cobrança referente 12/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 332.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "11.806",
+    "complemento": "Pagamento Pedágio SEM PARAR",
+    "credito": true,
+    "debito": false,
+    "valor": 1340.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "14.033",
+    "complemento": "BB Consórcio Prestação BB ADMIN CONSÓRCIO SA",
+    "credito": true,
+    "debito": false,
+    "valor": 1346.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 104458.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "4.879",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.301",
+    "complemento": "Pagamento de Boleto SOLUCAO COMERCIO DE PRODUTOS D",
+    "credito": true,
+    "debito": false,
+    "valor": 180.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.302",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 302.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.303",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA MULLER",
+    "credito": true,
+    "debito": false,
+    "valor": 323.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.304",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 356.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.305",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 360.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.306",
+    "complemento": "Pagamento de Boleto BDL LOGISTICA",
+    "credito": true,
+    "debito": false,
+    "valor": 377.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.307",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 384.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.308",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.309",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.310",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 440.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.311",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 599.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.312",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 670.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.313",
+    "complemento": "Pagamento de Boleto BRIOVILLE COMERCIO DE MATERIAI",
+    "credito": true,
+    "debito": false,
+    "valor": 867.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.314",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.315",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 988.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.316",
+    "complemento": "Pagamento de Boleto RWR LOGISTICA E DISTRIBUICAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5094.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.317",
+    "complemento": "TED Transf.Eletr.Disponiv 033 3297 003127733000180 ALPHAMAR AGEN",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "61.318",
+    "complemento": "Pagamento de Boleto ROCHAMAR AGENCIA MARITIMA S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "871.641.200.033.862",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 12/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 39.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 85.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "3.548.093.719",
+    "complemento": "Pix Recebido 14/06 15:25 22339764000149 ORDILEY ZIM",
+    "credito": false,
+    "debito": true,
+    "valor": 1806.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "3.549.481.089",
+    "complemento": "Pix Recebido 14/06 18:13 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "260.765",
+    "complemento": "Compra com Cartão 14/06 20:16 IPM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "337.265",
+    "complemento": "Estorno de Débito",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "337.265",
+    "complemento": "Compra com Cartão 14/06 22:03 MP *HOTEL",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "550.466.000.014.382",
+    "complemento": "Transferência enviada 14/06 18:14 IRAN MACHADO HELENO",
+    "credito": true,
+    "debito": false,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "553.155.000.031.666",
+    "complemento": "Transferência enviada 14/06 16:28 THB REFRATARIOS EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 920.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "5.528",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.401",
+    "complemento": "Pix Enviado 14/06 14:11 Armazem Tunis Distribuidor",
+    "credito": true,
+    "debito": false,
+    "valor": 603.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.402",
+    "complemento": "Pix Enviado 14/06 15:34 PRODUTOS PERUANOS",
+    "credito": true,
+    "debito": false,
+    "valor": 672.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.403",
+    "complemento": "Pix Enviado 14/06 17:37 Fabiano Silvano Wiest",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.404",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 88.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.405",
+    "complemento": "Pagamento de Boleto CONTABILISTA SUPR PARA ESCR SA",
+    "credito": true,
+    "debito": false,
+    "valor": 145.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.406",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 183.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.407",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 245.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.408",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 314.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.409",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 353.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.410",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 434.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.411",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 438.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.412",
+    "complemento": "Pagamento de Boleto FORTE PESCADOS SC - EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 448.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.413",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 465.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.414",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 546.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.415",
+    "complemento": "Pagamento de Boleto EUROSUL",
+    "credito": true,
+    "debito": false,
+    "valor": 672.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.416",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 855.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.417",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 873.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.418",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 906.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "61.419",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1476.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "3.557.120.190",
+    "complemento": "Pix Recebido 15/06 18:56 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "127.849",
+    "complemento": "Compra com Cartão 15/06 15:31 IPM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "7.965",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.501",
+    "complemento": "Pix Enviado 15/06 08:42 JAIME V M J SOCIEDADE INDI",
+    "credito": true,
+    "debito": false,
+    "valor": 2900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.502",
+    "complemento": "Pagamento de Boleto TEMAQ AUTOPECAS DE CAMINHOES E TRATORE",
+    "credito": true,
+    "debito": false,
+    "valor": 160.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.503",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.504",
+    "complemento": "Pagamento de Boleto PANIFICADORA SAO FRANCISCO DO",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.505",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 186.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.506",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 191.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.507",
+    "complemento": "Pagamento de Boleto DIST MULLER COM E REPR LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 262.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.508",
+    "complemento": "Pagamento de Boleto RWR LOGISTICA E DISTRIBUICAO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 397.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.509",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 427.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.510",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 524.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.511",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 574.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.512",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 583.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.513",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 636.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.514",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 695.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.515",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.516",
+    "complemento": "Pagamento de Boleto BANCO INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.517",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1210.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.518",
+    "complemento": "Pagamento de Boleto BANCO INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1237.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.519",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 2156.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.520",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 2280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.521",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 2395.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.522",
+    "complemento": "Pagto conta telefone CLARO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 233.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "61.523",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5152.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "46.606.628.000.212",
+    "complemento": "BB Financ PJ Amortização",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "831.661.200.042.949",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 14/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 15.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.784",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 14093.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.800",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 8823.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "3.562.845.970",
+    "complemento": "Pix Recebido 16/06 15:57 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "3.563.004.429",
+    "complemento": "Pix Recebido 16/06 16:15 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.507.468",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 1005.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.784",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 17.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.784",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 52.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.800",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 6.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "16.536.800",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 19.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "231.673.885.631.028",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "231.674.009.731.018",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.602",
+    "complemento": "Pagamento de Boleto CAIXA ECONOMICA FEDERAL",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.603",
+    "complemento": "Pagamento de Boleto COOPERATIVA CENTRAL DE CREDITO AILOS",
+    "credito": true,
+    "debito": false,
+    "valor": 122.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.604",
+    "complemento": "Pagamento de Boleto BCO DO ESTADO DO RS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 172.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.605",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 190.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.606",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 231.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.607",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.608",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 304.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.609",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 377.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.610",
+    "complemento": "Pagamento de Boleto BCO COOPERATIVO SICREDI S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 388.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.611",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 402.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.612",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 404.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.613",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 423.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.614",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 440.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.615",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 443.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.616",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 479.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.617",
+    "complemento": "Pagamento de Boleto COOPERATIVA CENTRAL DE CREDITO AILOS",
+    "credito": true,
+    "debito": false,
+    "valor": 552.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.618",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 624.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.619",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 688.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.620",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 721.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.621",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1038.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.622",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1055.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.623",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.624",
+    "complemento": "Pix Enviado 16/06 16:07 FERMACHINE",
+    "credito": true,
+    "debito": false,
+    "valor": 195.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.625",
+    "complemento": "Pix Enviado 16/06 16:09 RUI DOS SANTOS ALVES JUNIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "61.626",
+    "complemento": "Pix Enviado 16/06 17:34 49.663.459 BRUNO SILVA COS",
+    "credito": true,
+    "debito": false,
+    "valor": 683.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "145.617.061",
+    "complemento": "Pagto cartão crédito EMPRESARIAL ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 27826.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "145.617.125",
+    "complemento": "Pagto cartão crédito EMPRESARIAL ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 5213.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "871.671.200.032.173",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 15/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 10171.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.901",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 6047.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.902",
+    "complemento": "Pagamento de Boleto HOSTIN INDUSTRIA C A LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 318.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.903",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 483.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.904",
+    "complemento": "Pagamento de Boleto VLADIMIR LENON VEPECK 00440806976",
+    "credito": true,
+    "debito": false,
+    "valor": 530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.905",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1583.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.906",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 3869.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.907",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 523.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.908",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 592.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.909",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 618.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.910",
+    "complemento": "Pagamento de Boleto EUROSUL",
+    "credito": true,
+    "debito": false,
+    "valor": 2161.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.911",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 338.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.912",
+    "complemento": "Pagamento de Boleto VG REFORMAS E MANUTENCAO DE IMPLEMENTO",
+    "credito": true,
+    "debito": false,
+    "valor": 410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.913",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 483.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.914",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 491.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.915",
+    "complemento": "Pagamento de Boleto IMP FRUTAS LA VIOLETERA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 534.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.916",
+    "complemento": "Pagamento de Boleto ELETRO NAC COM E REPR LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 581.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.917",
+    "complemento": "Pagamento de Boleto DESTRO BRASIL DISTRIBUICAO",
+    "credito": true,
+    "debito": false,
+    "valor": 773.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.918",
+    "complemento": "Pagamento de Boleto CRBS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 848.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.919",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.920",
+    "complemento": "Pagamento de Boleto DELIGEL DISTRIBUIDORA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1574.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.921",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 5494.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.922",
+    "complemento": "Pix Enviado 19/06 12:07 AGENCIA MARITIMA CARGONAVE",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.923",
+    "complemento": "Impostos DARE SANTA CATARINA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.924",
+    "complemento": "Pix Enviado 19/06 14:51 Super Pro Comercio De Equi",
+    "credito": true,
+    "debito": false,
+    "valor": 301.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.925",
+    "complemento": "Pix Enviado 19/06 17:08 LIMP VILLE",
+    "credito": true,
+    "debito": false,
+    "valor": 93.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "61.926",
+    "complemento": "Pagamento de Boleto ROCHAMAR AGENCIA MARITIMA S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "821.701.200.050.231",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 16/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 18.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "821.701.200.050.232",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 19/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 10172.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "16.538.667",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 48690.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "16.538.667",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 40.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "16.538.667",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 120.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "231.715.386.731.045",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.001",
+    "complemento": "Impostos DARF - 81.766.198/0001-10 -5952",
+    "credito": true,
+    "debito": false,
+    "valor": 858.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.002",
+    "complemento": "Impostos DARF - 81.766.198/0001-10 -1708",
+    "credito": true,
+    "debito": false,
+    "valor": 260.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.003",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 31989.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.004",
+    "complemento": "Impostos RFB-DARF CODIGO DE BARRAS",
+    "credito": true,
+    "debito": false,
+    "valor": 352.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.005",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 288.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.006",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 301.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.007",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 341.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.008",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 341.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.009",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 359.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.010",
+    "complemento": "Pagamento de Boleto COOPERATIVA CENTRAL DE CREDITO AILOS",
+    "credito": true,
+    "debito": false,
+    "valor": 360.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.011",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 377.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.012",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 385.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.013",
+    "complemento": "Pagamento de Boleto COOPERATIVA CENTRAL DE CREDITO AILOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.014",
+    "complemento": "Pagamento de Boleto COOPERATIVA CENTRAL DE CREDITO AILOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.015",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 452.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.016",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 514.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.017",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 570.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.018",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 582.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.019",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 584.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.020",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 653.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.021",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 721.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.022",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 752.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.023",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 770.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.024",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 831.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.025",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 877.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.026",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 945.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "62.027",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 946.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "112.576.240",
+    "complemento": "Pagto cartão crédito EMPRESARIAL ELO",
+    "credito": true,
+    "debito": false,
+    "valor": 2297.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "799.718",
+    "complemento": "Compra com Cartão 21/06 15:41 IPM LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 17.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "62.103",
+    "complemento": "Pagamento de Boleto ADEGA MUNICIPAL COMERCIO DE BEBIDAS LT",
+    "credito": true,
+    "debito": false,
+    "valor": 166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "550.466.000.014.382",
+    "complemento": "CREDITO SERVICO CAMBIO Transferência enviada 23/06 17:53 IRAN MACHADO HELENO",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "553.428.000.103.042",
+    "complemento": "Transferência enviada 23/06 14:04 BUSCHLE & LEPPER SA",
+    "credito": true,
+    "debito": false,
+    "valor": 240.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "5.196",
+    "complemento": "Folha de Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.301",
+    "complemento": "Pix Enviado 23/06 10:01 ALPHAMAR AGENCIA MARITIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.302",
+    "complemento": "Pix Enviado 23/06 10:08 SAGRES AGENCIAMENTOS MARIT",
+    "credito": true,
+    "debito": false,
+    "valor": 478.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.303",
+    "complemento": "Pix Enviado 23/06 10:09 ALPHAMAR AGENCIA MARITIMA",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.304",
+    "complemento": "Pix Enviado 23/06 10:13 Valdecir Pereira Francisco",
+    "credito": true,
+    "debito": false,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.305",
+    "complemento": "Pagamento de Boleto DEYCON COMERCIO D LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 2809.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.306",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 194.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.307",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 294.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.308",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 326.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.309",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 317.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.310",
+    "complemento": "Pagamento de Boleto MEGACO COMERCIO DE F E METAIS",
+    "credito": true,
+    "debito": false,
+    "valor": 390.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.311",
+    "complemento": "Pagamento de Boleto HORIZONTE GRAFICA E EDITORA LT",
+    "credito": true,
+    "debito": false,
+    "valor": 407.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.312",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 415.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.313",
+    "complemento": "Pagamento de Boleto JORGE MOTTER & FILHOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 443.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.314",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 460.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.315",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 520.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.316",
+    "complemento": "Pagamento de Boleto NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 639.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.317",
+    "complemento": "Pagamento de Boleto COPAL ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 790.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.318",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 939.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.319",
+    "complemento": "Pagamento de Boleto DIST DE ALIMENTOS DEQUECH LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1038.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.320",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1138.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.321",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 186.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.322",
+    "complemento": "Pagamento de Boleto SCPAR PORTO DE SAO FRANCISCO D",
+    "credito": true,
+    "debito": false,
+    "valor": 221.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.323",
+    "complemento": "Pagamento de Boleto BASSO FUNDO DE INVESTIMENTO EM DIREITO",
+    "credito": true,
+    "debito": false,
+    "valor": 354.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.324",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 540.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.325",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 555.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.326",
+    "complemento": "Pagamento de Boleto SPAL IND BRAS DE BEBIDAS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 555.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.327",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 611.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.328",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 979.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.329",
+    "complemento": "Pagamento de Boleto TROPICAL LOCACAO E LTDA EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 1244.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.330",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 3768.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.331",
+    "complemento": "Pagamento de Boleto KGM ASSESSORIA DE CREDITO E CO",
+    "credito": true,
+    "debito": false,
+    "valor": 249.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.332",
+    "complemento": "Pix Enviado 23/06 11:45 NIVIA SCHILLING OZORIO 510",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.333",
+    "complemento": "Pix Enviado 23/06 13:21 Produtos Peruanos",
+    "credito": true,
+    "debito": false,
+    "valor": 672.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.334",
+    "complemento": "Pix Enviado 23/06 14:02 REDE GERAL DE FIXADORES E",
+    "credito": true,
+    "debito": false,
+    "valor": 21.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.335",
+    "complemento": "Pagamento de Boleto MULTIPLIKE SECURITIZADORA S A",
+    "credito": true,
+    "debito": false,
+    "valor": 14601.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.336",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA DE ALIMENTOS DEQ",
+    "credito": true,
+    "debito": false,
+    "valor": 204.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.337",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 256.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.338",
+    "complemento": "Pagamento de Boleto COMERCIO DE ALIMENTOS AHIKO UNE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.339",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 330.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.340",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 367.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.341",
+    "complemento": "Pagamento de Boleto DISTRIBUIDORA DE ALIMENTOS DEQ",
+    "credito": true,
+    "debito": false,
+    "valor": 394.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.342",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 416.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.343",
+    "complemento": "Pagamento de Boleto CARBONI DIST DE VEICULOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 428.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.344",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 440.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.345",
+    "complemento": "Pagamento de Boleto KGM ASSESSORIA DE CREDITO E CO",
+    "credito": true,
+    "debito": false,
+    "valor": 443.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.346",
+    "complemento": "Pagamento de Boleto FRUTAROMA INDUSTRIA E COMERCIO DE SORV",
+    "credito": true,
+    "debito": false,
+    "valor": 448.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.347",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 545.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.348",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 624.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.349",
+    "complemento": "Pagamento de Boleto KGM ASSESSORIA DE CREDITO E CO",
+    "credito": true,
+    "debito": false,
+    "valor": 640.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.350",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 688.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.351",
+    "complemento": "Pagamento de Boleto BRAVILLE ATACADO DE ALIMENTOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 742.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.352",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 967.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.353",
+    "complemento": "Pagamento de Boleto MINAMEL AGROINDUSTRIA LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1208.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.354",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 2790.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.355",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 4800.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.356",
+    "complemento": "Pagamento de Boleto HIDROMINERAL TERMAL DE ARMAZEM",
+    "credito": true,
+    "debito": false,
+    "valor": 4960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.357",
+    "complemento": "Pix Enviado 23/06 17:45 MERCEARIA E BOMBONIERE TOW",
+    "credito": true,
+    "debito": false,
+    "valor": 552.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "62.358",
+    "complemento": "Pix Enviado 23/06 17:52 EXPORTADORA SAO FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "821.740.802.586.683",
+    "complemento": "Comissão EXP ACC Cobrança referente 23/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 1428.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 2267.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "16.541.767",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 55000.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "16.541.822",
+    "complemento": "CREDITO SERVICO CAMBIO",
+    "credito": false,
+    "debito": true,
+    "valor": 7.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "16.541.822",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 26181.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.601",
+    "complemento": "Pix Enviado 26/06 10:47 ARMAZEM TUNIS DISTRIBUIDOR",
+    "credito": true,
+    "debito": false,
+    "valor": 345.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.602",
+    "complemento": "Pix Enviado 26/06 10:51 Santos Port Authority",
+    "credito": true,
+    "debito": false,
+    "valor": 45.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.603",
+    "complemento": "Pix Enviado 26/06 11:18 THIAGO FELIPE VAZ",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.604",
+    "complemento": "Pagamento de Boleto LOJAO MELLO MANIA LTDA ME",
+    "credito": true,
+    "debito": false,
+    "valor": 279.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.605",
+    "complemento": "Pagamento de Boleto HOSTIN INDUSTRIA C A LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 61.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.606",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 483.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.607",
+    "complemento": "Pagamento de Boleto ROMACO COML IMPORTADORA DE ROLAMENT",
+    "credito": true,
+    "debito": false,
+    "valor": 582.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.608",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 586.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.609",
+    "complemento": "Pagamento de Boleto WORK SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.610",
+    "complemento": "Pagamento de Boleto LOJAS COLOMBO",
+    "credito": true,
+    "debito": false,
+    "valor": 4784.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.611",
+    "complemento": "Pagamento de Boleto SELBETTI TECNOLOGIA S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 489.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.612",
+    "complemento": "Pagamento de Boleto EUROSUL",
+    "credito": true,
+    "debito": false,
+    "valor": 495.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.613",
+    "complemento": "Pagamento de Boleto PEPSICO DO BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 766.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.614",
+    "complemento": "Pagamento de Boleto ESSENCIAL FRUTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 2607.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.615",
+    "complemento": "Pagamento de Boleto BANCO ITAUCARD S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 6874.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.616",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 142.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.617",
+    "complemento": "Pagamento de Boleto KGM ASSESSORIA DE CREDITO E CO",
+    "credito": true,
+    "debito": false,
+    "valor": 270.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.618",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 288.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.619",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 385.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.620",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 523.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.621",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 544.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.622",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 592.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.623",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 618.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.624",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 734.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.625",
+    "complemento": "Pagamento de Boleto BANCO INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1067.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.626",
+    "complemento": "Pagamento de Boleto BCO SANTANDER (BRASIL) S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1417.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.627",
+    "complemento": "Pagamento de Boleto BCO DAYCOVAL S.A",
+    "credito": true,
+    "debito": false,
+    "valor": 4720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.628",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5431.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.629",
+    "complemento": "TED Transf.Eletr.Disponiv 237 0352 078533064000145 AGENCIA MARIT",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.630",
+    "complemento": "Pagto conta telefone TIM S/A",
+    "credito": true,
+    "debito": false,
+    "valor": 874.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.631",
+    "complemento": "Pgto conta água AGUAS S FRANCISCO DO SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 376.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "62.632",
+    "complemento": "Pix Enviado 26/06 18:30 EXPORTADORA SAO FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "46.606.123.000.472",
+    "complemento": "BB Giro",
+    "credito": true,
+    "debito": false,
+    "valor": 2087.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "811.771.200.063.575",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 23/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 42.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "811.771.200.063.576",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 26/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 14.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": true,
+    "debito": false,
+    "valor": 1153.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "16.542.620",
+    "complemento": "Liquid Contr Câmbio Exp",
+    "credito": false,
+    "debito": true,
+    "valor": 43796.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "16.542.620",
+    "complemento": "Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 60.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "16.542.620",
+    "complemento": "Débito Serv.Cambio",
+    "credito": true,
+    "debito": false,
+    "valor": 181.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "231.785.735.631.024",
+    "complemento": "IOF sobre Oper Câmbio",
+    "credito": true,
+    "debito": false,
+    "valor": 0.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.701",
+    "complemento": "Pix Enviado 27/06 14:05 Palamad Comercio De Palete",
+    "credito": true,
+    "debito": false,
+    "valor": 1495.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.702",
+    "complemento": "Pagamento de Boleto VLADIMIR LENON VEPECK 00440806976",
+    "credito": true,
+    "debito": false,
+    "valor": 107.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.703",
+    "complemento": "Pagamento de Boleto PAPENBORG LATICINIOS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.704",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 172.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.705",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 274.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.706",
+    "complemento": "Pagamento de Boleto SPAL IND BRAS DE BEBIDAS SA",
+    "credito": true,
+    "debito": false,
+    "valor": 301.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.707",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 304.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.708",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 333.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.709",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 335.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.710",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 360.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.711",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 367.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.712",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.713",
+    "complemento": "Pagamento de Boleto SUL BRASIL COMERCIO DE ALIMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 431.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.714",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 483.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.715",
+    "complemento": "Pagamento de Boleto S.O.S ALIMENTOS E TRANSPORTES",
+    "credito": true,
+    "debito": false,
+    "valor": 511.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.716",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 514.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.717",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 580.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.718",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 602.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.719",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 770.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.720",
+    "complemento": "Pagamento de Boleto LIBERTY SEGUROS S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 780.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.721",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 870.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.722",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 877.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.723",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 945.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.724",
+    "complemento": "Pagamento de Boleto RUDIPEL RUDNICK PETROLEO LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 5589.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.725",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5984.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.726",
+    "complemento": "TED Transf.Eletr.Disponiv 237 0372 080010663000207 AGENCIA MARIT",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.727",
+    "complemento": "Pix Enviado 27/06 18:17 A M ASSESSORIA EM COBRANCA",
+    "credito": true,
+    "debito": false,
+    "valor": 4967.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "62.728",
+    "complemento": "Pix Enviado 27/06 18:24 EXPORTADORA SAO FRANCISCO",
+    "credito": true,
+    "debito": false,
+    "valor": 18000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "841.781.100.364.040",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 27/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 3089.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.801",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 118.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.802",
+    "complemento": "Pagamento de Boleto COPAL DISTRIBUIDORA",
+    "credito": true,
+    "debito": false,
+    "valor": 180.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.803",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 294.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.804",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 444.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.805",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 511.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.806",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 586.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.807",
+    "complemento": "Pagamento de Boleto NESTLE BRASIL LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 618.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.808",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 727.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.809",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1258.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.810",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 1430.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.811",
+    "complemento": "Pagamento de Boleto PAMPLONA ALIMENTOS S A",
+    "credito": true,
+    "debito": false,
+    "valor": 519.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.812",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 828.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.813",
+    "complemento": "Pagamento de Boleto DIST DE ALIMENTOS DEQUECH LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 838.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.814",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 906.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.815",
+    "complemento": "Pagamento de Boleto DIST DE ALIMENTOS DEQUECH LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.816",
+    "complemento": "Pagamento de Boleto DIST MULLER COM E REPR LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 1079.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "62.817",
+    "complemento": "Pagamento de Boleto SANKHYA JIVA TECNOLOGIA E INOVACAO LTD",
+    "credito": true,
+    "debito": false,
+    "valor": 4280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "9.903",
+    "complemento": "BB Rende Fácil",
+    "credito": false,
+    "debito": true,
+    "valor": 331.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "3.642.202.636",
+    "complemento": "Pix Recebido 29/06 17:55 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 35000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.901",
+    "complemento": "Pix Enviado 29/06 09:26 BERNARDINO DEMETRIO S A M",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.902",
+    "complemento": "Pix Enviado 29/06 10:10 MERCEARIA E BOMBONIERE TOW",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.903",
+    "complemento": "Pix Enviado 29/06 15:52 SAGRES AGENCIAMENTOS MARIT",
+    "credito": true,
+    "debito": false,
+    "valor": 485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.904",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 5359.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.905",
+    "complemento": "Pagamento de Boleto GRANJA PINHEIROS LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 192.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.906",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 429.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.907",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 482.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.908",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 596.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.909",
+    "complemento": "Pagamento de Boleto TAF DIST DE ALIM E BEB LT",
+    "credito": true,
+    "debito": false,
+    "valor": 852.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.910",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1244.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.911",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.912",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 10400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.913",
+    "complemento": "Pagamento de Boleto CONF NAC COOP CENTRAIS UNICRED",
+    "credito": true,
+    "debito": false,
+    "valor": 11582.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "62.914",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "861.801.200.031.608",
+    "complemento": "Tarifa Pix Enviado Tar. agrupadas - ocorrencia 29/06/2023",
+    "credito": true,
+    "debito": false,
+    "valor": 14.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "3.649.985.575",
+    "complemento": "Pix Recebido 30/06 16:54 81766198000110 EXPORTADORA",
+    "credito": false,
+    "debito": true,
+    "valor": 25000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "862.206.170.428.008",
+    "complemento": "Seg Créd Proteg Empresa",
+    "credito": true,
+    "debito": false,
+    "valor": 309.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.001",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 213.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.002",
+    "complemento": "Pagamento de Boleto SEGALAS",
+    "credito": true,
+    "debito": false,
+    "valor": 358.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.003",
+    "complemento": "Pagamento de Boleto DAYTONA E SERV D ENC URG LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 382.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.004",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 440.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.005",
+    "complemento": "Pagamento de Boleto KGM ASSESSORIA DE CREDITO E CO",
+    "credito": true,
+    "debito": false,
+    "valor": 443.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.006",
+    "complemento": "Pagamento de Boleto ABERTA INFORMATICA LTDA - EPP",
+    "credito": true,
+    "debito": false,
+    "valor": 495.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.007",
+    "complemento": "Pagamento de Boleto OESA COMERCIO E REPRESENTACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 602.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.008",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 624.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.009",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 637.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.010",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 688.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.011",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 710.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.012",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 734.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.013",
+    "complemento": "Pagamento de Boleto BCO SANTANDER (BRASIL) S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1335.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.014",
+    "complemento": "Pagamento de Boleto ITAU UNIBANCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 1501.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.015",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 1644.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.016",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 3202.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.017",
+    "complemento": "Pagamento de Boleto BCO BRADESCO S.A.",
+    "credito": true,
+    "debito": false,
+    "valor": 3969.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.018",
+    "complemento": "Pagamento de Boleto BANCO DO BRASIL",
+    "credito": true,
+    "debito": false,
+    "valor": 4960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "63.020",
+    "complemento": "TED Transf.Eletr.Disponiv 104 0424 014766014000125 PACHECO E CUN",
+    "credito": true,
+    "debito": false,
+    "valor": 3125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "511.057.727",
+    "complemento": "Cobrança de Juros",
+    "credito": true,
+    "debito": false,
+    "valor": 1220.25,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,956 @@
+[
+  {
+    "data": "01/07/2020",
+    "documento": "010925",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 2061.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "010720",
+    "complemento": "D AT SICOB",
+    "credito": true,
+    "debito": false,
+    "valor": 4.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "021101",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "000041",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 472.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "000085",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 11.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "031959",
+    "complemento": "CRED TEV",
+    "credito": false,
+    "debito": true,
+    "valor": 1366.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "031259",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 1160.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "031444",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 806.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "031404",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "031406",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "030720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 324.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "061450",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "061451",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "252610",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 234.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "257904",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "060720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "060720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 999.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "017777",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 463.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "017792",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 326.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "017901",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "598404",
+    "complemento": "DEB P FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 558.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "268401",
+    "complemento": "FOL PAGTO",
+    "credito": true,
+    "debito": false,
+    "valor": 5027.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "070720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "070720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 607.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "081441",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "081443",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "268401",
+    "complemento": "DEB TARIFA",
+    "credito": true,
+    "debito": false,
+    "valor": 3.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "080720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "091425",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "091426",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "000000",
+    "complemento": "PREST CDC",
+    "credito": true,
+    "debito": false,
+    "valor": 968.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "090720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 902.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "101408",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 806.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "100720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "000077",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 806.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "332884",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 522.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "334084",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 76.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "335314",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 655.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "674694",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 106.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "675085",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 656.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "140720",
+    "complemento": "COB BX 063",
+    "credito": true,
+    "debito": false,
+    "valor": 2.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "757993",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1006.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "758043",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 302.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "758517",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 260.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "758566",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2389.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "758570",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 49.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "758606",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "000000",
+    "complemento": "PREST EMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1228.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "150720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 311.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "161211",
+    "complemento": "DP DIN LOT",
+    "credito": false,
+    "debito": true,
+    "valor": 604.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "000000",
+    "complemento": "PREST CDC",
+    "credito": true,
+    "debito": false,
+    "valor": 2173.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "160720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "171602",
+    "complemento": "CRED TEV",
+    "credito": false,
+    "debito": true,
+    "valor": 403.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "251996",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 101.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "252205",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 43.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "255435",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "255549",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 162.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "170720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 552.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "671572",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "672128",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 198.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "922605",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "922890",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "923020",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 118.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "923661",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 87.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "056614",
+    "complemento": "SEGURADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 227.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "200720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 2.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "200720",
+    "complemento": "COB ALT055",
+    "credito": true,
+    "debito": false,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "200720",
+    "complemento": "COB COMPE",
+    "credito": false,
+    "debito": true,
+    "valor": 1235.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "496351",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 297.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "496837",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 269.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "210720",
+    "complemento": "COB COMPE",
+    "credito": true,
+    "debito": false,
+    "valor": 7.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "210720",
+    "complemento": "COB MAN061",
+    "credito": true,
+    "debito": false,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "388519",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 442.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "388856",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "000085",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 32.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "000290",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 395.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "000290",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 395.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "596173",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638043",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 380.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638075",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1495.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638117",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 226.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638118",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 100.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638360",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 137.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "638529",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 817.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "642098",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 531.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "484730",
+    "complemento": "PG LUZ/GAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1233.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "556934",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 108.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "557196",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3912.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "557423",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 900.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "557627",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 330.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "062020",
+    "complemento": "DB CEST PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 99.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "011165",
+    "complemento": "SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 305.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "454575",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 135.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "454692",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 112.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "300005",
+    "complemento": "DOC ELET",
+    "credito": false,
+    "debito": true,
+    "valor": 674.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "008453",
+    "complemento": "PREST EMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 4614.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "301354",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "000033",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 3703.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "000290",
+    "complemento": "CRED TED",
+    "credito": false,
+    "debito": true,
+    "valor": 395.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "154931",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 267.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "155056",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1278.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "155083",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 906.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "155223",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 388.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "869516",
+    "complemento": "PAG GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 530.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "976888",
+    "complemento": "PG ORG GOV",
+    "credito": true,
+    "debito": false,
+    "valor": 304.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "310720",
+    "complemento": "COB EMI047",
+    "credito": true,
+    "debito": false,
+    "valor": 1.5,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,1748 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "1430700",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 6982.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "272152904",
+    "complemento": "CRÉD.TED-STR BANCO DO BRASIL 00.000.000 0643-27 CODIGO TED: T836392108 TED LIBERACÃO RECURSO JUDICIAL 52524896420228130024 01/06/2023 000.211 CHEQUE PAGO CAIXA 2.550,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 85409.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "4264",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: SANTA CASA DE MISERICORDIA DE ARAG TRANSFERÊNCIA PIX SANTA CASA DE MISERICORDIA DE ARAGUARI 16.826.067 0001-10 MANUTENCAO DE PROCESSADORA PARA ENDOSCOP",
+    "credito": false,
+    "debito": true,
+    "valor": 2751.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "129",
+    "complemento": "DÉBITO PACOTE SERVIÇOS",
+    "credito": true,
+    "debito": false,
+    "valor": 57.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "1434301",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "IOF/1-6",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 1.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "IOF/1-6",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 59.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "LC-202305",
+    "complemento": "JUROS CONTA GARANTIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 47.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "1433401",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 13548.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DENTAL GONTIJO LTDA 25.631.623 0001-93",
+    "credito": false,
+    "debito": true,
+    "valor": 2741.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "12108567",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ARCOM NF 19272849",
+    "credito": true,
+    "debito": false,
+    "valor": 1331.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "12108568",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO TRANSFARMA TRANSPORTADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 1339.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "12108569",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO LIGA SISTEMA NF 1007",
+    "credito": true,
+    "debito": false,
+    "valor": 1697.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "12108570",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CV MEDICAL NF 7398",
+    "credito": true,
+    "debito": false,
+    "valor": 3151.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "12108571",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO JM GESTAO NF 2592",
+    "credito": true,
+    "debito": false,
+    "valor": 4099.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/06/2023",
+    "documento": "1436185",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "1435258",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 20746.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "12115572",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: WXR COMERCIO SERVICOS E PECAS LTDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 CONCERTO DE MAQUINA",
+    "credito": true,
+    "debito": false,
+    "valor": 90.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "272391210",
+    "complemento": "CRÉD.TED-STR FUNDACAO HOSPITALAR DO ESTADO DE MINAS G 19.843.929 0001-00 CODIGO TED: T837024939",
+    "credito": false,
+    "debito": true,
+    "valor": 12000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.429.206-** WALKIRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 2779.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.070.816-** BARA",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 37.161.768 0001-57 GUILHERME",
+    "credito": true,
+    "debito": false,
+    "valor": 4000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 48.559.045 0001-27 ANSELMO",
+    "credito": true,
+    "debito": false,
+    "valor": 4289.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 33.942.734 0001-49 ALAN",
+    "credito": true,
+    "debito": false,
+    "valor": 4382.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 06.698.441 0001-95 RENATO",
+    "credito": true,
+    "debito": false,
+    "valor": 6500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 05.210.556 0001-26 DBS 58827",
+    "credito": true,
+    "debito": false,
+    "valor": 765.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 05.210.556 0001-26 DBS 58886 05/06/2023 000.212 CHEQUE PAGO CAIXA 3.200,00D 05/06/2023 000.205 CHEQUE PAGO CAIXA 600,00D",
+    "credito": true,
+    "debito": false,
+    "valor": 1623.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.429.206-** WALKIRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 531.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "ESTORNO PIX EMITIDO ESTORNO PIX ***.429.206-** WALKIRIA",
+    "credito": false,
+    "debito": true,
+    "valor": 531.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "272459417",
+    "complemento": "CRÉD.TED-STR ENDOCLEAR EQUIPAMENTOS MEDICOS 54.907.449 0001-67 CODIGO TED: T837165452",
+    "credito": false,
+    "debito": true,
+    "valor": 2233.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.429.206-** WALKIRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 531.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ALINE GOMES SILVA DE SOUZA ***.551.856-**",
+    "credito": false,
+    "debito": true,
+    "valor": 656.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2023",
+    "documento": "1438340",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 11.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1437211",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 27518.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "12133448",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: NEO HOSPITALAR LTDA MED SUPPLY NF 45622",
+    "credito": false,
+    "debito": true,
+    "valor": 284.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "12135979",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO DNIT",
+    "credito": true,
+    "debito": false,
+    "valor": 104.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "12135983",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: NEO HOSPITALAR LTDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 NEO HOSPITALAR NF 532",
+    "credito": true,
+    "debito": false,
+    "valor": 329.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "5631",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: DROGARIA LEOPOLDINA LTDA TRANSFERÊNCIA PIX DROGARIA LEOPOLDINA LTDA 19.671.403 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 22.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "12138045",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: MARCO ANTONIO BARBOSA DE ALMEIDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 DISTRIBUICAO DE LUCROS",
+    "credito": true,
+    "debito": false,
+    "valor": 30000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX SANITAS POLICLINICA LTDA 25.567.934 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 237.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2023",
+    "documento": "1440541",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "1439501",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 19635.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12146665",
+    "complemento": "DEBITO PAGAMENTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 26025.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12146666",
+    "complemento": "DEBITO PAGAMENTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 1106.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12146665",
+    "complemento": "TARIFA PAGAMENTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 45.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12146666",
+    "complemento": "TARIFA PAGAMENTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 3.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 19.765.239 0001-80 ZAQUINE FILTRO DE COMBUSTIVEL",
+    "credito": true,
+    "debito": false,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.583.167-** VICTOR TECNICO",
+    "credito": true,
+    "debito": false,
+    "valor": 1550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12148314",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO LB RECARGA",
+    "credito": true,
+    "debito": false,
+    "valor": 265.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12148315",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: MARCO ANTONIO BARBOSA DE ALMEIDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 PRO LABORE",
+    "credito": true,
+    "debito": false,
+    "valor": 1125.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "12148316",
+    "complemento": "DÉBITO CONV. FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 2997.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 33.690.690 0001-07 LEOBOMBAS CONSERTO DO CAMINHAO 07/06/2023 000.213 CHEQUE PAGO CAIXA 3.499,26D",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2023",
+    "documento": "1442774",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1441702",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 26861.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160282",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO NEW TIME NF 6697",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 29.251.875 0001-48 CONFISCO CATAGUASES NF 102045",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160283",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR NF 9411",
+    "credito": true,
+    "debito": false,
+    "valor": 1218.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160284",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR NF 9412",
+    "credito": true,
+    "debito": false,
+    "valor": 1286.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160285",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO TRANSFARMA TRANSPORTADORA",
+    "credito": true,
+    "debito": false,
+    "valor": 2167.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160286",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO DBS NF 58693",
+    "credito": true,
+    "debito": false,
+    "valor": 2464.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "12160287",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO DBS NF 57775",
+    "credito": true,
+    "debito": false,
+    "valor": 19324.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 02.886.413 0001-40 IND DE PAPEIS SUDESTE",
+    "credito": true,
+    "debito": false,
+    "valor": 1620.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "bontitmai",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ROSIMAR APARECIDA ALVES DUTRA ***.070.006-**",
+    "credito": false,
+    "debito": true,
+    "valor": 1188.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "bontitmai",
+    "complemento": "DEB.PARCELAS SUBSC./INTEGR.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "bonconmai",
+    "complemento": "CREDITO PROMOÇÃO PAGTOBOLETOS",
+    "credito": false,
+    "debito": true,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "bonconmai",
+    "complemento": "DEB.PARCELAS SUBSC./INTEGR. 09/06/2023 000.214 CHEQUE PAGO CAIXA 750,00D",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "272914345",
+    "complemento": "CRÉD.TED-STR ONCOMED CENTRO DE PREVENCAO E 00.132.229 0003-41 CODIGO TED: T838354619",
+    "credito": false,
+    "debito": true,
+    "valor": 3787.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ENDOVIEW SERVICOS MEDICOS LTDA 73.322.273 0001-26 NF 28",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/06/2023",
+    "documento": "1445049",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 18.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "MAPFRE",
+    "complemento": "SEG DÉB. CONV. SEGUROS",
+    "credito": true,
+    "debito": false,
+    "valor": 462.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "SEM",
+    "complemento": "PAR DÉB.CONV.DEMAIS EMPRESAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1293.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1443943",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 33474.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 10.309.949 0001-21",
+    "credito": true,
+    "debito": false,
+    "valor": 1140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "273016363",
+    "complemento": "CRÉD.TED-STR ARAUJO ABREU ENGENHARIA S A 33.373.325 0001-79 CODIGO TED: T838543117",
+    "credito": false,
+    "debito": true,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "12180395",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: SOFT MINAS LTDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 SOFT MINAS",
+    "credito": true,
+    "debito": false,
+    "valor": 115.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "4346",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: HOSPITAL NOSSA SENHORA AUXILIADORA TRANSFERÊNCIA PIX HOSPITAL NOSSA SENHORA AUXILIADORA EM RE 19.314.442 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 1455.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "5631",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: DROGARIA LEOPOLDINA LTDA TRANSFERÊNCIA PIX DROGARIA LEOPOLDINA LTDA 19.671.403 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 213.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "1447507",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 12.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "1446285",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 24995.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "12195621",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PATRUS",
+    "credito": true,
+    "debito": false,
+    "valor": 759.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "12195622",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR NF 9450",
+    "credito": true,
+    "debito": false,
+    "valor": 1088.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "12195623",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR NF 9453",
+    "credito": true,
+    "debito": false,
+    "valor": 1958.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 31.984.028 0001-34 DW TECH NF 67",
+    "credito": true,
+    "debito": false,
+    "valor": 3416.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 41.669.344 0001-75 CONSULTORIA 13/06/2023 000.215 CHEQUE PAGO CAIXA 1.000,00D",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "1449786",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 11.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "1448730",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 11380.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "273262666",
+    "complemento": "CRÉD.TED-STR HOSPITAL UNIVERSITARIO DA UFRJ 33.663.683 0053-47 CODIGO TED: T839004906 20230028614800000000",
+    "credito": false,
+    "debito": true,
+    "valor": 79650.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "12203283",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO DBS NF 58006",
+    "credito": true,
+    "debito": false,
+    "valor": 13720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "12203284",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ATIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 3196.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "12203285",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO MEDLEVENSOHN NF 126605",
+    "credito": true,
+    "debito": false,
+    "valor": 1470.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 06.698.441 0001-95 REEMBOLSO DE TRAB EM CAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 1042.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "12203286",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ATIVA",
+    "credito": true,
+    "debito": false,
+    "valor": 965.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 05.210.556 0001-26 DBS NF 59001",
+    "credito": true,
+    "debito": false,
+    "valor": 939.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.070.816-** REEMBOLSO DE TRAB EM CAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 602.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 48.859.647 0001-08 REEMBOLSO DE TRAB EM CAMPO",
+    "credito": true,
+    "debito": false,
+    "valor": 596.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.293.267-** MARIANA NF 21",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "273340972",
+    "complemento": "CRÉD.TED-STR ENDOCLEAR EQUIPAMENTOS MEDICOS 54.907.449 0001-67 CODIGO TED: T839149886",
+    "credito": false,
+    "debito": true,
+    "valor": 24.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 10.339.739 0001-86 FW NF 163827",
+    "credito": true,
+    "debito": false,
+    "valor": 9358.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "751243",
+    "complemento": "CRED.DOC REM.: FMS IPATINGA",
+    "credito": false,
+    "debito": true,
+    "valor": 1155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "1451948",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2023",
+    "documento": "80",
+    "complemento": "- 19 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 22499.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "1450953",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 10103.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "273393557",
+    "complemento": "CRÉD.TED-STR RES 78262021 11.817.068 0001-84 CODIGO TED: T839236498 000046368000000000",
+    "credito": false,
+    "debito": true,
+    "valor": 9240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213200",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: PANIFICADORA LTDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 PANIFICADORA LL NF 4365",
+    "credito": true,
+    "debito": false,
+    "valor": 165.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213201",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO LEOPOLDINA NET NF 656",
+    "credito": true,
+    "debito": false,
+    "valor": 170.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213202",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO MEDCLIN NF 697",
+    "credito": true,
+    "debito": false,
+    "valor": 267.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213203",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO REDE OK NF 160683",
+    "credito": true,
+    "debito": false,
+    "valor": 352.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213204",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO HOTEL ALVORADA NF 1848",
+    "credito": true,
+    "debito": false,
+    "valor": 630.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213205",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PLOOMES NF 57833",
+    "credito": true,
+    "debito": false,
+    "valor": 1595.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12213206",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO SANKHYA NF 271951",
+    "credito": true,
+    "debito": false,
+    "valor": 3277.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "12214412",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO DELL COMPUTADORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5999.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "273491453",
+    "complemento": "CRÉD.TED-STR ARAUJO ABREU ENGENHARIA S A 33.373.325 0001-79 CODIGO TED: T839438443",
+    "credito": false,
+    "debito": true,
+    "valor": 780.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "1454162",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 8.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "1453125",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 15256.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "5631",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: RUBENS SERGIO QUEIROZ CAMPOS TRANSFERÊNCIA PIX RUBENS SERGIO QUEIROZ CAMPOS ***.369.266-**",
+    "credito": false,
+    "debito": true,
+    "valor": 110.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 23.964.524 0001-06 RAFAEL LIMONGI NF 57",
+    "credito": true,
+    "debito": false,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "12225016",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO SOFT SURGICAL NF 1928",
+    "credito": true,
+    "debito": false,
+    "valor": 937.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 10.309.949 0001-21 HOTEL MINAS TOWER",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CRISTIANE SUELI OLIVEIRA ***.639.536-**",
+    "credito": false,
+    "debito": true,
+    "valor": 684.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "273603964",
+    "complemento": "CRÉD.TED-STR SANTA CASA DE MISERICORDIA DE BELO HORIZ 17.209.891 0001-93 CODIGO TED: T839645925",
+    "credito": false,
+    "debito": true,
+    "valor": 4308.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/06/2023",
+    "documento": "1456184",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "1455234",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 6174.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 33.942.734 0001-49 REEMBOLSO DESPESAS DE TRABALHO EM CAM PO",
+    "credito": true,
+    "debito": false,
+    "valor": 217.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 20.914.348 0001-00 RAFAEL RODRIGUES NF 102",
+    "credito": true,
+    "debito": false,
+    "valor": 990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 37.161.768 0001-57 REEMBOLSO DESPESAS DE TRABALHO EM CAM PO",
+    "credito": true,
+    "debito": false,
+    "valor": 1485.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "273679788",
+    "complemento": "CRÉD.TED-STR UNIMED GOVERNADOR VALADARE 42.892.281 0001-84 CODIGO TED: T839794358 CREDITO EM CONTA",
+    "credito": false,
+    "debito": true,
+    "valor": 1310.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "SOBRAS",
+    "complemento": "CRÉD.DISTRIBUIÇÃOSOBRAS/VALORES",
+    "credito": false,
+    "debito": true,
+    "valor": 1743.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "4027",
+    "complemento": "DEP CHEQUE COOP/AG - INTERCREDIS",
+    "credito": false,
+    "debito": true,
+    "valor": 127.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "273718114",
+    "complemento": "CRÉD.TED-STR RODOLFO MIRANDA SIENA 048.772.949-88 CODIGO TED: T839868092 000000000000",
+    "credito": false,
+    "debito": true,
+    "valor": 181541.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX IRMANDADE NOSSA SENHORA DA SA 25.335.670 0001-90",
+    "credito": false,
+    "debito": true,
+    "valor": 2783.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "1458301",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1457272",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 27149.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 33.544.058 0001-55 BARATAO GRAFICA LAYRA MARIA NF 117",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 37.161.768 0001-57 REEMBOLSO DESPESAS DE TRABALHO EM CAM PO",
+    "credito": true,
+    "debito": false,
+    "valor": 497.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.170.506-** DAVID JUNIO RPA 06",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.583.167-** VICTOR FIGUEIREDO NF 86",
+    "credito": true,
+    "debito": false,
+    "valor": 1550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 06.698.441 0001-95 RENATO DELGADO NF 216",
+    "credito": true,
+    "debito": false,
+    "valor": 2461.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "601322",
+    "complemento": "COMPRA MASTERCARD MAESTRO PIU BRAZILIANO BELO HORIZONT BRA",
+    "credito": true,
+    "debito": false,
+    "valor": 104.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "4027",
+    "complemento": "DEP.DINHEIRO - INTERCREDIS",
+    "credito": false,
+    "debito": true,
+    "valor": 175.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "1460484",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 16.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "1459467",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 17464.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "12263823",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ECO DIAGNOSTICA NF 79644",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "12263824",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO KONECTAH NF 98",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "12264917",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: MARCO ANTONIO BARBOSA DE ALMEIDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30",
+    "credito": true,
+    "debito": false,
+    "valor": 420000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 38.871.971 0001-80",
+    "credito": true,
+    "debito": false,
+    "valor": 742.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "3133",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: ADALBERTO ABDO MARTINS",
+    "credito": false,
+    "debito": true,
+    "valor": 339.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "1462483",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 8.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "1461555",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 22182.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX INSTITUTO MATERNO INFANTIL DE 01.067.064 0001-72 NF 44",
+    "credito": false,
+    "debito": true,
+    "valor": 217.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "12271625",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR NF 9527",
+    "credito": true,
+    "debito": false,
+    "valor": 496.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "4264",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: SANTA CASA DE MISERICORDIA DE ARAG TRANSFERÊNCIA PIX SANTA CASA DE MISERICORDIA DE ARAGUARI 16.826.067 0001-10 ESTOJO ARTESANAL DE ENDOSCOPIO",
+    "credito": false,
+    "debito": true,
+    "valor": 4568.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/06/2023",
+    "documento": "1464395",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 10.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "1463527",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 31886.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.293.267-** MARIANA NF 22",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "12281048",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO JM GESTAO NF 2656",
+    "credito": true,
+    "debito": false,
+    "valor": 1699.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "12281049",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO CV MEDICAL NF 7463",
+    "credito": true,
+    "debito": false,
+    "valor": 5440.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "12281050",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB PIS",
+    "credito": true,
+    "debito": false,
+    "valor": 7667.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "12281051",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB COFINS",
+    "credito": true,
+    "debito": false,
+    "valor": 35387.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ MARCOS RAPOSO ***.563.017-**",
+    "credito": false,
+    "debito": true,
+    "valor": 948.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "274169172",
+    "complemento": "CRÉD.TED-STR DROGARIA ARAUJO S A 17.256.512 0001-16 CODIGO TED: T840751910",
+    "credito": false,
+    "debito": true,
+    "valor": 10520.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "1466180",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1465374",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 16273.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 17.801.378 0001-97 JTH ASSESSORIA NF 44",
+    "credito": true,
+    "debito": false,
+    "valor": 14700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "274262442",
+    "complemento": "CRÉD.TED-STR INSTITUTO NACIONAL DES 23.453.830 0001-70 CODIGO TED: T840954537 00000000000000",
+    "credito": false,
+    "debito": true,
+    "valor": 1039.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "3133",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: ADALBERTO ABDO MARTINS",
+    "credito": false,
+    "debito": true,
+    "valor": 1470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "1468142",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 23.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "1467137",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 16712.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "3102",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: ALBERNAZ ARRITMIAS CARDIACAS LTDA TRANSFERÊNCIA PIX ALBERNAZ ARRITMIAS CARDIACAS LTDA 24.069.807 0001-49 MEDSUPLLY",
+    "credito": false,
+    "debito": true,
+    "valor": 406.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 03.871.584 0001-69 ALA TRADUCOES FRETE CORREIO",
+    "credito": true,
+    "debito": false,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "12304674",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENERGISA",
+    "credito": true,
+    "debito": false,
+    "valor": 48.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "12304675",
+    "complemento": "DÉB.CONV.TELECOMUNICAÇÕES OI VELOX",
+    "credito": true,
+    "debito": false,
+    "valor": 141.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX ***.436.358-** FABIANA",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "12304676",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO SICOOB PAGAMENTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2023",
+    "documento": "1470060",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 7.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "1469187",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2397.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "12313411",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO ENDOCLEAR",
+    "credito": true,
+    "debito": false,
+    "valor": 15300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "12313446",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: MARCO ANTONIO BARBOSA DE ALMEIDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 DISTRIBUICAO DE LUCROS",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "274460929",
+    "complemento": "CRÉD.TED-STR ARAUJO ABREU ENGENHARIA S A 33.373.325 0001-79 CODIGO TED: T841391863",
+    "credito": false,
+    "debito": true,
+    "valor": 2894.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "1471928",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 3.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "1471082",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 14913.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "274522525",
+    "complemento": "CRÉD.TED-STR FUNDACAO HOSPITALAR DO ESTADO DE MINAS G 19.843.929 0001-00 CODIGO TED: T841543111",
+    "credito": false,
+    "debito": true,
+    "valor": 23712.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "274525105",
+    "complemento": "CRÉD.TED-STR BANCO DO BRASIL 00.000.000 2801-00 CODIGO TED: T841551674 TED LIBERACÃO RECURSO JUDICIAL 50037887220228130148",
+    "credito": false,
+    "debito": true,
+    "valor": 16588.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "274564850",
+    "complemento": "CRÉD.TED-STR AGENCIA DE COOPERACAO INT 01.203.485 0001-83 CODIGO TED: T841616978 00000000000000 O SICOOB COOPEMATA DISPONIBILIZOU O *CRÉDITO AUTOMÁTICO A SEUS ASSOCIADOS. AS CONTAS PJ QUE EFETUAREM",
+    "credito": false,
+    "debito": true,
+    "valor": 1492.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "274583918",
+    "complemento": "CRÉD.TED-STR ASSOCIACAO MARIO PENNA 17.513.235 0001-80 CODIGO TED: T841652317",
+    "credito": false,
+    "debito": true,
+    "valor": 8394.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "4346",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: HOSPITAL NOSSA SENHORA AUXILIADORA TRANSFERÊNCIA PIX HOSPITAL NOSSA SENHORA AUXILIADORA EM RE 19.314.442 0001-30",
+    "credito": false,
+    "debito": true,
+    "valor": 2598.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "1473670",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 9.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "1472877",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 16749.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "3116",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: LUCIANA TEODORO PENA TRANSFERÊNCIA PIX LUCIANA TEODORO PENA ***.133.776-**",
+    "credito": false,
+    "debito": true,
+    "valor": 208.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "12330431",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: VIDRACARIA SANTO ANTONIO LTDA TRANSFERÊNCIA PIX MED SUPPLY PRODUTOS MEDICOS LTDA 05.524.742 0001-30 VIDRACARIA",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 10.309.949 0001-21 HOSPEDAGEM MARCO",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "12331576",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: NEO HOSPITALAR LTDA TRANSFERÊNCIA PIX NEO HOSPITALAR LTDA 27.313.181 0001-62 MED SUPPLY NF 45376",
+    "credito": false,
+    "debito": true,
+    "valor": 14211.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "274799487",
+    "complemento": "CRÉD.TED-STR SANTA CASA DE MISERICORDIA DE BELO HORIZ 17.209.891 0001-93 CODIGO TED: T842076121",
+    "credito": false,
+    "debito": true,
+    "valor": 1436.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/06/2023",
+    "documento": "1475696",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 51.5,
+    "origem": "Extrato"
+  }
+]

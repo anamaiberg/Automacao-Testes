@@ -1,0 +1,3404 @@
+[
+  {
+    "data": "01/11/2024",
+    "documento": "000023",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1448.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "463007",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "242826",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 40.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "242827",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 511.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "602481",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 735.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "602482",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 373.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "262567",
+    "complemento": "VERO DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 31.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "262568",
+    "complemento": "VERO DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 44.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "251192",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 263.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "251193",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 65.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "051727",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "000009",
+    "complemento": "DEBITO TITULOS AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 66.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729925",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729934",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 698.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729938",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 370.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729941",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 202.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729943",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 105.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729947",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 457.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729951",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 186.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729953",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 156.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729956",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1158.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729961",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2234.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729964",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1066.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729965",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1793.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729967",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 906.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "729968",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "943222",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 214.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/11/2024",
+    "documento": "536475",
+    "complemento": "PIX BANRISUL ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "000018",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1830.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "427621",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 576.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "958925",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 2335.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "958926",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 159.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "958927",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1626.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "963749",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 59.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "970200",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 441.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "970201",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 315.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "929503",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "929506",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733406",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733408",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 956.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733420",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 223.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733421",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 487.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733430",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 641.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733433",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 479.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733439",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1081.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733443",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2305.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "733446",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 954.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "745480",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 83.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 60.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/11/2024",
+    "documento": "008100",
+    "complemento": "MENSALIDADE PACOTE",
+    "credito": true,
+    "debito": false,
+    "valor": 115.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "000025",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 12499.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "763531",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 62.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "320907",
+    "complemento": "VERO CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 46.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "326408",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 385.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "326409",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 182.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "327899",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 182.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "334254",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1009.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "334255",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 38.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "334256",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 363.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "369023",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "369026",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "369027",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "737213",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 914.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "737217",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1072.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "737221",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1632.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "737229",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 536.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "426994",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 1412.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 9268.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "000022",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 2342.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "190764",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 73.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "539749",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 102.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "661987",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 187.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "661988",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 453.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "664792",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 194.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "673138",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 148.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "673139",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 45.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "673140",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 165.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "905641",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 3750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740068",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 298.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740073",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 224.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740074",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 154.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740076",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1341.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740081",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1867.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740086",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2247.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740092",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 905.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/11/2024",
+    "documento": "740097",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 400.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "000025",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3826.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "970981",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 70.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "096867",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 644.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "096868",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 299.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "104466",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 68.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "104467",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 165.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "104468",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 81.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "440220",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 45.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "440223",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "440225",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 114.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "742430",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1276.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "742436",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 476.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "742439",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "742442",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2428.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/11/2024",
+    "documento": "742446",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 848.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "000018",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3547.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "509589",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 126.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "509590",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 62.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 12700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745475",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 8453.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745483",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 272.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745489",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 459.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745492",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2353.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745518",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2397.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745521",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745525",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 767.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/11/2024",
+    "documento": "745531",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 688.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "000028",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 2329.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "724175",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 429.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "895002",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1186.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "895003",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1348.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "905747",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 699.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "905748",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 928.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "036948",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 5800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "000013",
+    "complemento": "DEBITO TITULOS AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 24.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749731",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 204.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749742",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 4900.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749763",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 472.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749777",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1422.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749794",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 633.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749812",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 587.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749853",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 613.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749863",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 871.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749883",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 534.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749900",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 539.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749911",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 809.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "749965",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 290.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/11/2024",
+    "documento": "750024",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 926.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "000031",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 5811.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "232354",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 61.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "325599",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 83.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "325600",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 197.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "333900",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 37.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "333901",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 548.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "514058",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 17.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "752967",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2028.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "752968",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 517.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 4234.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "000017",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1646.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "193006",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 80.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "596906",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 140.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "721003",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 591.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "721004",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 142.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "729998",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 702.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "729999",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 38.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 7750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755076",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 675.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755079",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 39.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755080",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 588.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755084",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 879.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755085",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 770.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755086",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 36.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755088",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 4250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755089",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 771.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755090",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 888.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755092",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 396.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755096",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 734.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "755101",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 763.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "821260",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 119.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/11/2024",
+    "documento": "838575",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "000022",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 4376.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "574882",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 57.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "172689",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 86.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "310127",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 289.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "310128",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 494.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "316994",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 414.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "316995",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 465.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "250963",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "755641",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 638.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "755645",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 326.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "755646",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 675.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "284825",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "476074",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 179.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "110049",
+    "complemento": "PIX BANRISUL ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 1391.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 3104.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "000022",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 2139.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "135971",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 416.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "567722",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 78.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "752413",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 174.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "752414",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1922.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "752415",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1295.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "764094",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 48.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "764095",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 207.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "764096",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 81.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "348600",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "967654",
+    "complemento": "PIX BANRISUL RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 176.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 8950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761081",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1012.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761097",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 652.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761110",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 808.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761116",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 674.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761134",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1170.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761139",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761141",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 394.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761143",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761145",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 316.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761147",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 754.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761152",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761156",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 325.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761162",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 135.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761184",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1692.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761186",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761190",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1602.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "761193",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1279.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "231816",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 2400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/11/2024",
+    "documento": "811082",
+    "complemento": "CORSAN",
+    "credito": true,
+    "debito": false,
+    "valor": 646.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "000027",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 22538.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "546930",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 28.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "103891",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 29.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "233986",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 123.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "236803",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 77.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "241695",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 71.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "241696",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 404.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "021668",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "608788",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 15.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "608795",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "608800",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 40.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "608802",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 95.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "608806",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "762811",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 893.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "762814",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1684.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "436050",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 1473.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "454799",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 3598.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 15168.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/11/2024",
+    "documento": "141068",
+    "complemento": "RGE SUL",
+    "credito": true,
+    "debito": false,
+    "valor": 1125.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "000018",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 807.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "075396",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 39.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "456689",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 330.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "709941",
+    "complemento": "VERO CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 78.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "717081",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 886.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "717082",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1723.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "717083",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 28.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "719755",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 89.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "724499",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 628.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 9450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765879",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 641.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765891",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 4250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765898",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1254.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765907",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 912.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765921",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 400.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765939",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1616.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765946",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2429.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765966",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 204.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765968",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 865.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765980",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1083.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/11/2024",
+    "documento": "765990",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 356.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "000025",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 5992.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "434224",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 81.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "230331",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 181.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "230332",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 552.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "233784",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 63.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "240740",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 296.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "240741",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 47.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "000010",
+    "complemento": "DEBITO TITULOS AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 77.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768040",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 401.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768057",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768066",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 790.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768074",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 221.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768080",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1066.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768084",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1307.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768091",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 892.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "768094",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 688.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 770.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "000021",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 10807.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "055627",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 256.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "475559",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 191.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "785725",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 74.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "785726",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1237.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "785727",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 524.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "795025",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1135.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "795026",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 373.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "795027",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 14.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "770984",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 258.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "770987",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 884.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "770990",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "770993",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 583.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "770997",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771007",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 613.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771013",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 442.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771018",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 539.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771023",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 165.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771027",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 851.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "771032",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 694.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "309501",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 85.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 7510.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "590069",
+    "complemento": "RG CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/11/2024",
+    "documento": "590070",
+    "complemento": "RG CAPITALIZACAO",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "000025",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 28541.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "145161",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 71.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "261706",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 468.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "261707",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 573.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "270072",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 117.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "270073",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 87.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "270074",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 175.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "295616",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "295620",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 37.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "710433",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "710434",
+    "complemento": "PIX RECEBIDO",
+    "credito": false,
+    "debito": true,
+    "valor": 44.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "772723",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2384.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "772735",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 401.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "772736",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "772741",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 26220.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "000014",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 7539.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "883495",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 108.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "017188",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 34.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "017189",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 407.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "017190",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 429.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "019272",
+    "complemento": "VERDE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 39.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "025693",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 516.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "025694",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 166.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774402",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 908.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774424",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 946.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774427",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 286.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774438",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 770.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774449",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 4250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774468",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2247.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774478",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 989.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774489",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 3361.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774495",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 59.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "774502",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 763.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "728720",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 340.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/11/2024",
+    "documento": "782474",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "000021",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 3139.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "509620",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 304.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "509621",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 54.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "509622",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 271.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "516254",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 72.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "516255",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 29.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "776020",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 430.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/11/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 3461.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "000016",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 1951.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "828685",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 72.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "961463",
+    "complemento": "VERO CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 127.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "967242",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 55.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "967243",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 336.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "967244",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 159.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "973636",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 668.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 14450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "777820",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1238.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778068",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 105.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778090",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 76.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778092",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 595.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778103",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1793.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778107",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 669.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778111",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 906.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778114",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2074.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778117",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1602.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778123",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 66.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "275792",
+    "complemento": "PIX BANRISUL ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 8075.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/11/2024",
+    "documento": "778124",
+    "complemento": "PAGAMENTO DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "000018",
+    "complemento": "CREDITO TITULOS",
+    "credito": false,
+    "debito": true,
+    "valor": 4894.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "794441",
+    "complemento": "VERO BANRICOMPRAS A PRAZO",
+    "credito": false,
+    "debito": true,
+    "valor": 286.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "220536",
+    "complemento": "VERO BANRICOMPRAS A VISTA",
+    "credito": false,
+    "debito": true,
+    "valor": 64.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "504461",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 678.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "504462",
+    "complemento": "STONE CRE BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 1069.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "514479",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 605.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "514480",
+    "complemento": "STONE DEB BLF",
+    "credito": false,
+    "debito": true,
+    "valor": 44.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781870",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 186.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781887",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 156.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781896",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 98.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781903",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 698.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781911",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 1727.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781923",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 2305.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "781934",
+    "complemento": "PAGAMENTO TITULO",
+    "credito": true,
+    "debito": false,
+    "valor": 871.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "425134",
+    "complemento": "PIX ENVIADO",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/12/2024",
+    "documento": "000000",
+    "complemento": "APLICACAO AUTOMATICO",
+    "credito": true,
+    "debito": false,
+    "valor": 1557.74,
+    "origem": "Extrato"
+  }
+]

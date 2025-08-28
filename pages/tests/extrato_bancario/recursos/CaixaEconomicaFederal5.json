@@ -1,0 +1,641 @@
+[
+  {
+    "data": "01/10/2020",
+    "documento": "011352",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/10/2020",
+    "documento": "011353",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "900471",
+    "complemento": "CHEQUE SAC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "021038",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "021040",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "295847",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 85617.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "295930",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 13083.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2020",
+    "documento": "295932",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 22235.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2020",
+    "documento": "521908",
+    "complemento": "RESGATE",
+    "credito": false,
+    "debito": true,
+    "valor": 4623.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2020",
+    "documento": "051404",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2020",
+    "documento": "051405",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2020",
+    "documento": "168305",
+    "complemento": "ENVIO TED",
+    "credito": true,
+    "debito": false,
+    "valor": 3211.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/10/2020",
+    "documento": "168347",
+    "complemento": "ENVIO TED",
+    "credito": true,
+    "debito": false,
+    "valor": 88618.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2020",
+    "documento": "900472",
+    "complemento": "CHEQUE SAC",
+    "credito": true,
+    "debito": false,
+    "valor": 5125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2020",
+    "documento": "061132",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2020",
+    "documento": "061134",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/10/2020",
+    "documento": "061342",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 4835.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2020",
+    "documento": "071445",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2020",
+    "documento": "053945",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 805.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/10/2020",
+    "documento": "053946",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 797.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2020",
+    "documento": "081045",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2020",
+    "documento": "081047",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/10/2020",
+    "documento": "900396",
+    "complemento": "CHEQUE PAG",
+    "credito": true,
+    "debito": false,
+    "valor": 4668.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "001006",
+    "complemento": "CRED.AUTOR",
+    "credito": false,
+    "debito": true,
+    "valor": 2826.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "900398",
+    "complemento": "CHEQUE SAC",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "091103",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "091104",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "157306",
+    "complemento": "ENVIO TED",
+    "credito": true,
+    "debito": false,
+    "valor": 979.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "012720",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 3357.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "012726",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 3600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/10/2020",
+    "documento": "900397",
+    "complemento": "CHEQUE PAG",
+    "credito": true,
+    "debito": false,
+    "valor": 38456.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "131042",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "131043",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "029829",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 138.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "029831",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 725.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "900346",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 1490.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "900399",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 2402.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/10/2020",
+    "documento": "038284",
+    "complemento": "PREST EMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 575.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/10/2020",
+    "documento": "900401",
+    "complemento": "CHEQUE SAC",
+    "credito": true,
+    "debito": false,
+    "valor": 4500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/10/2020",
+    "documento": "092020",
+    "complemento": "DB CEST PJ",
+    "credito": true,
+    "debito": false,
+    "valor": 74.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2020",
+    "documento": "161420",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2020",
+    "documento": "200926",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2020",
+    "documento": "201103",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 42.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/10/2020",
+    "documento": "178185",
+    "complemento": "ENVIO TED",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "261504",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "261505",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "261506",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1295.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2020",
+    "documento": "110000",
+    "complemento": "DP CHE 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 11157.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2020",
+    "documento": "271024",
+    "complemento": "SAQUE ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/10/2020",
+    "documento": "000136",
+    "complemento": "TAR SQ ATM",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/10/2020",
+    "documento": "906888",
+    "complemento": "EST DEP CH",
+    "credito": true,
+    "debito": false,
+    "valor": 396.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2020",
+    "documento": "000000",
+    "complemento": "DEP CH 24H",
+    "credito": false,
+    "debito": true,
+    "valor": 396.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2020",
+    "documento": "128601",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 3966.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2020",
+    "documento": "129203",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 679.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/10/2020",
+    "documento": "129265",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 104.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "470487",
+    "complemento": "PAG DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 2952.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "470749",
+    "complemento": "PAG DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 2657.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508368",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 868.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508383",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 275.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508386",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 2493.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508529",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 591.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508530",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1356.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "508556",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 35.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "509185",
+    "complemento": "PAG BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 271.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "301624",
+    "complemento": "ENVIO TEV",
+    "credito": true,
+    "debito": false,
+    "valor": 642.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/10/2020",
+    "documento": "900400",
+    "complemento": "CHEQ COMP",
+    "credito": true,
+    "debito": false,
+    "valor": 2077.0,
+    "origem": "Extrato"
+  }
+]

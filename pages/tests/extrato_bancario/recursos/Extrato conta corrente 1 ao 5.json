@@ -1,0 +1,4214 @@
+[
+  {
+    "data": "02/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - montparnasse",
+    "credito": true,
+    "debito": false,
+    "valor": 883.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - alfa  seguradora",
+    "credito": true,
+    "debito": false,
+    "valor": 96.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 140.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/01/2024",
+    "documento": "0",
+    "complemento": "PJ CONTA MEI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 287.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 433.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 287.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JOAO MARCELO BIANCHI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LUCIANE COUTINHO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - JOAO MARCELO BIANCHI",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 192.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 773.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - terra",
+    "credito": true,
+    "debito": false,
+    "valor": 65.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - jetmais",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - aquario",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - lavanderia",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 954.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - victa",
+    "credito": true,
+    "debito": false,
+    "valor": 412.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - FARMACIA N S DO CARM",
+    "credito": true,
+    "debito": false,
+    "valor": 1040.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - iptu",
+    "credito": true,
+    "debito": false,
+    "valor": 1011.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 578.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 291.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 576.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 291.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 916.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - oi",
+    "credito": true,
+    "debito": false,
+    "valor": 201.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - sos unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 182.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - seguros unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 4656.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - celesc rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 800.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Gustavo Hardt De Oli",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 288.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 633.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 4544.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 3969.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1170.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 829.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - tabajara",
+    "credito": true,
+    "debito": false,
+    "valor": 686.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 155.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 1718.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - simples",
+    "credito": true,
+    "debito": false,
+    "valor": 1337.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TITULO SIM - acm",
+    "credito": true,
+    "debito": false,
+    "valor": 1026.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GRASIELE ILELIA DOS",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Fernanda Berte Candi",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "CELESC",
+    "complemento": "DIS ARREC CONVENIO - 0000024541061",
+    "credito": true,
+    "debito": false,
+    "valor": 284.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - CANDICE DANIELE SOAR",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GUILHERME STAEDELE J",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - mdmed",
+    "credito": true,
+    "debito": false,
+    "valor": 790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 543.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - alfa seguradora",
+    "credito": true,
+    "debito": false,
+    "valor": 96.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - jardim da paz",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 88.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 1282.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "1199986",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 990.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "0",
+    "complemento": "PJ CONTA MEI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - BOTICA DERMAESTETICA",
+    "credito": true,
+    "debito": false,
+    "valor": 711.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 287.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LUCIANE COUTINHO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - FARMACIA N S DO CARM",
+    "credito": true,
+    "debito": false,
+    "valor": 1316.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 291.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 784.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 2300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROWER BAEHR",
+    "credito": true,
+    "debito": false,
+    "valor": 60.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FABIANE KOPPER",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 146.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - victa",
+    "credito": true,
+    "debito": false,
+    "valor": 412.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - jetmais",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - unimed seguros",
+    "credito": true,
+    "debito": false,
+    "valor": 4656.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 954.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - lavanderia",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - terra",
+    "credito": true,
+    "debito": false,
+    "valor": 111.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 338.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - hygie",
+    "credito": true,
+    "debito": false,
+    "valor": 330.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - papelaria",
+    "credito": true,
+    "debito": false,
+    "valor": 161.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 576.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - condominio rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 929.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 916.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - oswaldo cruz",
+    "credito": true,
+    "debito": false,
+    "valor": 1154.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - mdmed",
+    "credito": true,
+    "debito": false,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - aquario",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Gustavo Hardt De Oli",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 4892.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 4893.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CBS DISTRIBUIDORA LT",
+    "credito": true,
+    "debito": false,
+    "valor": 378.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GEIZA GALCZINSKI",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - c m hospitalar",
+    "credito": true,
+    "debito": false,
+    "valor": 515.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - fgts",
+    "credito": true,
+    "debito": false,
+    "valor": 388.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 829.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 291.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 585.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - celesc rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 680.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - sos unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 182.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - simples nacional",
+    "credito": true,
+    "debito": false,
+    "valor": 1503.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2180.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 292.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUCIANA PEREIRA",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 1140.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 916.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - oi",
+    "credito": true,
+    "debito": false,
+    "valor": 203.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ARMINDO BARBIERI",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 279.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "CELESC DIS",
+    "complemento": "ARREC CONVENIO - 0000024541061",
+    "credito": true,
+    "debito": false,
+    "valor": 750.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - RAMON DE TOFFOL 0272",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 390.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - CANDICE DANIELE SOAR",
+    "credito": false,
+    "debito": true,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CARMINE CONY CONEGAT",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/02/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CANDICE DANIELE SOAR",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 338.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 543.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - tabajara",
+    "credito": true,
+    "debito": false,
+    "valor": 836.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 578.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 993.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 1307.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "0",
+    "complemento": "JUROS CHEQ ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 142.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 770.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - alfa seguradora",
+    "credito": true,
+    "debito": false,
+    "valor": 96.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "0",
+    "complemento": "PJ CONTA MEI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "SALDO",
+    "complemento": "DEV IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 44.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - FARMACIA N S DO CARM",
+    "credito": true,
+    "debito": false,
+    "valor": 1472.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - LUCIANE COUTINHO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - c m hospitalar",
+    "credito": true,
+    "debito": false,
+    "valor": 515.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 433.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - fgts",
+    "credito": true,
+    "debito": false,
+    "valor": 321.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARIETA RAUH ZINNKE",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ISABEL HAVEROTH",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 297.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 361.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - victa",
+    "credito": true,
+    "debito": false,
+    "valor": 412.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 291.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - RAPMED D I E EIRELI",
+    "credito": true,
+    "debito": false,
+    "valor": 326.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "5729724098",
+    "complemento": "LIQ TIT - IB - lavanderia",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - IRIA TANQUELLA FELDH",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - FABIANA OBERTUER  DE",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - MARCIO HENRIQUE MEZA",
+    "credito": true,
+    "debito": false,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2024",
+    "documento": "1199986",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 1305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - rembrndt",
+    "credito": true,
+    "debito": false,
+    "valor": 1064.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - oswaldo cruz",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 974.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - jet mais",
+    "credito": true,
+    "debito": false,
+    "valor": 210.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - aquario",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - md med",
+    "credito": true,
+    "debito": false,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 829.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Gustavo Hardt De Oli",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "91847",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 626.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 6227.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/03/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 2977.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - INGRID HOSANG UBA",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ADOLF HOSANG",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - cw log",
+    "credito": true,
+    "debito": false,
+    "valor": 699.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - oi",
+    "credito": true,
+    "debito": false,
+    "valor": 201.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - simples nacional",
+    "credito": true,
+    "debito": false,
+    "valor": 1696.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUCIANA SIEBENEICHLE",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - Iraci Petra Correa d",
+    "credito": false,
+    "debito": true,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - sos unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 182.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - celesc rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 774.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 289.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2196.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 916.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 578.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - cbs",
+    "credito": true,
+    "debito": false,
+    "valor": 290.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "CRED",
+    "complemento": "DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 578.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MOACIR BATSCHAUER",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "CELESC DIS",
+    "complemento": "ARREC CONVENIO - 0000024541061",
+    "credito": true,
+    "debito": false,
+    "valor": 538.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 975.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - AIRTON ELIZEU BROCK",
+    "credito": true,
+    "debito": false,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 601.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 3103.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 1555.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "0",
+    "complemento": "JUROS CHEQ ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 267.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LABORAL SERVICE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - alfa seguradora",
+    "credito": true,
+    "debito": false,
+    "valor": 96.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 487.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 433.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - alvara prefeitura",
+    "credito": true,
+    "debito": false,
+    "valor": 243.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 117.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 543.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - tabajara",
+    "credito": true,
+    "debito": false,
+    "valor": 836.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 44.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "0",
+    "complemento": "PJ CONTA MEI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "SALDO DEV",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 27.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - GISELLE MAFRA SCHLOS",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 390.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - Marcus Serafim",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - LUCIANE COUTINHO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "Maria",
+    "complemento": "Eliz ENV TED IB/ATM - Maria Elizia Smaniot",
+    "credito": true,
+    "debito": false,
+    "valor": 138.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 687.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ELIS REGINA DUARTE",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - FARMACIA N S DO CARM",
+    "credito": true,
+    "debito": false,
+    "valor": 1550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 143.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ALANA JENIFFER KRUEG",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LABORAL SERVICE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - work reciclos",
+    "credito": true,
+    "debito": false,
+    "valor": 315.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 239.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - ROWER BAEHR",
+    "credito": true,
+    "debito": false,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 192.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 433.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 437.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - lavanderia",
+    "credito": true,
+    "debito": false,
+    "valor": 405.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 48.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 780.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 487.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 360.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 383.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0",
+    "complemento": "CREDITO SALARIO",
+    "credito": false,
+    "debito": true,
+    "valor": 578.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Gustavo Hardt De Oli",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - rembrant",
+    "credito": true,
+    "debito": false,
+    "valor": 877.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - mdmed",
+    "credito": true,
+    "debito": false,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - aquario",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 433.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - oswaldo cruz",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - jetmais",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 553.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 7573.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 4219.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - LUCIANO MARTINS",
+    "credito": true,
+    "debito": false,
+    "valor": 2320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - GRACIELA KRAUSS",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - CINTIA M PFIFFER MUN",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Elfi Wehmuth",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - PEDROSO TRANSPORTES",
+    "credito": false,
+    "debito": true,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - BOTICA DERMAESTETICA",
+    "credito": true,
+    "debito": false,
+    "valor": 174.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 763.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - sos unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 182.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "PGTO PIX",
+    "complemento": "DEBITO PAGAMENTO P - CAIXA ECONOMICA FEDE",
+    "credito": true,
+    "debito": false,
+    "valor": 287.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - oi",
+    "credito": true,
+    "debito": false,
+    "valor": 201.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - celesc rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 673.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2163.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 720.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - simples",
+    "credito": true,
+    "debito": false,
+    "valor": 1850.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MOACIR BATSCHAUER",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2024",
+    "documento": "Carmine Co",
+    "complemento": "ENV TED IB/ATM - Carmine Cony Conegat",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/04/2024",
+    "documento": "349394",
+    "complemento": "TED DEV STR",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 388.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "ENZO LUIZ",
+    "complemento": "ENV TED IB/ATM - ENZO LUIZ S CAMPANEL",
+    "credito": false,
+    "debito": false,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CARMINE CONY CONEGAT",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 250.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 675.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "ENZO LUIZ",
+    "complemento": "TARIFA TED IB/ATM PJ",
+    "credito": false,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - unimed seguros",
+    "credito": true,
+    "debito": false,
+    "valor": 4766.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "91847",
+    "complemento": "TRANSF ENTRE CONTAS",
+    "credito": false,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - unimed seguros",
+    "credito": true,
+    "debito": false,
+    "valor": 4814.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 505.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "CELESC",
+    "complemento": "DIS ARREC CONVENIO - 0000024541061",
+    "credito": true,
+    "debito": false,
+    "valor": 665.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - JENER ARMANDO SILVA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 360.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 536.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - tabajara",
+    "credito": true,
+    "debito": false,
+    "valor": 836.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 543.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 1441.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 2242.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 675.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "0",
+    "complemento": "PJ CONTA MEI",
+    "credito": true,
+    "debito": false,
+    "valor": 25.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "SALDO DEV",
+    "complemento": "IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 33.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - alfa  seguradora",
+    "credito": true,
+    "debito": false,
+    "valor": 96.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANTONIO CARLOS DELA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - AMADEUS FARIAS",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 215.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - FARMACIA N S DO CARM",
+    "credito": true,
+    "debito": false,
+    "valor": 2834.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - IRIA TANQUELLA FELDH",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1321.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - jns",
+    "credito": true,
+    "debito": false,
+    "valor": 634.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - cbs",
+    "credito": true,
+    "debito": false,
+    "valor": 310.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 731.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 675.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - LEONIDES DEMATHE",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "CRED",
+    "complemento": "PIX CRED RECEBIMENTO P - HELENA MARTINS BUZZI",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Israel Holetz",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - contabilidade",
+    "credito": true,
+    "debito": false,
+    "valor": 1014.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - lavanderia",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - jrtmais",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 250.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 675.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - LUCIMARA COLTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Marlene Coelho",
+    "credito": false,
+    "debito": true,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1647.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1398.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 163.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - victa",
+    "credito": true,
+    "debito": false,
+    "valor": 494.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 360.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 487.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 1483.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - fabinject",
+    "credito": true,
+    "debito": false,
+    "valor": 433.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 97.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - mdmed",
+    "credito": true,
+    "debito": false,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LUCIANE COUTINHO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - oswaldo cruz",
+    "credito": true,
+    "debito": false,
+    "valor": 1016.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - aquario",
+    "credito": true,
+    "debito": false,
+    "valor": 302.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - unimed seguros",
+    "credito": true,
+    "debito": false,
+    "valor": 4656.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "DEB",
+    "complemento": "PIX DEBITO TRANSF PIX - Gustavo Hardt De Oli",
+    "credito": true,
+    "debito": false,
+    "valor": 3530.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 882.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 5287.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/05/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D - UNIMED BLUMENAU - OP",
+    "credito": false,
+    "debito": true,
+    "valor": 4544.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CERTIFICADO DIGITAL",
+    "credito": true,
+    "debito": false,
+    "valor": 223.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - purificador de agua",
+    "credito": true,
+    "debito": false,
+    "valor": 293.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - Eliane Beta",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 505.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 669.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "PGTO",
+    "complemento": "PIX DEBITO PAGAMENTO P - CAIXA ECONOMICA FEDE",
+    "credito": true,
+    "debito": false,
+    "valor": 300.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - vivo",
+    "credito": true,
+    "debito": false,
+    "valor": 201.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - sos unimed",
+    "credito": true,
+    "debito": false,
+    "valor": 182.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2771.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "Convênio",
+    "complemento": "ARREC CONVENIO - darf",
+    "credito": true,
+    "debito": false,
+    "valor": 2162.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1010.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - SAYONARA DIAS MACHAD",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - TALITA PAMPLONA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 383.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 340.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - Diego mcnevin Tabord",
+    "credito": true,
+    "debito": false,
+    "valor": 130.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 1180.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 341.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - ROSA ALVES PICININI",
+    "credito": true,
+    "debito": false,
+    "valor": 660.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - LABORAL SERVICE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 58.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - MARINA BAUER",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - celesc rembrandt",
+    "credito": true,
+    "debito": false,
+    "valor": 491.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 720.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 675.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - RAFFAELO BOX LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "CRED PIX",
+    "complemento": "CRED RECEBIMENTO P - ANGELA APARECIDA LES",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 167.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - victalab",
+    "credito": true,
+    "debito": false,
+    "valor": 287.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 388.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 682.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 633.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "DEB PIX",
+    "complemento": "DEBITO TRANSF PIX - CINTIA SABRINA DA SI",
+    "credito": true,
+    "debito": false,
+    "valor": 520.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - asamed",
+    "credito": true,
+    "debito": false,
+    "valor": 353.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 337.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "DomCred",
+    "complemento": "CRED DOM - CREDITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 433.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - crm",
+    "credito": true,
+    "debito": false,
+    "valor": 543.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "0509864700",
+    "complemento": "LIQ TIT - IB - tabajara",
+    "credito": true,
+    "debito": false,
+    "valor": 836.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "DomDeb",
+    "complemento": "CRED DOM - DEBITO - C1Stone Pagamentos S",
+    "credito": false,
+    "debito": true,
+    "valor": 780.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D STR - UNIMED BLUMENAU   CO",
+    "credito": false,
+    "debito": true,
+    "valor": 5045.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "58082",
+    "complemento": "RECEB TED D STR - UNIMED BLUMENAU   CO",
+    "credito": false,
+    "debito": true,
+    "valor": 2564.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "0",
+    "complemento": "JUROS CHEQ ESPECIAL",
+    "credito": true,
+    "debito": false,
+    "valor": 371.63,
+    "origem": "Extrato"
+  }
+]

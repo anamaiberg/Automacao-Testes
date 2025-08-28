@@ -1,0 +1,146 @@
+[
+  {
+    "data": "04/04/2025",
+    "documento": "041519",
+    "complemento": "DEB PIX CHAVE",
+    "credito": true,
+    "debito": false,
+    "valor": 2095.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2025",
+    "documento": "041519",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 8.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2025",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMAT - CLIENTE",
+    "credito": false,
+    "debito": true,
+    "valor": 2103.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "202503",
+    "complemento": "MENSALIDADE CESTA SERVICO",
+    "credito": true,
+    "debito": false,
+    "valor": 125.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2025",
+    "documento": "151150",
+    "complemento": "PAGAMENTO TELEFONE IBC VIVO FIXO NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 359.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/04/2025",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMAT - CLIENTE",
+    "credito": false,
+    "debito": true,
+    "valor": 484.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "171400",
+    "complemento": "PAG ORGAOS GOV IBC",
+    "credito": true,
+    "debito": false,
+    "valor": 437.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "171401",
+    "complemento": "PIX ENVIADO CAIXA ECONOMICA FEDERAL",
+    "credito": true,
+    "debito": false,
+    "valor": 189.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2025",
+    "documento": "171403",
+    "complemento": "PAGAMENTO TELEFONE IBC VIVO PR",
+    "credito": true,
+    "debito": false,
+    "valor": 308.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2025",
+    "documento": "000000",
+    "complemento": "RESGATE AUTOMAT - CLIENTE",
+    "credito": false,
+    "debito": true,
+    "valor": 935.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301121",
+    "complemento": "CRED PIX CHAVE DEOCAR GILDENEI CARARA",
+    "credito": false,
+    "debito": true,
+    "valor": 2350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301121",
+    "complemento": "TAR PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 20.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301124",
+    "complemento": "PAG ORGAOS GOV IBC",
+    "credito": true,
+    "debito": false,
+    "valor": 759.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301125",
+    "complemento": "PAG ORGAOS GOV IBC",
+    "credito": true,
+    "debito": false,
+    "valor": 713.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301126",
+    "complemento": "PAG ORGAOS GOV IBC SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 421.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2025",
+    "documento": "301128",
+    "complemento": "PAG BOLETO IBC CONTABILIDADE SMART OFFICE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "data": "01/07/2024",
+    "documento": "71140727",
+    "complemento": "Pgto Copel COPEL_DEB AUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 467.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "NF 3339/03",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1156.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix FRANCISCO BARROS NT",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix RAFAEL FRANCISCO",
+    "credito": false,
+    "debito": true,
+    "valor": 1933.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 4104.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "BUENO CONT",
+    "complemento": "Liq. Eletrônica IB BUENO CONT",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 9150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX689249",
+    "complemento": "Débito Pix SUZELI DOS SANTOS PA",
+    "credito": true,
+    "debito": false,
+    "valor": 3080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX689249",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX508789",
+    "complemento": "Débito Pix FRANCIELE DO ROCIO S",
+    "credito": true,
+    "debito": false,
+    "valor": 3334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX508789",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "347",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "347",
+    "complemento": "Devol Chq - Mot. 48",
+    "credito": false,
+    "debito": true,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5753643",
+    "complemento": "Transf entre C/C GARLETTI & GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 215.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "000347",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "NF 5339/2",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "NET VIVO",
+    "complemento": "Liq. Documentos NET VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 93.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9062430",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "NF 3368/03",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 671.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "CEL VIVO",
+    "complemento": "Liq. Documentos CEL VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix RAFAEL FRANCISCO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9039233",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 13400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "PGTO INSS",
+    "complemento": "Débito Darf PGTO INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 883.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "VALE ALIM",
+    "complemento": "Liq. Eletrônica IB VALE ALIM",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "00360305",
+    "complemento": "Pagamento Pix CAIXA ECONOMICA",
+    "credito": true,
+    "debito": false,
+    "valor": 695.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "000348",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 811.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "DAS SIMPLE",
+    "complemento": "Débito DAS DAS SIMPLE",
+    "credito": true,
+    "debito": false,
+    "valor": 709.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "NF 17810/0",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "AtulCadas",
+    "complemento": "Tarifa Serviços",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C NORTHON ARRUDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "375268",
+    "complemento": "Transf entre C/C ENIO GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "ZERO RES",
+    "complemento": "N Liq. Eletrônica IB ZERO RES N",
+    "credito": true,
+    "debito": false,
+    "valor": 101.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "000349",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "XXX524699",
+    "complemento": "Crédito Pix MARISA SANTOS DE",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 3477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "ICELERA",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "XXX656491",
+    "complemento": "Crédito Pix LUIS ANTONIO CABRAL",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "346",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "DAS PARCSN",
+    "complemento": "Débito DAS DAS PARCSN",
+    "credito": true,
+    "debito": false,
+    "valor": 925.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "DARF PARC",
+    "complemento": "Débito Darf DARF PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 541.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "PGFN PARC",
+    "complemento": "Débito DAS PGFN PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 315.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "PGFN PARC",
+    "complemento": "Débito DAS PGFN PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 119.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 2334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix FRANCISCO BARROS NT",
+    "credito": false,
+    "debito": true,
+    "valor": 2334.0,
+    "origem": "Extrato"
+  }
+]

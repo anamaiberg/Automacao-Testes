@@ -1,0 +1,4061 @@
+[
+  {
+    "data": "02/01/2024",
+    "documento": "COPEL",
+    "complemento": "Pgto Copel COPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 791.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "SEGURANÇA",
+    "complemento": "Liq. Eletrônica IB SEGURANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "XXX531109",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "XXX531109",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1211.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/01/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 594210",
+    "credito": true,
+    "debito": false,
+    "valor": 2311.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/01/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DAS",
+    "complemento": "Débito DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 12984.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DARF N",
+    "complemento": "Débito Darf DARF N",
+    "credito": true,
+    "debito": false,
+    "valor": 443.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DARF N",
+    "complemento": "Débito Darf DARF N",
+    "credito": true,
+    "debito": false,
+    "valor": 443.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DAS",
+    "complemento": "Débito DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 114.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DAS",
+    "complemento": "Débito DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 114.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DAS",
+    "complemento": "Débito DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1934.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DARF N",
+    "complemento": "Débito Darf DARF N",
+    "credito": true,
+    "debito": false,
+    "valor": 1178.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/01/2024",
+    "documento": "DARF N",
+    "complemento": "Débito Darf DARF N",
+    "credito": true,
+    "debito": false,
+    "valor": 514.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX057029",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 404.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX057029",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX961679",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 354.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX961679",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX984499",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 306.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX984499",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX259989",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 314.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX259989",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX772759",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "4762002",
+    "complemento": "Crédito Transf C/C",
+    "credito": false,
+    "debito": true,
+    "valor": 1360.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "23927123",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/01/2024",
+    "documento": "XXX515358",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "VIVO FIXO",
+    "complemento": "Liq. Documentos VIVO FIXO",
+    "credito": true,
+    "debito": false,
+    "valor": 189.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "EMBRATEL",
+    "complemento": "Liq. Documentos EMBRATEL",
+    "credito": true,
+    "debito": false,
+    "valor": 72.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/01/2024",
+    "documento": "0000009062",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 1130.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "VIVO FIXO",
+    "complemento": "Liq. Documentos VIVO FIXO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 207.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "XXX151929",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/01/2024",
+    "documento": "XXX113039",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 294.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "XXX750749",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/01/2024",
+    "documento": "XXX480979",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 334.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 342.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "darf",
+    "complemento": "Débito Darf DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 2658.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "11524743",
+    "complemento": "Déb Pix entre ctas",
+    "credito": true,
+    "debito": false,
+    "valor": 154.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "11524743",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "XXX059389",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 80.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "XXX059389",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "XXX259989",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "XXX259989",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/01/2024",
+    "documento": "12842360",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "DAS",
+    "complemento": "Débito DAS DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 980.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "XXX567379",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "HONORÁRIOS",
+    "complemento": "Liq. Eletrônica IB HONORÁRIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "ICELERA",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "IMPRESSORA",
+    "complemento": "Liq. Eletrônica IB IMPRESSORA",
+    "credito": true,
+    "debito": false,
+    "valor": 440.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "XXX899299",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/01/2024",
+    "documento": "130006009",
+    "complemento": "Ted PARANA CLINICAS - PL",
+    "credito": false,
+    "debito": true,
+    "valor": 1146.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 334.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "ZERO RES",
+    "complemento": "Liq. Eletrônica IB ZERO RES",
+    "credito": true,
+    "debito": false,
+    "valor": 97.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 343.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "GPS",
+    "complemento": "Débito de GPS GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 592.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "GPS",
+    "complemento": "Débito de GPS GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 144.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/01/2024",
+    "documento": "34015337",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/01/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 225.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 343.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/01/2024",
+    "documento": "XXX311649",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 343.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/01/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 392.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX057029",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2002.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX057029",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1304.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX961679",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1219.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX961679",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1309.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1328.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX380159",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 895.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX380159",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX057029",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 460.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX057029",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 492.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX961679",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 410.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX961679",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 346.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 346.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 865.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/02/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/02/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 343.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "COPEL",
+    "complemento": "Pgto Copel COPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 458.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/02/2024",
+    "documento": "SEGURANÇA",
+    "complemento": "Liq. Eletrônica IB SEGURANÇA",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/02/2024",
+    "documento": "embratel",
+    "complemento": "Liq. Documentos EMBRATEL",
+    "credito": true,
+    "debito": false,
+    "valor": 28.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "VIVO FIXO",
+    "complemento": "Liq. Documentos VIVO FIXO",
+    "credito": true,
+    "debito": false,
+    "valor": 194.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "0000009062",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 595.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "XXX531109",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "XXX531109",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/02/2024",
+    "documento": "20403867",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "XXX963179",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 11000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 903.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "XXX259989",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603329",
+    "credito": true,
+    "debito": false,
+    "valor": 474.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603330",
+    "credito": true,
+    "debito": false,
+    "valor": 539.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603332",
+    "credito": true,
+    "debito": false,
+    "valor": 439.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603333",
+    "credito": true,
+    "debito": false,
+    "valor": 468.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603334",
+    "credito": true,
+    "debito": false,
+    "valor": 467.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603338",
+    "credito": true,
+    "debito": false,
+    "valor": 1161.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603339",
+    "credito": true,
+    "debito": false,
+    "valor": 475.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603340",
+    "credito": true,
+    "debito": false,
+    "valor": 503.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603341",
+    "credito": true,
+    "debito": false,
+    "valor": 427.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603342",
+    "credito": true,
+    "debito": false,
+    "valor": 488.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603343",
+    "credito": true,
+    "debito": false,
+    "valor": 542.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603344",
+    "credito": true,
+    "debito": false,
+    "valor": 1025.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603345",
+    "credito": true,
+    "debito": false,
+    "valor": 437.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603346",
+    "credito": true,
+    "debito": false,
+    "valor": 443.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603347",
+    "credito": true,
+    "debito": false,
+    "valor": 453.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603348",
+    "credito": true,
+    "debito": false,
+    "valor": 449.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603349",
+    "credito": true,
+    "debito": false,
+    "valor": 989.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603350",
+    "credito": true,
+    "debito": false,
+    "valor": 990.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603351",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603352",
+    "credito": true,
+    "debito": false,
+    "valor": 1099.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603353",
+    "credito": true,
+    "debito": false,
+    "valor": 996.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603354",
+    "credito": true,
+    "debito": false,
+    "valor": 892.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603355",
+    "credito": true,
+    "debito": false,
+    "valor": 861.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603356",
+    "credito": true,
+    "debito": false,
+    "valor": 862.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603357",
+    "credito": true,
+    "debito": false,
+    "valor": 853.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603358",
+    "credito": true,
+    "debito": false,
+    "valor": 857.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603359",
+    "credito": true,
+    "debito": false,
+    "valor": 880.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603360",
+    "credito": true,
+    "debito": false,
+    "valor": 1902.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603361",
+    "credito": true,
+    "debito": false,
+    "valor": 884.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603362",
+    "credito": true,
+    "debito": false,
+    "valor": 882.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603363",
+    "credito": true,
+    "debito": false,
+    "valor": 880.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603364",
+    "credito": true,
+    "debito": false,
+    "valor": 1636.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603365",
+    "credito": true,
+    "debito": false,
+    "valor": 871.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603366",
+    "credito": true,
+    "debito": false,
+    "valor": 666.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603367",
+    "credito": true,
+    "debito": false,
+    "valor": 524.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603368",
+    "credito": true,
+    "debito": false,
+    "valor": 783.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603369",
+    "credito": true,
+    "debito": false,
+    "valor": 832.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603370",
+    "credito": true,
+    "debito": false,
+    "valor": 536.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603371",
+    "credito": true,
+    "debito": false,
+    "valor": 573.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603372",
+    "credito": true,
+    "debito": false,
+    "valor": 464.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603376",
+    "credito": true,
+    "debito": false,
+    "valor": 559.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/02/2024",
+    "documento": "FGTS CAIXA",
+    "complemento": "Débito FGTS 603379",
+    "credito": true,
+    "debito": false,
+    "valor": 531.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/02/2024",
+    "documento": "VIVO FIXO",
+    "complemento": "Liq. Documentos VIVO FIXO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/02/2024",
+    "documento": "76717040",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/02/2024",
+    "documento": "0000009039",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "ICELERA",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/02/2024",
+    "documento": "CIRURGICA",
+    "complemento": "Liq. Eletrônica IB CIRURGICA",
+    "credito": true,
+    "debito": false,
+    "valor": 599.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 398.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "Impressora",
+    "complemento": "Liq. Eletrônica IB IMPRESSORA",
+    "credito": true,
+    "debito": false,
+    "valor": 880.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1007.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/02/2024",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "1",
+    "complemento": "Baixa de Capital",
+    "credito": false,
+    "debito": true,
+    "valor": 17000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/02/2024",
+    "documento": "TJ PR",
+    "complemento": "Liq. Eletrônica IB TJ PR",
+    "credito": true,
+    "debito": false,
+    "valor": 7661.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "XXX510799",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1341.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/02/2024",
+    "documento": "XXX510799",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "XXX380159",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1522.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "XXX380159",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 227.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/02/2024",
+    "documento": "XXX984499",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/03/2024",
+    "documento": "321",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "XXX303409",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 446.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "XXX303409",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "XXX057029",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 89.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/03/2024",
+    "documento": "XXX057029",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX963179",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX389839",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX389839",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX508789",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 3158.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX508789",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX546199",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 2108.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/03/2024",
+    "documento": "XXX546199",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/03/2024",
+    "documento": "75054940",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 1323.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "5753643",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/03/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/03/2024",
+    "documento": "PGTO NF",
+    "complemento": "Liq. Eletrônica IB PGTO NF",
+    "credito": true,
+    "debito": false,
+    "valor": 306.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/03/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 2800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/03/2024",
+    "documento": "Icelera",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 2800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/03/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 655.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/03/2024",
+    "documento": "0000009062",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 1795.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 305.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 344.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 896.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "00394460",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "DARF",
+    "complemento": "Débito Darf DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 598.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "DARF",
+    "complemento": "Débito Darf DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 523.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "DIV AT",
+    "complemento": "CON Débito Darf DIV AT CON",
+    "credito": true,
+    "debito": false,
+    "valor": 450.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "REC DIV",
+    "complemento": "AT Débito DAS REC DIV AT",
+    "credito": true,
+    "debito": false,
+    "valor": 116.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "REC DIV",
+    "complemento": "AT Débito DAS REC DIV AT",
+    "credito": true,
+    "debito": false,
+    "valor": 116.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "IPTU",
+    "complemento": "Déb Convênio IPTU",
+    "credito": true,
+    "debito": false,
+    "valor": 2412.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 1939.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "GPS",
+    "complemento": "Débito de GPS GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 602.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/03/2024",
+    "documento": "XXX240419",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/03/2024",
+    "documento": "ICELERA",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/03/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "000310",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/03/2024",
+    "documento": "000311",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2024",
+    "documento": "XXX620279",
+    "complemento": "Débito Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/03/2024",
+    "documento": "XXX620279",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 860.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "REC DIV",
+    "complemento": "AT Débito Darf REC DIV AT",
+    "credito": true,
+    "debito": false,
+    "valor": 450.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "REC",
+    "complemento": "Div at Débito DAS REC DIV AT",
+    "credito": true,
+    "debito": false,
+    "valor": 305.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/03/2024",
+    "documento": "Zero",
+    "complemento": "Resid Liq. Eletrônica IB ZERO RESID",
+    "credito": true,
+    "debito": false,
+    "valor": 99.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "copel 03/2",
+    "complemento": "Pgto Copel COPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 636.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "copel 04/2",
+    "complemento": "Pgto Copel COPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 476.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "vivo cel",
+    "complemento": "Liq. Documentos VIVO CEL",
+    "credito": true,
+    "debito": false,
+    "valor": 41.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "vivo net",
+    "complemento": "Liq. Documentos VIVO NET",
+    "credito": true,
+    "debito": false,
+    "valor": 189.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2024",
+    "documento": "322",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2024",
+    "documento": "XXX544689",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 477.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 637.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "000314",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 3399.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2024",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 3800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "XXX963179",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2024",
+    "documento": "000312",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 3329.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "375268",
+    "complemento": "Transf entre C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1620.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2024",
+    "documento": "313",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 2595.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2024",
+    "documento": "XXX318669",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "NF205343",
+    "complemento": "A Liq. Eletrônica IB NF205343 A",
+    "credito": true,
+    "debito": false,
+    "valor": 264.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "vivo",
+    "complemento": "Liq. Documentos VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 81.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2024",
+    "documento": "vivo cel",
+    "complemento": "Liq. Documentos VIVO CEL",
+    "credito": true,
+    "debito": false,
+    "valor": 41.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 860.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 883.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "DAS SIMPLE",
+    "complemento": "Débito DAS DAS SIMPLE",
+    "credito": true,
+    "debito": false,
+    "valor": 77.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "XXX861829",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "ICELERA EQ",
+    "complemento": "Liq. Eletrônica IB ICELERA EQ",
+    "credito": true,
+    "debito": false,
+    "valor": 1800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2024",
+    "documento": "NF 14343",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "Zero",
+    "complemento": "Resid Liq. Eletrônica IB ZERO RESID",
+    "credito": true,
+    "debito": false,
+    "valor": 97.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2024",
+    "documento": "000315",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2024",
+    "documento": "XXX727769",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 4900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "13538363",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2024",
+    "documento": "XXX908119",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2024",
+    "documento": "XXX074139",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "DARF",
+    "complemento": "Débito Darf DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 1205.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "DARF",
+    "complemento": "Débito Darf DARF",
+    "credito": true,
+    "debito": false,
+    "valor": 528.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "PGNF SISPA",
+    "complemento": "Débito Darf PGNF SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 453.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "SISPAR",
+    "complemento": "Débito DAS SISPAR",
+    "credito": true,
+    "debito": false,
+    "valor": 308.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "PGNF SISPA",
+    "complemento": "Débito DAS PGNF SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 117.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "75054940",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 627.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "GPS",
+    "complemento": "Débito de GPS GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 607.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/04/2024",
+    "documento": "ICELERA NF",
+    "complemento": "Liq. Eletrônica IB ICELERA NF",
+    "credito": true,
+    "debito": false,
+    "valor": 350.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "copel",
+    "complemento": "Pgto Copel COPEL",
+    "credito": true,
+    "debito": false,
+    "valor": 501.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "ICELERA NF",
+    "complemento": "Liq. Eletrônica IB ICELERA NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1156.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/05/2024",
+    "documento": "39508079",
+    "complemento": "Crédito Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/05/2024",
+    "documento": "380148",
+    "complemento": "Ted ASSOC ART EXCEP P GR",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 657.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "000317",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 3020.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/05/2024",
+    "documento": "000318",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 5310.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 734.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611840",
+    "credito": true,
+    "debito": false,
+    "valor": 357.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611828",
+    "credito": true,
+    "debito": false,
+    "valor": 327.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611844",
+    "credito": true,
+    "debito": false,
+    "valor": 224.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611835",
+    "credito": true,
+    "debito": false,
+    "valor": 201.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611838",
+    "credito": true,
+    "debito": false,
+    "valor": 200.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611833",
+    "credito": true,
+    "debito": false,
+    "valor": 199.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611837",
+    "credito": true,
+    "debito": false,
+    "valor": 197.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611834",
+    "credito": true,
+    "debito": false,
+    "valor": 194.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611831",
+    "credito": true,
+    "debito": false,
+    "valor": 194.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611832",
+    "credito": true,
+    "debito": false,
+    "valor": 192.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611843",
+    "credito": true,
+    "debito": false,
+    "valor": 188.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611830",
+    "credito": true,
+    "debito": false,
+    "valor": 186.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611839",
+    "credito": true,
+    "debito": false,
+    "valor": 183.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611825",
+    "credito": true,
+    "debito": false,
+    "valor": 166.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611842",
+    "credito": true,
+    "debito": false,
+    "valor": 158.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611836",
+    "credito": true,
+    "debito": false,
+    "valor": 156.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611829",
+    "credito": true,
+    "debito": false,
+    "valor": 155.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611826",
+    "credito": true,
+    "debito": false,
+    "valor": 153.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611827",
+    "credito": true,
+    "debito": false,
+    "valor": 152.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 611841",
+    "credito": true,
+    "debito": false,
+    "valor": 150.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "000316",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 2619.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/05/2024",
+    "documento": "1",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 3203.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 490.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/05/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 883.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/05/2024",
+    "documento": "000319",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 1060.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 702.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "ICELERA NF",
+    "complemento": "Liq. Eletrônica IB ICELERA NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/05/2024",
+    "documento": "Cert",
+    "complemento": "Digit Liq. Eletrônica IB SAFE2PAY INSTITUIC",
+    "credito": true,
+    "debito": false,
+    "valor": 197.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 477.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 637.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "ICELERA NF",
+    "complemento": "Liq. Eletrônica IB ICELERA NF",
+    "credito": true,
+    "debito": false,
+    "valor": 2180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "OSPEL IMPR",
+    "complemento": "Liq. Eletrônica IB OSPEL IMPR",
+    "credito": true,
+    "debito": false,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "9062430",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 1100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "VIVO NET",
+    "complemento": "Liq. Documentos VIVO NET",
+    "credito": true,
+    "debito": false,
+    "valor": 98.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "CEL VIVO",
+    "complemento": "Liq. Documentos CEL VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "DAS SIMPLE",
+    "complemento": "Débito DAS DAS SIMPLE",
+    "credito": true,
+    "debito": false,
+    "valor": 239.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "375268",
+    "complemento": "Transf entre C/C ENIO GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/05/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C NORTHON ARRUDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/05/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 13795.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/05/2024",
+    "documento": "000320",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 734.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 685.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "URBAN MONI",
+    "complemento": "Liq. Eletrônica IB URBAN MONI",
+    "credito": true,
+    "debito": false,
+    "valor": 960.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/05/2024",
+    "documento": "ICELERA NF",
+    "complemento": "Liq. Eletrônica IB ICELERA NF",
+    "credito": true,
+    "debito": false,
+    "valor": 333.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 716.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/05/2024",
+    "documento": "GPS",
+    "complemento": "Débito de GPS GPS",
+    "credito": true,
+    "debito": false,
+    "valor": 612.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 637.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "SIMPLES",
+    "complemento": "Débito DAS SIMPLES",
+    "credito": true,
+    "debito": false,
+    "valor": 911.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "SIMPLES",
+    "complemento": "Débito DAS SIMPLES",
+    "credito": true,
+    "debito": false,
+    "valor": 911.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "DARF REC",
+    "complemento": "Débito Darf DARF REC",
+    "credito": true,
+    "debito": false,
+    "valor": 607.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "DARF REC",
+    "complemento": "Débito Darf DARF REC",
+    "credito": true,
+    "debito": false,
+    "valor": 532.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "DARF REC",
+    "complemento": "Débito Darf DARF REC",
+    "credito": true,
+    "debito": false,
+    "valor": 457.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "SIMPLES",
+    "complemento": "Débito DAS SIMPLES",
+    "credito": true,
+    "debito": false,
+    "valor": 310.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "SIMPLES",
+    "complemento": "Débito DAS SIMPLES",
+    "credito": true,
+    "debito": false,
+    "valor": 117.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/05/2024",
+    "documento": "NF VITAE",
+    "complemento": "Liq. Eletrônica IB ELF ARTIGOS MEDICO",
+    "credito": true,
+    "debito": false,
+    "valor": 643.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "71140727",
+    "complemento": "Pgto Copel COPEL_DEB AUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 501.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "NF 3339",
+    "complemento": "IC Liq. Eletrônica IB NF  IC",
+    "credito": true,
+    "debito": false,
+    "valor": 1156.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/06/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 612738",
+    "credito": true,
+    "debito": false,
+    "valor": 328.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/06/2024",
+    "documento": "FGTS IB",
+    "complemento": "Débito FGTS 612741",
+    "credito": true,
+    "debito": false,
+    "valor": 357.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 244.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "CONT BUENO",
+    "complemento": "Liq. Eletrônica IB CONT BUENO",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "URBAN MONI",
+    "complemento": "Liq. Eletrônica IB URBAN MONI",
+    "credito": true,
+    "debito": false,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/06/2024",
+    "documento": "ZERO RED",
+    "complemento": "Liq. Eletrônica IB ZERO RESIDUOS",
+    "credito": true,
+    "debito": false,
+    "valor": 103.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/06/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "000342",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 4082.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "000341",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 3598.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/06/2024",
+    "documento": "XXX625309",
+    "complemento": "Crédito Pix ANGELA MARIA STROKA",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "75054940",
+    "complemento": "Crédito Pix FUNDACAO COPEL",
+    "credito": false,
+    "debito": true,
+    "valor": 1319.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/06/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/06/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 734.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "ABS COM",
+    "complemento": "EI Liq. Eletrônica IB ABS COM EI",
+    "credito": true,
+    "debito": false,
+    "valor": 406.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "VIVO NET",
+    "complemento": "Liq. Documentos VIVO NET",
+    "credito": true,
+    "debito": false,
+    "valor": 94.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2024",
+    "documento": "VIVO",
+    "complemento": "Liq. Documentos VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 42.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/06/2024",
+    "documento": "94458312",
+    "complemento": "Crédito Pix IRMAOS DALACORTE",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "GUIMARAES",
+    "complemento": "Liq. Eletrônica IB GUIMARAES",
+    "credito": true,
+    "debito": false,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "XXX607909",
+    "complemento": "Débito Pix ROBERT JONCZYK",
+    "credito": true,
+    "debito": false,
+    "valor": 155.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/06/2024",
+    "documento": "XXX607909",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 608.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/06/2024",
+    "documento": "9062430",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 3850.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2024",
+    "documento": "00360305",
+    "complemento": "Pagamento Pix CAIXA ECONOMICA",
+    "credito": true,
+    "debito": false,
+    "valor": 824.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "INSS 05 24",
+    "complemento": "Débito Darf INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 1360.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "DAS SIMPLE",
+    "complemento": "Débito DAS DAS SIMPLE",
+    "credito": true,
+    "debito": false,
+    "valor": 523.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "375268",
+    "complemento": "Transf entre C/C ENIO GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C NORTHON ARRUDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2024",
+    "documento": "V ALIM",
+    "complemento": "NUT Liq. Eletrônica IB V ALIM NUT",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 7500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/06/2024",
+    "documento": "ZERO RES",
+    "complemento": "Liq. Eletrônica IB ZERO RES",
+    "credito": true,
+    "debito": false,
+    "valor": 101.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "000345",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "XXX959959",
+    "complemento": "Débito Pix DIENE FATIMA DA SILV",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "XXX959959",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "XXX625789",
+    "complemento": "Débito Pix LUIZ ALBERTO KUBASKI",
+    "credito": true,
+    "debito": false,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "XXX625789",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/06/2024",
+    "documento": "XXX529968",
+    "complemento": "Crédito Pix OSVALDO DE SOUZA",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix FRANCISCO BARROS NT",
+    "credito": false,
+    "debito": true,
+    "valor": 1146.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "XXX529968",
+    "complemento": "Débito Pix OSVALDO DE SOUZA",
+    "credito": true,
+    "debito": false,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "XXX529968",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2024",
+    "documento": "000344",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 333.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/06/2024",
+    "documento": "NF 3432",
+    "complemento": "Liq. Eletrônica IB 26 SAUDE LTDA",
+    "credito": true,
+    "debito": false,
+    "valor": 458.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "DARF PARC",
+    "complemento": "Débito Darf DARF PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 1074.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "DAS PARC",
+    "complemento": "Débito DAS DAS PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 918.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "DAS PARC",
+    "complemento": "Débito DAS DAS PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 918.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "DARF PARC",
+    "complemento": "Débito Darf DARF PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 611.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito Darf PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 461.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito Darf PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 461.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito DAS PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 313.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito DAS PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 313.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito DAS PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 118.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "PGNG SISPA",
+    "complemento": "Débito DAS PGNG SISPA",
+    "credito": true,
+    "debito": false,
+    "valor": 118.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix RAFAEL FRANCISCO",
+    "credito": false,
+    "debito": true,
+    "valor": 1146.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2024",
+    "documento": "XXX963179",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 1146.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "71140727",
+    "complemento": "Pgto Copel COPEL_DEB AUTO",
+    "credito": true,
+    "debito": false,
+    "valor": 467.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "NF 3339/03",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1156.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix FRANCISCO BARROS NT",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix RAFAEL FRANCISCO",
+    "credito": false,
+    "debito": true,
+    "valor": 1933.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 4104.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "BUENO CONT",
+    "complemento": "Liq. Eletrônica IB BUENO CONT",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 9150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX689249",
+    "complemento": "Débito Pix SUZELI DOS SANTOS PA",
+    "credito": true,
+    "debito": false,
+    "valor": 3080.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX689249",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX508789",
+    "complemento": "Débito Pix FRANCIELE DO ROCIO S",
+    "credito": true,
+    "debito": false,
+    "valor": 3334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/07/2024",
+    "documento": "XXX508789",
+    "complemento": "Tar utilização PIX",
+    "credito": true,
+    "debito": false,
+    "valor": 1.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "347",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2024",
+    "documento": "347",
+    "complemento": "Devol Chq - Mot. 48",
+    "credito": false,
+    "debito": true,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2024",
+    "documento": "5753643",
+    "complemento": "Transf entre C/C GARLETTI & GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 215.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "000347",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 778.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2024",
+    "documento": "TARIFA",
+    "complemento": "Deb Tarifa Manut CC",
+    "credito": true,
+    "debito": false,
+    "valor": 38.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "NF 5339/2",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1180.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2024",
+    "documento": "NET VIVO",
+    "complemento": "Liq. Documentos NET VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 93.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2024",
+    "documento": "9062430",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 3200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 671.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "NF 3368/03",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1202.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "CEL VIVO",
+    "complemento": "Liq. Documentos CEL VIVO",
+    "credito": true,
+    "debito": false,
+    "valor": 41.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Crédito Pix RAFAEL FRANCISCO",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2024",
+    "documento": "9039233",
+    "complemento": "Ted BENEFICENCIA CAMILIA",
+    "credito": false,
+    "debito": true,
+    "valor": 550.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda MASTERCARD CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/07/2024",
+    "documento": "32",
+    "complemento": "Dep Dinheiro",
+    "credito": false,
+    "debito": true,
+    "valor": 13400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "PGTO INSS",
+    "complemento": "Débito Darf PGTO INSS",
+    "credito": true,
+    "debito": false,
+    "valor": 883.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 909.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "VALE ALIM",
+    "complemento": "Liq. Eletrônica IB VALE ALIM",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "00360305",
+    "complemento": "Pagamento Pix CAIXA ECONOMICA",
+    "credito": true,
+    "debito": false,
+    "valor": 695.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/07/2024",
+    "documento": "000348",
+    "complemento": "Cheque Pago",
+    "credito": true,
+    "debito": false,
+    "valor": 811.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Antecipação Venda VISA CRÉDITO",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "DAS SIMPLE",
+    "complemento": "Débito DAS DAS SIMPLE",
+    "credito": true,
+    "debito": false,
+    "valor": 709.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "NF 17810/0",
+    "complemento": "Liq. Eletrônica IB NF",
+    "credito": true,
+    "debito": false,
+    "valor": 1300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "AtulCadas",
+    "complemento": "Tarifa Serviços",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "378151",
+    "complemento": "Transf entre C/C NORTHON ARRUDA",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2024",
+    "documento": "375268",
+    "complemento": "Transf entre C/C ENIO GARLETTI",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito MAESTRO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "ZERO RES",
+    "complemento": "N Liq. Eletrônica IB ZERO RES N",
+    "credito": true,
+    "debito": false,
+    "valor": 101.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "000349",
+    "complemento": "Cheque Pago s/ numer",
+    "credito": true,
+    "debito": false,
+    "valor": 1558.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2024",
+    "documento": "XXX524699",
+    "complemento": "Crédito Pix MARISA SANTOS DE",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "NF ICELERA",
+    "complemento": "Liq. Eletrônica IB NF ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 3477.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/07/2024",
+    "documento": "ICELERA",
+    "complemento": "Liq. Eletrônica IB ICELERA",
+    "credito": true,
+    "debito": false,
+    "valor": 1311.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "XXX656491",
+    "complemento": "Crédito Pix LUIS ANTONIO CABRAL",
+    "credito": false,
+    "debito": true,
+    "valor": 750.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2024",
+    "documento": "346",
+    "complemento": "Cheque Compensado",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "Stone",
+    "complemento": "Paga Venda Débito VISA ELECTRON DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 736.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "DAS PARCSN",
+    "complemento": "Débito DAS DAS PARCSN",
+    "credito": true,
+    "debito": false,
+    "valor": 925.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "DARF PARC",
+    "complemento": "Débito Darf DARF PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 541.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "PGFN PARC",
+    "complemento": "Débito DAS PGFN PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 315.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "PGFN PARC",
+    "complemento": "Débito DAS PGFN PARC",
+    "credito": true,
+    "debito": false,
+    "valor": 119.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "XXX544689",
+    "complemento": "Cred Pix entre ctas",
+    "credito": false,
+    "debito": true,
+    "valor": 2334.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2024",
+    "documento": "XXX772759",
+    "complemento": "Crédito Pix FRANCISCO BARROS NT",
+    "credito": false,
+    "debito": true,
+    "valor": 2334.0,
+    "origem": "Extrato"
+  }
+]

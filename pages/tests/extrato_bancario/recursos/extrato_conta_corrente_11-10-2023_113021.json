@@ -1,0 +1,722 @@
+[
+  {
+    "data": "01/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 203.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "BAIXA BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 6.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 682.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 2.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 4897.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 2387.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 36.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 106.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.CAIXA",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "290444.004",
+    "complemento": "DEBITO PIX - DOCE NOVEMBRO COMERCIO DE",
+    "credito": true,
+    "debito": false,
+    "valor": 71.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "290542.126",
+    "complemento": "DEBITO PIX - Luana Rodrigues do Carmo",
+    "credito": true,
+    "debito": false,
+    "valor": 3930.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "290542.126",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "290544.088",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "290544.088",
+    "complemento": "DEBITO PIX - STEFANIE DANTARA DE OLIVEIRA",
+    "credito": true,
+    "debito": false,
+    "valor": 2933.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "10093.149",
+    "complemento": "PG.P/INTERNET - JORDAN CONTABIL",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "703.533.0",
+    "complemento": "TR.INTERNET - CARINA ZIMERMANN",
+    "credito": true,
+    "debito": false,
+    "valor": 1174.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 337.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 247.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 4.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 10.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "291082.045",
+    "complemento": "CREDITO PIX - RESTAURANTE E LANCHONETE WERLICH",
+    "credito": false,
+    "debito": true,
+    "valor": 134.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 264.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 437.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED. APOS CX",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 1334.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 535.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 6.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 34.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 284.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 346.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 8.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "295124.522",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "295124.522",
+    "complemento": "DEBITO PIX - ARISTIDES ALVES",
+    "credito": true,
+    "debito": false,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 319.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 366.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 3.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 8.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "33921.033",
+    "complemento": "CREDITO TED - MULTIONE FITNESS LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 162.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 4402.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 3780.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "1294.553",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 53.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 50.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 123.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 689.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 17.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "10135.422",
+    "complemento": "PG.P/INTERNET - SimplesNacional",
+    "credito": true,
+    "debito": false,
+    "valor": 2221.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "10135.528",
+    "complemento": "PG.P/INTERNET - InssProLabore",
+    "credito": true,
+    "debito": false,
+    "valor": 290.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "297466.175",
+    "complemento": "DEBITO PIX - ACUSTICA ORLANDI  INDUSTRIA",
+    "credito": true,
+    "debito": false,
+    "valor": 912.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "297466.175",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 1.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 3489.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 10.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 39.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "INST. BOLETO",
+    "credito": true,
+    "debito": false,
+    "valor": 1.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "298784.132",
+    "complemento": "CREDITO PIX - LABORAL MEDICINA DO TRABALHO LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1693.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "298915.135",
+    "complemento": "CREDITO PIX - LABORAL MEDICINA DO TRABALHO LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 494.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "92023075332",
+    "complemento": "PGT.FATURA CARTAO",
+    "credito": true,
+    "debito": false,
+    "valor": 2699.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 6.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 94.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "01010040002",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "10058.232",
+    "complemento": "PG.P/INTERNET - HTS SOLUCOES EM",
+    "credito": true,
+    "debito": false,
+    "valor": 240.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CE",
+    "credito": false,
+    "debito": true,
+    "valor": 112.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB. REG.",
+    "credito": true,
+    "debito": false,
+    "valor": 2.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 56.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "101.004",
+    "complemento": "CRED.COBR.CX",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "LIQ.COB.INTER",
+    "credito": true,
+    "debito": false,
+    "valor": 1.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "302088.475",
+    "complemento": "DEBITO PIX - EDUARDO MACANEIRO NETO",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "302088.475",
+    "complemento": "PIX TRANSF PAGADOR",
+    "credito": true,
+    "debito": false,
+    "valor": 0.5,
+    "origem": "Extrato"
+  }
+]

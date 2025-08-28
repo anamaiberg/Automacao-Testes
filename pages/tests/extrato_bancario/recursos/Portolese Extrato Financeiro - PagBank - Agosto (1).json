@@ -1,0 +1,425 @@
+[
+  {
+    "data": "05/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 1171.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 28.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 1171.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 1171.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 0.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 2.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 102.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 35.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 1.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 105.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 102.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 102.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 13.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 334.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 67.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 67.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 67.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 0.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 15.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 377.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 29.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 1.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 51.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 49.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 33.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 49.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 49.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 33.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 33.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 321.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 321.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 321.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": null,
+    "complemento": "Venda pela Moderninha",
+    "credito": false,
+    "debito": true,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/08/2024",
+    "documento": null,
+    "complemento": "Taxa de intermediação",
+    "credito": true,
+    "debito": false,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado",
+    "credito": true,
+    "debito": false,
+    "valor": 361.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": null,
+    "complemento": "Liberação de saldo em conta corrente",
+    "credito": true,
+    "debito": false,
+    "valor": 361.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/08/2024",
+    "documento": null,
+    "complemento": "Pagamento liberado.",
+    "credito": false,
+    "debito": true,
+    "valor": 361.96,
+    "origem": "Extrato"
+  }
+]

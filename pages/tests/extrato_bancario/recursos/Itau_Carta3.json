@@ -1,0 +1,1172 @@
+[
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 8.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "Parcela Giro    11/12",
+    "credito": true,
+    "debito": false,
+    "valor": 3737.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  01/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 2773.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 972.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.12429-7     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1079.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.12531-0/500",
+    "credito": true,
+    "debito": false,
+    "valor": 1618.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.13472-6     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1228.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "DOC Int 467280",
+    "credito": true,
+    "debito": false,
+    "valor": 3307.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "DOC Int 471839",
+    "credito": true,
+    "debito": false,
+    "valor": 1435.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "DOC Int 488115",
+    "credito": true,
+    "debito": false,
+    "valor": 1488.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "INT TED  477048",
+    "credito": true,
+    "debito": false,
+    "valor": 1923.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 2.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 3048.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  02/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Tar Conta Certa    06/20",
+    "credito": true,
+    "debito": false,
+    "valor": 187.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Tar Cta Certa Exced06/20",
+    "credito": true,
+    "debito": false,
+    "valor": 20.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 8344.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "",
+    "complemento": "INT TED  038125",
+    "credito": true,
+    "debito": false,
+    "valor": 650.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 8.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  03/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 1427.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 768.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.12429-7     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "Int FGTS-GRF 08266688000",
+    "credito": true,
+    "debito": false,
+    "valor": 1175.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "INT TED  582521",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 1395.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "Ch Compensado 001 000362",
+    "credito": true,
+    "debito": false,
+    "valor": 1950.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 38.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 638.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  07/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 8333.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 6983.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 8.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  08/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 1934.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 1925.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "INT Pag Tít 109019843879",
+    "credito": true,
+    "debito": false,
+    "valor": 223.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.12429-7     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 40.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 263.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "",
+    "complemento": "INT TED  340258",
+    "credito": true,
+    "debito": false,
+    "valor": 13887.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 22.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 13910.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Rshop-MATERIAL DE-001008",
+    "credito": true,
+    "debito": false,
+    "valor": 147.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 748",
+    "credito": true,
+    "debito": false,
+    "valor": 1111.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 748",
+    "credito": true,
+    "debito": false,
+    "valor": 6505.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Int CELESC DISTRIBUICA 0",
+    "credito": true,
+    "debito": false,
+    "valor": 147.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Int CELESC DISTRIBUICA 0",
+    "credito": true,
+    "debito": false,
+    "valor": 41.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Int CELESC DISTRIBUICA 0",
+    "credito": true,
+    "debito": false,
+    "valor": 1091.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 35.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 4855.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  13/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 11979.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 7755.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 22.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  14/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 8368.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 8346.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 001",
+    "credito": true,
+    "debito": false,
+    "valor": 242.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 085",
+    "credito": true,
+    "debito": false,
+    "valor": 597.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "TBI 8249.24321-6     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Int AGUAS DE BOMBINH 015",
+    "credito": true,
+    "debito": false,
+    "valor": 268.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Int AGUAS DE BOMBINH 015",
+    "credito": true,
+    "debito": false,
+    "valor": 74.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "INT TED  555418",
+    "credito": true,
+    "debito": false,
+    "valor": 332.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "INT TED  596708",
+    "credito": true,
+    "debito": false,
+    "valor": 166.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 22.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 2904.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Rshop-SERTTO SUPE-001008",
+    "credito": true,
+    "debito": false,
+    "valor": 71.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Rshop-SUPERMERCAD-001008",
+    "credito": true,
+    "debito": false,
+    "valor": 74.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 237",
+    "credito": true,
+    "debito": false,
+    "valor": 270.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Int TED 748260600278599",
+    "credito": true,
+    "debito": false,
+    "valor": 2200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 19.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  16/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 5542.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 2906.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 748",
+    "credito": true,
+    "debito": false,
+    "valor": 334.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Int BRASIL TELECOM-S 713",
+    "credito": true,
+    "debito": false,
+    "valor": 120.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Int VIVO-PR/SC 035503474",
+    "credito": true,
+    "debito": false,
+    "valor": 562.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 13.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  17/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 2908.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 1877.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Rshop-FORT ATACAD-001008",
+    "credito": true,
+    "debito": false,
+    "valor": 112.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Rshop-FORT ATACAD-001008",
+    "credito": true,
+    "debito": false,
+    "valor": 242.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 033",
+    "credito": true,
+    "debito": false,
+    "valor": 152.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 237",
+    "credito": true,
+    "debito": false,
+    "valor": 1044.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Int DARF082666880561",
+    "credito": true,
+    "debito": false,
+    "valor": 327.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Int GPS 66688000168",
+    "credito": true,
+    "debito": false,
+    "valor": 1636.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Ch Compensado 748 000363",
+    "credito": true,
+    "debito": false,
+    "valor": 370.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "CXE     000084 Dep Chq",
+    "credito": false,
+    "debito": true,
+    "valor": 475.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 717.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 2799.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 30.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  21/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 7825.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 7424.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  22/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 1771.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 2241.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "Ch Compensado 748 000364",
+    "credito": true,
+    "debito": false,
+    "valor": 2705.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 2.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "DOC 237.2353FLAVIO ALENC",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 2114.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  23/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 560.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 265.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 748",
+    "credito": true,
+    "debito": false,
+    "valor": 393.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "",
+    "complemento": "INT TED  049342",
+    "credito": true,
+    "debito": false,
+    "valor": 2289.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "",
+    "complemento": "INT TED  812886",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 3033.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 033",
+    "credito": true,
+    "debito": false,
+    "valor": 1526.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 15.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "TED 290.0000PAGSEGURO IN",
+    "credito": false,
+    "debito": true,
+    "valor": 3691.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 2149.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 16.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "DOC 237.0337EDUARDO JOSE",
+    "credito": false,
+    "debito": true,
+    "valor": 864.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  28/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 5175.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 5159.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "Int  PAG TIT BANCO 748",
+    "credito": true,
+    "debito": false,
+    "valor": 1175.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "TBI 1295.06241-6     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 1740.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "TBI 7799.12429-7     C/C",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "INT TED D   580959",
+    "credito": true,
+    "debito": false,
+    "valor": 15000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "INT TED  816732",
+    "credito": true,
+    "debito": false,
+    "valor": 515.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 2.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  29/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 1216.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "Res Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 16452.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/07/2020",
+    "documento": "",
+    "complemento": "Rend Pago Aplic Aut Mais",
+    "credito": false,
+    "debito": true,
+    "valor": 0.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  30/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 462.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 456.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "INT Pag Tít 109020451555",
+    "credito": true,
+    "debito": false,
+    "valor": 221.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "Tar/Custas Cobrança",
+    "credito": true,
+    "debito": false,
+    "valor": 13.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "Mov Tít Cob Disp  31/07S",
+    "credito": false,
+    "debito": true,
+    "valor": 3504.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/07/2020",
+    "documento": "",
+    "complemento": "Apl Aplic Aut Mais",
+    "credito": true,
+    "debito": false,
+    "valor": 3268.87,
+    "origem": "Extrato"
+  }
+]

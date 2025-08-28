@@ -1,0 +1,569 @@
+[
+  {
+    "data": "11/12/2024",
+    "documento": null,
+    "complemento": "Transf de conta poupanca para c/c De: 2463.60.005767-8",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": null,
+    "complemento": "Transf de conta poupanca para c/c De: 2463.60.005767-8",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/12/2024",
+    "documento": null,
+    "complemento": "Transferencia para poupanca Para: 2463.60.005767-8",
+    "credito": true,
+    "debito": false,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 2214.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": null,
+    "complemento": "Antecipacao getnet",
+    "credito": false,
+    "debito": true,
+    "valor": 1067.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 72.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 462.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "16/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 611.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 7773.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 8.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 3564.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 718.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 3482.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 6916.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 2743.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 1037.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 3136.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 8291.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 34.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 3972.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 1610.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 2675.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 9871.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 63.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 4762.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 3329.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 1715.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 48230.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Pix enviado Osni luiz morastoni",
+    "credito": true,
+    "debito": false,
+    "valor": 790.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 8.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 19825.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 4710.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 24474.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 27640.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-elo",
+    "credito": false,
+    "debito": true,
+    "valor": 70.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 186.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 2635.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 13214.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 49.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 11483.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 30767.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-elo",
+    "credito": false,
+    "debito": true,
+    "valor": 18.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-master",
+    "credito": false,
+    "debito": true,
+    "valor": 22.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 13.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 3223.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 11719.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 198.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 15571.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 16824.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 41.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 1471.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 6861.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 8449.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 39083.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 55.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 20039.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 14560.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "30/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 4427.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": null,
+    "complemento": "Aplicacao contamax",
+    "credito": true,
+    "debito": false,
+    "valor": 19261.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de credito Getnet-visa",
+    "credito": false,
+    "debito": true,
+    "valor": 85.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-visa electr",
+    "credito": false,
+    "debito": true,
+    "valor": 7950.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-maestro",
+    "credito": false,
+    "debito": true,
+    "valor": 9828.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "31/12/2024",
+    "documento": null,
+    "complemento": "Pagamento cartao de debito Getnet-elo debito",
+    "credito": false,
+    "debito": true,
+    "valor": 1397.59,
+    "origem": "Extrato"
+  }
+]

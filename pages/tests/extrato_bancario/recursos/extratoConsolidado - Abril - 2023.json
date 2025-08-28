@@ -1,0 +1,380 @@
+[
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 06520733954",
+    "credito": false,
+    "debito": true,
+    "valor": 705.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "000012",
+    "complemento": "PAGAMENTO FGTS-CANAIS INTERNET FGTS GRF CONVENI",
+    "credito": true,
+    "debito": false,
+    "valor": 99.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 39145566844",
+    "credito": false,
+    "debito": true,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 905.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS LC SALVADOR SERVICOS CONT",
+    "credito": true,
+    "debito": false,
+    "valor": 885.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MUNICIPIO DE BLUMENAU",
+    "credito": true,
+    "debito": false,
+    "valor": 442.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 97816094949",
+    "credito": false,
+    "debito": true,
+    "valor": 375.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 953.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS MARCO / 2023",
+    "credito": true,
+    "debito": false,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 82951310000156",
+    "credito": false,
+    "debito": true,
+    "valor": 5210.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 62951645953",
+    "credito": false,
+    "debito": true,
+    "valor": 320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 62951645953",
+    "credito": false,
+    "debito": true,
+    "valor": 480.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 6010.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 39809255870",
+    "credito": false,
+    "debito": true,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "483483",
+    "complemento": "PIX RECEBIDO - DIF TIT 76882612000117",
+    "credito": false,
+    "debito": true,
+    "valor": 562.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "485890",
+    "complemento": "PIX RECEBIDO - DIF TIT 82624776000147",
+    "credito": false,
+    "debito": true,
+    "valor": 35637.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "000025",
+    "complemento": "PGTO CONTA DE TELEFONE EM CANAIS INTERNET VIVO FIXO NACION",
+    "credito": true,
+    "debito": false,
+    "valor": 96.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS UNIFIQUE TELECOMUNICACOES",
+    "credito": true,
+    "debito": false,
+    "valor": 199.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "000038",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 680.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "434866",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 84785918934",
+    "credito": true,
+    "debito": false,
+    "valor": 42000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "",
+    "complemento": "RESGATE CONTAMAX AUTOMATICO",
+    "credito": false,
+    "debito": true,
+    "valor": 6776.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "574500",
+    "complemento": "PIX RECEBIDO DIF TIT 04142428900",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "210819",
+    "complemento": "PIX RECEBIDO DIF TIT 04142428900",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 680.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 21852555000131",
+    "credito": false,
+    "debito": true,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 800.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 05293023900",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 53938968915",
+    "credito": false,
+    "debito": true,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 135.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "PIX RECEBIDO 03537629702",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "000041",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 58.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "000005",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 268.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 03269695000108",
+    "credito": false,
+    "debito": true,
+    "valor": 7805.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "130166",
+    "complemento": "PIX RECEBIDO DIF TIT 93632215987",
+    "credito": false,
+    "debito": true,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 8158.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "003813",
+    "complemento": "PIX RECEBIDO - DIF TIT 82624776000147",
+    "credito": false,
+    "debito": true,
+    "valor": 16601.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "000048",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 7379.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "000008",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI",
+    "credito": true,
+    "debito": false,
+    "valor": 4026.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "",
+    "complemento": "APLICACAO CONTAMAX",
+    "credito": true,
+    "debito": false,
+    "valor": 5195.34,
+    "origem": "Extrato"
+  }
+]

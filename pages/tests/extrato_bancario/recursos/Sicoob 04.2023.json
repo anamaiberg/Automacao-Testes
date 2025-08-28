@@ -1,0 +1,1172 @@
+[
+  {
+    "data": "03/04/2023",
+    "documento": "831428173",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 156.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "3172",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: GUILHERME RIBEIRO SANT ANA 0670296 TRANSFERÊNCIA PIX GUILHERME RIBEIRO SANT ANA 06702964650 31.871.479 0001-65 03/04/2023 000.035 CHEQUE COMPE INTEGRADA 3.752,50D 03/04/2023 000.037 CHEQUE COMPE INTEGRADA 2.635,00D",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "2424744",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 346.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "2428045",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "IOF/3-4",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 0.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/04/2023",
+    "documento": "IOF/3-4",
+    "complemento": "DÉB.IOF",
+    "credito": true,
+    "debito": false,
+    "valor": 7.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "832701027",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON 04/04/2023 000.036 CHEQUE COMPE INTEGRADA 3.689,66D",
+    "credito": false,
+    "debito": true,
+    "valor": 12.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "2429517",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 937.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2023",
+    "documento": "2431866",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "833384970",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 81.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "833384969",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 4.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "833384971",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 175.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX WALLACE FABIANO ALVES ME 00.836.909 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 40972.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "52340730",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: GRAZIELE APARECIDA DOS SANTOS TRANSFERÊNCIA PIX WALLACE FABIANO ALVES 00.836.909 0001-84",
+    "credito": true,
+    "debito": false,
+    "valor": 522.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "56",
+    "complemento": "- 13 APLICAÇÃO RDC",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FABIO DONIZETTI DE OLIVEIRA MR 25.423.052 0001-00",
+    "credito": false,
+    "debito": true,
+    "valor": 508.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "2433503",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 352.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2023",
+    "documento": "2435761",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "834034783",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 126.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "833517649",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 50.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 41.896.069 0001-22 PAGTO SALARIO",
+    "credito": true,
+    "debito": false,
+    "valor": 17035.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FABIO JUNIOR DE SOUZA ***.306.186-**",
+    "credito": false,
+    "debito": true,
+    "valor": 6.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2023",
+    "documento": "834407302",
+    "complemento": "CR ANTECIPAÇÃO MASTERCARD YAPAY PAGAMENT_ANT._MASTERCARD 06/04/2023 000.038 CHEQUE COMPE INTEGRADA 4.684,83D",
+    "credito": false,
+    "debito": true,
+    "valor": 128.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "834925904",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 29.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "834925905",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 14.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "834188330",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 6.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "834282591",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 312.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "834282592",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 104.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "51 - 9",
+    "complemento": "RESGATE RDC 10/04/2023 000.039 CHEQUE COMPE INTEGRADA 1.932,33D 10/04/2023 000.040 CHEQUE COMPE INTEGRADA 2.121,25D",
+    "credito": false,
+    "debito": true,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "2442188",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 365.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/04/2023",
+    "documento": "2444706",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "52513866",
+    "complemento": "DÉB.TIT.COMPE EFETIVADO PAGTO BOLETO NF 434673A CARBOGRAFITE",
+    "credito": true,
+    "debito": false,
+    "valor": 3988.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "51 - 9",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 3500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DELTA FLORESTAL LTDA 11.042.654 0001-02",
+    "credito": false,
+    "debito": true,
+    "valor": 134.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "835690012",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 11.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "2444868",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 285.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": "2449203",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "836365879",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 6.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "836365878",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 40.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "835832193",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 228.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "51 - 9",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 2700.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX EMBARCACOES MEGA FISH LTDA 31.314.425 0001-07 COMPRA LUVA SOLDA",
+    "credito": false,
+    "debito": true,
+    "valor": 70.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "837089237",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 141.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "837089238",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 81.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "836521737",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 78.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX WEBER GIOVANI FERNANDES ***.382.796-**",
+    "credito": false,
+    "debito": true,
+    "valor": 39.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LUIZ F SILVA 53147413691 37.171.484 0001-41 13/04/2023 000.041 CHEQUE COMPE INTEGRADA 3.028,24D",
+    "credito": false,
+    "debito": true,
+    "valor": 7.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "837663377",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 177.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "837197784",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 73.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "837197783",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 37.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "837205259",
+    "complemento": "CR COMPRAS CRE OUTRASBANDEIRAS SIPAG_CRED._ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 77.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX FABIO JUNIOR DE SOUZA ***.306.186-**",
+    "credito": false,
+    "debito": true,
+    "valor": 5.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "52665802",
+    "complemento": "DÉBITO CONV. FGTS",
+    "credito": true,
+    "debito": false,
+    "valor": 440.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VITOR ANTONIO DA SILVA SOUZA ***.056.726-**",
+    "credito": false,
+    "debito": true,
+    "valor": 30.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX VITOR ANTONIO DA SILVA SOUZA ***.056.726-**",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "2458407",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1844.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2023",
+    "documento": "2459977",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LINCOLN CAMPOS DUARTE ***.325.146-**",
+    "credito": false,
+    "debito": true,
+    "valor": 25.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX THALITA MELO PEREIRA ***.943.731-**",
+    "credito": false,
+    "debito": true,
+    "valor": 75.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "51 - 9",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 500.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "41 - 10",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 7199.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "837949744",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 53.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "837949745",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 151.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "838595129",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 24.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "838595128",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 7.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "838595127",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 140.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 153.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 06.879.938 0001-00 PGT HIDROLAR 17/04/2023 000.044 CHEQUE PAGO CAIXA 1.616,83D",
+    "credito": true,
+    "debito": false,
+    "valor": 214.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "17/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX RAFAEL SANJULIAO DOS SANTOS ***.278.146-**",
+    "credito": false,
+    "debito": true,
+    "valor": 103.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "839317359",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 118.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "839317360",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 98.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARLLON HENRIQUE SILVA ARANTES ***.744.326-** 18/04/2023 000.042 CHEQUE COMPE INTEGRADA 4.586,09D",
+    "credito": false,
+    "debito": true,
+    "valor": 20.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "2464815",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 716.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": "2468504",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "839916068",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 29.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "839916067",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 88.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "839424707",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 215.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX LOGMA ENGENHARIA INDUSTRIAL LTDA 35.071.253 0001-30 LUVA E MANGOTE GALVANI",
+    "credito": false,
+    "debito": true,
+    "valor": 1485.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "52825777",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: RE CABECOTES SOLDAS LTDA TRANSFERÊNCIA PIX RE CABECOTES SOLDAS LTDA 24.262.419 0001-80 BLUSAO LUVA RASPA SOLDA",
+    "credito": false,
+    "debito": true,
+    "valor": 470.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "840184613",
+    "complemento": "CR ANTECIPAÇÃO MASTERCARD YAPAY PAGAMENT_ANT._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 119.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "3325",
+    "complemento": "CRED.TRANSF.CONTAS INTERCREDIS REM.: EPI  SAFETY  SEGURANCA  DO TRABAL TRANSFERÊNCIA PIX EPI SAFETY SEGURANCA DO TRABALHO LTDA 47.916.668 0001-47 19/04/2023 000.046 CHEQUE COMPE INTEGRADA 4.838,65D",
+    "credito": false,
+    "debito": true,
+    "valor": 1206.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "2470343",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1989.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2023",
+    "documento": "2472036",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "52834653",
+    "complemento": "DÉB.CONV.TRIBUTOS FEDERAIS - RFB PAGTO DAS",
+    "credito": true,
+    "debito": false,
+    "valor": 14076.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "840041574",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 4.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "840048109",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 68.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX CONSTRUTORA WM S LTDA ME 08.511.618 0001-28",
+    "credito": false,
+    "debito": true,
+    "valor": 491.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF - MESMA TIT. RECEBIMENTO PIX WALLACE FABIANO ALVES ME 00.836.909 0001-84",
+    "credito": false,
+    "debito": true,
+    "valor": 44340.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "52855953",
+    "complemento": "TRANSF.REALIZADA PIX SICOOB FAV.: IRMAOS MARTINS SERVICOS E COMERCIO TRANSFERÊNCIA PIX WALLACE FABIANO ALVES 00.836.909 0001-84 PGT CELULAR",
+    "credito": true,
+    "debito": false,
+    "valor": 420.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX EMITIDO OUTRA IF PAGAMENTO PIX 41.896.069 0001-22 VALE",
+    "credito": true,
+    "debito": false,
+    "valor": 2100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "41",
+    "complemento": "- 14 APLICAÇÃO RDC 20/04/2023 000.043 CHEQUE COMPE INTEGRADA 3.375,33D 20/04/2023 000.045 CHEQUE COMPE INTEGRADA 620,00D",
+    "credito": true,
+    "debito": false,
+    "valor": 24000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "2473926",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1455.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2023",
+    "documento": "2475925",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 2.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX WILLIAN AMARAL SILVA ***.868.986-**",
+    "credito": false,
+    "debito": true,
+    "valor": 13.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX WILLIAN AMARAL SILVA ***.868.986-**",
+    "credito": false,
+    "debito": true,
+    "valor": 15.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "841450194",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 34.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "841450193",
+    "complemento": "CR COMPRAS DEB OUTRASBANDEIRAS SIPAG_DEB._ELO DÉBITO",
+    "credito": false,
+    "debito": true,
+    "valor": 4.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "840804713",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 673.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "840804714",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 34.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "840821408",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 24.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX YAPAY PAGAMENTOS ONLINE LTDA 14.338.304 0001-78",
+    "credito": false,
+    "debito": true,
+    "valor": 495.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX MARLLON HENRIQUE SILVA ARANTES ***.744.326-** 24/04/2023 000.049 CHEQUE COMPE INTEGRADA 4.992,57D",
+    "credito": false,
+    "debito": true,
+    "valor": 644.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "2477233",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 2928.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": "2480417",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "842220674",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 100.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "842220673",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 37.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2023",
+    "documento": "52991761",
+    "complemento": "TRANSF.RECEBIDA - PIX SICOOB REM.: SOLUSOLDA E MECANICA ITAU LTDA TRANSFERÊNCIA PIX SOLUSOLDA E MECANICA ITAU LTDA 17.535.579 0001-90 MARF LUVAS 25/04/2023 000.047 CHEQUE COMPE INTEGRADA 3.253,24D",
+    "credito": false,
+    "debito": true,
+    "valor": 529.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "842926526",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 197.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "842378808",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 17.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "842387504",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 32.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "842378807",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 413.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "41 - 10",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 2120.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANDRE MACHADO SANTANA ***.523.818-**",
+    "credito": false,
+    "debito": true,
+    "valor": 93.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": "843148479",
+    "complemento": "CR ANTECIPAÇÃO MASTERCARD YAPAY PAGAMENT_ANT._MASTERCARD 26/04/2023 000.048 CHEQUE COMPE INTEGRADA 2.583,65D",
+    "credito": false,
+    "debito": true,
+    "valor": 119.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "843515600",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 19.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "41 - 10",
+    "complemento": "RESGATE RDC",
+    "credito": false,
+    "debito": true,
+    "valor": 6000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "53054170",
+    "complemento": "DÉB.TRANSF.CONTAS DIF.TIT.INTERCREDIS FAV.: EPI  SAFETY  SEGURANCA  DO TRABAL TRANSFERÊNCIA PIX WALLACE FABIANO ALVES 00.836.909 0001-84 DEVOLUCAO DEPOSITO 27/04/2023 000.050 CHEQUE COMPE INTEGRADA 3.508,00D 27/04/2023 000.051 CHEQUE COMPE INTEGRADA 1.875,25D 27/04/2023 000.053 CHEQUE COMPE INTEGRADA 3.915,58D",
+    "credito": true,
+    "debito": false,
+    "valor": 1206.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "2489664",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1229.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2023",
+    "documento": "2491305",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "843676774",
+    "complemento": "CR COMPRAS MASTERCARD SIPAG_CRED._MASTERCARD",
+    "credito": false,
+    "debito": true,
+    "valor": 43.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "843676776",
+    "complemento": "CR COMPRAS VISA SIPAG_CRED._VISA",
+    "credito": false,
+    "debito": true,
+    "valor": 175.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "843676775",
+    "complemento": "CR COMPRAS CRE OUTRASBANDEIRAS SIPAG_CRED._ELO",
+    "credito": false,
+    "debito": true,
+    "valor": 20.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "844276494",
+    "complemento": "CR COMPRAS MAESTRO SIPAG_DEB._MAESTRO",
+    "credito": false,
+    "debito": true,
+    "valor": 233.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "844276495",
+    "complemento": "CR COMPRAS VISA ELECTRON SIPAG_DEB._VISA ELECTRON",
+    "credito": false,
+    "debito": true,
+    "valor": 19.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX DELTA FLORESTAL LTDA 11.042.654 0001-02",
+    "credito": false,
+    "debito": true,
+    "valor": 720.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX ANTONIO SILVA AMORIM ***.332.566-**",
+    "credito": false,
+    "debito": true,
+    "valor": 100.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "Pix",
+    "complemento": "PIX RECEBIDO - OUTRA IF RECEBIMENTO PIX OURO SAFRA INDUSTRIA E COMERCI 07.191.228 0020-18 CENTRO     ITAU DE MINAS    37975 000MG 28/04/2023 000.052 CHEQUE COMPE INTEGRADA 2.009,98D",
+    "credito": false,
+    "debito": true,
+    "valor": 14.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "2493183",
+    "complemento": "CRÉD.LIQUIDAÇÃO COBRANÇA",
+    "credito": false,
+    "debito": true,
+    "valor": 1412.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "2495290",
+    "complemento": "TARIFA COBRANÇA",
+    "credito": true,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2023",
+    "documento": "LC-202303",
+    "complemento": "JUROS CONTA GARANTIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 14.51,
+    "origem": "Extrato"
+  }
+]

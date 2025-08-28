@@ -1,0 +1,7175 @@
+[
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 3288.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED",
+    "credito": true,
+    "debito": false,
+    "valor": 2000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 23780.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 903.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 506.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5294.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1474.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1514.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1187.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 498.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 2062.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 866.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Arr Treinam01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALESSANDRA 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 28.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANDERSON RI01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 37.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANDRE MARTI01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 201.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CLARISSE KN01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 35.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS DOCE SABOR01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 39.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDSON LUIS 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Frederico L01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 26.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA CR01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS GEFERSON OL01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS GELSA DE SO01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 166.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Lopes 01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LUCIANA SAN01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Maiara Nasa01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Merli Lisbe01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAQUEL DE P01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE01/04",
+    "credito": false,
+    "debito": true,
+    "valor": 403.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 3095.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 32866.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5107.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 16353.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 10711.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 122.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 147.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1690.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 908.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 2249.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 7771.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 3674.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Alvaro Kapl03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Ana Clara M02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Ana Clara M03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALAN GRUMIC03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.21,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALAN GRUMIC03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALDAIR JOSE BELL",
+    "credito": false,
+    "debito": true,
+    "valor": 61.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALISON JOSE04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 276.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA GERAL04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Caroline Ve03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 124.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CRISTIANE A04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 68.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDMAR BORGE03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 57.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ELIANA LARA04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ELISANGELA 03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ELISON CORR03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 118.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EMILI THAIS04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FARMAELY LT04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDO RO03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 124.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Giovane Mat02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS GABRIEL LOP02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 201.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Josiel Kreu03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 84.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JACKSON FER04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 34.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JHONATHAN M03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JHONATHAN M04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 52.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE DONIZE03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 109.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Karoline au04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Leonardo So02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Lucas Polic03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 75.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luciano Ton04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 65.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LUCILENE DE02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 80.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Michel de O03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 42.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MATEUS MACH02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Natan Gonca02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Natan Gonca02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 38.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS OTAVIO CRIS03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS OTAVIO CRIS03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS OTAVIO CRIS03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rafaeli Cri02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Renato Mano03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 71.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAFAEL WARM02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RENATO GERO02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Suzelei de 03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 37.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMUEL PAUL04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 63.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 71.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WAN SUSHI B02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 171.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WAN SUSHI B03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WILLIAN DA 03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF ANDREIA03/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF ROGER D02/04",
+    "credito": false,
+    "debito": true,
+    "valor": 187.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF SAMIA C04/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "TAR CONTA CERTA 03/22",
+    "credito": true,
+    "debito": false,
+    "valor": 305.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/04/2022",
+    "documento": "",
+    "complemento": "TAR PIX QR CODE LIQUIDA",
+    "credito": true,
+    "debito": false,
+    "valor": 107.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 280.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 952.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 27365.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 969.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2390.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2310.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 670.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 755.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 9026.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 6781.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 272.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 980.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 514.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Ana Lucia H05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 86.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CRISTIANE A05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 125.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Geovane da 05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jackson Jun05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 51.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS KELLY FERNA05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 49.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luciano Ton05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 42.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMUEL PAUL05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 21.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Tainara Apa05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS TALVANA AND05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 201.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WAN SUSHI B05/04",
+    "credito": false,
+    "debito": true,
+    "valor": 471.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG SALARIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 9940.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 20000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 886.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 14935.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 479.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 21548.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1212.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4053.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 3337.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 58.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 47.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1224.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 622.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 276.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 389.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 79.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Anderson Lu06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Andressa Mi06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA BERT06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cesar Claud06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 36.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINA C 06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 171.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Daniela Fer06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Francisco d06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 212.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDO JO06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 16.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JESSICA LIM06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 85.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE CARLOS06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 32.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE DONIZE06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIANE HAE06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Maria Crist06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 106.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nichele Can06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 37.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nichele Can06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAYANE G B 06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 23.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS THAYSE CRIS06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 85.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Nichele06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 220.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE06/04",
+    "credito": false,
+    "debito": true,
+    "valor": 81.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 7566.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1858.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 2659.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 7590.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 29188.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "TEC DEPOSITO DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 45000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1117.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2028.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1945.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 35.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 90.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 33.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1576.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1190.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 297.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 2001.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 1429.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adriane Fer07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 19.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CAMILA CALD07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Dieimis Suo07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Isa Ketlin 07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jessica Rib07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 32.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Joaquim Art07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOANA D S A07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 146.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luciano Ton07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 72.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Patrick De 07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 68.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ROSE HELENA07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 173.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 41.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS VITOR DOS R07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 82.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JUAN RA07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JULIANO07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 1150.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE07/04",
+    "credito": false,
+    "debito": true,
+    "valor": 93.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "07/04/2022",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 07/04S",
+    "credito": false,
+    "debito": true,
+    "valor": 348.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 2041.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4063.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 21973.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "SISPAG SUP MUNHOZ LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 6209.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 819.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4049.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2224.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 12.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 37.05,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1741.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1050.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 236.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 872.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 595.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adauto Alve08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 160.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Anderson Lo08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AINOR MANOE08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 136.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Dieimis Suo08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE DA SIL08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 157.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE DONIZE08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 35.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luana Karoe08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 63.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JUAN RA08/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5490.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITUL TED",
+    "credito": true,
+    "debito": false,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 25543.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 8083.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 26464.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 14904.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 334.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 65.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1536.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 988.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 676.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 1943.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 1066.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Admiziel An11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Alex Godoy 11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Anderson Lu09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ADALBERTO G10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AINOR MANOE09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 110.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AMABILLY GR09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 48.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANDERSON LU09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 73.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ARYSANDRO M09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 186.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CLEBER SOAR11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS DOUGLAS PEI09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDMAR BORGE10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 97.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDUARDO SOU09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ELISANGELA 10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EZEQUIEL DE10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Fabia Helen09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Fernando Kj11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 44.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA PE09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS GILSON BATI10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Ilcilene de10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 19.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jairo de So10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 36.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Joao Batist10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 19.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Josiane Hae10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Josmar Adao11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JHONATAN RO10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 68.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JHONATHAN M10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 69.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 26.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Mateus Henr11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 1.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Michel de O10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Mjm - Embal10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Morgana Apa09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER10/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rodrigo Gar09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 90.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Suzane Brag11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS VIVIANE APA11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WENDER COMI11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 110.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF LEONARD11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF MARCIO 09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF MESSIAS09/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE11/04",
+    "credito": false,
+    "debito": true,
+    "valor": 215.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG SALARIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 2612.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1429.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 13830.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 866.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4745.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1837.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 286.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 929.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 526.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 14073.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 7686.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 114.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cristiane A12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 60.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS De Jadiel P12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 52.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE ANTONI12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 58.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LUIS CARLOS12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 52.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nadir Teres12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Noemi Rebec12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 60.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RENATO DE O12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 57.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Simoni Russ12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF SAMIA C12/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1974.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 22843.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1143.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4285.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1604.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 82.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 135.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1922.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1404.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 54.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 78.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 46.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Altamir Bor13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 91.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Altamir Bor13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 206.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Ana Carolin13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos de j13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos De J13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos De J13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Diego Felip13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS DANIELA DE 13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Eulalia Han13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 46.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 26.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA PE13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luciano Ton13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 36.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LUIS CARLOS13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 48.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RONALDO ADR13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Valeria Mou13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF GEFERSO13/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 10838.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1808.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 28346.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 253.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 18830.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 189.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "TEC DEPOSITO DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 38000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1068.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4182.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2765.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 9.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2035.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1349.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 27.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 90.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 25.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adauto Alve14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 101.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Antonio Car14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 92.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cristiani A14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 48.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Giliard Fer14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 115.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luis Eduard14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Marlete Man14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS NUZIA KARLL14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Suzane Brag14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Osnilda14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF WILLIAN14/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 8578.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES TED",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 29492.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "DEV PIX THAYSE CRIS16/04",
+    "credito": true,
+    "debito": false,
+    "valor": 94.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "BUSINESS 0502-7103",
+    "credito": true,
+    "debito": false,
+    "valor": 20.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "SISPAG BIQ BENEFICIOS L",
+    "credito": false,
+    "debito": true,
+    "valor": 106.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 12179.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 34363.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 20924.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 34.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 82.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 68.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1953.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1517.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 22.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 214.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 283.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS julyene de 17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adauto Alve18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 303.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AGNALDO LOR16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 158.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AINOR MANOE15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 149.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Bruna Faria18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 28.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cristiane A18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDETE TA15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 212.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CLAUDIO NAT16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 57.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDMAR BORGE17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 156.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ELIZEU GERV17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 194.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ERICSON VIE15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ERIK POLLO 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 192.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FABIANA DO 16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 186.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FARMAELY LT18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FELIPE COST15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA CR18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA DA16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 63.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Geici Morga17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 109.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Itamar Guim15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 48.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS IGOR DA SIL17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JEAN MICHAE17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JHONATAN RO17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 78.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Kerolin Flo16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LAMARQUE SO17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LARISSA ALV18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Mateus Henr18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Milene Oliv15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARIA NURY 16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARISE TREN16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 366.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARISTELA A17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS NUZIA KARLL16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Otavio cris16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 35.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Raquel kauf18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rebeca Leti16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAPHAEL BOR18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAPHAEL ZEN15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 80.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAPHAEL ZEN16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 46.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 16.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS THAYSE CRIS16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 94.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS THAYSE CRIS16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 94.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS THAYSE CRIS16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Valeria Mou18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 38.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Vanessa Cor16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WENDEL PERE17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 40.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WENDER COMI16/04",
+    "credito": false,
+    "debito": true,
+    "valor": 541.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF DELCIAN17/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jhovann15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF LEANDRO18/04",
+    "credito": false,
+    "debito": true,
+    "valor": 38.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF WAN SUS15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 89.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Yohana 15/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4576.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 8294.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1119.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 3891.42,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1425.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 104.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1913.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 718.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 21485.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 14056.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 9.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 81.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 54.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS DOCE SABOR19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA DA19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JONATHAN JU19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Leandro Mel19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 54.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SCHEILA REG19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jose Ad19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Morgana19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Raquel 19/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG SALARIOS",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 14930.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 1745.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRIBUTOS",
+    "credito": true,
+    "debito": false,
+    "valor": 678.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 57.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 947.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 2428.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 345.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 24241.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 261.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "TEC DEPOSITO DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 49900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1126.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5172.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1703.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 159.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 61.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1642.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 732.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 79.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 7.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 79.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANDREA CARD20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 1.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AUANNY FERN20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS GISELE NEVE20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 32.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Itamar Guim20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ITAMAR FRAN20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jean Hidrau20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Juares Simm20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 37.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Juares Simm20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rafael Anne20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 25.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS THAYRLA BEA20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS VANESSA MEL20/04",
+    "credito": false,
+    "debito": true,
+    "valor": 21.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/04/2022",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 20/04S",
+    "credito": false,
+    "debito": true,
+    "valor": 372.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 4710.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 5087.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 545.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 51711.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 3054.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 14488.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 7838.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 332.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 243.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1834.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 675.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 43.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 933.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 145.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 368.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 64.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANDRE REINA22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.61,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Bruna Morga22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Bruna Morga22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CARLOS ALEX22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CRISTIANO L22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 38.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Daniel neis21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS DIONES F PA22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 63.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ERIK POLLO 21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 523.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Fernanda Lu22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDO BA21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 247.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 16.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JANAINA MAC21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 57.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS KATIANE DE 21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LARISSA ALV21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 37.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 33.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARIA CAROL21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 55.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARISTELA A22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 26.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MAURICIUS T22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 13.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS NUZIA KARLL22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Panificador22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 363.33,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Panificador22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 199.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rodrigo Mon22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 34.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 59.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SCHEILA REG21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SCHEILA REG21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SIONE MARIA22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SUZANE BRAG21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS TALVANA AND22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 152.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Vanessa Per22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 48.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ZAQUEU SALO21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF IGOR DA21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JULIANA22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JULIANO21/04",
+    "credito": false,
+    "debito": true,
+    "valor": 1241.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Leandro22/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 14494.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 41712.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "BUSINESS 4004-0346",
+    "credito": true,
+    "debito": false,
+    "valor": 6259.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 6780.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 26255.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 14547.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 88.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1016.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 204.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 6927.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4164.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT AMEX CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 93.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 80.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT HIPE CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 13.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 2549.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 121.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 2614.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 127.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adauto Alve25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 346.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Adauto Alve25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Aline Mauri23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ADRIANO DA 24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 196.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ADRIANO DA 24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ALAN GRUMIC24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carina Arau24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos de j24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 19.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos de j24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carmina Da 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Celma Costa23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 90.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Celma Costa25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 28.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cristiane A23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 96.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Cristiane A24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 203.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS CAROLINA C 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 150.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Daiane Cris24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 64.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Douglas Raf23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 30.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Elice Dara 25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Eulalia Han25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 70.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 40.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FARMAELY LT25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FARMAELY LT25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 164.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA FR25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 56.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Itamar Guim23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Itamar Guim24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Itamar Guim24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS IVONE DO CA23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 89.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jurandir Vi23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 53.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 39.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LEANDRO JOS24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LENILSO SCH24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Maico Luiz 23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARIA ELISA25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 1.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MIKAEL NIKO23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nelson Alex23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 54.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Pamela Nata25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 34.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Robson Thia23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 116.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 512.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ROBSON DANI25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 126.25,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMIA CRIST23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SERGIO BECK24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 10.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Valeria Mou24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Wender Comi25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 321.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WAN RESTAUR23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 56.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ZILDA GERVA25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 81.83,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF BENTO D25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 8.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF GUILLER25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JANAINA24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 44.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF JOBERTO24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 160.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF KELLY F25/04",
+    "credito": false,
+    "debito": true,
+    "valor": 38.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF LEANDRO23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 60.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF SIRLEI 24/04",
+    "credito": false,
+    "debito": true,
+    "valor": 62.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF VALDECI23/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2229.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1629.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 21728.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 687.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5156.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2158.24,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 89.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1175.39,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 38.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 12024.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 8872.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 123.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 67.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT HIPE CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 85.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 1475.49,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 134.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 1445.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 61.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Alex Veiga26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.79,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AGNALDO LOR26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 34.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS BRUNA GERAL26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 2.55,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Guilherme F26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 12.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.02,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSIMAR LUC26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS KEOMO NERVI26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 41.3,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MESSIAS FER26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rafael Wisn26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 40.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS REGIANE PYL26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 15.75,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF ERIKA P26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.92,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE26/04",
+    "credito": false,
+    "debito": true,
+    "valor": 629.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 2867.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 1262.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 3304.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 23427.51,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "TEC DEPOSITO DINHEIRO",
+    "credito": false,
+    "debito": true,
+    "valor": 40000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1028.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 4743.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2512.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 45.93,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 69.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2746.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1265.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 46.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT HIPE CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 56.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 467.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 69.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 378.73,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 44.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS AMANDA BORG27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.82,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ARLI WOLFAR27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 79.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos de j27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Caroline Du27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 36.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE CARLOS27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Maiara Nasa27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.77,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nichele Can27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Nichele Can27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 32.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS PATRICIA WE27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 80.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RAPHAEL ZEN27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.91,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS RONALDO MIG27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 26.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Victor Berl27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ZAQUEU SALO27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 14.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF MESSIAS27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Nichele27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 20.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF REGIANE27/04",
+    "credito": false,
+    "debito": true,
+    "valor": 132.01,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/04/2022",
+    "documento": "",
+    "complemento": "MOV TIT COB DISP 27/04S",
+    "credito": false,
+    "debito": true,
+    "valor": 1243.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 7968.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 21824.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "ITAU SEG VIDA GLOB",
+    "credito": true,
+    "debito": false,
+    "valor": 408.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 889.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5139.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 3559.88,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE AM 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 122.09,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 68.71,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 211.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2190.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1531.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 989.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 103.26,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 320.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 109.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Eulalia Han28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 95.22,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA DA28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA PE28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.62,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JANAINA DOS28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 31.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Maria Ivone28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MARIA NURY 28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 41.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS MICHELLE GU28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 5.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Stephanie d28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 3.35,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Suzane Brag28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.19,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Tiago Gonca28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Wellington 28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 40.53,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF Jairo d28/04",
+    "credito": false,
+    "debito": true,
+    "valor": 22.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "SISPAG TRANSF TITULARID",
+    "credito": true,
+    "debito": false,
+    "valor": 4478.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 11633.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "SISPAG FORNECEDORES",
+    "credito": true,
+    "debito": false,
+    "valor": 21923.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "SISPAG SUP MUNHOZ LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 4655.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE ELO DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1554.69,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE MAST DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 5978.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE VISA DB082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1982.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE EL 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 29.96,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE HC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 55.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE MC 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 2042.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REDE VS 082760101",
+    "credito": false,
+    "debito": true,
+    "valor": 1344.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "GRANIT ELO DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 43.29,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 511.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "GRANIT MAST DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 123.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA CD0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 779.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "GRANIT VISA DB0000000001",
+    "credito": false,
+    "debito": true,
+    "valor": 14.81,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Andreia Din29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 27.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ADRIANA TON29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 16.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ANTONIO CARLOS S",
+    "credito": false,
+    "debito": true,
+    "valor": 68.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Carlos Eman29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 18.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Divonir Ant29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 51.74,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EDS C I G C29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 347.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS EVERTON DA 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 17.56,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Francielle 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 41.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FELIPE LEOD29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 23.98,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS FERNANDA CR29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Guilherme R29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 7.38,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Gustavo Ema29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 24.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Jose Adrian29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 4.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS JOSE DONIZE29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 50.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Luana Karoe29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 43.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS LUCAS MATHE29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 652.34,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Rene Barros29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS ROSALU R B 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 11.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS SAMARA NASC29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 42.18,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS Valeria Mou29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 29.68,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS VALMIR AJAR29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 57.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX QRS WATSON HIUR29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 9.03,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF ADAUTO 29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 107.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "PIX TRANSF ALDEVIO29/04",
+    "credito": false,
+    "debito": true,
+    "valor": 917.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/04/2022",
+    "documento": "",
+    "complemento": "REND PAGO APLIC AUT MAIS",
+    "credito": false,
+    "debito": true,
+    "valor": 0.37,
+    "origem": "Extrato"
+  }
+]

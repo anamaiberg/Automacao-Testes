@@ -1,0 +1,164 @@
+[
+  {
+    "data": "01/08/2023",
+    "documento": "2023",
+    "complemento": "TARIFA MENSALIDADE PACOTE SERVICOS JULHO /  000000",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "81782080910",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR  341546",
+    "credito": true,
+    "debito": false,
+    "valor": 2349.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET TRIBUTOS FEDERAI   24.403,90",
+    "credito": true,
+    "debito": false,
+    "valor": 818.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "ITAJAI",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS MUNICIPIO DE  000000",
+    "credito": true,
+    "debito": false,
+    "valor": 107.04,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/08/2023",
+    "documento": "",
+    "complemento": "PAGAMENTO DARF EM CANAIS INTERNET SIMPLES NACIONAL   20.026,99",
+    "credito": true,
+    "debito": false,
+    "valor": 4269.87,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "81782080910",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR  292787",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "03/08/2023",
+    "documento": "184912",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 81782080910   16.026,99",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "81782080910",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR  201313",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "09/08/2023",
+    "documento": "262294",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 81782080910   14.026,99",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "81782080910",
+    "complemento": "TRANSFERENCIA ENTRE CONTAS  405667",
+    "credito": false,
+    "debito": true,
+    "valor": 39199.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "CONTABILIDADE",
+    "complemento": "PAGAMENTO DE BOLETO OUTROS BANCOS EFFICIENTIA  000000",
+    "credito": true,
+    "debito": false,
+    "valor": 1320.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "10/08/2023",
+    "documento": "584371",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 81782080910   27.906,16",
+    "credito": true,
+    "debito": false,
+    "valor": 24000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 03788529000100   32.906,16",
+    "credito": false,
+    "debito": true,
+    "valor": 5000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/08/2023",
+    "documento": "",
+    "complemento": "TED RECEBIDA 03788529000100   85.617,62",
+    "credito": false,
+    "debito": true,
+    "valor": 52711.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "112.363.709-10",
+    "complemento": "TED ENVIADA  000000",
+    "credito": true,
+    "debito": false,
+    "valor": 5116.37,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/08/2023",
+    "documento": "2026",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 81782080910   30.501,25",
+    "credito": true,
+    "debito": false,
+    "valor": 50000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "25/08/2023",
+    "complemento": "TARIFA TED  000000",
+    "credito": true,
+    "debito": false,
+    "valor": 12.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/08/2023",
+    "documento": "555170",
+    "complemento": "TRANSF VALOR P/ CONTA DIF TITULAR 81782080910   27.489,25",
+    "credito": true,
+    "debito": false,
+    "valor": 3000.0,
+    "origem": "Extrato"
+  }
+]

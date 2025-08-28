@@ -1,0 +1,110 @@
+[
+  {
+    "data": "11/04/2023",
+    "documento": null,
+    "complemento": "DOUGLAS JOSE DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 9500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/04/2023",
+    "documento": null,
+    "complemento": "Supermercados Archer SA Loja 8 Recebimento de pagamento por boleto Informações Comprovante Código Autenticação fcfc1199-0009-45ac-9eb6-bf84eda4f73e Stone Instituição Pagamento S.A. 16.501.555/0001-57",
+    "credito": false,
+    "debito": true,
+    "valor": 9520.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/04/2023",
+    "documento": null,
+    "complemento": "LOOK PLANNING LTDA Pix",
+    "credito": false,
+    "debito": true,
+    "valor": 741.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/04/2023",
+    "documento": null,
+    "complemento": "DOUGLAS JOSE DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 760.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": null,
+    "complemento": "DOUGLAS JOSE DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/04/2023",
+    "documento": null,
+    "complemento": "Bari Veículos Ltda Recebimento de pagamento por boleto",
+    "credito": false,
+    "debito": true,
+    "valor": 400.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": null,
+    "complemento": "PANIFICADORA E CONFEITARIA PAO LAR LTDA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 7.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": null,
+    "complemento": "INSTITUICAO COMUNITARIA DE CREDITO BLUMENAU Pagamento",
+    "credito": true,
+    "debito": false,
+    "valor": 2022.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": null,
+    "complemento": "JULIANA SIMAS DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 7200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "24/04/2023",
+    "documento": null,
+    "complemento": "Supermercados Archer SA Loja 8 Recebimento de pagamento por boleto",
+    "credito": false,
+    "debito": true,
+    "valor": 9591.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": null,
+    "complemento": "DOUGLAS JOSE DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 264.07,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/04/2023",
+    "documento": null,
+    "complemento": "DOUGLAS JOSE DE SOUZA Pix",
+    "credito": true,
+    "debito": false,
+    "valor": 100.0,
+    "origem": "Extrato"
+  }
+]

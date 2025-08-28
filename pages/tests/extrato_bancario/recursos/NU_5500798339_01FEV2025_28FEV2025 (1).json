@@ -1,0 +1,47 @@
+[
+  {
+    "data": "07/02/2025",
+    "documento": "",
+    "complemento": "EXTREME DIGITAL EXPERIENCE LTDA - 50.948.297 /0001-90 - ITAÚ UNIBANCO S.A. (0341) Agência: 8219 Conta: 42907-6",
+    "credito": false,
+    "debito": true,
+    "valor": 18000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "",
+    "complemento": "RECEITA FED-DARF NUM",
+    "credito": true,
+    "debito": false,
+    "valor": 1019.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "",
+    "complemento": "JD CONTABILIDADE",
+    "credito": true,
+    "debito": false,
+    "valor": 357.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/02/2025",
+    "documento": "",
+    "complemento": "Elaine Vaz - •••.812.549-•• - NU PAGAMENTOS - IP (0260) Agência: 1 Conta: 7276309-7",
+    "credito": true,
+    "debito": false,
+    "valor": 10000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/02/2025",
+    "documento": "",
+    "complemento": "DAS-SIMPLES NACIONAL",
+    "credito": true,
+    "debito": false,
+    "valor": 1080.0,
+    "origem": "Extrato"
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "Iof adicional - automatico",
+    "credito": true,
+    "debito": false,
+    "valor": 25.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "",
+    "complemento": "Iof imposto operacoes financeiras",
+    "credito": true,
+    "debito": false,
+    "valor": 7.65,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "30151",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/09/2023",
+    "documento": "67625",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 196.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 628.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 189.7,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 253.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "63209",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "38269",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 378.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "38270",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 1903.72,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "776029",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 688.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "04/09/2023",
+    "documento": "180671",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "133045",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 1500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 1242.99,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "100201",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 2462.66,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "973461",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 88.47,
+    "origem": "Extrato"
+  },
+  {
+    "data": "05/09/2023",
+    "documento": "",
+    "complemento": "Debito autom empresas conveniadas",
+    "credito": true,
+    "debito": false,
+    "valor": 99.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "465623",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "164027",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 300.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "06/09/2023",
+    "documento": "91329",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 563.28,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "73252",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 600.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "331128",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 84.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "08/09/2023",
+    "documento": "",
+    "complemento": "Tarifa mensalidade pacote servicos",
+    "credito": true,
+    "debito": false,
+    "valor": 150.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "291523",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "540919",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 200.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto",
+    "credito": true,
+    "debito": false,
+    "valor": 845.13,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 107.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 1455.58,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 2432.48,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "275410",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 250.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto",
+    "credito": true,
+    "debito": false,
+    "valor": 190.14,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 11.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "885288",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 2109.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "885289",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 95.4,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "885287",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 3257.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "594677",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 612.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "594676",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 491.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "11/09/2023",
+    "documento": "10484",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 1000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "975529",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 262.86,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/09/2023",
+    "documento": "905046",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 145.8,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 450.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto",
+    "credito": true,
+    "debito": false,
+    "valor": 368.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/09/2023",
+    "documento": "434030",
+    "complemento": "Mensalidade de seguro",
+    "credito": true,
+    "debito": false,
+    "valor": 8.63,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "914638",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 219.95,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "855120",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 688.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "14/09/2023",
+    "documento": "479039",
+    "complemento": "Mensalidade de seguro",
+    "credito": true,
+    "debito": false,
+    "valor": 325.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 103.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 867.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/09/2023",
+    "documento": "855824",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 1272.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "737906",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 132.36,
+    "origem": "Extrato"
+  },
+  {
+    "data": "18/09/2023",
+    "documento": "162167",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "440640",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/09/2023",
+    "documento": "788327",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 466.1,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 179.31,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/09/2023",
+    "documento": "",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 1586.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "671972",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 152.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/09/2023",
+    "documento": "625144",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 176.94,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "629496",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 378.16,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "629497",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 192.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "485459",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 491.5,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 180.64,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 345.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "22/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 515.52,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "42268",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 450.97,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 1157.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "507392",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 894.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "284943",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 147.45,
+    "origem": "Extrato"
+  },
+  {
+    "data": "25/09/2023",
+    "documento": "373599",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 350.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "",
+    "complemento": "Conta de agua e esgoto em canais",
+    "credito": true,
+    "debito": false,
+    "valor": 216.11,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/09/2023",
+    "documento": "571938",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 779.2,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "73746",
+    "complemento": "Pix enviado",
+    "credito": true,
+    "debito": false,
+    "valor": 500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "Pagamento de boleto outros bancos",
+    "credito": true,
+    "debito": false,
+    "valor": 560.89,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "528428",
+    "complemento": "Antecipacao credenciadora",
+    "credito": false,
+    "debito": true,
+    "valor": 48.15,
+    "origem": "Extrato"
+  },
+  {
+    "data": "27/09/2023",
+    "documento": "",
+    "complemento": "Tarifa extrato inteligente",
+    "credito": true,
+    "debito": false,
+    "valor": 16.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "",
+    "complemento": "Juros saldo utiliz ate limite",
+    "credito": true,
+    "debito": false,
+    "valor": 1045.08,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/09/2023",
+    "documento": "826",
+    "complemento": "Compensacao interna de cheque",
+    "credito": true,
+    "debito": false,
+    "valor": 221.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "",
+    "complemento": "Iof adicional - automatico",
+    "credito": true,
+    "debito": false,
+    "valor": 33.23,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "",
+    "complemento": "Iof imposto operacoes financeiras",
+    "credito": true,
+    "debito": false,
+    "valor": 8.59,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "",
+    "complemento": "Debito aut. fat.cartao master card",
+    "credito": true,
+    "debito": false,
+    "valor": 85.12,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "192465",
+    "complemento": "Pix recebido - dif tit",
+    "credito": false,
+    "debito": true,
+    "valor": 900.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "24055",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 77.76,
+    "origem": "Extrato"
+  },
+  {
+    "data": "02/10/2023",
+    "documento": "24054",
+    "complemento": "Pagamento cartao de debito",
+    "credito": false,
+    "debito": true,
+    "valor": 137.62,
+    "origem": "Extrato"
+  }
+]

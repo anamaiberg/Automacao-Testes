@@ -1,0 +1,236 @@
+[
+  {
+    "data": "01/06/2023",
+    "documento": "99999999323",
+    "complemento": "IOF S/ C-C",
+    "credito": true,
+    "debito": false,
+    "valor": 10.46,
+    "origem": "Extrato"
+  },
+  {
+    "data": "01/06/2023",
+    "documento": "99999999938",
+    "complemento": "JUROS LIM.CRD",
+    "credito": true,
+    "debito": false,
+    "valor": 5.27,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "02209070647",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 658.43,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "33313.571",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1373.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "12/06/2023",
+    "documento": "22090120635",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 1373.6,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "33259.801",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 30.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "13/06/2023",
+    "documento": "22090120643",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 30.17,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "34",
+    "complemento": "PG. PARC. EMP 010/048",
+    "credito": true,
+    "debito": false,
+    "valor": 20992.9,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "33257.082",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 260.57,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "34246.237",
+    "complemento": "CREDITO TED - QUINTA N - V F LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 21000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "15/06/2023",
+    "documento": "22090170659",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 267.67,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "33227.621",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 349.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "19/06/2023",
+    "documento": "22090120638",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 349.44,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "18",
+    "complemento": "PG. PARC. EMP 015/060",
+    "credito": true,
+    "debito": false,
+    "valor": 3100.78,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "19",
+    "complemento": "PG. PARC. FIN 015/118",
+    "credito": true,
+    "debito": false,
+    "valor": 28066.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "20/06/2023",
+    "documento": "33286.878",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 1730.85,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "33231.516",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 21559.32,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "33902.760",
+    "complemento": "CREDITO TED - QUINTA N - V F LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 8000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "21/06/2023",
+    "documento": "22090170601",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 122.54,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "257270.619",
+    "complemento": "CREDITO PIX - QUINTA N - V F LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 9000.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "23/06/2023",
+    "documento": "22090170639",
+    "complemento": "DB. COTAS",
+    "credito": true,
+    "debito": false,
+    "valor": 813.84,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "23",
+    "complemento": "PG. PARC. EMP 008/036",
+    "credito": true,
+    "debito": false,
+    "valor": 7995.06,
+    "origem": "Extrato"
+  },
+  {
+    "data": "26/06/2023",
+    "documento": "33269.089",
+    "complemento": "CREDITO TED - PAGSEGURO INTERNET LTDA",
+    "credito": false,
+    "debito": true,
+    "valor": 222.41,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "77542.583",
+    "complemento": "DEB. TED - QUINTA DA NEVE",
+    "credito": true,
+    "debito": false,
+    "valor": 43500.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "28/06/2023",
+    "documento": "77542.583",
+    "complemento": "TEDELETRONICO",
+    "credito": true,
+    "debito": false,
+    "valor": 6.0,
+    "origem": "Extrato"
+  },
+  {
+    "data": "29/06/2023",
+    "documento": "5673.342",
+    "complemento": "CREDITO TED - QUINTA N - V F LTDA ME",
+    "credito": false,
+    "debito": true,
+    "valor": 44000.0,
+    "origem": "Extrato"
+  }
+]
